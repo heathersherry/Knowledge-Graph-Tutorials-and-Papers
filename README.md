@@ -1,4 +1,4 @@
-Useful Papers and Slides(as per Topic)
+Useful Papers and Slides(as per topic)
 ======
 
 Knowledge Base Refinement
@@ -6,7 +6,7 @@ Knowledge Base Refinement
 1. 
 
 Entity Extraction and Entity Typing
-1. 
+1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014]
 
 Relation Extraction 
 ----
@@ -15,7 +15,7 @@ Relation Extraction
 
 
 
-Tutorials and Summary of Papers/Research Topics from Talented People
+Tutorials and Notes from Talented People
 =====
 1. https://kgtutorial.github.io An introduction to knowledge graph and knowledge extraction from unstructured text.
 2. https://github.com/impillar/knowledge_graph/blob/master/README.md 
