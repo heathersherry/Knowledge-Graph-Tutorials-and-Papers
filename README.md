@@ -4,7 +4,7 @@ Useful Papers and Slides(as per topic)
 Knowledge Base Construction
 ---
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
-
+2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
 
 
 Entity Extraction and Entity Typing
@@ -42,9 +42,14 @@ OpenIE Tools:
 
 OpenIE Triple Clustering:
 1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation
-2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] Code: https://github.com/malllabiisc/cesi
-3. Canonicalizing Open Knowledge Bases [CIKM 2014]
-4. Towards Practical Open Knowledge Base Canonicalization [CIKM 2018]
+2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] Code: https://github.com/malllabiisc/cesi triple
+3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
+4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
+5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] relation
+6. Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
+7. Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
+8. Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
+
 
 
 Graph Embedding and Learning
