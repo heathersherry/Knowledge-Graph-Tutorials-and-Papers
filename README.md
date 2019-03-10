@@ -54,7 +54,7 @@ OpenIE Triple Clustering:
 
 Graph Embedding and Learning
 ----
-1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014)
+1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] Code: https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2
 
 Knowledge Base Refinement
 ----
