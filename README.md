@@ -35,12 +35,15 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 
 Open Information Extraction 
 -----
+Sides, Tutorials and Surveys
+1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
+2. A Survey on Open Information Extraction {[Paper](http://aclweb.org/anthology/C18-1326)}
+3. Open Information Extraction on Scientific Text: An Evaluation {[Paper](http://aclweb.org/anthology/C18-1289)}
+
 OpenIE Tools:
-1. A Survey on Open Information Extraction http://aclweb.org/anthology/C18-1326
-2. Open Information Extraction on Scientific Text: An Evaluation http://aclweb.org/anthology/C18-1289
-3. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
-4. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
-5. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
+1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
+2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
+3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
 
 
 
