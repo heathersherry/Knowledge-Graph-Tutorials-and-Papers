@@ -24,6 +24,7 @@ Tutorial:
 1. A SURVEY ON RELATION EXTRACTION (CMU) http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf; 
 2. Relation Extraction: CSE 517: Natural Language Processing https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf; 
 3. Relation Extraction II: CSE 517: Natural Language Processing https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf
+4. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations [Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)
 
 Papers:
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
@@ -37,8 +38,8 @@ OpenIE Tools:
 1. A Survey on Open Information Extraction http://aclweb.org/anthology/C18-1326
 2. Open Information Extraction on Scientific Text: An Evaluation http://aclweb.org/anthology/C18-1289
 3. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
-4. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] Code: https://github.com/rgemulla/minie (java)
-5. Facts that Matter [SALIE, EMNLP 2018] Code: https://github.com/mponza/SalIE
+4. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code] (https://github.com/rgemulla/minie) (java)
+5. Facts that Matter [SALIE, EMNLP 2018] [Code] (https://github.com/mponza/SalIE)
 
 
 
@@ -56,8 +57,8 @@ OpenIE Triple Clustering:
 
 Graph Embedding and Learning
 ----
-1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] Code: https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2
-2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] Code: https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026
+1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
+2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
 
 Knowledge Base Refinement
 ----
