@@ -21,15 +21,14 @@ Entity Extraction and Entity Typing
 Relation Extraction 
 ----
 Tutorial:
-1. A SURVEY ON RELATION EXTRACTION (CMU) http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf; 
-2. Relation Extraction: CSE 517: Natural Language Processing https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf; 
-3. Relation Extraction II: CSE 517: Natural Language Processing https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf
-4. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations [Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/){[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)}
+1. A SURVEY ON RELATION EXTRACTION (CMU) {[Paper](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)}
+2. Relation Extraction: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)}
+3. Relation Extraction II: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)}
 
 Papers:
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
 https://blog.csdn.net/hqc888688/article/details/73559365
-2. 
+2. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations {[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)}{[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)}
 
 
 Open Information Extraction 
