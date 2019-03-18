@@ -78,6 +78,8 @@ About Knowledge Graphs
 3. https://github.com/BrambleXu/knowledge-graph-learning
 4. https://github.com/Pelhans/Z_knowledge_graph
 5. https://zhuanlan.zhihu.com/p/44904796
+6. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
+
 
 Others
 ---
