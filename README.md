@@ -71,8 +71,15 @@ Knowledge Base Refinement
 
 Tutorials and Notes from Talented People
 =====
+About Knowledge Graphs
+---
 1. https://kgtutorial.github.io An introduction to knowledge graph and knowledge extraction from unstructured text.
 2. https://github.com/impillar/knowledge_graph/blob/master/README.md 
 3. https://github.com/BrambleXu/knowledge-graph-learning
 4. https://github.com/Pelhans/Z_knowledge_graph
 5. https://zhuanlan.zhihu.com/p/44904796
+
+Others
+---
+1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing {[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)}
+2. Introduction to Conditional Random Fields {[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)}
