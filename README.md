@@ -29,7 +29,7 @@ Papers:
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
 https://blog.csdn.net/hqc888688/article/details/73559365
 2. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations {[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)}{[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)} 
-* Recently, researchers have developed multi- instance learning algorithms to combat the noisy training data that can come from heuristic labeling, but their models assume relations are disjoint . for example they cannot extract the pair Founded(Jobs, Apple) and CEO-of(Jobs, Apple). This paper presents a novel approach for multi-instance learning with overlapping relations that combines a sentence-level extraction model with a simple, corpus-level component for aggregating the individual facts. 
+> * Recently, researchers have developed multi- instance learning algorithms to combat the noisy training data that can come from heuristic labeling, but their models assume relations are disjoint . for example they cannot extract the pair Founded(Jobs, Apple) and CEO-of(Jobs, Apple). This paper presents a novel approach for multi-instance learning with overlapping relations that combines a sentence-level extraction model with a simple, corpus-level component for aggregating the individual facts. 
 3. [g]Modeling missing data in distant supervision for information extraction [ACL2013] missing data problem(?)
 
 
