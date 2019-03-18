@@ -5,7 +5,7 @@ Knowledge Base Construction
 ---
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
-3. [g]DeepDive  https://slideplayer.com/slide/14894493/ http://deepdive.stanford.edu/ Incremental Knowledge Base Construction Using DeepDive [VLDB 2015]
+3. [g]DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] https://slideplayer.com/slide/14894493/ http://deepdive.stanford.edu/
 
 
 
@@ -42,9 +42,16 @@ Sides, Tutorials and Surveys
 
 OpenIE Tools:
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
-> * Incoherent Extractions * Uninformative Extractions
+> * Incoherent Extractions 
+> * Uninformative Extractions
 2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
 3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
+4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]                  
+> * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
+> * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
+> * To Avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
+
+
 
 
 
@@ -54,9 +61,13 @@ OpenIE Triple Clustering:
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
 4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
 5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] relation
-6. Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
-7. Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
-8. Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
+6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
+7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
+8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
+9. Open Information Extraction to KBBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
+> * Main idea: relation phrases mapping to KB otology
+> * Manually define a set of rules for each relation, to conduct the mapping
+> * The motivation and error analysis are well written.
 
 
 
