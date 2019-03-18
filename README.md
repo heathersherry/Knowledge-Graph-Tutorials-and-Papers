@@ -38,14 +38,14 @@ OpenIE Tools:
 1. A Survey on Open Information Extraction http://aclweb.org/anthology/C18-1326
 2. Open Information Extraction on Scientific Text: An Evaluation http://aclweb.org/anthology/C18-1289
 3. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
-4. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code] (https://github.com/rgemulla/minie) (java)
-5. Facts that Matter [SALIE, EMNLP 2018] [Code] (https://github.com/mponza/SalIE)
+4. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
+5. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
 
 
 
 OpenIE Triple Clustering:
 1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation
-2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] Code: https://github.com/malllabiisc/cesi triple
+2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
 4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
 5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] relation
