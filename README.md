@@ -42,6 +42,8 @@ Sides, Tutorials and Surveys
 
 OpenIE Tools:
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
+> * Incoherent Extractions
+  * Uninformative Extractions
 2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
 3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
 
