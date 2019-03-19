@@ -50,7 +50,7 @@ OpenIE Tools:
 2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
 > * Represent information about polarity, modality, attribution and quantities with semantic annotations (instead of actual extraction)
 > * idetify and remove parts that are considered over specific
-3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
+3. Facts that Matter [SALIE, EMNLP 2018] {[Code](https://github.com/mponza/SalIE)}
 > * Extract salient facts, which fulfill two requirements: (1) relevance and (2) diversity
 4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)}                  
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
