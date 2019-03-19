@@ -64,15 +64,17 @@ OpenIE Triple Clustering:
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
 4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
 5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] relation
-6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
-7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
-8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
+> * Mophological Normalization
 9. Open Information Extraction to KBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
 > * Main idea: relation phrases mapping to KB otology
 > * Manually define a set of rules for each relation, to conduct the mapping
 > * The motivation and error analysis are well written.
+10. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
+> * Relation Clustering: Two relation phrases tend to have similar cluster membershipd, if they have similar (1) strings; (2) context words; and (3) left and right argument type indicators
 
-
+6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
+7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
+8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
 Graph Embedding and Learning
 ----
