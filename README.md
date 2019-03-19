@@ -1,11 +1,12 @@
 Useful Papers and Slides(as per topic)
 ======
 
-Knowledge Base Construction
+Knowledge Base Construction (Demo or System)
 ---
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
-3. [g]DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] https://slideplayer.com/slide/14894493/ http://deepdive.stanford.edu/
+3. DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] {[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)} {[Slides](https://slideplayer.com/slide/14894493/)}{[Project link] (http://deepdive.stanford.edu/)}
+> * Distant Supervision; Build a fator graph containing both relation phrases and features.
 
 
 
@@ -15,6 +16,8 @@ Entity Extraction and Entity Typing
 2. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] (Also Relation Clustering) croase-grained entity typing
 3. Label Noise Reduction in Entity Typingby Heterogeneous Partial-Label Embedding [PLE, KDD 2016] fine-grained entity typing
 4. AFET: Automatic Fine-Grained Entity Typing byHierarchical Partial-Label Embedding [AFET, EMNLP 2016] fine-grained entity typing
+5. A survey of named entity recoginition and classification {[Paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)}
+6. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities [EMNLP-CoNLL 2012]{[Paper](https://aclweb.org/anthology/D12-1082)}
 
 
 
