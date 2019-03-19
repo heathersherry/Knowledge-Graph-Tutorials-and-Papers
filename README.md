@@ -46,6 +46,7 @@ OpenIE Tools:
 > * Uninformative Extractions
 2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
 3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
+> * Extract salient facts, which fulfill two requirements: (1)relevance and (2)diversity
 4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]                  
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
@@ -64,7 +65,7 @@ OpenIE Triple Clustering:
 6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
 7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
-9. Open Information Extraction to KBBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
+9. Open Information Extraction to KBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
 > * Main idea: relation phrases mapping to KB otology
 > * Manually define a set of rules for each relation, to conduct the mapping
 > * The motivation and error analysis are well written.
