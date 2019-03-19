@@ -52,12 +52,10 @@ OpenIE Tools:
 > * idetify and remove parts that are considered over specific
 3. Facts that Matter [SALIE, EMNLP 2018] [Code](https://github.com/mponza/SalIE)
 > * Extract salient facts, which fulfill two requirements: (1) relevance and (2) diversity
-4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]                  
+4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)}                  
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
 > * To Avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
-
-
 
 
 
@@ -66,7 +64,7 @@ OpenIE Triple Clustering:
 2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
 4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
-5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] relation
+5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]  {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)} relation
 > * Mophological Normalization
 6. Open Information Extraction to KBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
 > * Main idea: relation phrases mapping to KB otology
@@ -74,7 +72,7 @@ OpenIE Triple Clustering:
 > * The motivation and error analysis are well written.
 7. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
 > * Relation Clustering: Two relation phrases tend to have similar cluster membershipd, if they have similar (1) strings; (2) context words; and (3) left and right argument type indicators
-8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009]
+8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] relation
 
 6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
 7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
