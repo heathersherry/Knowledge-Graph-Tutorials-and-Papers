@@ -28,12 +28,16 @@ Tutorial:
 2. Relation Extraction: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)}
 3. Relation Extraction II: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)}
 
+
 Papers:
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
 https://blog.csdn.net/hqc888688/article/details/73559365
 2. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations {[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)}{[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)} 
 > * Recently, researchers have developed multi- instance learning algorithms to combat the noisy training data that can come from heuristic labeling, but their models assume relations are disjoint . for example they cannot extract the pair Founded(Jobs, Apple) and CEO-of(Jobs, Apple). This paper presents a novel approach for multi-instance learning with overlapping relations that combines a sentence-level extraction model with a simple, corpus-level component for aggregating the individual facts. 
 3. [g]Modeling missing data in distant supervision for information extraction [ACL2013] missing data problem(?)
+4. Neural Relation Extraction with Selective Attention over Instances [ACL 2016] {[Paper](http://www.aclweb.org/anthology/P16-1200)}{[Code](https://github.com/thunlp/OpenNRE)}{[Blog](https://zhuanlan.zhihu.com/p/22666876)}
+> * Fix the problem of distant supervised relation extraction
+> * Employs CNN to embed the semantics of sentences, then builds sentence-level attention over multi- ple instances, which is expected to dynamically reduce the weights of those noisy instances (major contribution). Notes in group meeting.
 
 
 Open Information Extraction 
