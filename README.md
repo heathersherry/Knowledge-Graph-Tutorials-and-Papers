@@ -89,6 +89,7 @@ Graph Embedding and Learning
 ----
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
 2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
+3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
 
 Knowledge Base Refinement
 ----
