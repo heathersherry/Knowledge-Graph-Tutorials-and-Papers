@@ -47,7 +47,7 @@ OpenIE Tools:
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
 > * Incoherent Extractions 
 > * Uninformative Extractions
-2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code](https://github.com/rgemulla/minie) (java)
+2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code (java)](https://github.com/rgemulla/minie) 
 > * Represent information about polarity, modality, attribution and quantities with semantic annotations (instead of actual extraction)
 > * idetify and remove parts that are considered over specific
 3. Facts that Matter [SALIE, EMNLP 2018] {[Code](https://github.com/mponza/SalIE)}
@@ -56,6 +56,7 @@ OpenIE Tools:
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
 > * To Avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
+5. ClausIE: Clause-Based Open Information Extraction [ClausIE, WWW 2013] {[Paper](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)}{[Code (Python)](https://github.com/AnthonyMRios/pyclausie)}{[Code (Java)](https://github.com/IsaacChanghau/ClausIE)}
 
 
 
