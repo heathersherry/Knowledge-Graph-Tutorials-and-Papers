@@ -24,7 +24,7 @@ Entity Extraction and Entity Typing
 Relation Extraction 
 ----
 Tutorial:
-1. A SURVEY ON RELATION EXTRACTION (CMU) {[Paper](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)}
+1. A SURVEY ON RELATION EXTRACTION (CMU) {[Slides](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)}
 2. Relation Extraction: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)}
 3. Relation Extraction II: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)}
 
@@ -61,6 +61,8 @@ OpenIE Tools:
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
 > * To Avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
 5. ClausIE: Clause-Based Open Information Extraction [ClausIE, WWW 2013] {[Paper](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)}{[Code (Python)](https://github.com/AnthonyMRios/pyclausie)}{[Code (Java)](https://github.com/IsaacChanghau/ClausIE)}
+> * Map the dependency relations of an input senetnce to clause constituents.
+> * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
 
 
