@@ -59,7 +59,7 @@ OpenIE Tools:
 4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)}                  
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
-> * To Avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
+> * To avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
 5. ClausIE: Clause-Based Open Information Extraction [ClausIE, WWW 2013] {[Paper](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)}{[Code (Python)](https://github.com/AnthonyMRios/pyclausie)}{[Code (Java)](https://github.com/IsaacChanghau/ClausIE)}
 > * Map the dependency relations of an input senetnce to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
@@ -90,9 +90,10 @@ OpenIE Triple Clustering:
 Graph Embedding, Learning and Reasoning
 ----
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
+> * Use a sentence embedding model
 2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
 3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
-4. Reading and Reasoning with Knowledge Graphs [PhD Thesis of Matthew Gardner] {[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)}
+4. [g]Reading and Reasoning with Knowledge Graphs [PhD Thesis of Matthew Gardner] {[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)}
 > * Reasoning, Relation Extraction, Modeling Lexical Semantics 
 
 Knowledge Base Refinement
