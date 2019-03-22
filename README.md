@@ -80,7 +80,8 @@ OpenIE Triple Clustering:
 7. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
 > * Relation Clustering: Two relation phrases tend to have similar cluster membershipd, if they have similar (1) strings; (2) context words; and (3) left and right argument type indicators
 8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] relation
-9. Relation Extraction with Matrix Fatorization and Universal Schemes [NAACL-HLT 2013] close to relation clustering
+9. Relation Extraction with Matrix Fatorization and Universal Schemes [NAACL-HLT 2013] {[Paper](http://www.aclweb.org/anthology/N13-1008)} 
+> * Close to relation clustering
 > * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databbases.
 
 6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
