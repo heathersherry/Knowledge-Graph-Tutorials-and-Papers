@@ -96,6 +96,8 @@ Graph Embedding, Learning and Reasoning
 3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
 4. [g]Reading and Reasoning with Knowledge Graphs [PhD Thesis of Matthew Gardner] {[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)}
 > * Reasoning, Relation Extraction, Modeling Lexical Semantics 
+5. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
+> * Has time and location info
 
 Knowledge Base Refinement
 ----
