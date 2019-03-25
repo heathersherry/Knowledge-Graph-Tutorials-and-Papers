@@ -98,10 +98,16 @@ Graph Embedding, Learning and Reasoning
 > * Reasoning, Relation Extraction, Modeling Lexical Semantics 
 5. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
 > * Has time and location info
+> * A system that integrates knowledge from different existing KBs
+
 
 Knowledge Base Refinement
 ----
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
+
+Others
+---
+1. 
 
 
 Tutorials and Notes from Talented People
