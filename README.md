@@ -52,19 +52,19 @@ OpenIE Tools:
 
 
 OpenIE Triple Clustering:
-1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation
-2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
-3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
-4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
-5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]  {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)} relation
+1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] 
+2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) 
+3. Canonicalizing Open Knowledge Bases [CIKM 2014] 
+4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] 
+5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]  {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)} 
 6. Open Information Extraction to KBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
 7. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
-8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] relation
+8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] 
 9. Relation Extraction with Matrix Fatorization and Universal Schemes [NAACL-HLT 2013] {[Paper](http://www.aclweb.org/anthology/N13-1008)} 
 
 
-6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
-7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
+6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] 
+7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016]  Code: https://github.com/malllabiisc/sictf
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
 Graph Embedding, Learning and Reasoning
