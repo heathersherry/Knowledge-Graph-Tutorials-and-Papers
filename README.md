@@ -41,6 +41,7 @@ Sides, Tutorials and Surveys
 1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
 2. A Survey on Open Information Extraction {[Paper](http://aclweb.org/anthology/C18-1326)}
 3. Open Information Extraction on Scientific Text: An Evaluation {[Paper](http://aclweb.org/anthology/C18-1289)}
+4. https://github.com/gkiril/oie-resources
 
 OpenIE Tools:
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
