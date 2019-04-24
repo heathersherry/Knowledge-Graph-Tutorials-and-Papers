@@ -83,13 +83,12 @@ __OpenIE Triple Clustering__
 > * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databbases.
 
 __Relation phrases clustering (finding synonymous phrases and hypernyms)__
-10. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] {[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
-11. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] {[Paper](https://www.aclweb.org/anthology/D16-1236)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+1. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] {[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+2. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] {[Paper](https://www.aclweb.org/anthology/D16-1236)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
 > * Make use of another language
-12. RELLY: Inferring Hypernym Relationships Between Relational Phrases [REELY, EMNLP 2015] {[Paper](https://www.aclweb.org/anthology/D15-1113)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
-13. PATTY: A Taxonomy of Relational Patterns with Semantic Types [PATTY, EMNLP 2012] {[Paper](https://www.aclweb.org/anthology/D12-1104)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
-14. Discovering and Exploring Relations on the Web [PATTY demo, VLDB 2012] {[Paper](http://vldb.org/pvldb/vol5/p1982_ndapandulanakashole_vldb2012.pdf)}
-
+3. RELLY: Inferring Hypernym Relationships Between Relational Phrases [REELY, EMNLP 2015] {[Paper](https://www.aclweb.org/anthology/D15-1113)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+4. PATTY: A Taxonomy of Relational Patterns with Semantic Types [PATTY, EMNLP 2012] {[Paper](https://www.aclweb.org/anthology/D12-1104)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+5. Discovering and Exploring Relations on the Web [PATTY demo, VLDB 2012] {[Paper](http://vldb.org/pvldb/vol5/p1982_ndapandulanakashole_vldb2012.pdf)}
 6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
 7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
