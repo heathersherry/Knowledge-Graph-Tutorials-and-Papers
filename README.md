@@ -42,12 +42,12 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 
 Open Information Extraction 
 -----
-Sides, Tutorials and Surveys
+__Sides, Tutorials and Surveys__
 1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
 2. A Survey on Open Information Extraction {[Paper](http://aclweb.org/anthology/C18-1326)}
 3. Open Information Extraction on Scientific Text: An Evaluation {[Paper](http://aclweb.org/anthology/C18-1289)}
 
-OpenIE Tools:
+__OpenIE Tools__
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
 > * Incoherent Extractions 
 > * Uninformative Extractions
@@ -64,9 +64,7 @@ OpenIE Tools:
 > * Map the dependency relations of an input senetnce to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
-
-
-OpenIE Triple Clustering:
+__OpenIE Triple Clustering__
 1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation
 2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
@@ -84,7 +82,7 @@ OpenIE Triple Clustering:
 > * Close to relation clustering
 > * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databbases.
 
-Relation phrases clustering (finding synonymous phrases and hypernyms)
+__Relation phrases clustering (finding synonymous phrases and hypernyms)__
 10. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] {[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
 11. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] {[Paper](https://www.aclweb.org/anthology/D16-1236)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
 > * Make use of another language
@@ -112,10 +110,7 @@ Graph Embedding, Learning and Reasoning
 Knowledge Base Refinement
 ----
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
-
-Others
----
-1. 
+ 
 
 
 Tutorials and Notes from Talented People
