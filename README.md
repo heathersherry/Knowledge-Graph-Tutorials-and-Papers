@@ -6,14 +6,16 @@ Knowledge Base Construction (Demo or System)
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
 3. DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] {[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)} {[Slides](https://slideplayer.com/slide/14894493/)}{[Project link](http://deepdive.stanford.edu/)}
+> * Distant Supervision; Build a fator graph containing both relation phrases and features.
+
 
 
 Entity Extraction and Entity Typing
 ----
 1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014]
-2. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
-3. Label Noise Reduction in Entity Typingby Heterogeneous Partial-Label Embedding [PLE, KDD 2016] 
-4. AFET: Automatic Fine-Grained Entity Typing byHierarchical Partial-Label Embedding [AFET, EMNLP 2016] 
+2. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] (Also Relation Clustering) croase-grained entity typing
+3. Label Noise Reduction in Entity Typingby Heterogeneous Partial-Label Embedding [PLE, KDD 2016] fine-grained entity typing
+4. AFET: Automatic Fine-Grained Entity Typing byHierarchical Partial-Label Embedding [AFET, EMNLP 2016] fine-grained entity typing
 5. A survey of named entity recoginition and classification {[Paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)}
 6. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities [EMNLP-CoNLL 2012]{[Paper](https://aclweb.org/anthology/D12-1082)}
 
@@ -31,8 +33,11 @@ Papers:
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
 https://blog.csdn.net/hqc888688/article/details/73559365
 2. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations {[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)}{[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)} 
+> * Recently, researchers have developed multi- instance learning algorithms to combat the noisy training data that can come from heuristic labeling, but their models assume relations are disjoint . for example they cannot extract the pair Founded(Jobs, Apple) and CEO-of(Jobs, Apple). This paper presents a novel approach for multi-instance learning with overlapping relations that combines a sentence-level extraction model with a simple, corpus-level component for aggregating the individual facts. 
 3. [g]Modeling missing data in distant supervision for information extraction [ACL2013] missing data problem(?)
 4. Neural Relation Extraction with Selective Attention over Instances [ACL 2016] {[Paper](http://www.aclweb.org/anthology/P16-1200)}{[Code](https://github.com/thunlp/OpenNRE)}{[Blog](https://zhuanlan.zhihu.com/p/22666876)}
+> * Fix the problem of distant supervised relation extraction
+> * Employs CNN to embed the semantics of sentences, then builds sentence-level attention over multi- ple instances, which is expected to dynamically reduce the weights of those noisy instances (major contribution). Notes in group meeting.
 
 
 Open Information Extraction 
@@ -41,47 +46,76 @@ Sides, Tutorials and Surveys
 1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
 2. A Survey on Open Information Extraction {[Paper](http://aclweb.org/anthology/C18-1326)}
 3. Open Information Extraction on Scientific Text: An Evaluation {[Paper](http://aclweb.org/anthology/C18-1289)}
-4. https://github.com/gkiril/oie-resources
 
 OpenIE Tools:
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
+> * Incoherent Extractions 
+> * Uninformative Extractions
 2. MinIE: Minimizing Facts in Open Information Extraction [MinIE, EMNLP 2017] [Code (java)](https://github.com/rgemulla/minie) 
+> * Represent information about polarity, modality, attribution and quantities with semantic annotations (instead of actual extraction)
+> * idetify and remove parts that are considered over specific
 3. Facts that Matter [SALIE, EMNLP 2018] {[Code](https://github.com/mponza/SalIE)}
+> * Extract salient facts, which fulfill two requirements: (1) relevance and (2) diversity
 4. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011] {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)}                  
+> * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
+> * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
+> * To avoid "overspecified" relation phrases, a relation phrase must have many distinct args in a large corpus
 5. ClausIE: Clause-Based Open Information Extraction [ClausIE, WWW 2013] {[Paper](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)}{[Code (Python)](https://github.com/AnthonyMRios/pyclausie)}{[Code (Java)](https://github.com/IsaacChanghau/ClausIE)}
+> * Map the dependency relations of an input senetnce to clause constituents.
+> * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
 
 
 OpenIE Triple Clustering:
-1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] 
-2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) 
-3. Canonicalizing Open Knowledge Bases [CIKM 2014] 
-4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] 
-5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]  {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)} 
+1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation
+2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
+3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple
+4. Towards Practical Open Knowledge Base Canonicalization [FAC, CIKM 2018] triple
+5. Identifying Relations for Open Information Extraction [ReVerb, EMNLP 2011]  {[Paper](http://www.aclweb.org/anthology/D11-1142)}{[Code](https://github.com/knowitall/reverb)}{[Homepage](http://reverb.cs.washington.edu/)} relation
+> * Mophological Normalization
 6. Open Information Extraction to KBP Relations in 3 Hours [TAC. 2013] {[Paper](https://pdfs.semanticscholar.org/d431/81fa9af5440360d4055e1ce7ddaaa6e82d77.pdf)}
+> * Main idea: relation phrases mapping to KB otology
+> * Manually define a set of rules for each relation, to conduct the mapping
+> * The motivation and error analysis are well written.
 7. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] 
-8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] 
+> * Relation Clustering: Two relation phrases tend to have similar cluster membershipd, if they have similar (1) strings; (2) context words; and (3) left and right argument type indicators
+8. Unsupervised Methods for Determining Object and Relation Synonyms on the Web [Resolover, JAIR 2009] relation
 9. Relation Extraction with Matrix Fatorization and Universal Schemes [NAACL-HLT 2013] {[Paper](http://www.aclweb.org/anthology/N13-1008)} 
+> * Close to relation clustering
+> * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databbases.
 
+Relation phrases clustering (finding synonymous phrases and hypernyms)
+10. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] {[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+11. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] {[Paper](https://www.aclweb.org/anthology/D16-1236)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+> * Make use of another language
+12. RELLY: Inferring Hypernym Relationships Between Relational Phrases [REELY, EMNLP 2015] {[Paper](https://www.aclweb.org/anthology/D15-1113)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+13. PATTY: A Taxonomy of Relational Patterns with Semantic Types [PATTY, EMNLP 2012] {[Paper](https://www.aclweb.org/anthology/D12-1104)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
+14. Discovering and Exploring Relations on the Web [PATTY demo, VLDB 2012] {[Paper](http://vldb.org/pvldb/vol5/p1982_ndapandulanakashole_vldb2012.pdf)}
 
-6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] 
-7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016]  Code: https://github.com/malllabiisc/sictf
+6. [g]Ensemble Semantics for Large-Scale Unsupervised Relation Extraction [WEBRE, EMNLP-CoNELL 2012] relation
+7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
 Graph Embedding, Learning and Reasoning
 ----
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
+> * Use a sentence embedding model
 2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
 3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
 4. [g]Reading and Reasoning with Knowledge Graphs [PhD Thesis of Matthew Gardner] {[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)}
+> * Reasoning, Relation Extraction, Modeling Lexical Semantics 
 5. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
+> * Has time and location info
+> * A system that integrates knowledge from different existing KBs
 
 
 Knowledge Base Refinement
 ----
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
 
-
+Others
+---
+1. 
 
 
 Tutorials and Notes from Talented People
@@ -100,3 +134,6 @@ Others
 ---
 1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing {[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)}
 2. Introduction to Conditional Random Fields {[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)}
+3. Network Community Detection: A Review and Visual Survey {[Paper](https://arxiv.org/pdf/1708.00977.pdf)}
+> * Section 2.3. Community Detection Techniques 
+4. Fast unfolding of communities in large networks {[Paper](https://arxiv.org/pdf/0803.0476.pdf)}
