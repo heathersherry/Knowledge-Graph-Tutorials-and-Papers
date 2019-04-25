@@ -83,7 +83,7 @@ __OpenIE Triple Clustering__
 > * Close to relation clustering
 > * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databbases.
 
-__Relation phrases clustering (finding synonymous phrases and hypernyms)__
+__Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] {[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
 2. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] {[Paper](https://www.aclweb.org/anthology/D16-1236)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)}
 > * Make use of another language
