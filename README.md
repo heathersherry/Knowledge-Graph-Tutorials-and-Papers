@@ -124,7 +124,6 @@ About Knowledge Graphs
 5. https://zhuanlan.zhihu.com/p/44904796
 6. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
 
-
 Others
 ---
 1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing {[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)}
@@ -135,3 +134,14 @@ Others
 > * A discussion of the Louvain method: https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection, wiki of the Louvein Modularity: https://en.wikipedia.org/wiki/Louvain_Modularity
 > * How do they design the function Q: Finding and evaluating community structure in networks {[Paper](https://arxiv.org/abs/cond-mat/0308217)}
 
+Useful Tools
+====
+Entity Linking
+---
+1. Wikidata Integrator
+2. Stanford KBP
+
+Named Entity Recognition
+---
+1. spaCy: https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+2. NLTK
