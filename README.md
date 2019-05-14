@@ -94,6 +94,9 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 7. [g]Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
+__Relation Linking__
+1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text {[Paper](https://www.researchgate.net/profile/Ahmad_Sakor/publication/332104600_Old_is_Gold_Linguistic_Driven_Approach_for_Entity_and_Relation_Linking_of_Short_Text/links/5ca0a7ac299bf11169526b5f/Old-is-Gold-Linguistic-Driven-Approach-for-Entity-and-Relation-Linking-of-Short-Text.pdf)} {[Code](https://github.com/AhmadSakor/falcon)}{[Demo](https://labs.tib.eu/falcon/)}
+
 Graph Embedding, Learning and Reasoning
 ----
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
@@ -111,6 +114,12 @@ Knowledge Base Refinement
 ----
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
  
+Others
+---
+1. A Fresh Look on Knowledge Bases Distilling Named [CIKM 2014] 
+> * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts.
+2. CERES: Distantly Supervised Relation Extractionfrom the Semi-Structured Web [CERES, VLDB 2018]
+2. When Open Information Extraction Meets the Semi-Structured Web [OpenCERES, NAACL 2019]
 
 
 Tutorials and Notes from Talented People
