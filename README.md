@@ -143,7 +143,7 @@ Others
 4. Fast unfolding of communities in large networks {[Paper](https://arxiv.org/pdf/0803.0476.pdf)}
 > * A discussion of the Louvain method: https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection, wiki of the Louvein Modularity: https://en.wikipedia.org/wiki/Louvain_Modularity
 > * How do they design the function Q: Finding and evaluating community structure in networks {[Paper](https://arxiv.org/abs/cond-mat/0308217)}
-5.A compendium of NP optimization problems http://www.nada.kth.se/~viggo/wwwcompendium/
+5. A compendium of NP optimization problems http://www.nada.kth.se/~viggo/wwwcompendium/
 
 Useful Tools
 ====
