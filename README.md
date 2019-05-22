@@ -9,7 +9,6 @@ Knowledge Base Construction (Demo or System)
 > * Distant Supervision; Build a fator graph containing both relation phrases and features.
 
 
-
 Entity Extraction and Entity Typing
 ----
 1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014]
@@ -20,16 +19,15 @@ Entity Extraction and Entity Typing
 6. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities [EMNLP-CoNLL 2012]{[Paper](https://aclweb.org/anthology/D12-1082)}
 
 
-
 Relation Extraction 
 ----
-Tutorial:
+__Tutorial:__
 1. A SURVEY ON RELATION EXTRACTION (CMU) {[Slides](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)}
 2. Relation Extraction: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)}
 3. Relation Extraction II: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)}
 
 
-Papers:
+__Papers:__
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases [CoType, WWW2017]
 https://blog.csdn.net/hqc888688/article/details/73559365
 2. [g]Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations {[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)}{[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)} 
@@ -110,6 +108,13 @@ Graph Embedding, Learning and Reasoning
 > * Has time and location info
 > * A system that integrates knowledge from different existing KBs
 
+Dynamic Embedding
+---
+1. [g]Dynamic Word Embeddings {[Paper](https://arxiv.org/pdf/1702.08359.pdf)}
+2. [g]DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS [ICLR 2019] {[Paper](https://openreview.net/pdf?id=HyePrhR5KX)}
+3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
+4. [g] Continuous-Time Dynamic Network Embeddings [WWW 2018] {[Paper](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)}
+
 
 Knowledge Base Refinement
 ----
@@ -120,7 +125,8 @@ Others
 1. A Fresh Look on Knowledge Bases Distilling Named [CIKM 2014] 
 > * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts.
 2. CERES: Distantly Supervised Relation Extractionfrom the Semi-Structured Web [CERES, VLDB 2018]
-2. When Open Information Extraction Meets the Semi-Structured Web [OpenCERES, NAACL 2019]
+3. When Open Information Extraction Meets the Semi-Structured Web [OpenCERES, NAACL 2019]
+4. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source [IJCAI 2017] {[Notes](https://zhuanlan.zhihu.com/p/30803950)}
 
 
 Tutorials and Notes from Talented People
