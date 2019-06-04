@@ -114,7 +114,12 @@ __Relation Linking__
 
 
 ### Topic 8: Knowledge Base Refinement
+__Survey:__
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
+
+__Knowledge Base Population and Completion:__
+1. Knowledge base completion via search-based question answering [WWW 2014]{[Paper](https://dl.acm.org/citation.cfm?id=2568032)}
+2. Knowledge base completion via coupled path ranking [ACL 2016]{[Paper](https://www.aclweb.org/anthology/P16-1124)}
  
 ### Others
 1. A Fresh Look on Knowledge Bases Distilling Named [CIKM 2014] 
