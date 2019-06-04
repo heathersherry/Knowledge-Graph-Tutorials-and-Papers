@@ -33,6 +33,8 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 > * Fix the problem of distant supervised relation extraction
 > * Employs CNN to embed the semantics of sentences, then builds sentence-level attention over multi- ple instances, which is expected to dynamically reduce the weights of those noisy instances (major contribution). Notes in group meeting.
 
+### Entity Linking
+Note 1: Candiate Entity Ranking: https://www.jianshu.com/p/90e2c7a5c9f5
 
 ### Open Information Extraction 
 __Sides, Tutorials and Surveys__
