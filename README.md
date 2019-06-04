@@ -1,14 +1,14 @@
 Useful Papers and Slides(as per topic)
 ======
 
-### Knowledge Base Construction (Demo or System)
+### Topic 1: Knowledge Base Construction (Demo or System)
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
 3. DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] {[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)} {[Slides](https://slideplayer.com/slide/14894493/)}{[Project link](http://deepdive.stanford.edu/)}
 > * Distant Supervision; Build a fator graph containing both relation phrases and features.
 
 
-### Entity Extraction and Entity Typing
+### Topic 2: Entity Extraction and Entity Typing
 1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014]
 2. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] (Also Relation Clustering) croase-grained entity typing
 3. Label Noise Reduction in Entity Typingby Heterogeneous Partial-Label Embedding [PLE, KDD 2016] fine-grained entity typing
@@ -17,7 +17,7 @@ Useful Papers and Slides(as per topic)
 6. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities [EMNLP-CoNLL 2012]{[Paper](https://aclweb.org/anthology/D12-1082)}
 
 
-### Relation Extraction 
+### Topic 3: Relation Extraction 
 __Tutorial:__
 1. A SURVEY ON RELATION EXTRACTION (CMU) {[Slides](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)}
 2. Relation Extraction: CSE 517: Natural Language Processing {[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)}
@@ -33,10 +33,11 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 > * Fix the problem of distant supervised relation extraction
 > * Employs CNN to embed the semantics of sentences, then builds sentence-level attention over multi- ple instances, which is expected to dynamically reduce the weights of those noisy instances (major contribution). Notes in group meeting.
 
-### Entity Linking
-Note 1: Candiate Entity Ranking: https://www.jianshu.com/p/90e2c7a5c9f5
+### Topic 4: Entity Linking
+__Notes:__
+1. Candiate Entity Ranking: https://www.jianshu.com/p/90e2c7a5c9f5
 
-### Open Information Extraction 
+### Topic 5: Open Information Extraction 
 __Sides, Tutorials and Surveys__
 1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
 2. A Survey on Open Information Extraction {[Paper](http://aclweb.org/anthology/C18-1326)}
@@ -93,7 +94,7 @@ __Relation Linking__
 1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text [FALCON, NAACL 2019] {[Paper](https://www.researchgate.net/profile/Ahmad_Sakor/publication/332104600_Old_is_Gold_Linguistic_Driven_Approach_for_Entity_and_Relation_Linking_of_Short_Text/links/5ca0a7ac299bf11169526b5f/Old-is-Gold-Linguistic-Driven-Approach-for-Entity-and-Relation-Linking-of-Short-Text.pdf)} {[Code](https://github.com/AhmadSakor/falcon)}{[Demo](https://labs.tib.eu/falcon/)}
 2. EARL: Joint Entity and Relation Linking for Question Answering [EARL, ISWC 2018] {[Paper](https://arxiv.org/abs/1801.03825)} {[Code](https://github.com/AskNowQA/EARL)}
 
-### Graph Embedding, Learning and Reasoning
+### Topic 6: Graph Embedding, Learning and Reasoning
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
 > * Use a sentence embedding model
 2. [g]DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning [DeepPath, EMNLP 2017] [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
@@ -103,15 +104,16 @@ __Relation Linking__
 5. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
 > * Has time and location info
 > * A system that integrates knowledge from different existing KBs
+6. Knowledge Graph Embedding: A Survey of Approaches and Applications {[Paper](https://persagen.com/files/misc/Wang2017Knowledge.pdf)}
 
-### Dynamic Embedding
+### Topic 7: Dynamic Embedding
 1. [g]Dynamic Word Embeddings {[Paper](https://arxiv.org/pdf/1702.08359.pdf)}
 2. [g]DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS [ICLR 2019] {[Paper](https://openreview.net/pdf?id=HyePrhR5KX)}
 3. [g]Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017]{[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)}{[Code (C++)](https://github.com/rstriv/Know-Evolve)}
 4. [g] Continuous-Time Dynamic Network Embeddings [WWW 2018] {[Paper](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)}
 
 
-### Knowledge Base Refinement
+### Topic 8: Knowledge Base Refinement
 1. Knowledge Graph Refinement:A Survey of Approaches and Evaluation Methods
  
 ### Others
