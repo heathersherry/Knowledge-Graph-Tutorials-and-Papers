@@ -36,6 +36,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 ### Topic 4: Entity Linking
 __Notes:__
 1. Candiate Entity Ranking: https://www.jianshu.com/p/90e2c7a5c9f5
+2. http://nlpprogress.com/english/entity_linking.html
 
 ### Topic 5: Open Information Extraction 
 __Sides, Tutorials and Surveys__
