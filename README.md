@@ -1,7 +1,7 @@
 Useful Papers and Slides (as per Topic)
 ======
 
-<span style="color:blue"> ### Topic 1: Knowledge Base Construction (Demo or System) </span>
+## Topic 1: Knowledge Base Construction (Demo or System)
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
 3. DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] {[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)} {[Slides](https://slideplayer.com/slide/14894493/)}{[Project link](http://deepdive.stanford.edu/)}
