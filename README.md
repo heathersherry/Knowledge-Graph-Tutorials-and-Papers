@@ -1,4 +1,4 @@
-Useful Papers and Slides(as per topic)
+Useful Papers and Slides (as per Topic)
 ======
 
 ### Topic 1: Knowledge Base Construction (Demo or System)
