@@ -149,6 +149,7 @@ Tutorials and Notes from Talented People
 > * A discussion of the Louvain method: https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection, wiki of the Louvein Modularity: https://en.wikipedia.org/wiki/Louvain_Modularity
 > * How do they design the function Q: Finding and evaluating community structure in networks {[Paper](https://arxiv.org/abs/cond-mat/0308217)}
 5. A compendium of NP optimization problems http://www.nada.kth.se/~viggo/wwwcompendium/
+6. LSH: https://blog.csdn.net/yc461515457/article/details/48845775
 
 Useful Tools
 ====
