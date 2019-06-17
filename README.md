@@ -1,6 +1,8 @@
 Useful Papers and Slides (as per Topic)
 ======
 
+https://hkustconnect-my.sharepoint.com/:p:/r/personal/xlinai_connect_ust_hk/_layouts/15/Doc.aspx?sourcedoc=%7BE2F7D7C2-A7A6-44B4-BB03-AE66090A49FE%7D&file=Why%20Product%20Oriented%20KB.pptx&action=edit&mobileredirect=true&wdNewAndOpenCt=1560788864692&wdPreviousSession=0a394ed9-839c-4912-b969-55f4ff7c5c66&wdOrigin=office%2Ecom&cid=68cbb638-f12a-4b02-8b00-a9f4552f2d76
+
 ## Topic 1: Knowledge Base Construction (Demo or System)
 1. CurEx – A System for Extracting, Curating, and Exploring Domain-Specific Knowledge Graphs from Text [CurEx, CIKM 2018]
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
