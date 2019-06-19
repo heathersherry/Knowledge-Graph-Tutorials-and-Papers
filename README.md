@@ -32,6 +32,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365
 4. Neural Relation Extraction with Selective Attention over Instances [ACL 2016] {[Paper](http://www.aclweb.org/anthology/P16-1200)}{[Code](https://github.com/thunlp/OpenNRE)}{[Blog](https://zhuanlan.zhihu.com/p/22666876)}
 > * Fix the problem of distant supervised relation extraction
 > * Employs CNN to embed the semantics of sentences, then builds sentence-level attention over multi- ple instances, which is expected to dynamically reduce the weights of those noisy instances (major contribution). Notes in group meeting.
+5. Multi-instance Multi-label Learning for Relation Extraction [EMMLP-CoNLL 2012]{[Paper](https://www.aclweb.org/anthology/D12-1042)}
 
 ## Topic 4: Entity Linking
 __Notes:__
@@ -153,9 +154,6 @@ Tutorials and Notes from Talented People
 7. Survey about Min Hash Sketch: http://www.cohenwang.com/edith/Surveys/minhash.pdf
 8. MinHash Tutorial with Python Code: https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/  https://github.com/chrisjmccormick/MinHash
 
-
-
-https://hkustconnect-my.sharepoint.com/:p:/r/personal/xlinai_connect_ust_hk/_layouts/15/Doc.aspx?sourcedoc=%7BE2F7D7C2-A7A6-44B4-BB03-AE66090A49FE%7D&file=Why%20Product%20Oriented%20KB.pptx&action=edit&mobileredirect=true&wdNewAndOpenCt=1560788864692&wdPreviousSession=0a394ed9-839c-4912-b969-55f4ff7c5c66&wdOrigin=office%2Ecom&cid=68cbb638-f12a-4b02-8b00-a9f4552f2d76
 
 Useful Tools
 ====
