@@ -107,7 +107,7 @@ __Relation Linking__
 
 __Others__
 1. Intergring Local Context and Global Cohesiveness for Open Information Extraction [ReMine, WSDM 2019]
-* Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
+> * Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
 
 ## Topic 6: Graph Embedding, Learning and Reasoning
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
