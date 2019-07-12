@@ -39,6 +39,15 @@ __Notes:__
 1. Candiate Entity Ranking: https://www.jianshu.com/p/90e2c7a5c9f5
 2. http://nlpprogress.com/english/entity_linking.html
 
+__Papers:__
+1. Entity Linking wuth a Knowledge Base: Issues, Techniques, and Solutions (Survey)
+2. Robust Disambihguation of Named Entities in Text [EMNLP 2011]
+3. Liege: Link Entities in Web Lists with Knowledge Base [KDD 2012]
+4. Entity Lnking for Tweets [ACL 2013]
+5. Collective Annotation of Wikipedia Entities in Webb Text [KDD 2009]
+6. Local and Global Algorithms for Disambiguation to Wikipedia [ACL 2011]
+
+
 ## Topic 5: Open Information Extraction 
 __Sides, Tutorials and Surveys__
 1. Brief Introduction and Review of Open Information Extraction System {[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)}
@@ -95,6 +104,10 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 __Relation Linking__
 1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text [FALCON, NAACL 2019] {[Paper](https://www.researchgate.net/profile/Ahmad_Sakor/publication/332104600_Old_is_Gold_Linguistic_Driven_Approach_for_Entity_and_Relation_Linking_of_Short_Text/links/5ca0a7ac299bf11169526b5f/Old-is-Gold-Linguistic-Driven-Approach-for-Entity-and-Relation-Linking-of-Short-Text.pdf)} {[Code](https://github.com/AhmadSakor/falcon)}{[Demo](https://labs.tib.eu/falcon/)}
 2. EARL: Joint Entity and Relation Linking for Question Answering [EARL, ISWC 2018] {[Paper](https://arxiv.org/abs/1801.03825)} {[Code](https://github.com/AskNowQA/EARL)}
+
+__Others__
+1. Intergring Local Context and Global Cohesiveness for Open Information Extraction [ReMine, WSDM 2019]
+* Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
 
 ## Topic 6: Graph Embedding, Learning and Reasoning
 1. DeepWalk: Online Learning of Social Representations [DeepWalk, KDD 2014] [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
@@ -164,3 +177,6 @@ Useful Tools
 ## Named Entity Recognition
 1. spaCy: https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
 2. NLTK
+
+## Pronominal Coreference Resolution
+1. BOOKNLP https://github.com/dbamman/book-nlp (a natural language processing pipeline that scales to books and other long documents (in English))
