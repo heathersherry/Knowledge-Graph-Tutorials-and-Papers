@@ -120,6 +120,8 @@ __Others__
 > * Has time and location info
 > * A system that integrates knowledge from different existing KBs
 6. Knowledge Graph Embedding: A Survey of Approaches and Applications {[Paper](https://persagen.com/files/misc/Wang2017Knowledge.pdf)}
+7. Multilingual Knowledge Graph Embedding for Cross-lingual Knowledge Alignment. {[Slides](http://yellowstone.cs.ucla.edu/~muhao/slides/mtranse_slides_short.pdf)}
+
 
 ## Topic 7: Dynamic Embedding
 1. [g]Dynamic Word Embeddings {[Paper](https://arxiv.org/pdf/1702.08359.pdf)}
