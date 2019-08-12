@@ -102,7 +102,7 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 8. [g]Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
 __Relation Linking__
-1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text [FALCON, NAACL 2019] {[Paper](https://www.researchgate.net/profile/Ahmad_Sakor/publication/332104600_Old_is_Gold_Linguistic_Driven_Approach_for_Entity_and_Relation_Linking_of_Short_Text/links/5ca0a7ac299bf11169526b5f/Old-is-Gold-Linguistic-Driven-Approach-for-Entity-and-Relation-Linking-of-Short-Text.pdf)} {[Code](https://github.com/AhmadSakor/falcon)}{[Demo](https://labs.tib.eu/falcon/)}
+1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text [FALCON, NAACL 2019] {[Paper](https://www.researchgate.net/profile/Ahmad_Sakor/publication/332104600_Old_is_Gold_Linguistic_Driven_Approach_for_Entity_and_Relation_Linking_of_Short_Text/links/5ca0a7ac299bf11169526b5f/Old-is-Gold-Linguistic-Driven-Approach-for-Entity-and-Relation-Linking-of-Short-Text.pdf)} {[Code](https://github.com/AhmadSakor/falcon)}{[Demo](https://labs.tib.eu/falcon/)}{[Notes](https://github.com/BrambleXu/knowledge-graph-learning/issues/211)}
 2. EARL: Joint Entity and Relation Linking for Question Answering [EARL, ISWC 2018] {[Paper](https://arxiv.org/abs/1801.03825)} {[Code](https://github.com/AskNowQA/EARL)}
 
 __Others__
