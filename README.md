@@ -185,3 +185,6 @@ Useful Tools
 
 ## Pronominal Coreference Resolution
 1. BOOKNLP https://github.com/dbamman/book-nlp (a natural language processing pipeline that scales to books and other long documents (in English))
+
+## Others
+1. From Freebase to Wikidata: The Great Migration {[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)} 
