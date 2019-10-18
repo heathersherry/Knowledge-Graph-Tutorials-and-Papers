@@ -191,3 +191,4 @@ Useful Tools
 ## Others
 1. From Freebase to Wikidata: The Great Migration {[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)} 
 2. SPASQL tutorial {[Link](https://www.w3.org/2009/Talks/0615-qbe/)}
+3. Installing and running ElasticSearch {[Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html)}
