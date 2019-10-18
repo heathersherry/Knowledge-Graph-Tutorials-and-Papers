@@ -181,8 +181,9 @@ Useful Tools
 2. Stanford KBP
 
 ## Named Entity Recognition
-1. spaCy: https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+1. spaCy {[Link](https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)}
 2. NLTK
+3. DBpedia Spotlight {[Link](https://www.dbpedia-spotlight.org/)}
 
 ## Pronominal Coreference Resolution
 1. BOOKNLP https://github.com/dbamman/book-nlp (a natural language processing pipeline that scales to books and other long documents (in English))
