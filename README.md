@@ -139,7 +139,8 @@ __Knowledge Base Completion:__
 2. Knowledge base completion via coupled path ranking [ACL 2016]{[Paper](https://www.aclweb.org/anthology/P16-1124)}
 
 __Knowledge Base Population:__
-1. https://nlp.stanford.edu/projects/kbp/
+1. Overview: https://nlp.stanford.edu/projects/kbp/
+2. Slides of Summary: https://pdfs.semanticscholar.org/8193/1b57a1760a4fc9e8b42065bebcab4cbf164e.pdf
  
 ## Others
 1. A Fresh Look on Knowledge Bases Distilling Named [CIKM 2014] 
