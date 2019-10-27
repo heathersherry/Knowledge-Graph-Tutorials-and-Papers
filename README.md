@@ -180,6 +180,8 @@ Useful Tools
 ## Entity Linking
 1. Wikidata Integrator
 2. Stanford KBP
+3. DBpeida Spotlight
+4. OpenTapioca {[Link](https://opentapioca.readthedocs.io/en/latest/install.html)}
 
 ## Named Entity Recognition
 1. spaCy {[Link](https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)}
