@@ -6,6 +6,7 @@ Useful Papers and Slides (as per Topic)
 2. Mining Structures of Factual Knowledge from Text: An Effort-Light Approach [PhD Thesis of Prof Xiang Ren]
 3. DeepDive: Incremental Knowledge Base Construction Using DeepDive [VLDB 2015] {[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)} {[Slides](https://slideplayer.com/slide/14894493/)}{[Project link](http://deepdive.stanford.edu/)}
 > * Distant Supervision; Build a fator graph containing both relation phrases and features.
+4. [AliCoCo] (https://github.com/alicogintel/AliCoCo)
 
 
 ## Topic 2: Entity Extraction and Entity Typing
