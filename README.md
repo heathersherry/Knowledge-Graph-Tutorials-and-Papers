@@ -20,8 +20,8 @@ Useful Papers and Slides (as per Topic)
 
 Tutorials and Notes from Talented People
 =====
-## About Knowledge Graphs
-1. https://kgtutorial.github.io An introduction to knowledge graph and knowledge extraction from unstructured text.
+#### About Knowledge Graphs
+1. An introduction to knowledge graph and knowledge extraction from unstructured text. https://kgtutorial.github.io 
 2. https://github.com/impillar/knowledge_graph/blob/master/README.md 
 3. https://github.com/BrambleXu/knowledge-graph-learning
 4. https://github.com/Pelhans/Z_knowledge_graph
@@ -30,15 +30,15 @@ Tutorials and Notes from Talented People
 7. [CS 520 - Knowledge Graphs (seminar) - provided by Stanford](https://web.stanford.edu/class/cs520/)
 8. [OpenKG.cn](http://www.openkg.cn/home)
 
-## Other Insightful Tutorials
-1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing {[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)}
-2. Introduction to Conditional Random Fields {[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)}
-3. Network Community Detection: A Review and Visual Survey {[Paper](https://arxiv.org/pdf/1708.00977.pdf)}
+#### Other Insightful Tutorials or Notes
+1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing [[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)]
+2. Introduction to Conditional Random Fields [[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)]
+3. Network Community Detection: A Review and Visual Survey [[Paper](https://arxiv.org/pdf/1708.00977.pdf)]
 > * Section 2.3. Community Detection Techniques 
-4. Fast unfolding of communities in large networks {[Paper](https://arxiv.org/pdf/0803.0476.pdf)}
+4. Fast unfolding of communities in large networks [[Paper](https://arxiv.org/pdf/0803.0476.pdf)]
 > * A discussion of the Louvain method: https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection, wiki of the Louvein Modularity: https://en.wikipedia.org/wiki/Louvain_Modularity
-> * How do they design the function Q: Finding and evaluating community structure in networks {[Paper](https://arxiv.org/abs/cond-mat/0308217)}
-5. A compendium of NP optimization problems http://www.nada.kth.se/~viggo/wwwcompendium/
+> * How do they design the function Q: Finding and evaluating community structure in networks [[Paper](https://arxiv.org/abs/cond-mat/0308217)]
+5. A compendium of NP optimization problems [[Paper](https://www.semanticscholar.org/paper/A-compendium-of-NP-optimization-problems-Crescenzi-Kann/d5a16ac8dd6781090292b7db0a21e4240ffe56b0)]
 6. Notes about LSH: https://blog.csdn.net/yc461515457/article/details/48845775
 7. Survey about Min Hash Sketch: http://www.cohenwang.com/edith/Surveys/minhash.pdf
 8. MinHash Tutorial with Python Code: https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/  https://github.com/chrisjmccormick/MinHash
