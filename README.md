@@ -21,7 +21,7 @@ Useful Papers and Slides
 Tutorials and Notes from Talented People
 =====
 #### About Knowledge Graphs
-1. An introduction to knowledge graph and knowledge extraction from unstructured text. https://kgtutorial.github.io 
+1. An introduction to knowledge graph and knowledge extraction from unstructured text. [[Link](https://kgtutorial.github.io)]
 2. https://github.com/impillar/knowledge_graph/blob/master/README.md 
 3. https://github.com/BrambleXu/knowledge-graph-learning
 4. https://github.com/Pelhans/Z_knowledge_graph
@@ -52,9 +52,9 @@ Useful Tools or APIs
 2. Stanford KBP
 3. DBpeida Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
 4. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
-5. spaCy [[Link](https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
+5. spaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
 6. NLTK Tagger
-7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version version](https://github.com/SDM-TIB/falcon2.0)] 
+7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
 8. EARL (including Relation Linking)
 
 #### Other Useflul Tools
