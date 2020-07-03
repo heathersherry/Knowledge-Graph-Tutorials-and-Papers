@@ -1,4 +1,4 @@
-Useful Papers and Slides (as per Topic)
+Useful Papers and Slides
 ======
 
 #### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
@@ -50,17 +50,16 @@ Useful Tools or APIs
 #### Entity Linking and Named Entity Recogntion
 1. Wikidata Integrator
 2. Stanford KBP
-3. DBpeida Spotlight
-4. OpenTapioca {[Link](https://opentapioca.readthedocs.io/en/latest/install.html)}
-5. spaCy {[Link](https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)}
-6. NLTK
-7. DBpedia Spotlight {[Link](https://www.dbpedia-spotlight.org/)}
-8. Falcon (including Relatoin Linking) [[DBpedia version]()] [[Wikidata version version]()] 
-9. EARL (including Relation Linking)
+3. DBpeida Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
+4. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
+5. spaCy [[Link](https://spacy.io/api/annotation#section-named-entities https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
+6. NLTK Tagger
+7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version version](https://github.com/SDM-TIB/falcon2.0)] 
+8. EARL (including Relation Linking)
 
 #### Other Useflul Tools
-1. From Freebase to Wikidata: The Great Migration {[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)} 
-2. SPASQL tutorial {[Link](https://www.w3.org/2009/Talks/0615-qbe/)}
-3. Installing and running ElasticSearch {[Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html)}
+1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
+2. SPASQL tutorial [[Link](https://www.w3.org/2009/Talks/0615-qbe/)]
+3. Installing and running ElasticSearch [[Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html)]
 4. Open KG on COVID-19 [[Link](http://openkg.cn/dataset/covid-19-research)]
-5. BOOKNLP https://github.com/dbamman/book-nlp (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
+5. BOOKNLP [[Link](https://github.com/dbamman/book-nlp)] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
