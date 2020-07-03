@@ -7,7 +7,7 @@ Useful Papers and Slides (as per Topic)
 
 #### Topic 3: Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-3:-Relation-Extraction)
 
-#### Topic 4: Entity Linking [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-4:-Entity-Linking)
+#### Topic 4: Entity Linking, Entity Disambiguation and Entity Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-4:-Entity-Linking,-Entity-Disambiguation-and-Entity-Resolution)
 
 #### Topic 5: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-5:-Open-Information-Extraction)
 
