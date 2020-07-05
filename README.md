@@ -36,13 +36,13 @@ Tutorials and Notes from Talented People
 3. Network Community Detection: A Review and Visual Survey [[Paper](https://arxiv.org/pdf/1708.00977.pdf)]
 > * Section 2.3. Community Detection Techniques 
 4. Fast unfolding of communities in large networks [[Paper](https://arxiv.org/pdf/0803.0476.pdf)]
-> * A discussion of the Louvain method: https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection, wiki of the Louvein Modularity: https://en.wikipedia.org/wiki/Louvain_Modularity
+> * [[A discussion of the Louvain method](https://www.quora.com/Is-there-a-simple-explanation-of-the-Louvain-Method-of-community-detection)], [[wiki of the Louvein Modularity](https://en.wikipedia.org/wiki/Louvain_Modularity)]
 > * How do they design the function Q: Finding and evaluating community structure in networks [[Paper](https://arxiv.org/abs/cond-mat/0308217)]
 5. A compendium of NP optimization problems [[Paper](https://www.semanticscholar.org/paper/A-compendium-of-NP-optimization-problems-Crescenzi-Kann/d5a16ac8dd6781090292b7db0a21e4240ffe56b0)]
-6. Notes about LSH: https://blog.csdn.net/yc461515457/article/details/48845775
-7. Survey about Min Hash Sketch: http://www.cohenwang.com/edith/Surveys/minhash.pdf
-8. MinHash Tutorial with Python Code: https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/  https://github.com/chrisjmccormick/MinHash
-9. GNN: https://github.com/thunlp/GNNPapers
+6. [[Notes about LSH](https://blog.csdn.net/yc461515457/article/details/48845775)]
+7. [[Survey about Min Hash Sketch](http://www.cohenwang.com/edith/Surveys/minhash.pdf)]
+8. MinHash Tutorial with Python Code: [[Notes](https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)] [[Code](https://github.com/chrisjmccormick/MinHash)]
+9. [[GNN Papers](https://github.com/thunlp/GNNPapers)]
 
 
 Useful Tools or APIs
