@@ -55,7 +55,7 @@ Useful Tools or APIs
 5. spaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
 6. NLTK Tagger
 7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
-8. EARL (including Relation Linking)
+8. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
 
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
