@@ -11,7 +11,7 @@ Useful Papers and Slides
 
 #### Topic 5: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-5:-Open-Information-Extraction)
 
-#### Topic 6: Graph Embedding, Learning and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-6:-Graph-Embedding,-Learning-and-Reasoning)
+#### Topic 6: Knowledge Graph Embedding, Learning and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-6:-Knowledge-Graph-Embedding,-Learning-and-Reasoning)
 
 #### Topic 7: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
