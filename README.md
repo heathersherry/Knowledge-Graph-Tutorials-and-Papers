@@ -15,7 +15,7 @@ Useful Papers and Slides
 
 #### Topic 7: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
-#### Topic 8: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
+#### Topic 8: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
 #### Topic 9: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
 
