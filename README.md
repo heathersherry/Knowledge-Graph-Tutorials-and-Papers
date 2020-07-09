@@ -17,7 +17,7 @@ Useful Papers and Slides
 
 #### Topic 8: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
-#### Topic 9: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
+#### Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
 
 
 Tutorials and Notes from Talented People
