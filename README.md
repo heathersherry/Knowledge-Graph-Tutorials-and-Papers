@@ -17,7 +17,7 @@ Useful Papers and Slides
 
 #### Topic 8: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
-#### Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
+#### Topic 9: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
 
 
 Tutorials and Notes from Talented People
@@ -59,7 +59,7 @@ Useful Tools or APIs
 7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
 8. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
 10. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
-11. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub2](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
+11. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
 
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
