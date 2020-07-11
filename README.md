@@ -49,21 +49,21 @@ Tutorials and Notes from Talented People
 
 Useful Tools or APIs
 ====
-#### Entity Linking and Named Entity Recogntion
-1. Wikidata Integrator
-2. Stanford KBP
+#### Named Entity Recogntion and Entity Linking
+1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
+2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
 3. DBpeida Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
-4. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
-5. spaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
-6. NLTK Tagger
+4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
+5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
+6. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
 7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
-8. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
-10. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
-11. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
-
+8. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
+ 
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
 2. SPASQL tutorial [[Link](https://www.w3.org/2009/Talks/0615-qbe/)]
 3. Installing and running ElasticSearch [[Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html)]
 4. Open KG on COVID-19 [[Link](http://openkg.cn/dataset/covid-19-research)]
 5. BOOKNLP [[Link](https://github.com/dbamman/book-nlp)] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
+6. Wikidata Integrator [[GitHub](https://github.com/SuLab/WikidataIntegrator)]
+7. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
