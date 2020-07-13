@@ -44,7 +44,7 @@ Tutorials and Notes from Talented People
 6. [[Notes about LSH](https://blog.csdn.net/yc461515457/article/details/48845775)]
 7. [[Survey about Min Hash Sketch](http://www.cohenwang.com/edith/Surveys/minhash.pdf)]
 8. MinHash Tutorial with Python Code: [[Notes](https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)] [[Code](https://github.com/chrisjmccormick/MinHash)]
-9. [[GNN Papers](https://github.com/thunlp/GNNPapers)]
+9. Must-read papers on GNN [[GitHub](https://github.com/thunlp/GNNPapers)]
 
 
 Useful Tools or APIs
