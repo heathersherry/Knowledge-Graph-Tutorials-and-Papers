@@ -21,6 +21,11 @@ Useful Papers and Slides
 
 #### Topic 9: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
 
+Papers about Knowlegde Graphs and Data Integration in Database Area (SIGMOD, VLDB, ICDE, KDD, TKDE, VLDBJ...)
+======
+#### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
+#### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
+#### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
 
 Tutorials and Notes from Talented People
 =====
