@@ -4,7 +4,7 @@ Papers and Materials from DB area
 #### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
 #### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
 
-Papers and Materials from ML area
+Papers and Materials from all areas
 ======
 
 #### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
