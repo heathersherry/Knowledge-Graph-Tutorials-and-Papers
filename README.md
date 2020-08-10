@@ -1,9 +1,9 @@
 Papers and Materials from DB Area
 ======
+#### NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
 #### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
 #### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
 #### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
-#### NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
 
 Papers and Materials from All Areas
 ======
