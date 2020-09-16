@@ -71,7 +71,7 @@ Useful Tools or APIs
 9. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
 
 #### Datasets
-1. MSNBC [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
+1. MSNBC and ACE2004 [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
  
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
