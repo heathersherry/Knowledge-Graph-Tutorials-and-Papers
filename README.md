@@ -69,6 +69,9 @@ Useful Tools or APIs
 7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
 8. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
 9. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
+
+#### Datasets
+1. MSNBC [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
  
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
