@@ -15,9 +15,9 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 2: Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-2:-Named-Entity-Recognition,-Entity-Extraction-and-Entity-Typing)
 
-#### Topic 3: Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-3:-Relation-Extraction)
+#### Topic 3: Entity Linking, Entity Disambiguation and Entity Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-3:-Entity-Linking,-Entity-Disambiguation-and-Entity-Resolution)
 
-#### Topic 4: Entity Linking, Entity Disambiguation and Entity Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-4:-Entity-Linking,-Entity-Disambiguation-and-Entity-Resolution)
+#### Topic 4: Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-4:-Relation-Extraction)
 
 #### Topic 5: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-5:-Open-Information-Extraction)
 
