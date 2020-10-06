@@ -11,7 +11,7 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
 
-#### Topic 1.5: About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1.5:-About-Domain-Specific-Knowledge-Bases)
+*** Topic 1.5: About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1.5:-About-Domain-Specific-Knowledge-Bases)
 
 #### Topic 2: Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-2:-Named-Entity-Recognition,-Entity-Extraction-and-Entity-Typing)
 
