@@ -1,4 +1,4 @@
-Papers and Materials from DB Area
+Papers and Materials from Database Area
 ======
 #### NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
 #### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
@@ -7,6 +7,7 @@ Papers and Materials from DB Area
 
 Papers and Materials from All Areas
 ======
+Note: The papers in database area are marked with 🌟 
 
 #### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
 
