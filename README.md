@@ -25,7 +25,7 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 7: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
-#### Topic 8: Knowledge Graph Embedding, Learning and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Graph-Embedding,-Learning-and-Reasoning)
+#### Topic 8: Knowledge Graph Rule Mining, Embedding, Learning, and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Graph-Rule-Mining,-Embedding,-Learning,-and-Reasoning)
 
 #### Topic 9: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
