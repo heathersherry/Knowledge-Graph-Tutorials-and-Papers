@@ -7,7 +7,7 @@ Papers and Materials from Database Area
 
 Papers and Materials from All Areas
 ======
-_Note: The papers in database area are marked with 🌟 
+Note: The papers in database area are marked with 🌟 
 
 #### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
 
