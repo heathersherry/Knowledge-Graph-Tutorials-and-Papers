@@ -23,15 +23,15 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 6: Relation Linking and Relation Disambiguation [[link]]()
 
-#### Topic 7: Knowledge Graph Embedding, Learning and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-6:-Knowledge-Graph-Embedding,-Learning-and-Reasoning)
+#### Topic 7: Knowledge Graph Embedding, Learning and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Graph-Embedding,-Learning-and-Reasoning)
 
-#### Topic 8: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
+#### Topic 8: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
-#### Topic 9: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
+#### Topic 9: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
 #### Topic 10: Knowledge Base Question Answering [[link]]()
 
-#### Topic 11: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Other-Interesting-Works)
+#### Topic 11: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Other-Interesting-Works)
 
 
 
