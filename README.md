@@ -9,29 +9,31 @@ Papers and Materials from All Areas
 ======
 Note: The papers in database area are marked with 🌟 
 
-#### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1:-Knowledge-Base-Construction-(Demo-or-System))
+#### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-01:-Knowledge-Base-Construction-(Demo-or-System))
 
-*** Topic 1.5: About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-1.5:-About-Domain-Specific-Knowledge-Bases)
+#### Topic 2: About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-02:-About-Domain-Specific-Knowledge-Bases)
 
-#### Topic 2: Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-2:-Named-Entity-Recognition,-Entity-Extraction-and-Entity-Typing)
+#### Topic 3: Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-03:-Named-Entity-Recognition,-Entity-Extraction-and-Entity-Typing)
 
-#### Topic 3: Entity Linking, Entity Disambiguation and Entity Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-3:-Entity-Linking,-Entity-Disambiguation-and-Entity-Resolution)
+#### Topic 4: Entity Linking, Entity Disambiguation, Entity Resolution and Entity Matching [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-04:-Entity-Linking,-Entity-Disambiguation,-Entity-Resolution,-and-Entity-Matching)
 
-#### Topic 4: General Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-4:-Relation-Extraction)
+#### Topic 5: General Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-05:-Relation-Extraction)
 
-#### Topic 5: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-5:-Open-Information-Extraction)
+#### Topic 6: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-06:-Open-Information-Extraction)
 
-#### Topic 6: Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-6:-Relation-Linking-and-Relation-Disambiguation)
+#### Topic 7: Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-07:-Relation-Linking-and-Relation-Disambiguation)
 
-#### Topic 7: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-7:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
+#### Topic 8: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-08:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
-#### Topic 8: Knowledge Graph Rule Mining, Embedding, Learning, and Reasoning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-8:-Knowledge-Graph-Rule-Mining,-Embedding,-Learning,-and-Reasoning)
+#### Topic 9: Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-09:-Knowledge-Graph-Embedding,-Learning,-Reasoning-and-Rule-Mining)
 
-#### Topic 9: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-9:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
+#### Topic 10: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-10:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
-#### Topic 10: Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-10:-Knowledge-Graph-Question-Answering-(KGQA))
+#### Topic 11: Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Knowledge-Graph-Question-Answering-(KGQA))
 
-#### Topic 11: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Other-Interesting-Works)
+#### Topic 12: Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-12:-Knowledge-Graph-Recommendation)
+
+#### Topic 20: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Other-Interesting-Works)
 
 
 
