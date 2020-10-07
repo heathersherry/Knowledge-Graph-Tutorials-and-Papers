@@ -33,7 +33,7 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 12: Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-12:-Knowledge-Graph-Recommendation)
 
-#### Topic 20: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Other-Interesting-Works)
+#### Topic 20: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-20:-Other-Interesting-Works)
 
 
 
