@@ -15,23 +15,25 @@ Note: The papers in database area are marked with 🌟
 
 #### Topic 3: Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-03:-Named-Entity-Recognition,-Entity-Extraction-and-Entity-Typing)
 
-#### Topic 4: Entity Linking, Entity Disambiguation, Entity Resolution and Entity Matching [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-04:-Entity-Linking,-Entity-Disambiguation,-Entity-Resolution,-and-Entity-Matching)
+#### Topic 4: Entity Linking and Entity Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-04:-Entity-Linking-and-Entity-Disambiguation)
 
-#### Topic 5: General Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-05:-Relation-Extraction)
+#### Topic 5: Entity Resolution, Entity Matching and Entity Alignment [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-05:-Entity-Resolution,-Entity-Matching-and-Entity-Alignment)
 
-#### Topic 6: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-06:-Open-Information-Extraction)
+#### Topic 6: General Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-06:-Relation-Extraction)
 
-#### Topic 7: Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-07:-Relation-Linking-and-Relation-Disambiguation)
+#### Topic 7: Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-07:-Open-Information-Extraction)
 
-#### Topic 8: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-08:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
+#### Topic 8: Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-08:-Relation-Linking-and-Relation-Disambiguation)
 
 #### Topic 9: Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-09:-Knowledge-Graph-Embedding,-Learning,-Reasoning-and-Rule-Mining)
 
-#### Topic 10: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-10:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
+#### Topic 10: Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-10:-Knowledge-Base-Refinement-(Incompleteness,-Incorrectness,-and-Freshness))
 
-#### Topic 11: Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Knowledge-Graph-Question-Answering-(KGQA))
+#### Topic 11: Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-11:-Knowledge-Fusion,-Cleaning,-Evaluation-and-Truth-Discovery)
 
-#### Topic 12: Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-12:-Knowledge-Graph-Recommendation)
+#### Topic 12: Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-12:-Knowledge-Graph-Question-Answering-(KGQA))
+
+#### Topic 13: Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-13:-Knowledge-Graph-Recommendation)
 
 #### Topic 20: Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-20:-Other-Interesting-Works)
 
