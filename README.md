@@ -65,7 +65,6 @@ Tutorials and Notes from Talented People
 8. MinHash Tutorial with Python Code: [[Notes](https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)] [[Code](https://github.com/chrisjmccormick/MinHash)]
 9. Must-read papers on GNN [[GitHub](https://github.com/thunlp/GNNPapers)]
 
-
 Useful Tools or APIs
 ====
 #### Named Entity Recogntion and Entity Linking
