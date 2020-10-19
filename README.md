@@ -9,7 +9,7 @@ Papers and Materials from All Areas
 ======
 Note: The papers in database area are marked with 🌟 
 
-#### Topic 1: Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-01:-Knowledge-Base-Construction-(Demo-or-System))
+* Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)
 
 #### Topic 2: About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/wiki/Topic-02:-About-Domain-Specific-Knowledge-Bases)
 
