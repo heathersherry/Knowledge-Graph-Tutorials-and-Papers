@@ -1,3 +1,5 @@
+
+### Entity Linking and Entity Disambiguation
 __Surveys and Analysis__
 1. Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions (TKDE 2014) [[Paper](https://ieeexplore.ieee.org/abstract/document/6823700)] 🌟
 2. Neural Entity Linking: A Survey of Models based on Deep Learning (2020) [[Paper](https://arxiv.org/pdf/2006.00575.pdf)]
