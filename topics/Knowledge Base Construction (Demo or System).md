@@ -3,6 +3,10 @@ __Surveys__
 2. A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020) [[Paper](https://arxiv.org/pdf/2002.00388.pdf)]
 3. A survey of techniques for constructing Chinese knowledge graphs and their applications (Sustainability 2018)
 
+__Notes__
+1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
+2. Topbase [[Web](https://mp.weixin.qq.com/s/Qp6w7uFcgqKXzM7dWhYwFg)]
+
 __General Papers__
 1. DeepDive: Incremental Knowledge Base Construction Using DeepDive (VLDB 2015) [[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)][[Slides](https://slideplayer.com/slide/14894493/)][[Project link](http://deepdive.stanford.edu/)]🌟
 > * Distant Supervision; Build a fator graph containing both relation phrases and features.
@@ -33,6 +37,3 @@ __Personalized KG__
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket [[PDF](https://web.eecs.umich.edu/~dkoutra/papers/19_ICDM_GLIMPSE-CR.pdf)] (ICDM 2019 best paper) 🌟
 > Knapsack, submodula objective function,  (1 − {1}{e})-approximation algorithm
 
-__Webpages__
-1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
-2. Topbase [[Web](https://mp.weixin.qq.com/s/Qp6w7uFcgqKXzM7dWhYwFg)]
