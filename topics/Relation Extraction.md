@@ -17,3 +17,6 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 7. Improving Neural Relation Extraction with Implicit Mutual Relations [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1Ksh1lBwJ0V2nopiLoh-Uk5eofJW6uRrA&sa=D&ust=1587488616483000&usg=AFQjCNEPrROfm72JmChuKgls7cAo2fniOA)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1hIfhz0qfPu9p44kWfhhywj_D8EF9eGX5&sa=D&ust=1587488616483000&usg=AFQjCNFpDtYPPYI16sI05NBwoLqUt8jtog)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b021/290300b021.pdf)] (ICDE 2020) 🌟
 8. Snorkel: rapid training data creation with weak supervision (VLDBJ 2020) 🌟
 9. Snorkel: Fast Training Set Generation for Information Extraction (SIGMOD 2017) 🌟
+
+__Notes__
+1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
