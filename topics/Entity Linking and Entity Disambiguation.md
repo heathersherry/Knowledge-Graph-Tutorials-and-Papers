@@ -196,4 +196,7 @@ __Entity Embeddings (Pre-trained)__
 3. Pre-trained embeddings [[Link](http://139.129.163.161/index/toolkits)]
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
 
+__Some Useful Discussions__
+1. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
+2. 
 
