@@ -2,42 +2,34 @@ Papers and Materials from All Areas
 ======
 Note: The papers in database area are marked with 🌟 
 
-#### <ins> Knowledge Graph Construction </ins>
 * __Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)__
 
 * __About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md)__
 
-#### <ins> Entity Extraction </ins>
 * __Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)__
 
 * __Coreference Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Coreference%20Resolution.md)__
 
 * __Entity Linking and Entity Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md)__
 
-#### <ins> Entity Resolution </ins>
 * __Entity Resolution, Entity Matching and Entity Alignment [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Resolution%2C%20Entity%20Matching%20and%20Entity%20Alignment.md)__
 
-#### <ins> Relation Extraction </ins>
 * __General Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Extraction.md)__
 
 * __Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Open%20Information%20Extraction.md)__
 
 * __Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md)__
 
-#### <ins> Knowledge Graph Representation </ins>
 * __Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md)__
 
-#### <ins> Knowledge Graph Refinement </ins>
 * __Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Refinement%20(Incompleteness%2C%20Incorrectness%2C%20and%20Freshness).md)__
 
 * __Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Fusion%2C%20Cleaning%2C%20Evaluation%20and%20Truth%20Discovery.md)__
 
-#### <ins> Knowledge Graph Applications </ins>
 * __Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Question%20Answering%20(KGQA).md)__
 
 * __Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Recommendation.md)__
 
-#### <ins> Others </ins>
 * __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
