@@ -1,10 +1,3 @@
-Papers and Materials from Database Area
-======
-
-#### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
-#### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
-#### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
-
 Papers and Materials from All Areas
 ======
 Note: The papers in database area are marked with 🌟 
@@ -48,6 +41,13 @@ Note: The papers in database area are marked with 🌟
 * __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
+
+Papers and Materials from Database Area
+======
+
+#### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
+#### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
+#### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
 
 Tutorials and Notes from Talented People
 =====
