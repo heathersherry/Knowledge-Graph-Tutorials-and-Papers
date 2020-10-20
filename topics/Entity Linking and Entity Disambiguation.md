@@ -126,7 +126,7 @@ __Joint NER and EL__
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/joint_NER_EL.png" width="800"/>
 
-1. Joint Learning of Named Entity Recognition and Entity Linking (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-2026.pdf)] 
+1. Joint Learning of Named Entity Recognition and Entity Linking (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-2026.pdf)] [[Notes 1](https://blog.csdn.net/m0_37991005/article/details/108936874)] [[Notes 2](http://blog.sciencenet.cn/blog-205121-1210999.html)] [[Notes 3](http://pelhans.com/2019/09/28/named_entity_recognition/#joint-learning-of-named-entity-recognition-and-entity-linking)] [[Notes 4](https://www.pianshen.com/article/96391996423/)] [[Notes 5](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
 > * Multi-task learning of NER and EL based on Stack-LSTM approach.
 > * Supervised EL system with learned features.
 > * Future extension: training entity contextual embeddings and extend it to be cross-lingual.
@@ -152,7 +152,7 @@ __Joint NER and EL__
 > * An end-to-end differentiable neural EL model that jointly performs MD and ED, based on BERT, while eliminating external knowledge so that we can study the impact of external knowledge to the EL model.
 8. Noise-robust Named Entity Understanding for Virtual Assistants [[Paper](https://arxiv.org/pdf/2005.14408.pdf)]
 > * Combining NER and EL information in a joint reranking module for noisy spoken language queries in the context of a digital voice assistant, our proposed framework improves accuracy in both tasks.
-9. End-to-End Neural Entity Linking [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)]
+9. End-to-End Neural Entity Linking [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)] [[Notes 1](https://blog.csdn.net/u010960155/article/details/106387771)] [[Notes 2](http://pelhans.com/2019/02/22/entity_linking/#end-to-end-neural-entity-linking)]
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
 
 __Unlinkable Mention Predication__
