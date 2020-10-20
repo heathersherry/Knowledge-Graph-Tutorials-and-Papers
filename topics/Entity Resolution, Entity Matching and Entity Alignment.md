@@ -39,3 +39,4 @@ __General Papers__
 33. Waldo: An Adaptive Human Interface for Crowd Entity Resolution (SIGMOD 2017) 🌟
 34. Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services (SIGMOD 2017) 🌟
 35. Generating Concise Entity Matching Rules (SIGMOD 2017) 🌟
+36. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation [[Paper](https://arxiv.org/pdf/1911.08936.pdf)]
