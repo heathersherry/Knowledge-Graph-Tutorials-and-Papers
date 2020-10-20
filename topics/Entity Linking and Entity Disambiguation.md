@@ -126,7 +126,7 @@ __Joint NER and EL__
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/joint_NER_EL.png" width="800"/>
 
-1. Joint Learning of Named Entity Recognition and Entity Linking (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-2026.pdf)] [[Notes 1](https://blog.csdn.net/m0_37991005/article/details/108936874)] [[Notes 2](http://blog.sciencenet.cn/blog-205121-1210999.html)] [[Notes 3](http://pelhans.com/2019/09/28/named_entity_recognition/#joint-learning-of-named-entity-recognition-and-entity-linking)] [[Notes 4](https://www.pianshen.com/article/96391996423/)] [[Notes 5](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
+1. Joint Learning of Named Entity Recognition and Entity Linking (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-2026.pdf)] [[Notes 1](https://blog.csdn.net/m0_37991005/article/details/108936874)] [[Notes 2](http://blog.sciencenet.cn/blog-205121-1210999.html)] [[Notes 3](http://pelhans.com/2019/09/28/named_entity_recognition/#joint-learning-of-named-entity-recognition-and-entity-linking)] [[Notes 4](https://www.pianshen.com/article/96391996423/)] 
 > * Multi-task learning of NER and EL based on Stack-LSTM approach.
 > * Supervised EL system with learned features.
 > * Future extension: training entity contextual embeddings and extend it to be cross-lingual.
