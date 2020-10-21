@@ -150,14 +150,14 @@ __Joint NER and EL__
 > * Hand-engineered features.
 7. Contextualized End-to-End Neural Entity Linking [[Paper](https://arxiv.org/pdf/1911.03834.pdf)]
 > * An end-to-end differentiable neural EL model that jointly performs MD and ED, based on BERT, while eliminating external knowledge so that we can study the impact of external knowledge to the EL model.
+> * Other version: "YELM: End-to-End Contextualized Entity Linking" (2019) [[Paper](https://arxiv.org/pdf/1911.03834.pdf)]
 8. Noise-robust Named Entity Understanding for Virtual Assistants [[Paper](https://arxiv.org/pdf/2005.14408.pdf)]
 > * Combining NER and EL information in a joint reranking module for noisy spoken language queries in the context of a digital voice assistant, our proposed framework improves accuracy in both tasks.
 9. End-to-End Neural Entity Linking (CoNLL 2018) [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)] [[Notes 1](https://blog.csdn.net/u010960155/article/details/106387771)] [[Notes 2](http://pelhans.com/2019/02/22/entity_linking/#end-to-end-neural-entity-linking)]
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
-10. YELM: End-to-End Contextualized Entity Linking (2019) [[Paper](https://arxiv.org/pdf/1911.03834.pdf)]
-
 
 __Unlinkable Mention Predication__
+
 __General__
 1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2011)
 2. Entity Linking at Web Scale (AKBC-WEKEX 2012)
