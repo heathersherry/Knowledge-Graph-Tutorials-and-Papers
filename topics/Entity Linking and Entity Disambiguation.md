@@ -32,6 +32,7 @@ __General Papers__
 11. Entity Disambiguation Leveraging Multi-Perspective Attention (IEEE Access 2019)
 12. CLEEK: A Chinese Long-text Corpus for Entity Linking (LREC 2020)
 13. A Novel Approach for Analyzing Entity Linking Between Words and Entities for a Knowledge Base Using an Attention-Based Bilinear Joint Learning and Weighted Summation Model (IEEE Access 2019)
+14. Fast and accurate entity linking via graph embedding (GRADES-NDA'19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3327964.3328499)] [[Slides](https://www.slideshare.net/necstlab/fast-and-accurate-entity-linking-via-graph-embedding)]
 
 
 __Global Coherence__
@@ -58,7 +59,7 @@ __Global Coherence__
 21. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)], BERT+SeqGAT
 22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020)
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
-24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020)
+24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
 
 
 __Relax the Global Coherence Assumption__
