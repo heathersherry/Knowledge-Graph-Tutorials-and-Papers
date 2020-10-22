@@ -58,6 +58,7 @@ __Global Coherence__
 21. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)], BERT+SeqGAT
 22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020)
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
+24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020)
 
 
 __Relax the Global Coherence Assumption__
