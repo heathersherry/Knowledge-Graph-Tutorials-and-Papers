@@ -1,5 +1,5 @@
 
-### Entity Linking and Entity Disambiguation
+## Entity Linking and Entity Disambiguation
 __Surveys and Analysis__
 1. Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions (TKDE 2014) [[Paper](https://ieeexplore.ieee.org/abstract/document/6823700)] 🌟
 2. Neural Entity Linking: A Survey of Models based on Deep Learning (2020) [[Paper](https://arxiv.org/pdf/2006.00575.pdf)]
@@ -11,14 +11,15 @@ __Surveys and Analysis__
 4. Towards holistic Entity Linking: Survey and directions (Information Systems 2020) [[Link](https://www.sciencedirect.com/science/article/pii/S0306437920300958?casa_token=8iDZglH_xVgAAAAA:rHgcXMsLXdOCgSae1LEOH3Lc9LXEPyfcp9W40vRAIbEsPOxMWoAAHSi8q0M-ewkvpHWo5lB6czFS)]
 5. Neural Collective Entity Linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
 
-__Notes for Entity Linking__
+__Notes and Discussions for Entity Linking__
 1. Candiate Entity Ranking [[Notes](https://www.jianshu.com/p/90e2c7a5c9f5)]
 2. NLP-progress for Entity Linking [[Notes](http://nlpprogress.com/english/entity_linking.html)] [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/entity_linking.md)]
 3. Recent Trend for Entity Linking [[Notes](https://github.com/izuna385/EntityLinking_RecentTrend)]
 4. Summary of Entity Linking [[Notes 1](http://pelhans.com/2019/02/22/entity_linking/)] [[Notes 2, check the appendices here](https://fyubang.com/2019/12/30/entity-linking/)]
+5. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
 
 
-__General Papers__
+### General Papers
 1. Zero-Shot Entity Linking by Reading Entity Descriptions (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-1335.pdf)][[Code and Datasets](https://github.com/lajanugen/zeshel)]
 2. Keyphrase Overlap Relatedness for Entity Disambiguation (CIKM 2012), LSH 🌟
 3. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text (NAACL 2019), with Relation Linking
@@ -34,7 +35,7 @@ __General Papers__
 13. A Novel Approach for Analyzing Entity Linking Between Words and Entities for a Knowledge Base Using an Attention-Based Bilinear Joint Learning and Weighted Summation Model (IEEE Access 2019)
 14. Fast and accurate entity linking via graph embedding (GRADES-NDA'19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3327964.3328499)] [[Slides](https://www.slideshare.net/necstlab/fast-and-accurate-entity-linking-via-graph-embedding)]
 
-
+### About Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
 2. Robust Disambiguation of Named Entities in Text (EMNLP 2011)
@@ -87,14 +88,14 @@ __Relax the Global Coherence Assumption__
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
 
-Some related works:
+__Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
 > Employ SPASQL to fetch triples of target entities and incorporate the triples as kg context in pre-trained ED models. DCA is used as baselines on the AIDA-CONLL dataset.
 2. Attention-based Deep Reinforcement Learning Model for Pair-Wise Interaction Recommendation (ICISCE 2019)
 > Claim that the one-pass sequential decision should consider both positive feedback and negative feedback.
 
 
-__Entity Linking with Type Info__
+### Entity Linking with Type Info
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/EL_with_type.png" width="400"/>
 
@@ -114,7 +115,7 @@ __Entity Linking with Type Info__
 > * Paper 3,4,5,6 rely on extensive annotation of the type of mentions
 7. DeepType Multilingual Entity Linking by Neural Type System Evolution
 
-__Meta EL__
+### Meta EL
 Note: how to combine the outputs of multiple EL tools for providing a unified set of entity annotations?
 1. Better Together - An Ensemble Learner for Combining the Results of Ready-made Entity Linking Systems (SAC 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3341105.3373883)]
 2. A Novel Ensemble Method for Named Entity Recognition and Disambiguation Based on Neural Network (ISWC 2018)
@@ -122,7 +123,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 4. Combining open source annotators for entity linking through weighted voting (SEM 2015)
 
 
-__Joint NER and EL__
+### Joint NER and EL
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/joint%20NER%20and%20EL.png" width="400"/>
 
@@ -158,8 +159,7 @@ __Joint NER and EL__
 9. End-to-End Neural Entity Linking (CoNLL 2018) [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)] [[Notes 1](https://blog.csdn.net/u010960155/article/details/106387771)] [[Notes 2](http://pelhans.com/2019/02/22/entity_linking/#end-to-end-neural-entity-linking)]
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
 
-__Unlinkable Mention Predication__
-
+### Unlinkable Mention Predication
 __General__
 1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2011)
 2. Entity Linking at Web Scale (AKBC-WEKEX 2012)
@@ -193,14 +193,12 @@ __Supervised__
 10. A generative entity-mention model for linking entities with knowledge base (ACL 2011)
 > The model assumes that for the entity mention which refers to some specific entity, the probability of this entity mention generated by this specific entity’s model should be significantly higher than the probability of this mention generated by a general language model. 
 
-__Entity Embeddings (Pre-trained)__
+### Entity Embeddings (Pre-trained)
 1. Wembedder: Wikidata entity embedding web service [[Intro](https://arxiv.org/pdf/1710.04099.pdf)] [[Github](https://github.com/fnielsen/wembedder)] [[Web service](https://tools.wmflabs.org/wembedder/)]
 > * Web service: only the "most similar" service.
 2. Pre-trained embeddings for Wikidata [[Link](https://torchbiggraph.readthedocs.io/en/latest/pretrained_embeddings.html)]
 3. Pre-trained embeddings [[Link](http://139.129.163.161/index/toolkits)]
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
 
-__Some Useful Discussions__
-1. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
-2. 
+ 
 
