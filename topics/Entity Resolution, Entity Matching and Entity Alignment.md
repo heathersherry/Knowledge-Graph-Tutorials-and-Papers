@@ -1,3 +1,5 @@
+### Entity Resolution, Entity Matching and Entity Alignment
+
 __Surveys and Analysis__
 1. End-to-End Entity Resolution for Big Data: A Survey (2019) [[Paper](https://arxiv.org/pdf/1905.06397.pdf)]
 2. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)]
