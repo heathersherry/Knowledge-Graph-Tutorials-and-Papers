@@ -1,15 +1,19 @@
-__Surveys and Evaluations:__
+### General Knowledge Base Refinement
+
+__Surveys and Evaluations__
 1. Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods (Semantic Web 2016)
-2. Revisiting Evaluation of Knowledge Base Completion Models (from https://openreview.net/forum?id=1uufzxsxfL)
-3. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
 4. Efficient Knowledge Graph Accuracy Evaluation [[PDF](https://arxiv.org/pdf/1907.09657.pdf)]  [[techical reprot](https://users.cs.duke.edu/~jygao/KG_eval_vldb_full.pdf)] (VLDB 2019) 🌟
 5. Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases [[PDF](http://www.eurecom.fr/fr/publication/5468/download/data-publi-5468.pdf), demo] (VLDB 2019) 🌟
-6. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study (SIGMOD 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3380599)] 🌟
 
-### General Knowledge Base Refinement
+### Knowledge Base Refinement
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
 
 ### Knowledge Base Completion
+__Surveys and Evaluations__
+1. Revisiting Evaluation of Knowledge Base Completion Models (from https://openreview.net/forum?id=1uufzxsxfL)
+2. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
+3. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study (SIGMOD 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3380599)] 🌟
+
 __General Papers__
 1. Knowledge base completion via search-based question answering (WWW 2014) [[Paper](https://dl.acm.org/citation.cfm?id=2568032)]
 2. Knowledge base completion via coupled path ranking (ACL 2016) [[Paper](https://www.aclweb.org/anthology/P16-1124)]
@@ -41,7 +45,6 @@ __Papers__
 2. Distantly Supervised Web Relation Extraction for Knowledge Base Population [[Paper](http://www.semantic-web-journal.net/system/files/swj885.pdf)]
 3. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
 4. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
-
 
 ### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
