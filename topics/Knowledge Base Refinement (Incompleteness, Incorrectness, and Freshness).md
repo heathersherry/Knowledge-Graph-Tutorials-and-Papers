@@ -4,11 +4,12 @@ __Surveys and Evaluations:__
 3. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
 4. Efficient Knowledge Graph Accuracy Evaluation [[PDF](https://arxiv.org/pdf/1907.09657.pdf)]  [[techical reprot](https://users.cs.duke.edu/~jygao/KG_eval_vldb_full.pdf)] (VLDB 2019) 🌟
 5. Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases [[PDF](http://www.eurecom.fr/fr/publication/5468/download/data-publi-5468.pdf), demo] (VLDB 2019) 🌟
+6. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study (SIGMOD 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3380599)] 🌟
 
-## General Knowledge Base Refinement
+### General Knowledge Base Refinement
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
 
-## Knowledge Base Completion
+### Knowledge Base Completion
 __General Papers__
 1. Knowledge base completion via search-based question answering (WWW 2014) [[Paper](https://dl.acm.org/citation.cfm?id=2568032)]
 2. Knowledge base completion via coupled path ranking (ACL 2016) [[Paper](https://www.aclweb.org/anthology/P16-1124)]
@@ -22,7 +23,7 @@ __General Papers__
 10. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 11. Dynamic Knowledge Graph based Multi-Event Forecasting (KDD 2020)
 
-## Knowledge Base Population
+### Knowledge Base Population
 __Survey, Summary and Notes__
 1. Knowledge Base Population: Successful Approaches and Challenges (ACL 2011)[[Paper](https://www.aclweb.org/anthology/P11-1115.pdf)]
 2. Overview: https://nlp.stanford.edu/projects/kbp/
@@ -42,11 +43,11 @@ __Papers__
 4. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
 
 
-## Knowledge Base Error Detection and Enhancement
+### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
 
 
-## Knowledge Base Freshness
+### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
