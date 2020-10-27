@@ -2,6 +2,7 @@ __Surveys and Analysis__
 1. End-to-End Entity Resolution for Big Data: A Survey (2019) [[Paper](https://arxiv.org/pdf/1905.06397.pdf)]
 2. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)]
 3. Comparative Analysis of Approximate Blocking Techniques for Entity Resolution (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2947618.2947624)] 🌟
+4. Entity Resolution: Past, Present and Yet-to-Come (EDBT 2020) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
 
 __General Papers__
 1. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD 2020)🌟
