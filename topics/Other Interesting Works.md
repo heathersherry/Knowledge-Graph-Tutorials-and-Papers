@@ -10,12 +10,14 @@ __Data Integration and Knowledge Integration__
 __KG and Blockchains__
 1. BlockChain + KG [[Link](https://mp.weixin.qq.com/s/8arlkjwqUGNfxQKkwbf28g)]
 
-__KG Queries__
+__KG Queries and Knowledge Search__
 1. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1ejMq8cZrTZT1Nn0D-zaMlW7X7ESkSDro&sa=D&ust=1587488616453000&usg=AFQjCNEeyFqVvX9q4QWy8jc4jHfpdEc2Zw)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1JyhtaWEeRvzS6TmIuplZNd5ZId3Larpz&sa=D&ust=1587488616453000&usg=AFQjCNEI5es_-rKQs-eUImsqivdAFNAnvw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a445/290300a445.pdf)] (ICDE 2020) 🌟
 2. Online Indices for Predictive Top-k Entity and Aggregate Queries on Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D12mo2_5abIbU9BDxrI4eSPsZ-SFDRgMAN&sa=D&ust=1587488616485000&usg=AFQjCNHwZw7kP6JJ2nIbDiMT4FvlwebmsA)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1Vy15Q81aZg6Kn0AKqcJQ1LraCAb7ZyPy&sa=D&ust=1587488616485000&usg=AFQjCNEqOaDue8W4ZN91-2I2JPLkQTE3jw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b057/290300b057.pdf)] (ICDE 2020) 🌟
 3. SPARQL Rewriting: Towards Desired Results [[Paper](https://doi.org/10.1145/3318464.3389695)] (SIGMOD 2020) 🌟
-21. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
-31. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
+4. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
+5. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
+6. Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings (WWW 2020)  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380110)] 🌟
+
 
 __Others__
 1. AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
