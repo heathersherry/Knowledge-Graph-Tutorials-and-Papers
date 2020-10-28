@@ -7,7 +7,9 @@ __Surveys and Evaluations__
 
 __General Papers__
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
-2. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)] [[Code and Data](https://github.com/GemsLab/KGist)]
+2. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)] [[Code and Data](https://github.com/GemsLab/KGist)]
+3. Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs (WWW 2020, short paper) 🌟
+
 
 ### Knowledge Base Completion
 __Surveys and Evaluations__
@@ -32,6 +34,7 @@ __General Papers__
 14. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
 15. Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning (WWW 2020)
 16. Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction (WWW 2020)
+17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
 
 
 ### Knowledge Base Population
