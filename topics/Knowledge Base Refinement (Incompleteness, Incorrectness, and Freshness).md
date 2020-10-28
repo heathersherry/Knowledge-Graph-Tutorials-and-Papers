@@ -32,6 +32,8 @@ __General Papers__
 14. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
 15. Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning (WWW 2020)
 
+
+
 ### Knowledge Base Population
 __Survey, Summary and Notes__
 1. Knowledge Base Population: Successful Approaches and Challenges (ACL 2011)[[Paper](https://www.aclweb.org/anthology/P11-1115.pdf)]
@@ -55,7 +57,8 @@ __Papers__
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
-
+4. Correcting Knowledge Base Assertions (WWW 2020)
+> Also discuss about canonicalization
 
 ### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
