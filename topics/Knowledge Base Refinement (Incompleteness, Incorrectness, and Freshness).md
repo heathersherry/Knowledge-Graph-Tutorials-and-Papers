@@ -28,6 +28,8 @@ __General Papers__
 11. Dynamic Knowledge Graph based Multi-Event Forecasting (KDD 2020)
 12. Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020)
 13. Open Knowledge Enrichment for Long-tail Entities (WWW 2020)
+14. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
+15. Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning (WWW 2020)
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
