@@ -48,5 +48,6 @@ __Others__
 27. Dataset Discovery in Data Lakes [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1FPdnuXIpPUIc_OSI-AcCvrynT75ipIH3&sa=D&ust=1587488616467000&usg=AFQjCNGEuJGomD9My5r361Gw7-9lqVW0nQ)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1I3Hms10PExW0SpIACob4o_1ZpaC3BljN&sa=D&ust=1587488616467000&usg=AFQjCNFxmt95VjGwYgX0EFKr1Krx1KSgMg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a709/290300a709.pdf)] (ICDE 2020) 🌟
 28. SLIM: Scalable Linkage of Mobility Data [[Paper](https://doi.org/10.1145/3318464.3389761)] (SIGMOD 2020) 🌟
 29. Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks [[Paper](https://doi.org/10.1145/3318464.3389742)] (SIGMOD 2020) 🌟
-30. A survey of community search over big graphs (VLDBJ 2020)
-31. An analytical study of large SPARQL query logs (VLDBJ 2020)
+30. A survey of community search over big graphs (VLDBJ 2020) 🌟
+31. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
+32. Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases (WWW 2020)
