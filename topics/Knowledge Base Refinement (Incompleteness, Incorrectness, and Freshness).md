@@ -26,6 +26,7 @@ __General Papers__
 9. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 10. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 11. Dynamic Knowledge Graph based Multi-Event Forecasting (KDD 2020)
+12. Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020)
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
