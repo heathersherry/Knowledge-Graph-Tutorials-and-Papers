@@ -43,3 +43,4 @@ __General Papers__
 34. Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services (SIGMOD 2017) 🌟
 35. Generating Concise Entity Matching Rules (SIGMOD 2017) 🌟
 36. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation (AAAI 2020) [[Paper](https://arxiv.org/pdf/1911.08936.pdf)]
+37. Collective Multi-type Entity Alignment Between Knowledge Graphs (WWW 2020)
