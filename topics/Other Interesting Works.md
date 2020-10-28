@@ -51,3 +51,4 @@ __Others__
 30. A survey of community search over big graphs (VLDBJ 2020) 🌟
 31. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
 32. Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases (WWW 2020)
+33. Adaptive Low-level Storage of Very Large Knowledge Graphs (WWW 2020)
