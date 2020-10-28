@@ -17,6 +17,8 @@ __KG Queries and Knowledge Search__
 4. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
 5. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
 6. Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings (WWW 2020)  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380110)] 🌟
+7. Graph-Query Suggestions for Knowledge Graph Exploration (WWW 2020, short paper)
+
 
 
 __Others__
