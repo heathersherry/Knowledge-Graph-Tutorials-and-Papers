@@ -1,6 +1,6 @@
 Papers and Materials from All Areas
 ======
-Note: The papers in database area are marked with 🌟 
+Note: The papers in database area (or written in database style) are marked with 🌟 
 
 * __Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)__
 
