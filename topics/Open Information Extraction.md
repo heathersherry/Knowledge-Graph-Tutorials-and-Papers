@@ -58,3 +58,4 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 __Others__
 1. Intergring Local Context and Global Cohesiveness for Open Information Extraction [ReMine, WSDM 2019]
 > * Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
+2. Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020, short paper)
