@@ -12,6 +12,7 @@ __General KGQA__
 5. AskNow: A Framework for Natural Language Query Formalization in SPARQL (ESWC 2016)
 6. Answering Natural Language Questions by Subgraph Matching over Knowledge Graphs (TKDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8085196)]
 7. Natural language question answering over RDF: a graph data driven approach (SIGMOD 2014) 🌟
+8. Complex Factoid Question Answering with a Free-Text Knowledge Graph (WWW 2020)
 
 __Some thoughts__
 
