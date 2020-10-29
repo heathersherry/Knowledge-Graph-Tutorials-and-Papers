@@ -6,6 +6,11 @@
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
 
 ### Product KBs
+__Keynotes and Tutorials__
+1. Self-Driving Product Understanding for Thousands of Categories (By Luna Dong, Keynote at Knowledge Graphs and E-commerce Workshop, San Diego, CA, August 2020) [[Slides](http://lunadong.com/talks/SelfDrivingBG.pptx)]
+2. Building a Broad Knowledge Graph for Products (By Luna Dong, Keynote at IEEE International Conference on Data Engineering (ICDE), Macau, China, April 2019) [[Slides](http://lunadong.com/talks/BG.pdf)]
+
+__Papers__
 1. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types (KDD 2020, Applied Data Science Track) [[Paper](https://arxiv.org/pdf/2006.13473.pdf)]🌟
 2. GoodsKG - a Product Knowledge Graph Project [[GitHub](https://github.com/liuhuanyong/ProductKnowledgeGraph)]
 3. AliCoCo: Alibaba E-commerce Cognitive Concept Net (SIGMOD 2020 Industry Track) [[Paper](https://arxiv.org/pdf/2003.13230.pdf)] [[Github](https://github.com/alicogintel/AliCoCo)]🌟
