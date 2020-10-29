@@ -17,6 +17,9 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 7. Improving Neural Relation Extraction with Implicit Mutual Relations [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1Ksh1lBwJ0V2nopiLoh-Uk5eofJW6uRrA&sa=D&ust=1587488616483000&usg=AFQjCNEPrROfm72JmChuKgls7cAo2fniOA)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1hIfhz0qfPu9p44kWfhhywj_D8EF9eGX5&sa=D&ust=1587488616483000&usg=AFQjCNFpDtYPPYI16sI05NBwoLqUt8jtog)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b021/290300b021.pdf)] (ICDE 2020) 🌟
 8. Snorkel: rapid training data creation with weak supervision (VLDBJ 2020) 🌟
 9. Snorkel: Fast Training Set Generation for Information Extraction (SIGMOD 2017) 🌟
+10. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380282)]
+> * Explicitly exploit labeling rules over unmatched sentences as supervision for training better RE models
+> * The Nero framework has two major modules: (1) The sentence-level relation classifier aims to learn the neural representations of sentences and classify which relation it talks about, which serves as the outcome of Nero. (2) The soft rule matcher: The key intuition behind our soft rule matcher is that the distances between rules and sentences can be modeled by simple cosine computations in a new space transformed from their neural representations (e.g. word embeddings), which can be learned by a contrastive loss. 
 
 __Notes__
 1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
