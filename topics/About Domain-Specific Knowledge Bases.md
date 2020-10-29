@@ -16,6 +16,8 @@
 8. Octet: Online catalog taxonomy enrichment with self-supervision (KDD 2020) 🌟
 9. OpenTag: Open attribute value extraction from product profiles (KDD 2018) 🌟
 10. DEXTER: Large-scale discovery and extraction of product specifications on the Web (VLDB 2016) 🌟
+11. P-Companion: A principled framework for diversified complementary product recommendation (CIKM 2020)
+12. J-Recs: Principled and scalable recommendation justification (ICDM 2020)
 
 __Product Data Set__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
