@@ -1,10 +1,12 @@
-__Sides, Tutorials and Surveys__
+## Open Information Extraction
+
+### Sides, Tutorials and Surveys
 1. Brief Introduction and Review of Open Information Extraction System [[Slides](https://ece.umd.edu/~smiran/OpenIE.pdf)]
 2. A Survey on Open Information Extraction [[Paper](http://aclweb.org/anthology/C18-1326)]
 3. Open Information Extraction on Scientific Text: An Evaluation [[Paper](http://aclweb.org/anthology/C18-1289)]
 4. Open Information Extraction (OIE) Resources Summary [[Paper](https://github.com/gkiril/oie-resources)]
 
-__OpenIE Tools__
+### OpenIE Tools
 1. Open Information Extraction from the Web [TextRunner, IJCAI 2007]
 > * Incoherent Extractions 
 > * Uninformative Extractions
@@ -21,7 +23,8 @@ __OpenIE Tools__
 > * Map the dependency relations of an input sentence to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
-__Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering__
+### Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering
+__General Papers__
 1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation 🌟 
 2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information [CESI, WWW2018] [Code](https://github.com/malllabiisc/cesi) triple
 3. Canonicalizing Open Knowledge Bases [CIKM 2014] triple 🌟 
@@ -41,7 +44,6 @@ __Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering__
 10. Canonicalization of Open Knowledge Bases with Side Information from the Source Text [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731346)] (ICDE 2018) 🌟
 11. Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network [[Paper](https://arxiv.org/pdf/2006.09610.pdf)]
 
-
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
 2. POLY: Mining Relational Paraphrases from Multilingual Sentences [POLY, EMNLP 2016] [[Paper](https://www.aclweb.org/anthology/D16-1236)][[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
@@ -53,9 +55,11 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 7. Relation Schema Induction using Tensor Factorization with Side Information [SICTF, EMNLP 2016] relation schema induction (for building domain-specific kb from unstructured text) Code: https://github.com/malllabiisc/sictf
 8. Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations [IJCAI 2015]
 
+__Related Works__
+1. Query-Efficient Correlation Clustering (WWW 2020)
 
 
-__Others__
+### Other Interesting Works about Open IE
 1. Intergring Local Context and Global Cohesiveness for Open Information Extraction [ReMine, WSDM 2019]
 > * Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
 2. Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020, short paper)
