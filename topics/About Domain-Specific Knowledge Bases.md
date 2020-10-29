@@ -7,8 +7,9 @@
 
 ### Product KBs
 __Keynotes and Tutorials__
-1. Self-Driving Product Understanding for Thousands of Categories (By Luna Dong, Keynote at Knowledge Graphs and E-commerce Workshop, San Diego, CA, August 2020) [[Slides](http://lunadong.com/talks/SelfDrivingBG.pptx)]
-2. Building a Broad Knowledge Graph for Products (By Luna Dong, Keynote at IEEE International Conference on Data Engineering (ICDE), Macau, China, April 2019) [[Slides](http://lunadong.com/talks/BG.pdf)]
+1. Amazon Product Graph [[Slides](http://lunadong.com/talks/PG.pdf)]
+2. Self-Driving Product Understanding for Thousands of Categories (By Luna Dong, Keynote at Knowledge Graphs and E-commerce Workshop, San Diego, CA, August 2020) [[Slides](http://lunadong.com/talks/SelfDrivingBG.pptx)]
+3. Building a Broad Knowledge Graph for Products (By Luna Dong, Keynote at IEEE International Conference on Data Engineering (ICDE), Macau, China, April 2019) [[Slides](http://lunadong.com/talks/BG.pdf)]
 
 __Papers__
 1. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types (KDD 2020, Applied Data Science Track) [[Paper](https://arxiv.org/pdf/2006.13473.pdf)]🌟
