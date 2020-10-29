@@ -23,6 +23,9 @@
 > * Map the dependency relations of an input sentence to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
+__Open Relation Extraction__
+1. LOREM: Language-consistent Open Relation Extraction from Unstructured Text (WWW 2020)
+
 ### Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering
 __General Papers__
 1. Query-Driven On-The-Fly Knowledge Base Construction [QKBfly, VLDB2017] relation 🌟 
