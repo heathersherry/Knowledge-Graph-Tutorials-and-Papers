@@ -65,3 +65,4 @@ __Papers__
 
 ### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
+2. TimeMachine: Timeline generation for knowledge-base entities (KDD 2015)
