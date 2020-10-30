@@ -36,6 +36,7 @@ __General Papers__
 16. Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction (WWW 2020)
 17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
 18. Link Prediction on N-ary Relational Data (WWW 2019)
+19. ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs (WWW 2019)
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
@@ -62,6 +63,8 @@ __Papers__
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
 4. Correcting Knowledge Base Assertions (WWW 2020)
 > Also discuss about canonicalization
+5. Learning How to Correct a Knowledge Base from the Edit History (WWW 2019)
+> Apply rule mining
 
 ### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
