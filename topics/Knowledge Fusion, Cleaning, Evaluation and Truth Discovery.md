@@ -34,6 +34,12 @@ __Knowledge Fusion, Cleaning and Evaluation__
 13. Learning Over Dirty Data Without Cleaning [[Paper](https://doi.org/10.1145/3318464.3389708)] (SIGMOD 2020) 🌟
 14. CoClean: Collaborative Data Cleaning [[Paper](https://doi.org/10.1145/3318464.3384698)] (SIGMOD 2020, demo) 🌟
 15. T-REx: Table Repair Explanations [[Paper](https://doi.org/10.1145/3318464.3384700)] (SIGMOD 2020, demo) 🌟
+
+
+
+__Vandalism Detection__
+1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
+
 __Datasets__
 1. Fusion Datasets [[Link](http://lunadong.com/fusionDataSets.htm)]
 
