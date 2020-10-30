@@ -20,6 +20,7 @@ __General NER__
 9. How to Invest my Time: Lessons from HITL Entity Extraction [[Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/how-to-invest-my-time-lessons-from-hitl-entity-extraction), applied science track] (KDD 2019) 🌟
 10. BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) 🌟
 11. Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks (IJCAI 2019) [[PDF](https://www.ijcai.org/Proceedings/2019/0702.pdf)]
+12. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation (WWW 2019)
 
 __Fine-grained NER or Entity Typing__
 1. Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding (PLE, KDD 2016) fine-grained entity typing
