@@ -1,3 +1,5 @@
+## Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding
+
 __Surveys and Experimental Studies__
 1. Knowledge graph embedding: A survey of approaches and applications (TKDE 2017)🌟
 2. Knowledge representation learning: A quantitative review (2018) [[Code in this paper](https://github.com/thunlp/OpenKE)]
@@ -39,7 +41,8 @@ __KG Reasoning__
 3. Reading and Reasoning with Knowledge Graphs (PhD Thesis of Matthew Gardner) [[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)]
 > * Reasoning, Relation Extraction, Modeling Lexical Semantics 
 4. The Vadalog System: Datalog-based Reasoning for Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p975-bellomarini.pdf)] 🌟
-5. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning (TKDE 2018)
+5. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning (TKDE 2018) 🌟
+6. Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning (WWW 2019)
 
 __Rule Mining and Path Finding in KGs__
 1. RuDiK: Rule Discovery in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf), demo] 🌟
