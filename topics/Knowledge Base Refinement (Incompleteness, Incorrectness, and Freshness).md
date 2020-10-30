@@ -39,6 +39,7 @@ __General Papers__
 17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
 18. Link Prediction on N-ary Relational Data (WWW 2019)
 19. ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs (WWW 2019)
+20. A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity (WWW 2019)
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
