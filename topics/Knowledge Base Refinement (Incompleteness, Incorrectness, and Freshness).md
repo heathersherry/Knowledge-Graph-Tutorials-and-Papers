@@ -35,7 +35,7 @@ __General Papers__
 15. Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning (WWW 2020)
 16. Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction (WWW 2020)
 17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
-
+18. Link Prediction on N-ary Relational Data (WWW 2019)
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
