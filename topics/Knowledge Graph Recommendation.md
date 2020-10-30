@@ -7,3 +7,4 @@ __General Papers__
 3. Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems [[Paper](https://arxiv.org/pdf/1905.04413.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/knowledge-aware-graph-neural-networks-with-label-smoothness-regularization-)] (KDD 2019) 
 4. Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion (KDD 2020)
 5. Reinforced Negative Sampling over Knowledge Graph for Recommendation (WWW 2020)
+6. Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences (WWW 2019)
