@@ -26,6 +26,7 @@ __Fine-grained NER or Entity Typing__
 2. AFET: Automatic Fine-Grained Entity Typing byHierarchical Partial-Label Embedding (AFET, EMNLP 2016) fine-grained entity typing
 3. Neural Joint Learning for Classifying Wikipedia Articles into Fine-Grained Named Entity Types (PACLIC, 2016)
 4. Fine-Grained Named Entity Recognition using ELMo and Wikidata (2019) [[Paper]](https://arxiv.org/pdf/1904.10503.pdf)
+5. Fine-grained Type Inference in Knowledge Graphs via Probabilistic and Tensor Factorization Methods (WWW 2019)
 
 __Domain Specific NER__
 1. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition (2019)
