@@ -20,14 +20,18 @@ __KG Queries and Knowledge Search__
 7. Graph-Query Suggestions for Knowledge Graph Exploration (WWW 2020, short paper)
 8. Mining summaries for knowledge graph search (ICDm 2016)
 
-
+__Data Extraction or Knowledge Extraction from The Web__
+1. When Open Information Extraction Meets the Semi-Structured Web (OpenCERES, NAACL 2019)
+2. CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web (CERES, VLDB 2018) 🌟
+3. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)] (SIGMOD 2019) 🌟
+4. RED: Redundancy-Driven Data Extraction from Result Pages (WWW 2019)
 
 __Others__
 1. AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
 > * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts.
-3. When Open Information Extraction Meets the Semi-Structured Web (OpenCERES, NAACL 2019)
-4. CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web (CERES, VLDB 2018) 🌟
+3. 
+4. 
 5. A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs
 6. Extending Graph Patterns with Conditions
 9. LUSTRE: An Interactive System for Entity Structured Representation and Variant Generation (ICDE 2018) [[PDF](https://nikibhutani.github.io/pdfs/lustre_demo.pdf), demo] 🌟
@@ -40,7 +44,7 @@ __Others__
 16. PivotE: Revealing and Visualizing the Underlying Entity Structures for Exploration [[PDF](http://www.vldb.org/pvldb/vol12/p1966-xueran.pdf), demo] (VLDB 2019) 🌟
 17. Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks [[Paper](https://arxiv.org/pdf/1905.08865.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)] (KDD 2019) 🌟
 > * Next work: MultiImport: Inferring node importance in a knowledge graph from multiple input signals [[Paper](https://arxiv.org/abs/2006.12001)] (KDD 2020) 🌟
-18. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)] (SIGMOD 2019) 🌟
+18. 
 19. Automatically Generating Interesting Facts from Wikipedia Tables [[PDF](https://dl.acm.org/citation.cfm?id=3314043), industrial track] (SIGMOD 2019) 🌟
 20. Knowledge Graphs and Enterprise AI: The Promise of an Enabling Technology [[PDF](https://ieeexplore.ieee.org/document/8731350), keynote] (ICDE 2019) 🌟
 21. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
