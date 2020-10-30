@@ -1,3 +1,5 @@
+## Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness)
+
 ### General Knowledge Base Refinement
 
 __Surveys and Evaluations__
@@ -65,6 +67,7 @@ __Papers__
 > Also discuss about canonicalization
 5. Learning How to Correct a Knowledge Base from the Edit History (WWW 2019)
 > Apply rule mining
+6. Predicting ConceptNet Path Quality Using Crowdsourced Assessments of Naturalness (WWW 2019)
 
 ### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
