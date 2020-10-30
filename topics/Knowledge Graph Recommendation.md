@@ -9,3 +9,4 @@ __General Papers__
 5. Reinforced Negative Sampling over Knowledge Graph for Recommendation (WWW 2020)
 6. Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences (WWW 2019)
 7. Jointly Learning Explainable Rules for Recommendation with Knowledge Graph (WWW 2019)
+8. Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation (WWW 2019)
