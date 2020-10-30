@@ -36,3 +36,6 @@ __Product Data Set__
 1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
 2. A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking ((ICCIDS 2019)
 3. Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce (SIGIR 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401067)]
+
+### Applications of Domain-Specific KBs
+1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
