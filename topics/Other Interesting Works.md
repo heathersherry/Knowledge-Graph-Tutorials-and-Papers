@@ -57,3 +57,4 @@ __Others__
 32. Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases (WWW 2020)
 33. Adaptive Low-level Storage of Very Large Knowledge Graphs (WWW 2020)
 34. Be Concise and Precise: Synthesizing Open-Domain Entity Descriptions from Facts (WWW 2019)
+35. Knowledge-Enhanced Ensemble Learning for Word Embeddings (WWW 2019)
