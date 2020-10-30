@@ -5,6 +5,7 @@
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
 
+
 ### Product KBs
 __Keynotes and Tutorials__
 1. Amazon Product Graph [[Slides](http://lunadong.com/talks/PG.pdf)]
@@ -36,6 +37,9 @@ __Product Data Set__
 1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
 2. A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking ((ICCIDS 2019)
 3. Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce (SIGIR 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401067)]
+
+### Taxonomies of Domain Specific KBs
+1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
 
 ### Applications of Domain-Specific KBs
 1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
