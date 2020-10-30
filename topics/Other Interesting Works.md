@@ -56,3 +56,4 @@ __Others__
 31. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
 32. Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases (WWW 2020)
 33. Adaptive Low-level Storage of Very Large Knowledge Graphs (WWW 2020)
+34. Be Concise and Precise: Synthesizing Open-Domain Entity Descriptions from Facts (WWW 2019)
