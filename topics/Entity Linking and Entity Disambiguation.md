@@ -36,7 +36,6 @@ __Notes and Discussions for Entity Linking__
 14. Fast and accurate entity linking via graph embedding (GRADES-NDA'19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3327964.3328499)] [[Slides](https://www.slideshare.net/necstlab/fast-and-accurate-entity-linking-via-graph-embedding)]
 15. A contrastive deep learning approach for entity linkage (ICDM 2020)
 
-
 ### About Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
