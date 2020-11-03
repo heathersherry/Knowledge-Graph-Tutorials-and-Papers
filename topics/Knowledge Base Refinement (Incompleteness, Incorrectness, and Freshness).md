@@ -33,13 +33,14 @@ __General Papers__
 11. Dynamic Knowledge Graph based Multi-Event Forecasting (KDD 2020)
 12. Relation Adversarial Network for Low Resource Knowledge Graph Completion (WWW 2020)
 13. Open Knowledge Enrichment for Long-tail Entities (WWW 2020)
-14. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
+14. A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity (WWW 2019)
 15. Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning (WWW 2020)
 16. Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction (WWW 2020)
 17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
 18. Link Prediction on N-ary Relational Data (WWW 2019)
 19. ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs (WWW 2019)
-20. A Neural Bag-of-Words Modelling Framework for Link Prediction in Knowledge Bases with Sparse Connectivity (WWW 2019)
+
+
 
 ### Knowledge Base Population
 __Survey, Summary and Notes__
@@ -59,6 +60,10 @@ __Papers__
 2. Distantly Supervised Web Relation Extraction for Knowledge Base Population [[Paper](http://www.semantic-web-journal.net/system/files/swj885.pdf)]
 3. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
 4. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
+
+__KBP from External Sources__
+1. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
+> * Define a profit function of source selection 
 
 ### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
