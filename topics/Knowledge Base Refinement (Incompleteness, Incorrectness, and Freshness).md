@@ -55,15 +55,16 @@ __Datasets and Benchmarks__
 2. KnowledgeNet: A Benchmark for Knowledge Base Population (EMNLP 2019) [[Paper, Dataset and Code](https://blog.diffbot.com/knowledgenet-a-benchmark-for-knowledge-base-population/)]
 3. Text Analysis Conference [[Link](https://tac.nist.gov/)]
 
-__Papers__
+__General Papers (KBP from External Sources)__
 1. Entity Disambiguation for Knowledge Base Population (ACL 2010)
 2. Distantly Supervised Web Relation Extraction for Knowledge Base Population [[Paper](http://www.semantic-web-journal.net/system/files/swj885.pdf)]
 3. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
 4. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
+5. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
+> * Define a profit function of source selection, the major idea is similar to the following two papers:
+> * Less is more: Slecting sources wisely for intergration (VLDB 2012) 🌟
+> * Characterizing and Selecting Fresh Data Sources (SIGMOD 2014) [[Paper](http://lunadong.com/publication/selectFreshSources_sigmod.pdf)] 🌟
 
-__KBP from External Sources__
-1. MIDAS: Finding the Right Web Sources to Fill Knowledge Gaps (ICDE 2019) [[Paper](https://people.cs.umass.edu/~ameli/projects/midas/papers/paper364.pdf)] [[Technical Report](https://people.cs.umass.edu/~xlwang/midas-paper.pdf)] 🌟
-> * Define a profit function of source selection 
 
 ### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
