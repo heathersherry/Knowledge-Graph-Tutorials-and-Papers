@@ -4,6 +4,7 @@
 
 __Surveys and Evaluations__
 1. Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods (Semantic Web 2016)
+2. Structured Knowledge: Have we made progress? An extrinsic study of KB coverage over 19 years (CIKM 2020, poster) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3417447)], investigate DBpedia and Wikidata
 4. Efficient Knowledge Graph Accuracy Evaluation [[PDF](https://arxiv.org/pdf/1907.09657.pdf)]  [[techical reprot](https://users.cs.duke.edu/~jygao/KG_eval_vldb_full.pdf)] (VLDB 2019) 🌟
 5. Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases [[PDF](http://www.eurecom.fr/fr/publication/5468/download/data-publi-5468.pdf), demo] (VLDB 2019) 🌟
 
