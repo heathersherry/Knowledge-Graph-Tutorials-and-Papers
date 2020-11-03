@@ -1,9 +1,11 @@
-### Knowledge Base Construction (Demo or System)
+## Knowledge Base Construction (Demo or System)
+Note: This is a very large topic which may contain numerous smaller directions
 
 __Surveys__
 1. A Survey on Automatically Constructed Universal Knowledge Bases (Semantic Web 2018)
 2. A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020) [[Paper](https://arxiv.org/pdf/2002.00388.pdf)]
 3. A survey of techniques for constructing Chinese knowledge graphs and their applications (Sustainability 2018)
+4. Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases (submitted to Foundations and Trends in Databases in 2020) [[Paper](https://arxiv.org/pdf/2009.11564.pdf)]
 
 __Notes__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
