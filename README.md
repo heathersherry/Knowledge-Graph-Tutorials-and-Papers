@@ -67,6 +67,7 @@ Tutorials and Notes from Talented People
 7. [[Survey about Min Hash Sketch](http://www.cohenwang.com/edith/Surveys/minhash.pdf)]
 8. MinHash Tutorial with Python Code: [[Notes](https://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)] [[Code](https://github.com/chrisjmccormick/MinHash)]
 9. Must-read papers on GNN [[GitHub](https://github.com/thunlp/GNNPapers)]
+10. Graph-based deap learning literatures [[GitHub](https://github.com/naganandy/graph-based-deep-learning-literature)]
 
 Useful Tools or APIs
 ====
