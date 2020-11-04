@@ -66,7 +66,6 @@ __General Papers (KBP from External Sources)__
 > * Less is more: Slecting sources wisely for intergration (VLDB 2012) 🌟
 > * Characterizing and Selecting Fresh Data Sources (SIGMOD 2014) [[Paper](http://lunadong.com/publication/selectFreshSources_sigmod.pdf)] 🌟
 
-
 ### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
