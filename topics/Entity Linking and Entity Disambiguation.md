@@ -162,9 +162,13 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 
 ### Unlinkable Mention Predication
 __General__
-1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2011)
+1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2012)
+> * Main idea: Train a classifier wuth features primarily derived from a timestamped corpus
+> * Main contribution: usage patterns di er across time between in-KB entities and out-of-KB entities and they operationalize this idea by computing the best  t line (least-squares regression ) for usage over time. 
 2. Entity Linking at Web Scale (AKBC-WEKEX 2012)
 > * Explores handling these unlinkable entities over 3 steps: Detect Entities, Predict Types, Disambiguation
+3. The Birth of Collective Memories: Analyzing Emerging Entities in Text streams (JASIST 2018)
+> * Track entities that emerge in public discourse (unstructured text) to gain insights into how these are added to Wikipedia.
 
 __Unsupervised__
 1. Using encyclopedic knowledge for named entity disambiguation (2006) [[PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/70.pdf)]
