@@ -1,6 +1,7 @@
 __Surveys__
 1. A Survey on Truth Discovery [[Paper](https://www.kdd.org/exploration_files/Article1_17_2.pdf)] 🌟
 2. Truth Discovery Algorithms: An Experimental Evaluation [[Paper](https://arxiv.org/pdf/1409.6428.pdf)]
+3. A survey on data fusion: what for? in what form? what is next? (Journal of Intelligent Information Systems, 2020) [[Paper](https://link.springer.com/article/10.1007/s10844-020-00627-4)]
 
 __Data Fusion__
 > (I think this is a relatively old topic, people are moving to knowledge fusion)
