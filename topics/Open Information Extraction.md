@@ -45,7 +45,7 @@ __General Papers__
 > * Close to relation clustering
 > * Create a universal scheme by unioning surface form predicates from Open IE and relations in the schemas of pre-existing databases
 10. Canonicalization of Open Knowledge Bases with Side Information from the Source Text [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731346)] (ICDE 2018) 🌟
-11. Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network [[Paper](https://arxiv.org/pdf/2006.09610.pdf)]
+11. Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network （2020）[[Paper](https://arxiv.org/pdf/2006.09610.pdf)]
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases [HAPPY, COLING 2014] [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
