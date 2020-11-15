@@ -13,6 +13,7 @@ __General KGQA__
 6. Answering Natural Language Questions by Subgraph Matching over Knowledge Graphs (TKDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8085196)]
 7. Natural language question answering over RDF: a graph data driven approach (SIGMOD 2014) 🌟
 8. Complex Factoid Question Answering with a Free-Text Knowledge Graph (WWW 2020)
+9. Automated template gener- ation for question answering over knowledge graphs （WWW 2017）
 
 __Some thoughts__
 
