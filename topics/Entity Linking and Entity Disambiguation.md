@@ -35,6 +35,7 @@ __Notes and Discussions for Entity Linking__
 13. A Novel Approach for Analyzing Entity Linking Between Words and Entities for a Knowledge Base Using an Attention-Based Bilinear Joint Learning and Weighted Summation Model (IEEE Access 2019)
 14. Fast and accurate entity linking via graph embedding (GRADES-NDA'19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3327964.3328499)] [[Slides](https://www.slideshare.net/necstlab/fast-and-accurate-entity-linking-via-graph-embedding)]
 15. A contrastive deep learning approach for entity linkage (ICDM 2020)
+16. REL: An Entity Linker Standing on the Shoulders of Giants (SIGIR 2020) [[GitHub, API and Code](https://github.com/informagi/REL)] 
 
 ### About Coherence among Entities
 __Global Coherence__
