@@ -32,8 +32,8 @@ __General Papers__
 23. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
 24. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟
 25. Crowdsourced Collective Entity Resolution with Relational Match Propagation [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1hoQjzDt91Cliyfeds0znodJi9qut2T5T&sa=D&ust=1587488616438000&usg=AFQjCNGUwKR9_tol6E8T_Bqsom4L4cqd3g)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1OJdgNJHFq30LUyfcVI69Bea3wkpKnbcm&sa=D&ust=1587488616438000&usg=AFQjCNHjiZE4zZ71q08MuDrUAcoetNNN0g)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a037/290300a037.pdf)] (ICDE 2020) 🌟
-26. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching [[Paper](https://doi.org/10.1145/3318464.3380597)] (SIGMOD 2020) 🌟
-27. ZeroER: Entity Resolution using Zero Labeled Examples [[Paper](https://doi.org/10.1145/3318464.3389743)] (SIGMOD 2020) 🌟
+26. Gradual Machine Learning for Entity Resolution (WWW 2019)
+27. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
 28. Towards Interpretable and Learnable Risk Analysis for Entity Resolution [[Paper](https://doi.org/10.1145/3318464.3380572)] (SIGMOD 2020) 🌟
 29. Entity Matching in the Wild: a Consistent and Versatile Framework to Unify Data in Industrial Applications [[Paper](https://doi.org/10.1145/3318464.3386143)] (SIGMOD 2020, industry track) 🌟
 30. REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs (KDD 2020)
@@ -47,5 +47,4 @@ __General Papers__
 38. Multi-Context Attention for Entity Matching (WWW 2020, short paper)
 40. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
-42. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
-43. Gradual Machine Learning for Entity Resolution (WWW 2019)
+
