@@ -21,6 +21,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 > * Explicitly exploit labeling rules over unmatched sentences as supervision for training better RE models
 > * The Nero framework has two major modules: (1) The sentence-level relation classifier aims to learn the neural representations of sentences and classify which relation it talks about, which serves as the outcome of Nero. (2) The soft rule matcher: The key intuition behind our soft rule matcher is that the distances between rules and sentences can be modeled by simple cosine computations in a new space transformed from their neural representations (e.g. word embeddings), which can be learned by a contrastive loss. 
 11. MCVAE: Margin-based Conditional Variational Autoencoder for Relation Classification and Pattern Generation (WWW 2019)
+12. ZeroShotCeres: Zero-shot relation extraction from semi-structured webpages (ACL 2020)
 
 __Notes__
 1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
