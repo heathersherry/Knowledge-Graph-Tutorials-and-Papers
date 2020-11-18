@@ -47,4 +47,4 @@ __General Papers__
 38. Multi-Context Attention for Entity Matching (WWW 2020, short paper)
 40. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
-
+42. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
