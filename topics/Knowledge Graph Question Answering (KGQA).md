@@ -1,6 +1,9 @@
+## Knowledge Graph Question Answering (KGQA)
+
 __Surveys__
 1. Core techniques of question answering systems over knowledge bases: a survey (Knowledge and Information Systems 2017) [[Paper](https://link.springer.com/article/10.1007/s10115-017-1100-y)]
 2. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges (2020) [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
+3. Question Answering Summary (not limited to KBQA) [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
 
 
 __General KGQA__
