@@ -1,3 +1,5 @@
+## Knowledge Graph Recommendation
+
 __Surveys__
 1. A Survey on Knowledge Graph-Based Recommender Systems [[Paper](https://arxiv.org/pdf/2003.00911.pdf)]
 
@@ -11,3 +13,8 @@ __General Papers__
 7. Jointly Learning Explainable Rules for Recommendation with Knowledge Graph (WWW 2019)
 8. Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation (WWW 2019)
 9. Knowledge Graph Convolutional Networks for Recommender Systems (WWW 2019)
+10. Towards Knowledge-Based Recommender Dialog System (EMNLP-IJCNLP 2019)
+11. Explianable Reasoning over Knowledge Graphs for Recommendation (AAAI 2019)
+12. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems (CIKM 2018)
+13. Collaborative knowledge base embedding for recommender systems (KDD 2016)
+14. Dbrec—music recommendations using DBpedia (ISWC 2020)
