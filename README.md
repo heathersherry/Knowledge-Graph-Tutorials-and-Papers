@@ -43,19 +43,22 @@ Papers and Materials from Database Area
 
 Tutorials and Notes from Talented People
 =====
-#### About Knowledge Graphs
+#### Tutorials, Discussion and Communities
 1. An introduction to knowledge graph and knowledge extraction from unstructured text. [[Link](https://kgtutorial.github.io)]
-2. https://github.com/impillar/knowledge_graph/blob/master/README.md 
-3. https://github.com/BrambleXu/knowledge-graph-learning
-4. https://github.com/Pelhans/Z_knowledge_graph
-5. https://zhuanlan.zhihu.com/p/44904796
-6. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
-7. [CS 520 - Knowledge Graphs (seminar) - provided by Stanford](https://web.stanford.edu/class/cs520/)
-8. [OpenKG.cn](http://www.openkg.cn/home)
-9. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
-10. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
+2. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
+3. [CS 520 - Knowledge Graphs (seminar) - provided by Stanford](https://web.stanford.edu/class/cs520/)
+4. [OpenKG.cn](http://www.openkg.cn/home)
 
-#### Other Insightful Tutorials or Notes
+#### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
+1. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
+2. KG STOA [[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md)]
+3. Awesome KG tutorials/papers/projects/communities [[GitHub](https://github.com/BrambleXu/knowledge-graph-learning)]
+4. A Tutorial for Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
+5. KG STOA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
+6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
+
+
+#### The Insightful Tutorials or Notes of Other Related Topics
 1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing [[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)]
 2. Introduction to Conditional Random Fields [[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)]
 3. Network Community Detection: A Review and Visual Survey [[Paper](https://arxiv.org/pdf/1708.00977.pdf)]
