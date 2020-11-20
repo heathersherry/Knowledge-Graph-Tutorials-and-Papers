@@ -53,6 +53,7 @@ Tutorials and Notes from Talented People
 7. [CS 520 - Knowledge Graphs (seminar) - provided by Stanford](https://web.stanford.edu/class/cs520/)
 8. [OpenKG.cn](http://www.openkg.cn/home)
 9. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
+10. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
 
 #### Other Insightful Tutorials or Notes
 1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing [[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)]
