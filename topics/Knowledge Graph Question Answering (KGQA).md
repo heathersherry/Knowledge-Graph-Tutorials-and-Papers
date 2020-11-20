@@ -18,6 +18,10 @@ __General KGQA__
 8. Complex Factoid Question Answering with a Free-Text Knowledge Graph (WWW 2020)
 9. Automated template gener- ation for question answering over knowledge graphs （WWW 2017）
 10. Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases (WWW 2018)
+11. Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (ICLR 2020)
+12. An Interpretable Reasoning Network for Multi-Relation Question Answering (COLING 2018)
+13. Pattern-revising Enhanced Simple Question Answering over Knowledge Bases (COLING 2018)
+14. TEQUILA: Temporal Question Answering over Knowledge Bases (CIKM 2018)
 
 __Some thoughts__
 
