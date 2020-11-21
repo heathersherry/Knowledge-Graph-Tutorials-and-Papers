@@ -45,6 +45,6 @@ __General Papers__
 36. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation (AAAI 2020) [[Paper](https://arxiv.org/pdf/1911.08936.pdf)]
 37. Collective Multi-type Entity Alignment Between Knowledge Graphs (WWW 2020)
 38. Multi-Context Attention for Entity Matching (WWW 2020, short paper)
-40. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
+40. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020) [[Paper](https://arxiv.org/pdf/1912.03417.pdf)]
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
 42. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
