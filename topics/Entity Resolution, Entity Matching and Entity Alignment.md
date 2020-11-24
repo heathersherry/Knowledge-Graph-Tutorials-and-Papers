@@ -48,3 +48,10 @@ __General Papers__
 40. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020) [[Paper](https://arxiv.org/pdf/1912.03417.pdf)]
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
 42. AutoBlock: A Hands-off Blocking Framework for Entity Matching (WSDM 2020)
+
+__Blocking Techniques__
+1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
+2. A noise tolerant and schema-agnostic blocking technique for entity resolution (SAC 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3297280.3299730)]
+
+__Awesome Tools/Repos__
+1. JedAIToolkit [[GitHub](https://github.com/scify/JedAIToolkit)]
