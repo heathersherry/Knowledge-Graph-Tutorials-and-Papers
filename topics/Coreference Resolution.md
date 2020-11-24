@@ -1,3 +1,5 @@
+## Coreference Resolution
+
 __Surveys and Analysis__
 1. NLP progress for Coreference Resolution [[Github](https://github.com/sebastianruder/NLP-progress/blob/master/english/coreference_resolution.md)]
 2. Coreference Resolution: A Survey (2005) [[Paper](https://ccc.inaoep.mx/~villasen/index_archivos/cursoTATII/EntidadesNombradas/Elango-SurveyCoreferenceResolution.pdf)]
