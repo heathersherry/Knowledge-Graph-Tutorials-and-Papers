@@ -88,8 +88,11 @@ Useful Tools or APIs
 9. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
 
 #### Benchmark Datasets
-1. Entity Disambiguation: MSNBC and ACE2004 [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
-2. QA: WebQuestions
+1. Entity Disambiguation: 
+* MSNBC and ACE2004 [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
+2. QA: 
+* WebQuestions
+* QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
 3. Entity Resolution [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
  
 #### Other Useflul Tools
