@@ -58,7 +58,7 @@ Tutorials and Notes from Talented People
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
 
 
-#### The Insightful Tutorials or Notes of Other Related Topics
+#### Tutorials and Notes of Other Insightful Topics
 1. Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing [[Slides](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)]
 2. Introduction to Conditional Random Fields [[Blog](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)]
 3. Network Community Detection: A Review and Visual Survey [[Paper](https://arxiv.org/pdf/1708.00977.pdf)]
