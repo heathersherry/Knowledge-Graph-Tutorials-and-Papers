@@ -1,3 +1,4 @@
+## Knowledge Fusion, Data Fusion and Truth Discovery
 __Surveys__
 1. A Survey on Truth Discovery [[Paper](https://www.kdd.org/exploration_files/Article1_17_2.pdf)] 🌟
 2. Truth Discovery Algorithms: An Experimental Evaluation [[Paper](https://arxiv.org/pdf/1409.6428.pdf)]
@@ -37,8 +38,6 @@ __Knowledge Fusion, Cleaning and Evaluation__
 15. T-REx: Table Repair Explanations [[Paper](https://doi.org/10.1145/3318464.3384700)] (SIGMOD 2020, demo) 🌟
 16. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
 17. Tracy: Tracing Facts over Knowledge Graphs and Text (WWW 2019, short)
-
-
 
 __Vandalism Detection__
 1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
