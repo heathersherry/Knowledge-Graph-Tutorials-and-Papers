@@ -1,4 +1,4 @@
-## Knowledge Fusion, Data Fusion and Truth Discovery
+## Knowledge Fusion, Data Fusion, and Truth Discovery
 __Surveys__
 1. A Survey on Truth Discovery [[Paper](https://www.kdd.org/exploration_files/Article1_17_2.pdf)] 🌟
 2. Truth Discovery Algorithms: An Experimental Evaluation [[Paper](https://arxiv.org/pdf/1409.6428.pdf)]
