@@ -17,7 +17,7 @@ __General KGQA__
 7. Natural language question answering over RDF: a graph data driven approach (SIGMOD 2014) 🌟
 8. Complex Factoid Question Answering with a Free-Text Knowledge Graph (WWW 2020)
 9. Automated template generation for question answering over knowledge graphs （WWW 2017） [[Paper](https://dl.acm.org/doi/pdf/10.1145/3038912.3052583)]
-10. Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases (WWW 2018)
+10. Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases (WWW 2018) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186004)]
 11. Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (ICLR 2020)
 12. An Interpretable Reasoning Network for Multi-Relation Question Answering (COLING 2018)
 13. Pattern-revising Enhanced Simple Question Answering over Knowledge Bases (COLING 2018)
