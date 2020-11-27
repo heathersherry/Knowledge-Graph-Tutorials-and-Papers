@@ -56,6 +56,7 @@ Tutorials and Notes from Talented People
 4. A Tutorial for Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
 5. KG STOA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
+7. Works Related to KG Embeddings [[GitHub](https://github.com/xinguoxia/KGE)]
 
 
 #### Tutorials and Notes of Other Insightful Topics
