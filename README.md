@@ -53,10 +53,10 @@ Tutorials and Notes from Talented People
 1. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
 2. KG STOA [[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md)]
 3. Awesome KG tutorials/papers/projects/communities [[GitHub](https://github.com/BrambleXu/knowledge-graph-learning)]
-4. A Tutorial for Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
+4. Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
 5. KG STOA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
-7. Works Related to KG Embeddings [[GitHub](https://github.com/xinguoxia/KGE)]
+7. KG Embedding STOA [[GitHub](https://github.com/xinguoxia/KGE)]
 
 
 #### Tutorials and Notes of Other Insightful Topics
