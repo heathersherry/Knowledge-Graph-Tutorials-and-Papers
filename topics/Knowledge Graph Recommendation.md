@@ -18,3 +18,7 @@ __General Papers__
 12. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems (CIKM 2018)
 13. Collaborative knowledge base embedding for recommender systems (KDD 2016)
 14. Dbrec—music recommendations using DBpedia (ISWC 2020)
+15. Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019) 
+
+__Related Reading__
+1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
