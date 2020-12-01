@@ -10,6 +10,7 @@ __Surveys and Experimental Studies__
 __Summary__
 1. Papers, Surveys, and Datasets on Knowledge Graph Embedding (KGE) [[GitHub](https://github.com/xinguoxia/KGE)]
 2. Knowledge Graph Reasoning: Recent Advances (Slides) [[Link](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)]
+3. KG Embedding Approaches [[Link](https://gist.github.com/mommi84/07f7c044fa18aaaa7b5133230207d8d4)]
 
 __General KG Embedding and KG Representation__
 1. DeepWalk: Online Learning of Social Representations (DeepWalk, KDD 2014) [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
