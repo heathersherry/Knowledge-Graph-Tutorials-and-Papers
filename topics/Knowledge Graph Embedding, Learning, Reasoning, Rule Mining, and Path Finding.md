@@ -29,6 +29,7 @@ __General KG Embedding and KG Representation__
 11. TransN: Heterogeneous Network Representation Learning by Translating Node Embeddings [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1-KH4NUD2LNN1ESvbXTUfu3HDOYXYylqx&sa=D&ust=1595668107927000&usg=AFQjCNF74glNGWzt3FmGSo5W9th8VGfGwQ)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1CAuwlXPIV1rLXZFHvln-VvoSr3IRtM59&sa=D&ust=1595668107927000&usg=AFQjCNELQ0Q52103E2s_vziBq5_jF9TOdQ)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a589/290300a589.pdf)] (ICDE 2020) 🌟
 12. Generalized Translation-Based Embedding of Knowledge Graph (TKDE 2020) 🌟
 13. Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding (NeurIPS 2020) [[Paper](https://proceedings.neurips.cc/paper/2020/file/722caafb4825ef5d8670710fa29087cf-Paper.pdf)]
+14. DGL-KE: Training Knowledge Graph Embeddings at Scale (SIGIR 2020) [[Paper](https://arxiv.org/pdf/2004.08532.pdf)] [[Code](https://github.com/awslabs/dgl-ke)]
 
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
