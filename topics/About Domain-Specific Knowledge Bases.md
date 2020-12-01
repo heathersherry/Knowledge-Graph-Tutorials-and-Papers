@@ -1,10 +1,12 @@
 ## About Domain Specific KBs
 
+### Tutorials
+1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
+
 ### General Papers
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
-
 
 ### Product KBs
 __Keynotes and Tutorials__
