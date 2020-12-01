@@ -13,7 +13,7 @@ __Summary__
 3. KG Embedding Approaches [[Link](https://gist.github.com/mommi84/07f7c044fa18aaaa7b5133230207d8d4)]
 
 __General KG Embedding and KG Representation__
-1. DeepWalk: Online Learning of Social Representations (DeepWalk, KDD 2014) [Code] (https://github.com/phanein/deepwalk Slides: https://www.slideshare.net/bperz/14-kdddeep-walk-2)
+1. DeepWalk: Online Learning of Social Representations (DeepWalk, KDD 2014) [[Code](https://github.com/phanein/deepwalk) [Slides](https://www.slideshare.net/bperz/14-kdddeep-walk-2)]
 > * Use a sentence embedding model
 2. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
 > * Has time and location info
