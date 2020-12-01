@@ -27,6 +27,7 @@ __General KGQA__
 14. TEQUILA: Temporal Question Answering over Knowledge Bases (CIKM 2018)
 15. FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase (NAACL 2019) [[Paper](https://www.aclweb.org/anthology/N19-1028.pdf)]
 16. Knowledge Graph Embedding Based Question Answering (WSDM 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)] [[Code](https://github.com/xhuang31/KEQA_WSDM19)]
+17. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering (AAAI 2020) [[Paper] (https://arxiv.org/pdf/1909.05311.pdf)]
 
 __Some thoughts__
 
