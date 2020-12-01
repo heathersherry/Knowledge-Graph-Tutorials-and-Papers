@@ -104,3 +104,4 @@ Useful Tools or APIs
 5. BOOKNLP [[Link](https://github.com/dbamman/book-nlp)] (Pronominal Coreference Resolution, a natural language processing pipeline that scales to books and other long documents (in English))
 6. Wikidata Integrator [[GitHub](https://github.com/SuLab/WikidataIntegrator)]
 7. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
+8. Grakn KGLIB (Knowledge Graph Library) [[GitHub](https://github.com/graknlabs/kglib)]
