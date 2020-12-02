@@ -60,3 +60,6 @@ __Blocking Techniques__
 
 __Awesome Tools/Repos__
 1. JedAIToolkit [[GitHub](https://github.com/scify/JedAIToolkit)]
+
+__Datasets__
+1. Clean-Clean ER datasets and Dirty ER datasets [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
