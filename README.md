@@ -74,6 +74,7 @@ Tutorials and Notes from Talented People
 9. Must-read papers on GNN [[GitHub](https://github.com/thunlp/GNNPapers)]
 10. Graph-based deap learning literatures [[GitHub](https://github.com/naganandy/graph-based-deep-learning-literature)]
 11. Data Management for Machine Learning Applications [[Course site](https://thodrek.github.io/CS839_spring18/)]
+12. Stanford CS224W: Machine Learning with Graphs [[Course site](http://web.stanford.edu/class/cs224w/)]
 
 Useful Tools or APIs
 ====
