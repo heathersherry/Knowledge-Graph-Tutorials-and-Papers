@@ -55,3 +55,4 @@ __Rule Mining and Path Finding in KGs__
 
 __Related Reading__
 1. Awesome Embeddings [[GitHub](https://arxiv.org/pdf/2004.08532.pdf)]
+2. Stanford CS224W - Knowledge Graph Reasoning [[Slides](http://web.stanford.edu/class/cs224w/slides/17-knowledge.pdf)]
