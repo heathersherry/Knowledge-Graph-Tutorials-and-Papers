@@ -13,3 +13,4 @@ __Others__
 1. NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
 2. FAST-PPR: Personalized PageRank Estimation for Large Graphs [[Slides](https://cs.stanford.edu/people/plofgren/Fast-PPR_KDD_Talk.pdf)]
 3. Graph Theory [[PDF](http://math.tut.fi/~ruohonen/GT_English.pdf)]
+4. Graph Theory [[PDF](https://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)]
