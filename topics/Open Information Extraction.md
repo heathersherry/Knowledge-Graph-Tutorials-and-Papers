@@ -67,3 +67,4 @@ __Related Works__
 > * Solving a joint optimization problem to unify (1) segmenting entity/relation phrases in individual sentences based on local context; and (2) measuring the quality of tuples extracted from individual sentences with a translating-based objective.
 2. Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020, short paper)
 3. OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference (NAACL 2019)
+4. On Aligning OpenIE Extractions with Knowledge Bases: A Case Study (ACL 2020) [[Paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14.pdf)]
