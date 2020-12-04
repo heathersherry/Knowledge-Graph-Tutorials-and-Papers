@@ -31,6 +31,12 @@ __General KG Embedding and KG Representation__
 12. Generalized Translation-Based Embedding of Knowledge Graph (TKDE 2020) 🌟
 13. Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding (NeurIPS 2020) [[Paper](https://proceedings.neurips.cc/paper/2020/file/722caafb4825ef5d8670710fa29087cf-Paper.pdf)]
 14. DGL-KE: Training Knowledge Graph Embeddings at Scale (SIGIR 2020) [[Paper](https://arxiv.org/pdf/2004.08532.pdf)] [[Code](https://github.com/awslabs/dgl-ke)]
+15. Iterative Entity Alignment via Joint Knowledge Embeddings (IJCAI 2017) [[Paper](https://www.ijcai.org/Proceedings/2017/0595.pdf)] [[Slides](http://www.zhuhao.me/static/zhu17iterative/zhu17iterative_slides.pdf)]
+16. Representation Learning of Knowledge Graphs with Hierarchical Types (IJCAI 2016) [[Paper](https://www.ijcai.org/Proceedings/16/Papers/421.pdf)] 
+> *  relation prediction: predict relations between two given entities, i.e., (h; ?; t).
+17. Modeling Relation Paths for Representation Learning of Knowledge Bases (EMNLP 2015) [[Paper](https://www.aclweb.org/anthology/D15-1082.pdf)] [[Code](https://github.com/mrlyk423/relation_extraction)]
+> *  relation prediction: predict relations between two given entities, i.e., (h; ?; t).
+
 
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
