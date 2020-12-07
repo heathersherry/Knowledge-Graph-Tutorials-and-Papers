@@ -42,6 +42,11 @@ __Knowledge Fusion, Cleaning and Evaluation__
 __Vandalism Detection__
 1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
 
+__Malicious Participant Detection__
+1. Truth discovery for spatio-temporal events from crowdsourced data (VLDB 2017) [[Paper](https://dl.acm.org/doi/pdf/10.14778/3137628.3137662)] 🌟
+2. Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation (SIGMOD 2014) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2588555.2610509)] 🌟 (only mention malicious sources in one sentence)
+3. Reputation-Aware Data Fusion and Malicious Participant Detection in Mobile Crowdsensing (2018 IEEE International Conference on Big Data (Big Data)) [[Paper](https://ieeexplore.ieee.org/abstract/document/8622335)]
+
 __Datasets__
 1. Fusion Datasets [[Link](http://lunadong.com/fusionDataSets.htm)]
 
