@@ -11,7 +11,7 @@ __Data Fusion__
 2. Integrating conflicting data: the role of source dependence (VLDB 2009), the most classical one. 🌟
 3. Fusing data with correlations (SIGMOD 2014) 🌟
 4. Truth discovery and copying detection in a dynamic world (VLDB 2009) 🌟
-5. Global detection of complex copying relationships between sources (VLDB 2010) 🌟
+5. Global detection of complex copying relationships between sources (VLDB 2010) [[Paper](https://dl.acm.org/doi/pdf/10.14778/1920841.1921008)] 🌟 
 6. Online data fusion (VLDB 2011) 🌟
 7. Compact explanation of data fusion decisions (WWW 2013)
 8. Truth finding on the Deep Web: Is the problem solved? (VLDB 2013) 🌟
