@@ -8,6 +8,7 @@ __General Papers__
 
 __Some Graph things__
 1. On the Minimum Common Supergraph of Two Graphs
+2. Graph Indexing: A Frequent Structure-based Approach (SIGMOD 2004) [[Paper](https://dl.acm.org/doi/pdf/10.1145/1007568.1007607)]
 
 __Others__
 1. NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
