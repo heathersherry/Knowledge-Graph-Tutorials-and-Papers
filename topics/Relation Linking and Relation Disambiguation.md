@@ -10,5 +10,6 @@ __Joint Entity and Relation Linking__
 3. EARL: Joint Entity and Relation Linking for Question Answering (EARL, ISWC 2018) [[Paper](https://arxiv.org/abs/1801.03825)][[Code](https://github.com/AskNowQA/EARL)] (DBpedia)
 4. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf)]
 5. Joint Entity Linking and Relation Extraction with Neural Networks for Knowledge Base Population (IJCNN 2020) [[Paper](https://ieeexplore.ieee.org/abstract/document/9207021)]
+6. J-REED: Joint Relation Extraction and Entity Disambiguation (CIKM 2017 short paper) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3133090)]
 
 
