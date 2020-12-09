@@ -89,6 +89,7 @@ __Relax the Global Coherence Assumption__
 > * Graph-based models treat all candidate entities equally which may introduce much noise information
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
+> * The same first author as "Joint entity linking with deep reinforcement learning (WWW 2019)"
 
 __Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
