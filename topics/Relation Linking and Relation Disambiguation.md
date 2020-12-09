@@ -13,5 +13,6 @@ __Joint Entity and Relation Linking__
 > * Relations are pre-defined based on the target knowledge base.
 > * Neural networks are applied to automatically encode sentence semantics, which is a powerful way to model large-scale noisy text.
 6. J-REED: Joint Relation Extraction and Entity Disambiguation (CIKM 2017 short paper) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3133090)]
-
+> * J-REED is based on probabilistic graphical models that captures the interdependencies between entities and relations.
+> * J-REED consides which lexical types of entities are compatible with the type signature of which relation (but the experiments are only conducted on the PERSON-type entities).
 
