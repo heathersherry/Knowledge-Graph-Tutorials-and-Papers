@@ -1,5 +1,8 @@
 
 ## Entity Linking and Entity Disambiguation
+
+### 1. Summary
+
 __Surveys and Analysis__
 1. Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions (TKDE 2014) [[Paper](https://ieeexplore.ieee.org/abstract/document/6823700)] 🌟
 2. Neural Entity Linking: A Survey of Models based on Deep Learning (2020) [[Paper](https://arxiv.org/pdf/2006.00575.pdf)]
@@ -19,7 +22,7 @@ __Notes and Discussions for Entity Linking__
 5. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
 
 
-### General Papers
+### 2. General Papers
 1. Zero-Shot Entity Linking by Reading Entity Descriptions (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-1335.pdf)][[Code and Datasets](https://github.com/lajanugen/zeshel)]
 2. Keyphrase Overlap Relatedness for Entity Disambiguation (CIKM 2012), LSH 🌟
 3. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text (NAACL 2019), with Relation Linking
@@ -37,7 +40,7 @@ __Notes and Discussions for Entity Linking__
 15. A contrastive deep learning approach for entity linkage (ICDM 2020)
 16. REL: An Entity Linker Standing on the Shoulders of Giants (SIGIR 2020) [[GitHub, API and Code](https://github.com/informagi/REL)] 
 
-### About Coherence among Entities
+### 3.About Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
 2. Robust Disambiguation of Named Entities in Text (EMNLP 2011)
@@ -98,7 +101,7 @@ __Some related works__
 > * Claim that the one-pass sequential decision should consider both positive feedback and negative feedback.
 
 
-### Entity Linking with Type Info
+### 4. Entity Linking with Type Info
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/EL_with_type.png" width="400"/>
 
@@ -118,15 +121,17 @@ __Some related works__
 > * Paper 3,4,5,6 rely on extensive annotation of the type of mentions
 7. DeepType Multilingual Entity Linking by Neural Type System Evolution
 
-### Meta EL
+### 5. Meta EL
 Note: how to combine the outputs of multiple EL tools for providing a unified set of entity annotations?
 1. Better Together - An Ensemble Learner for Combining the Results of Ready-made Entity Linking Systems (SAC 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3341105.3373883)]
 2. A Novel Ensemble Method for Named Entity Recognition and Disambiguation Based on Neural Network (ISWC 2018)
 3. MicroNeel: Combining NLP Tools to Perform Named Entity Detection and Linking on Microposts (Final Workshop 7 December 2016, Naples. 2016)
 4. Combining open source annotators for entity linking through weighted voting (SEM 2015)
+5. Joint posterior revision of NLP annotations via ontological knowledge (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2018/0600.pdf)]
+6. (Extended Version of Paper 5) Knowledge-driven joint posterior revision of named entity classification and linking (Journal of Web Semantics, 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826820300500)]
 
 
-### Joint NER and EL
+### 6. Joint NER and EL
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/joint%20NER%20and%20EL.png" width="400"/>
 
@@ -162,7 +167,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 9. End-to-End Neural Entity Linking (CoNLL 2018) [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)] [[Notes 1](https://blog.csdn.net/u010960155/article/details/106387771)] [[Notes 2](http://pelhans.com/2019/02/22/entity_linking/#end-to-end-neural-entity-linking)]
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
 
-### Unlinkable Mention Predication
+### 7. Unlinkable Mention Predication
 __General__
 1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2012)
 > * Main idea: Train a classifier wuth features primarily derived from a timestamped corpus
@@ -209,12 +214,12 @@ __Supervised__
 11. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-CoNLL ’12)
 > * Train a classifier with features primarily derived from a timestamped corpus.
 
-### Entity Embeddings (Pre-trained)
+### 8. Entity Embeddings (Pre-trained) and Entity Representation for EL
 1. Wembedder: Wikidata entity embedding web service [[Intro](https://arxiv.org/pdf/1710.04099.pdf)] [[Github](https://github.com/fnielsen/wembedder)] [[Web service](https://tools.wmflabs.org/wembedder/)]
 > * Web service: only the "most similar" service.
 2. Pre-trained embeddings for Wikidata [[Link](https://torchbiggraph.readthedocs.io/en/latest/pretrained_embeddings.html)]
 3. Pre-trained embeddings [[Link](http://139.129.163.161/index/toolkits)]
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
-
+4. EntEval: A Holistic Evaluation Benchmark for Entity Representations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1909.00137)]
  
 
