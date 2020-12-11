@@ -40,7 +40,7 @@ __Notes and Discussions for Entity Linking__
 15. A contrastive deep learning approach for entity linkage (ICDM 2020)
 16. REL: An Entity Linker Standing on the Shoulders of Giants (SIGIR 2020) [[GitHub, API and Code](https://github.com/informagi/REL)] 
 
-### 3.About Coherence among Entities
+### 3. About Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
 2. Robust Disambiguation of Named Entities in Text (EMNLP 2011)
