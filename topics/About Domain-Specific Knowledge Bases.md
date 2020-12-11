@@ -45,3 +45,6 @@ __Product Data Set__
 
 ### Applications of Domain-Specific KBs
 1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
+
+### Personalized KB
+1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
