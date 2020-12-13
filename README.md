@@ -90,6 +90,7 @@ Useful Tools or APIs
 7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
 8. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
 9. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
+10. PIKES [[Link](http://pikes.fbk.eu)]
 
 #### Benchmark Datasets
 1. Entity Disambiguation: 
