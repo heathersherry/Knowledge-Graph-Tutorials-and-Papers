@@ -196,6 +196,7 @@ __Unsupervised__
 > Discover novel entities in news and Web data by exploring multiple feature spaces, including context, neural embedding, topical, query and lexical spaces
 12. The Birth of Collective Memories: Analyzing Emerging Entities in Text streams (JASIST 69, 2018)
 > * Track entities that emerge in public discourse to gain insights into how these are added to Wikipedia.
+13. Knowledge-driven joint posterior revision of named entity classification and linking (Journal of Web Semantics, 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826820300500)]
 
 __Supervised__
 1. NUS-I2R: Learning a combined system for entity linking (TAC workshop 2010)
