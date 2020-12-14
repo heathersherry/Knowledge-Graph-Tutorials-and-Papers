@@ -6,7 +6,6 @@ __Data Integration and Knowledge Integration__
 5. Bayesian Networks for Data Integration in the Absence of Foreign Keys (TKDE 2020) 🌟
 29. Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks [[Paper](https://doi.org/10.1145/3318464.3389742)] (SIGMOD 2020) 🌟
 
-
 __KG and Blockchains__
 1. BlockChain + KG [[Link](https://mp.weixin.qq.com/s/8arlkjwqUGNfxQKkwbf28g)]
 
@@ -26,12 +25,16 @@ __Data Extraction or Knowledge Extraction from The Web__
 3. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)] (SIGMOD 2019) 🌟
 4. RED: Redundancy-Driven Data Extraction from Result Pages (WWW 2019)
 
+__AIOps (Artificial Intelligence for IT Operations)__
+1. WeBank project - AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
+2. Paper Summary (Chinese) [[Link](https://mp.weixin.qq.com/s/ILXnXQulDVFwmHdNtEcXng)]
+
+
+
 __Others__
-1. AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
+
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
-> * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts.
-3. 
-4. 
+> * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts. 
 5. A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs
 6. Extending Graph Patterns with Conditions
 9. LUSTRE: An Interactive System for Entity Structured Representation and Variant Generation (ICDE 2018) [[PDF](https://nikibhutani.github.io/pdfs/lustre_demo.pdf), demo] 🌟
