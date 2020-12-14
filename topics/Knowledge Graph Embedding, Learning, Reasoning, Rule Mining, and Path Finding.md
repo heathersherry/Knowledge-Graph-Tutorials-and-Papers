@@ -46,6 +46,9 @@ __Dynamic Embedding__
 5. Efficiently Embedding Dynamic Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 
 __KG Reasoning__
+
+Summary：[[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
+
 1. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (Know-Evolve, ICML 2017)[[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[Code (C++)](https://github.com/rstriv/Know-Evolve)]
 2. DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning (DeepPath, EMNLP 2017) [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
 3. Reading and Reasoning with Knowledge Graphs (PhD Thesis of Matthew Gardner) [[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)]
