@@ -41,6 +41,9 @@ __General Papers__
 18. Link Prediction on N-ary Relational Data (WWW 2019)
 19. ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs (WWW 2019)
 
+__Projects__
+1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
+
 
 
 ### Knowledge Base Population
