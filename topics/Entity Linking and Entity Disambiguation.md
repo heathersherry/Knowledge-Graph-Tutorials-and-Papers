@@ -39,6 +39,7 @@ __Notes and Discussions for Entity Linking__
 14. Fast and accurate entity linking via graph embedding (GRADES-NDA'19) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3327964.3328499)] [[Slides](https://www.slideshare.net/necstlab/fast-and-accurate-entity-linking-via-graph-embedding)]
 15. A contrastive deep learning approach for entity linkage (ICDM 2020)
 16. REL: An Entity Linker Standing on the Shoulders of Giants (SIGIR 2020) [[GitHub, API and Code](https://github.com/informagi/REL)] 
+17. A probabilistic model for linking named entities in web text with heterogeneous information networks（SIGMOD 2014）[[Paper](https://dl.acm.org/doi/10.1145/2588555.2593676)]
 
 ### 3. About Coherence among Entities
 __Global Coherence__
