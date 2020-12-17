@@ -224,5 +224,7 @@ __Supervised__
 3. Pre-trained embeddings [[Link](http://139.129.163.161/index/toolkits)]
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
 4. EntEval: A Holistic Evaluation Benchmark for Entity Representations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1909.00137)]
- 
+
+### 9. Entity Linking Evaluation Platform
+1. Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
 
