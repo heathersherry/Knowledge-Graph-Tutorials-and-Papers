@@ -128,7 +128,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 2. A Novel Ensemble Method for Named Entity Recognition and Disambiguation Based on Neural Network (ISWC 2018)
 3. MicroNeel: Combining NLP Tools to Perform Named Entity Detection and Linking on Microposts (Final Workshop 7 December 2016, Naples. 2016)
 4. Combining open source annotators for entity linking through weighted voting (SEM 2015)
-5. Joint posterior revision of NLP annotations via ontological knowledge (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2018/0600.pdf)] [[Slides](https://marcorospocher.com/files/slides/2018scc_slides.pdf)] [[Details](https://pikes.fbk.eu/jpark.html)] 🌟
+5. Joint posterior revision of NLP annotations via ontological knowledge (IJCAI 2018) [[Paper](https://www.ijcai.org/Proceedings/2018/0600.pdf)] [[Slides](https://marcorospocher.com/files/slides/2018scc_slides.pdf)] [[Details](https://pikes.fbk.eu/jpark.html)] 🌟
 6. (Extended Version of Paper 5) Knowledge-driven joint posterior revision of named entity classification and linking (Journal of Web Semantics, 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826820300500)]
 7. (Extended reading for Paper 5, same research group) An Ontology-Driven Probabilistic Soft Logic Approach to Improve NLP Entity Annotations (ISWC 2018) [[Slides](https://marcorospocher.com/files/slides/2018iswc_research_slides.pdf)]
 
