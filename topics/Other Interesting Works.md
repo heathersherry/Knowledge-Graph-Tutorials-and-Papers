@@ -30,9 +30,8 @@ __AIOps (Artificial Intelligence for IT Operations)__
 2. Paper Summary (Chinese) [[Link](https://mp.weixin.qq.com/s/ILXnXQulDVFwmHdNtEcXng)]
 
 
-
 __Others__
-
+1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
 > * Event KB. Each news article is regarded as a event. Build the semantic similarity relations and the tmporal relations between evernts. 
 5. A Generic Ontology Framework for Indexing Keyword Search on Massive Graphs
