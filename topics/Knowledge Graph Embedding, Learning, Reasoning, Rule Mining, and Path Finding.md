@@ -1,5 +1,6 @@
 ## Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding
 
+### 1. Surveys and Summary
 __Surveys and Experimental Studies__
 1. Knowledge graph embedding: A survey of approaches and applications (TKDE 2017)🌟
 2. Knowledge representation learning: A quantitative review (2018) [[Code in this paper](https://github.com/thunlp/OpenKE)]
@@ -12,7 +13,14 @@ __Summary__
 2. Knowledge Graph Reasoning: Recent Advances (Slides) [[Link](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)]
 3. KG Embedding Approaches [[Link](https://gist.github.com/mommi84/07f7c044fa18aaaa7b5133230207d8d4)]
 
-__General KG Embedding and KG Representation__
+__Related Reading__
+1. Awesome Embeddings [[GitHub](https://arxiv.org/pdf/2004.08532.pdf)]
+2. Stanford CS224W - Knowledge Graph Reasoning [[Slides](http://web.stanford.edu/class/cs224w/slides/17-knowledge.pdf)]
+3. Random Walk in Node Embeddings (DeepWalk, node2vec, LINE, and GraphSAGE) [[Link](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493)]
+
+
+### 2. KG Embedding and KG Representation
+__General Papers__
 1. DeepWalk: Online Learning of Social Representations (DeepWalk, KDD 2014) [[Code](https://github.com/phanein/deepwalk), [Slides](https://www.slideshare.net/bperz/14-kdddeep-walk-2)]
 > * Use a sentence embedding model
 2. EventKG: A Multilingual Event-Centric Temporal Knowledge Graph
@@ -37,7 +45,6 @@ __General KG Embedding and KG Representation__
 17. Modeling Relation Paths for Representation Learning of Knowledge Bases (EMNLP 2015) [[Paper](https://www.aclweb.org/anthology/D15-1082.pdf)] [[Code](https://github.com/mrlyk423/relation_extraction)]
 > *  relation prediction: predict relations between two given entities, i.e., (h; ?; t).
 
-
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
 2. DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS [ICLR 2019] [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
@@ -45,10 +52,15 @@ __Dynamic Embedding__
 4. Continuous-Time Dynamic Network Embeddings [WWW 2018] [[Paper](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)]
 5. Efficiently Embedding Dynamic Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 
-__KG Reasoning__
+__Related Reading__
+1.
+2. 
 
-Summary：[[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
+### 3. KG Reasoning
+__Summary__
+1. Knowledge Graph Reasoning Papers [[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
 
+__General Papers__
 1. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (Know-Evolve, ICML 2017)[[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[Code (C++)](https://github.com/rstriv/Know-Evolve)]
 2. DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning (DeepPath, EMNLP 2017) [Code](https://github.com/xwhan/DeepPath Notes: https://zhuanlan.zhihu.com/p/33536026)
 3. Reading and Reasoning with Knowledge Graphs (PhD Thesis of Matthew Gardner) [[Thesis](http://www.cs.cmu.edu/~mg1/thesis.pdf)]
@@ -57,12 +69,9 @@ Summary：[[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)
 5. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning (TKDE 2018) 🌟
 6. Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning (WWW 2019)
 
-__Rule Mining and Path Finding in KGs__
+### 4. Rule Mining and Path Finding in KGs
+__General Papers__
 1. RuDiK: Rule Discovery in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf), demo] 🌟
 2. Discovering Diversified Paths in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p2002-aebeloe.pdf), demo] 🌟
 3. Robust Discovery of Positive and Negative Rules in Knowledge Bases (ICDE 2018) [[PDF](http://www.eurecom.fr/fr/publication/5321/download/data-publi-5321_2.pdf)] 🌟
 
-__Related Reading__
-1. Awesome Embeddings [[GitHub](https://arxiv.org/pdf/2004.08532.pdf)]
-2. Stanford CS224W - Knowledge Graph Reasoning [[Slides](http://web.stanford.edu/class/cs224w/slides/17-knowledge.pdf)]
-3. Random Walk in Node Embeddings (DeepWalk, node2vec, LINE, and GraphSAGE) [[Link](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493)]
