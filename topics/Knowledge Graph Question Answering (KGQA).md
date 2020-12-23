@@ -1,13 +1,11 @@
 ## Knowledge Graph Question Answering (KGQA)
 
-__Surveys__
+__Survey and Summary__
 1. Core techniques of question answering systems over knowledge bases: a survey (Knowledge and Information Systems 2017) [[Paper](https://link.springer.com/article/10.1007/s10115-017-1100-y)]
 2. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges (2020) [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
 3. Question Answering Summary (not limited to KBQA) [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
 4. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1907.09361.pdf)]
-
-__Summary__
-1. Awesome KGQA [[GitHub](https://github.com/BshoterJ/awesome-kgqa)]
+5. Awesome KGQA [[GitHub](https://github.com/BshoterJ/awesome-kgqa)]
 
 __General KGQA__
 1. Question Answering Over Knowledge Graphs: Question Understanding Via Template Decomposition (VLDB 2018) [[Paper](http://www.vldb.org/pvldb/vol11/p1373-zheng.pdf)]🌟
@@ -28,7 +26,10 @@ __General KGQA__
 15. FreebaseQA: A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase (NAACL 2019) [[Paper](https://www.aclweb.org/anthology/N19-1028.pdf)]
 16. Knowledge Graph Embedding Based Question Answering (WSDM 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)] [[Code](https://github.com/xhuang31/KEQA_WSDM19)]
 17. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering (AAAI 2020) [[Paper] (https://arxiv.org/pdf/1909.05311.pdf)]
+18. Open Question Answering Over Curated and Extracted Knowledge Bases (KDD 2014) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2623330.2623677)]
+
+__Related Readings__
+1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)]
 
 __Some thoughts__
-
 Consider Combine embedding and subgraph matching for KGQA?
