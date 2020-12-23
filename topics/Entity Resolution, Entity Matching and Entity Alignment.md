@@ -49,7 +49,7 @@ __General Papers__
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
 
 __Embedding Based Techniques__
-1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)]
+1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
 2. Multi-view Knowledge Graph Embedding for Entity Alignment (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2019/0754.pdf)]
 3. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
 4. Iterative Entity Alignment via Joint Knowledge Embeddings (IJCAI 2017) [[Paper](https://www.ijcai.org/Proceedings/2017/0595.pdf)] [[Slides](http://www.zhuhao.me/static/zhu17iterative/zhu17iterative_slides.pdf)]
