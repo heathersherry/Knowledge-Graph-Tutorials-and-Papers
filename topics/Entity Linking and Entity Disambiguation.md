@@ -120,7 +120,7 @@ __Some related works__
 6.  Joint learning of named entity recognition and entity linking. (ACL: Student Research Workshop, 2019)
 > * Multi-task learning using learned features by extending Stack-LSTM.
 > * Paper 3,4,5,6 rely on extensive annotation of the type of mentions
-7. DeepType Multilingual Entity Linking by Neural Type System Evolution
+7. DeepType: Multilingual Entity Linking by Neural Type System Evolution (AAAI 2018) [[Paper](https://arxiv.org/pdf/1802.01021.pdf)]
 
 ### 5. Meta EL
 Note: how to combine the outputs of multiple EL tools for providing a unified set of entity annotations?
