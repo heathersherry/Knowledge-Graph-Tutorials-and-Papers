@@ -46,7 +46,7 @@ __Others__
 16. PivotE: Revealing and Visualizing the Underlying Entity Structures for Exploration [[PDF](http://www.vldb.org/pvldb/vol12/p1966-xueran.pdf), demo] (VLDB 2019) 🌟
 17. Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks [[Paper](https://arxiv.org/pdf/1905.08865.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/estimating-node-importance-in-knowledge-graphs-using-graph-neural-networks)] (KDD 2019) 🌟
 > * Next work: MultiImport: Inferring node importance in a knowledge graph from multiple input signals [[Paper](https://arxiv.org/abs/2006.12001)] (KDD 2020) 🌟
-18. 
+18. Embedding-based Retrieval in Facebook Search (KDD 2020) [[Paper](https://arxiv.org/pdf/2006.11632.pdf)]
 19. Automatically Generating Interesting Facts from Wikipedia Tables [[PDF](https://dl.acm.org/citation.cfm?id=3314043), industrial track] (SIGMOD 2019) 🌟
 20. Knowledge Graphs and Enterprise AI: The Promise of an Enabling Technology [[PDF](https://ieeexplore.ieee.org/document/8731350), keynote] (ICDE 2019) 🌟
 21. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
