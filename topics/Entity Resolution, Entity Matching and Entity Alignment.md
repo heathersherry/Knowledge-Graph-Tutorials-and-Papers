@@ -54,7 +54,8 @@ __Embedding Based Techniques__
 3. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
 4. Iterative Entity Alignment via Joint Knowledge Embeddings (IJCAI 2017) [[Paper](https://www.ijcai.org/Proceedings/2017/0595.pdf)] [[Slides](http://www.zhuhao.me/static/zhu17iterative/zhu17iterative_slides.pdf)]
 5. Jointly learning entity and relation representations for entity alignment (EMNLP 2019) [[Paper](https://www.aclweb.org/anthology/D19-1023.pdf)]
-> * Consider relation (edges in GCN)
+6. Aligning cross-lingual entities with multi-aspect information (EMNLP 2019) 
+> * Paper 5 and 6 consider the embedding of relation (edges) in GCN
 
 
 __Blocking Techniques__
