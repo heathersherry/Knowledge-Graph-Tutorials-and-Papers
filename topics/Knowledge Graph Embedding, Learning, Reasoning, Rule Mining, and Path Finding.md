@@ -52,6 +52,18 @@ __Dynamic Embedding__
 4. Continuous-Time Dynamic Network Embeddings [WWW 2018] [[Paper](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)]
 5. Efficiently Embedding Dynamic Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 
+__CNN Based Embedding__
+1. A novel embedding model for knowledge base completion based on convolutional neural network (NAACL 2018)
+2. Convolutional 2d knowledge graph embeddings (AAAI 2018)
+
+__Graph Based Embedding__
+1. Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.01195.pdf)]
+> * Guide attention to both entity (node) and relation (edge) features in a multi-hop neigh-borhood of a given entity/node
+> * This paper discuss that KG embedding models are classified as (1) translational models (which are more widely used and popular, such as TransE), (2) CNN based models, and (3) graph based models.
+2. Modeling Relational Data with Graph Convolutional Networks (ESWC 2018) [[Paper](https://arxiv.org/pdf/1703.06103.pdf)]
+> * Apply GCN for KG Completion (link prediction), compared with the performance of KG embedding models in the experiment.
+
+
 __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
