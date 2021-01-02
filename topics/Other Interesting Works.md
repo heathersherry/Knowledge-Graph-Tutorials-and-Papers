@@ -29,6 +29,9 @@ __AIOps (Artificial Intelligence for IT Operations)__
 1. WeBank project - AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
 2. Paper Summary (Chinese) [[Link](https://mp.weixin.qq.com/s/ILXnXQulDVFwmHdNtEcXng)]
 
+__Multi-hop Reading__
+1. Cognitive Graph for Multi-Hop Reading Comprehension at Scale [[Paper](https://www.aclweb.org/anthology/P19-1259.pdf)]
+> * BERT + GNN
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
