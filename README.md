@@ -78,6 +78,7 @@ Tutorials and Notes from Talented People
 12. Stanford CS224W: Machine Learning with Graphs [[Course site](http://web.stanford.edu/class/cs224w/)]
 13. Explainability for Natural Language Processing (AAAI 2020 tutorial) [[Link](http://www.aacl2020.org/program/tutorials/#t4-explainability-for-natural-language-processing)] [[Video](https://www.youtube.com/watch?v=3tnrGe_JA0s&feature=youtu.be)]
 14. Graph Mining & Learning (Neurips 2020 tutorial) [[Link](https://gm-neurips-2020.github.io)]
+15. Discussion about GNN (Chinese) [[Link](https://developer.aliyun.com/article/741923?utm_content=g_1000099113)]
 
 Useful Tools or APIs
 ====
