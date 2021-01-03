@@ -34,6 +34,7 @@ __Multi-hop Reading__
 1. Cognitive Graph for Multi-Hop Reading Comprehension at Scale [[Paper](https://www.aclweb.org/anthology/P19-1259.pdf)]
 > * BERT + GNN
 2. Is Graph Structure Neccessary for Multi-Hop Reading? [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf)] [[Notes](https://mp.weixin.qq.com/s/zaNWytZQpy8sb2S7tLTgRA)]
+3. Dynamically fused graph network for multi-hop reading (ACL 2019)
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
