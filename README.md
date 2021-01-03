@@ -36,6 +36,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 Papers and Materials from Database Area
 ======
+Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
 #### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
 #### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
