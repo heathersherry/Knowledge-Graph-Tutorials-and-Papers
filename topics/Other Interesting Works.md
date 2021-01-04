@@ -31,9 +31,9 @@ __AIOps (Artificial Intelligence for IT Operations)__
 3. AIOps Papers and Summary [[GitHub](https://github.com/heathersherry/AIOps-Papers-and-Tutorials)]
 
 __Multi-hop Reading__
-1. Cognitive Graph for Multi-Hop Reading Comprehension at Scale [[Paper](https://www.aclweb.org/anthology/P19-1259.pdf)]
+1. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-1259.pdf)]
 > * BERT + GNN
-2. Is Graph Structure Neccessary for Multi-Hop Reading? [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf)] [[Notes](https://mp.weixin.qq.com/s/zaNWytZQpy8sb2S7tLTgRA)]
+2. Is Graph Structure Neccessary for Multi-Hop Reading? (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf)] [[Notes](https://mp.weixin.qq.com/s/zaNWytZQpy8sb2S7tLTgRA)]
 3. Dynamically fused graph network for multi-hop reading (ACL 2019)
 
 __Others__
