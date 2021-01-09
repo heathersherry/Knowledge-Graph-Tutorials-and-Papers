@@ -57,6 +57,7 @@ __Embedding Based Techniques__
 6. Aligning cross-lingual entities with multi-aspect information (EMNLP 2019) 
 > * Paper 5 and 6 consider the embedding of relation (edges) in GCN
 7. Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks (EMNLP 2018) [[Paper](https://www.aclweb.org/anthology/D18-1032.pdf)] [[Code](https://github.com/1049451037/GCN-Align)]
+8. A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment (COLING 2020) [[Paper](https://www.aclweb.org/anthology/2020.coling-main.520.pdf)] [[Notes](https://mp.weixin.qq.com/s/3OD6fQBX50JgMBWLeQA_VA)]
 
 
 __Blocking Techniques__
