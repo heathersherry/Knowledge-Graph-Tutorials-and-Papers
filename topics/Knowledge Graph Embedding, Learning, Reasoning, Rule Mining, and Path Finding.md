@@ -80,6 +80,8 @@ __General Papers__
 4. The Vadalog System: Datalog-based Reasoning for Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p975-bellomarini.pdf)] 🌟
 5. Linguistic Petri Nets Based on Cloud Model Theory for Knowledge Representation and Reasoning (TKDE 2018) 🌟
 6. Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning (WWW 2019)
+7. Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs (NeurIPS 2020) [[Paper and Code](http://snap.stanford.edu/betae/)]
+8. Query2box: Reasoning Over Knowledge Graphs In Vector Space Using Box Embeddings (ICLR 2020)
 
 ### 4. Rule Mining and Path Finding in KGs
 __General Papers__
