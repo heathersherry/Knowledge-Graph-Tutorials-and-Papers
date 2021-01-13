@@ -17,7 +17,7 @@ __KG Queries and Knowledge Search__
 5. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
 6. Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings (WWW 2020)  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380110)] 🌟
 7. Graph-Query Suggestions for Knowledge Graph Exploration (WWW 2020, short paper)
-8. Mining summaries for knowledge graph search (ICDm 2016)
+8. Mining summaries for knowledge graph search (ICDM 2016)
 
 __Data Extraction or Knowledge Extraction from The Web__
 1. When Open Information Extraction Meets the Semi-Structured Web (OpenCERES, NAACL 2019)
