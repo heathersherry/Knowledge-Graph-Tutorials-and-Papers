@@ -32,4 +32,5 @@ __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)]
 
 __Some thoughts__
+
 Consider Combine embedding and subgraph matching for KGQA?
