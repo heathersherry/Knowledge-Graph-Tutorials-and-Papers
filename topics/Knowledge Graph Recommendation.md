@@ -19,6 +19,7 @@ __General Papers__
 13. Collaborative knowledge base embedding for recommender systems (KDD 2016)
 14. Dbrec—music recommendations using DBpedia (ISWC 2020)
 15. Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019) 
+16. Multi-modal Knowledge Graphs for Recommender Systems (CIKM 2020) [[Paper](https://zheng-kai.com/paper/cikm_2020_sun.pdf)]
 
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
