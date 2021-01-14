@@ -27,6 +27,7 @@ __General KGQA__
 16. Knowledge Graph Embedding Based Question Answering (WSDM 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3289600.3290956)] [[Code](https://github.com/xhuang31/KEQA_WSDM19)]
 17. Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering (AAAI 2020) [[Paper] (https://arxiv.org/pdf/1909.05311.pdf)]
 18. Open Question Answering Over Curated and Extracted Knowledge Bases (KDD 2014) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2623330.2623677)]
+19. RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering (2021) [[Paper](https://arxiv.org/pdf/2010.08191.pdf)]
 
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)]
