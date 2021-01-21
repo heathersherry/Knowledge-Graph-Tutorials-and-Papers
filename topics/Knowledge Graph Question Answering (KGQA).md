@@ -31,7 +31,9 @@ __General KGQA__
 20. Natural language question/answering let users talk with the knowledge graph (CIKM 2017)
 
 __Related Readings__
-1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)]
+1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
+2. The Web as a Knowledge-base for Answering Complex Questions (NAACL-HLT 2018) [[Paper](https://www.aclweb.org/anthology/N18-1059.pdf)]
+3. Scalable Join Processing on Very Large RDF Graphs (SIGMOD 2009) [[Paper](https://sites.fas.harvard.edu/~cs265/papers/neumann-2009.pdf)] 🌟
 
 __Some thoughts__
 
