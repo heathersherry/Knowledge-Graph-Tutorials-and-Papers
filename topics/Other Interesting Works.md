@@ -38,7 +38,7 @@ __Multi-hop Reading__
 
 __Graph Functional Dependencies__
 
-Notes: For this topic, we can check Wenfei Fan's [[homepage](http://homepages.inf.ed.ac.uk/wenfei/publication.html)] for more related publications
+Notes: For this topic, we can check Wenfei Fan's [homepage](http://homepages.inf.ed.ac.uk/wenfei/publication.html) for more related publications
 1. Discovering Graph Functional Dependencies (SIGMOD 2018) [[Paper](https://dl.acm.org/doi/10.1145/3183713.3196916)]
 2. Functional Dependencies for Graphs (SIGMOD 2016) [[Paper](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod16-GFD.pdf)]
 3. Rule-Based Graph Repairing: Semantic and Efficient Repairing Methods (ICDE 2018) [[Paper](https://ieeexplore.ieee.org/document/8509296)]
