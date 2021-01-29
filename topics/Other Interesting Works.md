@@ -36,6 +36,12 @@ __Multi-hop Reading__
 2. Is Graph Structure Neccessary for Multi-Hop Reading? (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf)] [[Notes](https://mp.weixin.qq.com/s/zaNWytZQpy8sb2S7tLTgRA)]
 3. Dynamically fused graph network for multi-hop reading (ACL 2019)
 
+__Graph Functional Dependencies__
+Notes: For this topic, we can check Wenfei Fan's [[homepage](http://homepages.inf.ed.ac.uk/wenfei/publication.html)] for more related publications
+1. Discovering Graph Functional Dependencies (SIGMOD 2018) [[Paper](https://dl.acm.org/doi/10.1145/3183713.3196916)]
+2. Functional Dependencies for Graphs (SIGMOD 2016) [[Paper](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod16-GFD.pdf)]
+3. Rule-Based Graph Repairing: Semantic and Efficient Repairing Methods (ICDE 2018) [[Paper](https://ieeexplore.ieee.org/document/8509296)]
+
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
