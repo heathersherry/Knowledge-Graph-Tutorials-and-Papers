@@ -37,6 +37,7 @@ __Multi-hop Reading__
 3. Dynamically fused graph network for multi-hop reading (ACL 2019)
 
 __Graph Functional Dependencies__
+
 Notes: For this topic, we can check Wenfei Fan's [[homepage](http://homepages.inf.ed.ac.uk/wenfei/publication.html)] for more related publications
 1. Discovering Graph Functional Dependencies (SIGMOD 2018) [[Paper](https://dl.acm.org/doi/10.1145/3183713.3196916)]
 2. Functional Dependencies for Graphs (SIGMOD 2016) [[Paper](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod16-GFD.pdf)]
