@@ -16,6 +16,9 @@ __Some Graph things__
 1. On the Minimum Common Supergraph of Two Graphs
 2. Graph Indexing: A Frequent Structure-based Approach (SIGMOD 2004) [[Paper](https://dl.acm.org/doi/pdf/10.1145/1007568.1007607)]
 
+__Good Writing__
+1. LASAGNE: Locality And Structure Aware Graph Node Embedding [[Paper](https://arxiv.org/pdf/1710.06520.pdf)]
+
 __Others__
 1. NP Optimization Problems [[Link]](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/COMPEND/COMPED19/COMPENDI.HTM)
 2. FAST-PPR: Personalized PageRank Estimation for Large Graphs [[Slides](https://cs.stanford.edu/people/plofgren/Fast-PPR_KDD_Talk.pdf)]
