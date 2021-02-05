@@ -1,7 +1,7 @@
 ## Knowledge Graph Recommendation
 
 __Surveys__
-1. A Survey on Knowledge Graph-Based Recommender Systems [[Paper](https://arxiv.org/pdf/2003.00911.pdf)]
+1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)] 🌟
 
 __General Papers__
 1. AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation [[Paper](https://dl.acm.org/citation.cfm?doid=3292500.3330705), applied science track] (KDD 2019) 
@@ -20,6 +20,9 @@ __General Papers__
 14. Dbrec—music recommendations using DBpedia (ISWC 2020)
 15. Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019) 
 16. Multi-modal Knowledge Graphs for Recommender Systems (CIKM 2020) [[Paper](https://zheng-kai.com/paper/cikm_2020_sun.pdf)]
+17. Embedding-Based Recommendations on Scholarly Knowledge Graphs (ESWC 2020) [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_15)]
+18. Recurrent Knowledge Graph Embedding for Effective Recommendation (RecSys 2018) [[Paper](https://yangjiera.github.io/pdf/sun2018recsys.pdf)]
+19. 
 
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
