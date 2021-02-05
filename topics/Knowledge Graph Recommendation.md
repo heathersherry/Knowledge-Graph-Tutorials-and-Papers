@@ -1,7 +1,7 @@
 ## Knowledge Graph Recommendation
 
 __Surveys__
-1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)] 🌟
+1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)][[Notes](https://mp.weixin.qq.com/s/d3rytwQ5Yta_hTGxtqXmvQ)] 🌟
 
 __General Papers__
 1. AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation [[Paper](https://dl.acm.org/citation.cfm?doid=3292500.3330705), applied science track] (KDD 2019) 
