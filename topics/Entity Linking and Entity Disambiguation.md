@@ -83,7 +83,7 @@ __Relax the Global Coherence Assumption__
 5. Dynamic Graph Convolutional Networks for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380192)]
 > * Resorts to GNN to automatically decide the relevant linked nodes and then generate the global feature vector for every node.
 > * Then a score function is proposed to directly utilize the feature to compute the ranking score and do not need other additional inference steps
-6. Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All (TKDE 2018) 🌟
+6. Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All (TKDE 2018) [[Paper](https://arxiv.org/pdf/1802.01074.pdf)]🌟 
 7. CoNEREL: Collective Information Extraction in News Articles (SIGIR 2018, demo of Paper 6) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210165)]
 8. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
 9. Joint Entity Linking for Web Tables with Hybrid Semantic Matching (ICCS 2020)
