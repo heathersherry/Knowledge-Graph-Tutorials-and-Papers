@@ -69,3 +69,4 @@ __Related Works__
 2. Extracting Knowledge from Web Text with Monte Carlo Tree Search (WWW 2020, short paper)
 3. OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference (NAACL 2019)
 4. On Aligning OpenIE Extractions with Knowledge Bases: A Case Study (ACL 2020) [[Paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14.pdf)]
+5. Syntactic and Semantic-driven Learning for Open Information Extraction (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.69.pdf)]
