@@ -1,5 +1,8 @@
 ## Knowledge Graph Recommendation
 
+__General Tutorials__
+1. Learning and Reasoning on Graph for Recommendation (CIKM 2019 Tutorial) [[GitHub](https://next-nus.github.io/)]
+
 __Surveys__
 1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)][[Notes](https://mp.weixin.qq.com/s/d3rytwQ5Yta_hTGxtqXmvQ)] 🌟
 
