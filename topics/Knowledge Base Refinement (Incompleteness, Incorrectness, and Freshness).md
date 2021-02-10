@@ -40,6 +40,7 @@ __General Papers__
 17. Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning (WWW 2020, short) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380043)]  🌟
 18. Link Prediction on N-ary Relational Data (WWW 2019)
 19. ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs (WWW 2019)
+20. BoxE: A Box Embedding Model for Knowledge Base Completion (Neurips2020) [[Paper](https://arxiv.org/pdf/2007.06267)]
 
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
