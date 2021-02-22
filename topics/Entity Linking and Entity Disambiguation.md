@@ -64,7 +64,7 @@ __Global Coherence__
 18. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) [[Paper](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf)], with relation linking 🌟
 19. Joint Embedding in Named Entity Linking on Sentence Level [[Paper](https://arxiv.org/pdf/2002.04936.pdf)]
 20. Improving Entity Linking by Modeling Latent Relations between Mentions (ACL 2018) [[Paper](https://www.aclweb.org/anthology/P18-1148.pdf)]
-21. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Video](https://www.youtube.com/watch?v=1A15SUukjM0&feature=youtu.be&list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)], BERT+SeqGAT
+21. 
 22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020)
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
 24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
@@ -90,7 +90,7 @@ __Relax the Global Coherence Assumption__
 > * Converts table entity linking into a sequence decision problem and uses hybrid semantic features to disambiguate the mentions in web tables
 10. Using Knowledge Base Semantics in Context-Aware Entity Linking (DocEng 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3342558.3345393)]
 > * Supervised CEL. Retained the sum, max@1,max@2 and max@3 as global contextual features, which can be seen as a kind of flexibility in selecting and aggregating the relatedness score.
-11. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)] 
+11. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)] [[Video](https://www.youtube.com/watch?v=1A15SUukjM0&feature=youtu.be&list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)], BERT+SeqGAT
 > * Graph-based models treat all candidate entities equally which may introduce much noise information
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
