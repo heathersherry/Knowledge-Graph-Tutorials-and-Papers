@@ -90,7 +90,7 @@ __Relax the Global Coherence Assumption__
 > * Converts table entity linking into a sequence decision problem and uses hybrid semantic features to disambiguate the mentions in web tables
 10. Using Knowledge Base Semantics in Context-Aware Entity Linking (DocEng 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3342558.3345393)]
 > * Supervised CEL. Retained the sum, max@1,max@2 and max@3 as global contextual features, which can be seen as a kind of flexibility in selecting and aggregating the relatedness score.
-11. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)]
+11. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)] 
 > * Graph-based models treat all candidate entities equally which may introduce much noise information
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
