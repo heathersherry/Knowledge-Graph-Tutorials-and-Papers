@@ -82,6 +82,9 @@ __General Papers__
 6. Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning (WWW 2019)
 7. Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs (NeurIPS 2020) [[Paper and Code](http://snap.stanford.edu/betae/)]
 8. Query2box: Reasoning Over Knowledge Graphs In Vector Space Using Box Embeddings (ICLR 2020)
+9. Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning (EMNLP 2019)
+10. DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning  (EMNLP 2019)
+11. Collaborative Policy Learning for Open Knowledge Graph Reasoning (EMNLP 2019)
 
 ### 4. Rule Mining and Path Finding in KGs
 __General Papers__
