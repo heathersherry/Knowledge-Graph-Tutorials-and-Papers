@@ -24,6 +24,7 @@ __Data Extraction or Knowledge Extraction from The Web__
 2. CERES: Distantly Supervised Relation Extraction from the Semi-Structured Web (CERES, VLDB 2018) 🌟
 3. Progressive Deep Web Crawling Through Keyword Queries For Data Enrichment [[PDF](https://www.cs.sfu.ca/~jnwang/papers/sigmod2019-deeper-crawler.pdf)] (SIGMOD 2019) 🌟
 4. RED: Redundancy-Driven Data Extraction from Result Pages (WWW 2019)
+5. TCN: Table Convolutional Network for Web Table Interpretation (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.09460.pdf)]
 
 __AIOps (Artificial Intelligence for IT Operations)__
 1. WeBank project - AIOps + KG [[Link](https://mp.weixin.qq.com/s/50z2fNYBZEsf9C-94L0-QQ)]
