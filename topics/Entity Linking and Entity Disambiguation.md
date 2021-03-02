@@ -175,6 +175,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 > * Combining NER and EL information in a joint reranking module for noisy spoken language queries in the context of a digital voice assistant, our proposed framework improves accuracy in both tasks.
 9. End-to-End Neural Entity Linking (CoNLL 2018) [[Paper](https://www.aclweb.org/anthology/K18-1050.pdf)] [[Code](https://github.com/dalab/end2end_neural_el)] [[Notes 1](https://blog.csdn.net/u010960155/article/details/106387771)] [[Notes 2](http://pelhans.com/2019/02/22/entity_linking/#end-to-end-neural-entity-linking)]
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
+10. Lightweight Multilingual Entity Extraction and Linking (EMNLP 2017) [[Paper](https://dl.acm.org/doi/10.1145/3018661.3018724)] [[Code](https://github.com/yahoo/FEL)] 🌟
 
 ### 7. Unlinkable Mention Predication
 __General__
