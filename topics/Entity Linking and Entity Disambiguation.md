@@ -99,6 +99,8 @@ __Relax the Global Coherence Assumption__
 > * Derives meaningful local neighbors for each mention in a more linguistic way by utilizing dependency parse tree.
 > * Locates key sentences in the document and then detect keywords at sentence level, and integrates the topical coherence with both mention neighbors and keywords for ED.
 > * Employs neural ED approach which combines basic deep neural network model with Graph Attention Network (GAT) to utilize local features and global features.
+13. Neural collective entity linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
+> * Topical coherence only need to hold among neighboring mentions
 
 __Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
