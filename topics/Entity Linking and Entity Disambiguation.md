@@ -95,6 +95,10 @@ __Relax the Global Coherence Assumption__
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
 > * The same first author as "Joint entity linking with deep reinforcement learning (WWW 2019)"
+12. LoG: a locally-global model for entity disambiguation (WWW 2021) [[Paper](https://link.springer.com/article/10.1007/s11280-020-00845-4)]
+> * Derives meaningful local neighbors for each mention in a more linguistic way by utilizing dependency parse tree.
+> * Locates key sentences in the document and then detect keywords at sentence level, and integrates the topical coherence with both mention neighbors and keywords for ED.
+> * Employs neural ED approach which combines basic deep neural network model with Graph Attention Network (GAT) to utilize local features and global features.
 
 __Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
