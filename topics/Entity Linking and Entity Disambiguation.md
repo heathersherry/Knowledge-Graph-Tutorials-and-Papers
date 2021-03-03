@@ -11,7 +11,7 @@ __Surveys and Analysis__
 > * a discussion of recent domain-independent (zero-shot) and cross-lingual EL approaches;
 > * a survey of EL applications to modeling word representations.
 3. Error analysis of the well known DeepED model [[Link](https://github.com/dalab/deep-ed)]
-4. Towards holistic Entity Linking: Survey and directions (Information Systems 2020) [[Link](https://www.sciencedirect.com/science/article/pii/S0306437920300958?casa_token=8iDZglH_xVgAAAAA:rHgcXMsLXdOCgSae1LEOH3Lc9LXEPyfcp9W40vRAIbEsPOxMWoAAHSi8q0M-ewkvpHWo5lB6czFS)]
+4. Towards holistic Entity Linking: Survey and directions (Information Systems 2021) [[Link](https://www.sciencedirect.com/science/article/pii/S0306437920300958?casa_token=8iDZglH_xVgAAAAA:rHgcXMsLXdOCgSae1LEOH3Lc9LXEPyfcp9W40vRAIbEsPOxMWoAAHSi8q0M-ewkvpHWo5lB6czFS)]
 5. Neural Collective Entity Linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
 
 __Notes and Discussions for Entity Linking__
@@ -68,6 +68,7 @@ __Global Coherence__
 22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020)
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
 24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
+25. Collective List-Only Entity Linking: A Graph-Based Approach (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8320777)]
 
 
 __Relax the Global Coherence Assumption__
@@ -84,22 +85,23 @@ __Relax the Global Coherence Assumption__
 > * Resorts to GNN to automatically decide the relevant linked nodes and then generate the global feature vector for every node.
 > * Then a score function is proposed to directly utilize the feature to compute the ranking score and do not need other additional inference steps
 6. Pair-Linking for Collective Entity Disambiguation: Two Could Be Better Than All (TKDE 2018) [[Paper](https://arxiv.org/pdf/1802.01074.pdf)]🌟 
-7. CoNEREL: Collective Information Extraction in News Articles (SIGIR 2018, demo of Paper 6) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210165)]
-8. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
-9. Joint Entity Linking for Web Tables with Hybrid Semantic Matching (ICCS 2020)
+> * With a demo: CoNEREL: Collective Information Extraction in News Articles (SIGIR 2018 demo) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210165)]
+8. CoNEREL: Collective Information Extraction in News Articles (SIGIR 2018, demo of Paper 6) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3209978.3210165)]
+9. KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking (VLDB 2020) 🌟
+10. Joint Entity Linking for Web Tables with Hybrid Semantic Matching (ICCS 2020)
 > * Converts table entity linking into a sequence decision problem and uses hybrid semantic features to disambiguate the mentions in web tables
-10. Using Knowledge Base Semantics in Context-Aware Entity Linking (DocEng 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3342558.3345393)]
+11. Using Knowledge Base Semantics in Context-Aware Entity Linking (DocEng 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3342558.3345393)]
 > * Supervised CEL. Retained the sum, max@1,max@2 and max@3 as global contextual features, which can be seen as a kind of flexibility in selecting and aggregating the relatedness score.
-11. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)] [[Video](https://www.youtube.com/watch?v=1A15SUukjM0&feature=youtu.be&list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)], BERT+SeqGAT
+12. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380146)] [[Code](https://github.com/fangzheng123/SGEL)] [[Video](https://www.youtube.com/watch?v=1A15SUukjM0&feature=youtu.be&list=PLJNwhMK_V7Ey1YFclcpycanlrwBXhCqYU)], BERT+SeqGAT
 > * Graph-based models treat all candidate entities equally which may introduce much noise information
 > * Sequence models can only observe previous referred entities, ignoring the relevance between the current mention and its subsequent entities
 > * Contribution: (1) propose a multi-strategy based candidate generation method to generate high recall candidate sets; (2) design a Sequential Graph Attention Network (SeqGAT) which combines the advantages of graph and sequence methods
 > * The same first author as "Joint entity linking with deep reinforcement learning (WWW 2019)"
-12. LoG: a locally-global model for entity disambiguation (WWW 2021) [[Paper](https://link.springer.com/article/10.1007/s11280-020-00845-4)]
+13. LoG: a locally-global model for entity disambiguation (WWW 2021) [[Paper](https://link.springer.com/article/10.1007/s11280-020-00845-4)]
 > * Derives meaningful local neighbors for each mention in a more linguistic way by utilizing dependency parse tree.
 > * Locates key sentences in the document and then detect keywords at sentence level, and integrates the topical coherence with both mention neighbors and keywords for ED.
 > * Employs neural ED approach which combines basic deep neural network model with Graph Attention Network (GAT) to utilize local features and global features.
-13. Neural collective entity linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
+14. Neural collective entity linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
 > * Topical coherence only need to hold among neighboring mentions
 
 __Some related works__
