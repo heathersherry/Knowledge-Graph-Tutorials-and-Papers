@@ -236,3 +236,5 @@ __Supervised__
 ### 9. Entity Linking Evaluation Platform
 1. Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
 
+### 10. Datasets
+1. Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
