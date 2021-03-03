@@ -1,7 +1,7 @@
 ### Named Entity Recoginition, Entity Extraction and Entity Typing
 
 __Surveys__
-1. Named Entity extraction for Knowledge Graphs: A Literature Overview (IEEE Access 2019)
+1. Named Entity extraction for Knowledge Graphs: A Literature Overview (IEEE Access 2020) [[Paper](https://ieeexplore.ieee.org/abstract/document/8999622/)]
 2. A survey of named entity recognition and classification [[Paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)]
 3. A Survey on Deep Learning for Named Entity Recognition (TKDE 2018) [[Paper](https://www.researchgate.net/profile/Aixin_Sun/publication/339990379_A_Survey_on_Deep_Learning_for_Named_Entity_Recognition/links/5e78581c299bf1892c021d50/A-Survey-on-Deep-Learning-for-Named-Entity-Recognition.pdf)] 🌟
 
