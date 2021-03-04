@@ -15,6 +15,7 @@ __Papers that build a system__
 __Some Graph things__
 1. On the Minimum Common Supergraph of Two Graphs
 2. Graph Indexing: A Frequent Structure-based Approach (SIGMOD 2004) [[Paper](https://dl.acm.org/doi/pdf/10.1145/1007568.1007607)]
+3. Clique Relaxation Models in Networks: Theory, Algorithms, and Applications [[Slides](https://www.slideshare.net/ssakpi/clique-relaxation-models-in-networks-theory-algorithms-and-applications)]
 
 __Good Writing__
 1. LASAGNE: Locality And Structure Aware Graph Node Embedding [[Paper](https://arxiv.org/pdf/1710.06520.pdf)]
