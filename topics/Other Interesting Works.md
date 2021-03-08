@@ -44,6 +44,11 @@ Notes: For this topic, we can check Wenfei Fan's [homepage](http://homepages.inf
 2. Functional Dependencies for Graphs (SIGMOD 2016) [[Paper](http://homepages.inf.ed.ac.uk/wenfei/papers/sigmod16-GFD.pdf)]
 3. Rule-Based Graph Repairing: Semantic and Efficient Repairing Methods (ICDE 2018) [[Paper](https://ieeexplore.ieee.org/document/8509296)]
 
+__Subgraph Isomorphism__
+1. An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases (VLDB 2013)
+2. On the equivalence between graph isomorphism testing and function approximation with GNNs (NeurIPS 2019) [[Paper](https://openreview.net/pdf/ed1ce04d331bd9cafefa216b27e42df4140c1e6c.pdf)]
+
+
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
