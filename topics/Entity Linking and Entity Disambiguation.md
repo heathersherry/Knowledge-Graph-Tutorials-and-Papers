@@ -65,7 +65,7 @@ __Global Coherence__
 19. Joint Embedding in Named Entity Linking on Sentence Level [[Paper](https://arxiv.org/pdf/2002.04936.pdf)]
 20. Improving Entity Linking by Modeling Latent Relations between Mentions (ACL 2018) [[Paper](https://www.aclweb.org/anthology/P18-1148.pdf)]
 21. Short text understanding through lexical-semantic analysis (ICDE 2015) (*Best Paper Award*) 🌟  [[Paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1056.5887&rep=rep1&type=pdf)]
-22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020)
+22. A collective entity linking algorithm with parallel computing on large-scale knowledge base (The Journal of Supercomputing, 2020) [[Paper](https://link.springer.com/article/10.1007/s11227-019-03046-7)]
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
 24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
 25. Collective List-Only Entity Linking: A Graph-Based Approach (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8320777)]
