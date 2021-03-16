@@ -48,6 +48,9 @@ __Subgraph Isomorphism__
 1. An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases (VLDB 2013)
 2. On the equivalence between graph isomorphism testing and function approximation with GNNs (NeurIPS 2019) [[Paper](https://openreview.net/pdf/ed1ce04d331bd9cafefa216b27e42df4140c1e6c.pdf)]
 
+__Fraud Detection__
+1. https://info.tigergraph.com/graph-ai-world-fintell
+
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
