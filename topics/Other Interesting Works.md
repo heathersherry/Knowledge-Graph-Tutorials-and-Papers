@@ -50,6 +50,8 @@ __Subgraph Isomorphism__
 
 __Fraud Detection__
 1. https://info.tigergraph.com/graph-ai-world-fintell
+2. https://www.youtube.com/watch?v=Mf8PuOElGpg
+3. https://neo4j.com/use-cases/fraud-detection/
 
 
 __Others__
