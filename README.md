@@ -88,7 +88,7 @@ Useful Tools or APIs
 #### Named Entity Recogntion and Entity Linking
 1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
 2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
-3. DBpeida Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
+3. DBpedia Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
 4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
 5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
 6. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
