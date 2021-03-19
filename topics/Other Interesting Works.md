@@ -54,6 +54,11 @@ __Fraud Detection__
 3. https://neo4j.com/use-cases/fraud-detection/
 
 
+__K-Core in Graphs__
+1. Hierarchical Core Maintenance on Large Dynamic Graphs (VLDB 2021) [[Paper](http://www.vldb.org/pvldb/vol14/p757-zhang.pdf)]
+2. Efficient Progressive Minimum k-Core Search (VLDB 2020) [[Paper](http://www.vldb.org/pvldb/vol13/p362-li.pdf)]
+
+
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
