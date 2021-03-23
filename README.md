@@ -82,6 +82,7 @@ Tutorials and Notes from Talented People
 15. Discussion about GNN (Chinese) [[Link](https://developer.aliyun.com/article/741923?utm_content=g_1000099113)]
 16. Stanford CS224n: Natural Language Processing with Deep Learning [[Course site](http://web.stanford.edu/class/cs224n/)]
 17. Clique Relaxation Models in Networks: Theory, Algorithms, and Applications [[Slides](https://www.slideshare.net/ssakpi/clique-relaxation-models-in-networks-theory-algorithms-and-applications)]
+18. KG Applications in Baidu (Chinese) [[Link](https://mp.weixin.qq.com/s/z3cp4PaAsA2zGLlgfYAtTg)]
 
 Useful Tools or APIs
 ====
