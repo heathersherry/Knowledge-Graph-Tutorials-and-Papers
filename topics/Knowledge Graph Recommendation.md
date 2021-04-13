@@ -25,7 +25,9 @@ __General Papers__
 16. Multi-modal Knowledge Graphs for Recommender Systems (CIKM 2020) [[Paper](https://zheng-kai.com/paper/cikm_2020_sun.pdf)]
 17. Embedding-Based Recommendations on Scholarly Knowledge Graphs (ESWC 2020) [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-49461-2_15)]
 18. Recurrent Knowledge Graph Embedding for Effective Recommendation (RecSys 2018) [[Paper](https://yangjiera.github.io/pdf/sun2018recsys.pdf)]
-19. 
+19. Fairness-Aware Explainable Re commendationover Knowledge Graph (SIGIR 2020) [Paper](https://dl.acm.org/doi/epdf/10.1145/3397271.3401051)
+20. Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View (SIGIR 2020)
+21. Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning (SIGIR 2020)
 
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
