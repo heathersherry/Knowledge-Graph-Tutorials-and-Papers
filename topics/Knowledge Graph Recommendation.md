@@ -29,5 +29,8 @@ __General Papers__
 20. Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View (SIGIR 2020)
 21. Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning (SIGIR 2020)
 
+__Dynamic Senarios (what if the item-user and the KG are updating?)__
+* But it seems that there is no ground truth datasets? 😅 ...
+
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
