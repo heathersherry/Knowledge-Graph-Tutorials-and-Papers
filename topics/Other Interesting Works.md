@@ -58,6 +58,9 @@ __K-Core in Graphs__
 1. Hierarchical Core Maintenance on Large Dynamic Graphs (VLDB 2021) [[Paper](http://www.vldb.org/pvldb/vol14/p757-zhang.pdf)]
 2. Efficient Progressive Minimum k-Core Search (VLDB 2020) [[Paper](http://www.vldb.org/pvldb/vol13/p362-li.pdf)]
 
+__BERT+KG__
+1. ENRIE (Tsinghua) [[References](https://zhuanlan.zhihu.com/p/150118293)]
+
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
