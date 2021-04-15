@@ -60,6 +60,7 @@ __K-Core in Graphs__
 
 __BERT+KG__
 1. ENRIE (Tsinghua) [[References](https://zhuanlan.zhihu.com/p/150118293)]
+2. ENRIE (Baidu) [[References](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247484077&idx=1&sn=fa39b7df8380ea3c49fa5cfd58f446ff&chksm=9b49c55eac3e4c489b3230063700e9414e2e3f5a75018ab3059d2c31a64f9e591da0df927bd9&scene=21#wechat_redirect)]
 
 
 __Others__
