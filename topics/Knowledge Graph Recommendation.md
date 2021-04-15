@@ -28,9 +28,10 @@ __General Papers__
 19. Fairness-Aware Explainable Re commendationover Knowledge Graph (SIGIR 2020) [[Paper](https://dl.acm.org/doi/epdf/10.1145/3397271.3401051)]
 20. Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View (SIGIR 2020)
 21. Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning (SIGIR 2020)
+22. Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation (WWW 2019) [[Paper](https://arxiv.org/pdf/1901.08907.pdf)] [[Code](https://github.com/hwwang55/MKR)]
 
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
-* But it seems that there is no ground truth datasets? 😅 ...
+* But it seems that there is no good ground truth datasets for evaluation? 😅 ...
 
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
