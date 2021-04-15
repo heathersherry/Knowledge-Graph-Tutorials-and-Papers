@@ -18,7 +18,7 @@ __General NER__
 7. Automated phrase mining from massive text corpora (TKDE 2018) 🌟
 8. Predicting Named Entity Location Using Twitter (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509245)] prediction of the entity city-level location 🌟
 9. How to Invest my Time: Lessons from HITL Entity Extraction [[Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/how-to-invest-my-time-lessons-from-hitl-entity-extraction), applied science track] (KDD 2019) 🌟
-10. BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) 🌟 [[Paper](https://arxiv.org/pdf/2006.15509.pdf)]
+10. BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision (KDD 2020) 🌟 [[Paper](https://arxiv.org/pdf/2006.15509.pdf)] [[Code and Dataset](https://github.com/cliang1453/BOND)]
 11. Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks (IJCAI 2019) [[PDF](https://www.ijcai.org/Proceedings/2019/0702.pdf)]
 12. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation (WWW 2019)
 13. Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network (EMNLP 2019)
