@@ -63,7 +63,7 @@ __BERT+KG__
 
 __Explanable GNN__
 1. On Explainability of Graph Neural Networks via Subgraph Explorations [[Paper](https://arxiv.org/pdf/2102.05152.pdf)] 🌟
-* Shapley value --> taxi sharing
+> * Shapley value --> taxi sharing
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
