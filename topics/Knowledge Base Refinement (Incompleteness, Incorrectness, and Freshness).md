@@ -43,6 +43,7 @@ __General Papers__
 20. BoxE: A Box Embedding Model for Knowledge Base Completion (Neurips2020) [[Paper](https://arxiv.org/pdf/2007.06267)]
 21. TuckER: Tensor Factorization for Knowledge Graph Completion (EMNLP 2019) [[Paper](https://arxiv.org/abs/1901.09590)]
 22. Inductive Entity Representations from Text via Link Prediction (WWW 2021)
+23. Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion (WWW 2021)
 
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
