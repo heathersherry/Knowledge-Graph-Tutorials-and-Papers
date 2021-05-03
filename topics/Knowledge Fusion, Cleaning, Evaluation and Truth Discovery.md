@@ -38,6 +38,8 @@ __Knowledge Fusion, Cleaning and Evaluation__
 15. T-REx: Table Repair Explanations [[Paper](https://doi.org/10.1145/3318464.3384700)] (SIGMOD 2020, demo) 🌟
 16. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
 17. Tracy: Tracing Facts over Knowledge Graphs and Text (WWW 2019, short)
+18. Few-Shot Knowledge Validation using Rules (WWW 2021) [[Paper](https://mott.in/papers/LosterWWW2021COLT.pdf)]
+19. 
 
 __Vandalism Detection__
 1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
