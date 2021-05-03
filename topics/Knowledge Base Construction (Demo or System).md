@@ -39,10 +39,8 @@ __Fact Finding__
 2. Maverick: Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018) [[PDF](http://ranger.uta.edu/~cli/pubs/2018/maverick-sigmod18-zhang.pdf)]🌟
 3. Subjective Knowledge Base Construction Powered By Crowdsourcing and Knowledge Base (SIGMOD 2018) [[PDF](https://dl.acm.org/citation.cfm?doid=3183713.3183732)] 🌟
 
-__Personalized KG__
-1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket [[Paper](https://web.eecs.umich.edu/~dkoutra/papers/19_ICDM_GLIMPSE-CR.pdf)] (ICDM 2019 best paper) 🌟
-> Knapsack, submodula objective function,  (1 − {1}{e})-approximation algorithm
+__Taxonomy Expansion__
+1. Enquire One’s Parent and Child Before Decision: Fully Exploit Hierarchical Structure for Self-Supervised Taxonomy Expansion
 
-__Event KG__
-1. ASER: A Large-scale Eventuality Knowledge Graph (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)] [[Code](https://github.com/HKUST-KnowComp/ASER)]
+
 
