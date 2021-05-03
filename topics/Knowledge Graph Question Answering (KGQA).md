@@ -35,6 +35,8 @@ __General KGQA__
 24. Message Passing for Complex Question Answering over Knowledge Graphs (CIKM 2019) [[Paper](https://arxiv.org/pdf/1908.06917.pdf)]
 25. Keyword Search on RDF Graphs — A Query Graph Assembly Approach (CIKM 2017) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132957)] 🌟
 26. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs (ICDE 2020) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9101747&tag=1)] 🌟
+27. Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.07743.pdf)]
+28. 
 
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
