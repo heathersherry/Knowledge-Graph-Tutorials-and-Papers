@@ -99,3 +99,5 @@ __Others__
 33. Adaptive Low-level Storage of Very Large Knowledge Graphs (WWW 2020)
 34. Be Concise and Precise: Synthesizing Open-Domain Entity Descriptions from Facts (WWW 2019)
 35. Knowledge-Enhanced Ensemble Learning for Word Embeddings (WWW 2019)
+36. Effective and Scalable Clustering on Massive Attributed Graphs (WWW 2021)
+> * k-attributed graph clustering (k-AGC) groups nodes in G into k disjoint clusters, such that nodes within the same cluster share similar topological and attribute characteristics, while those in different clusters are dissimilar.
