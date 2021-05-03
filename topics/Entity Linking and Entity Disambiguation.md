@@ -41,6 +41,7 @@ __Notes and Discussions for Entity Linking__
 16. REL: An Entity Linker Standing on the Shoulders of Giants (SIGIR 2020) [[GitHub, API and Code](https://github.com/informagi/REL)] 
 17. A probabilistic model for linking named entities in web text with heterogeneous information networks（SIGMOD 2014）[[Paper](https://dl.acm.org/doi/10.1145/2588555.2593676)] 🌟
 18. Read, Retrospect, Select: An MRC Framework to Short Text Entity Linking (AAAI 2021) [[Paper](https://arxiv.org/pdf/2101.02394v1.pdf)]
+19. Pivot-based Candidate Retrieval for Cross-lingual Entity Linking (WWW 2021) [[Video](http://videolectures.net/www2021_liu_candidate_retrieval/)]
 
 ### 3. About Coherence among Entities
 __Global Coherence__
