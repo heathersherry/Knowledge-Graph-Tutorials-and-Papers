@@ -30,7 +30,8 @@ __General Papers__
 21. Top-K Entity Resolution with Adaptive Locality-Sensitive Hashing [[Paper](https://ieeexplore.ieee.org/document/8731463), short paper] (ICDE 2019) 🌟
 22. Schema-Agnostic Progressive Entity Resolution (TKDE 2019) 🌟
 23. Knowledge Translation [[Technical Report](https://arxiv.org/pdf/2008.01208.pdf)] (VLDB 2020) 🌟
-24. 
+24. Boosting the Speed of Entity Alignment 10×: Dual Attention Matching Network with Normalized Hard Sample Mining (WWW 2021) [[Paper](https://arxiv.org/pdf/2103.15452.pdf)]
+> *  Address two existing problems: over-complex graph encoder and inefficient negative sampling strategy
 25. Crowdsourced Collective Entity Resolution with Relational Match Propagation [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1hoQjzDt91Cliyfeds0znodJi9qut2T5T&sa=D&ust=1587488616438000&usg=AFQjCNGUwKR9_tol6E8T_Bqsom4L4cqd3g)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1OJdgNJHFq30LUyfcVI69Bea3wkpKnbcm&sa=D&ust=1587488616438000&usg=AFQjCNHjiZE4zZ71q08MuDrUAcoetNNN0g)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a037/290300a037.pdf)] (ICDE 2020) 🌟
 26. Gradual Machine Learning for Entity Resolution (WWW 2019)
 27. 
