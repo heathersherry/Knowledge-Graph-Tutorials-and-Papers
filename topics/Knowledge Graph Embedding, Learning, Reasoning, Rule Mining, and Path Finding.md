@@ -69,6 +69,7 @@ __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
 3. COMPOSITION-BASED MULTI-RELATIONAL GRAPH CONVOLUTIONAL NETWORKS (ICLR 2020) [[Paper](https://arxiv.org/pdf/1911.03082.pdf)] [[Code](https://github.com/malllabiisc/CompGCN)]
+4. Knowledge Embedding Based Graph Convolutional Network (WWW 2021)
 
 ### 3. KG Reasoning
 __Summary__
