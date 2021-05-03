@@ -30,6 +30,7 @@ __General Papers__
 21. Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning (SIGIR 2020)
 22. Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation (WWW 2019) [[Paper](https://arxiv.org/pdf/1901.08907.pdf)] [[Code](https://github.com/hwwang55/MKR)]
 23. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems (CIKM 2018) [[Paper](https://arxiv.org/pdf/1803.03467.pdf)] 
+24. Learning Intents behind Interactions with Knowledge Graph for Recommendation (WWW 2021)
 
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
