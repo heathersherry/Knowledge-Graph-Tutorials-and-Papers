@@ -53,3 +53,6 @@ __Product Data Set__
 ### Event KGs
 1. Searching News Articles Using an Event Knowledge Graph Leveraged by Wikidata (WWW 2019) [[Paper](https://arxiv.org/pdf/1904.05557.pdf)]
 2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021)
+
+### Opinion Graphs
+1. Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)] [[Code](https://github.com/megagonlabs/explainit)]
