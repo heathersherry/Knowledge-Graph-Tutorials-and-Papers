@@ -45,6 +45,8 @@ __General Papers__
 17. Modeling Relation Paths for Representation Learning of Knowledge Bases (EMNLP 2015) [[Paper](https://www.aclweb.org/anthology/D15-1082.pdf)] [[Code](https://github.com/mrlyk423/relation_extraction)]
 > *  relation prediction: predict relations between two given entities, i.e., (h; ?; t).
 18. Efficient Knowledge Graph Embedding without Negative Sampling (WWW 2021)
+19. MQuadE: a Unified Model for Knowledge Fact Embedding (WWW 2021)
+20. MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings (WWW 2021)
 
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
