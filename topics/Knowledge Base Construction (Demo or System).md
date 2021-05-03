@@ -31,6 +31,7 @@ __General Papers__
 14. An Ontology-Based Conversation System for Knowledge Bases [[Paper](https://doi.org/10.1145/3318464.3386139)] (SIGMOD industry track 2020) 🌟
 15. GIANT: Scalable Creation of a Web-scale Ontology [[Paper](https://doi.org/10.1145/3318464.3386145)] (SIGMOD industry track 2020) 🌟
 16. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring (KDD 2020)
+17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
 
 
 __Fact Finding__
