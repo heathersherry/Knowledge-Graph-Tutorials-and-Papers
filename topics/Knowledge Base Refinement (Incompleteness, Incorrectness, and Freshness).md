@@ -72,6 +72,7 @@ __General Papers (KBP from External Sources)__
 > * Less is more: Slecting sources wisely for intergration (VLDB 2012) 🌟
 > * Characterizing and Selecting Fresh Data Sources (SIGMOD 2014) [[Paper](http://lunadong.com/publication/selectFreshSources_sigmod.pdf)] 🌟
 6. KnowledgeNet: A Benchmark Dataset for Knowledge Base Population (EMNLP 2019) [[Paper](https://www.aclweb.org/anthology/D19-1069.pdf)]
+7. Information Extraction From Co-Occurring Similar Entities (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.05444.pdf)]
 
 ### Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
