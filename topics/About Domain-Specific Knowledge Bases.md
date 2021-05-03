@@ -48,11 +48,13 @@ __Product Data Set__
 
 ### Personalized KB
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
-2. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)]
+> * Knapsack, submodula objective function,  (1 − {1}{e})-approximation algorithm
+3. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)]
 
 ### Event KGs
 1. Searching News Articles Using an Event Knowledge Graph Leveraged by Wikidata (WWW 2019) [[Paper](https://arxiv.org/pdf/1904.05557.pdf)]
 2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021)
+3. ASER: A Large-scale Eventuality Knowledge Graph (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)] [[Code](https://github.com/HKUST-KnowComp/ASER)]
 
 ### Opinion Graphs
 1. Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)] [[Code](https://github.com/megagonlabs/explainit)]
