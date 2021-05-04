@@ -19,6 +19,7 @@ __KG Queries and Knowledge Search__
 7. Graph-Query Suggestions for Knowledge Graph Exploration (WWW 2020, short paper)
 8. Mining summaries for knowledge graph search (ICDM 2016)
 9. Efficient Computation of Semantically Cohesive Subgraphs for Keyword-Based Knowledge Graph Exploration (WWW 2021) 
+10. WiseKG: Balanced Access to Web Knowledge Graphs (WWW 2021)
 
 __Data Extraction or Knowledge Extraction from The Web__
 1. When Open Information Extraction Meets the Semi-Structured Web (OpenCERES, NAACL 2019)
