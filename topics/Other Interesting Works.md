@@ -103,3 +103,4 @@ __Others__
 35. Knowledge-Enhanced Ensemble Learning for Word Embeddings (WWW 2019)
 36. Effective and Scalable Clustering on Massive Attributed Graphs (WWW 2021)
 > * k-attributed graph clustering (k-AGC) groups nodes in G into k disjoint clusters, such that nodes within the same cluster share similar topological and attribute characteristics, while those in different clusters are dissimilar.
+37. Trav-SHACL: Efficiently Validating Networks of SHACL Constraints (WWW 2021)
