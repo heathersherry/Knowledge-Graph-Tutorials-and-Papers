@@ -25,7 +25,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 > * ZeroShotCeres: Zero-shot relation extraction from semi-structured webpages (ACL 2020)
 > * OpenCeres: When open information extraction meets the semi-structured web (NAACL 2019)
 > * Ceres: Distantly supervised relation extraction from the semi-structured web (VLDB 2018)
-
+13. RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network (WWW 2021)
 
 __Notes__
 1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
