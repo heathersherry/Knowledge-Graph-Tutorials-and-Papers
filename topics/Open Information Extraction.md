@@ -59,6 +59,10 @@ __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 7. Relation Schema Induction using Tensor Factorization with Side Information (SICTF, EMNLP 2016) relation schema induction (for building domain-specific kb from unstructured text) [[Code](https://github.com/malllabiisc/sictf)]
 8. Constrained Information-Theoretic Tripartite Graph Clustering to Identify Semantically Similar Relations (IJCAI 2015)
 
+__Other Canonicalization__
+1.  Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)]
+> * Canicaliza opinion phrases
+
 __Related Works__
 1. Query-Efficient Correlation Clustering (WWW 2020)
 
