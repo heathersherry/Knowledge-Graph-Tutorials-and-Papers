@@ -20,6 +20,7 @@ __KG Queries and Knowledge Search__
 8. Mining summaries for knowledge graph search (ICDM 2016)
 9. Efficient Computation of Semantically Cohesive Subgraphs for Keyword-Based Knowledge Graph Exploration (WWW 2021) 
 10. WiseKG: Balanced Access to Web Knowledge Graphs (WWW 2021)
+11. Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs (WWW 2021)
 
 __Data Extraction or Knowledge Extraction from The Web__
 1. When Open Information Extraction Meets the Semi-Structured Web (OpenCERES, NAACL 2019)
@@ -104,4 +105,3 @@ __Others__
 36. Effective and Scalable Clustering on Massive Attributed Graphs (WWW 2021)
 > * k-attributed graph clustering (k-AGC) groups nodes in G into k disjoint clusters, such that nodes within the same cluster share similar topological and attribute characteristics, while those in different clusters are dissimilar.
 37. Trav-SHACL: Efficiently Validating Networks of SHACL Constraints (WWW 2021)
-38. Role-Aware Modeling for N-ary Relational Knowledge Bases (WWW 2021)
