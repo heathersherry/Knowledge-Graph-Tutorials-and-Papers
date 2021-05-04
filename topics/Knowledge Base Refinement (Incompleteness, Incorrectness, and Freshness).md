@@ -44,6 +44,7 @@ __General Papers__
 21. TuckER: Tensor Factorization for Knowledge Graph Completion (EMNLP 2019) [[Paper](https://arxiv.org/abs/1901.09590)]
 22. Inductive Entity Representations from Text via Link Prediction (WWW 2021)
 23. Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion (WWW 2021)
+24. Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion (WWW 2021) [[Paper](https://arxiv.org/pdf/2004.14781.pdf)]
 
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
