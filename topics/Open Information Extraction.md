@@ -66,6 +66,12 @@ __Other Canonicalization__
 __Related Works__
 1. Query-Efficient Correlation Clustering (WWW 2020)
 
+__Clustering Methods Used for Canonicalization__
+Note: So far most of the papers I read employ HAC for canonicalization for two major reasons: (1) no predefined number of clusters, (2) Un-sensitive to similarity metrics. The standard algorithm for hierarchical agglomerative clustering (HAC) has a time complexity of O(n^3) and requires O(n^2) memory.
+1. An efficient algorithm for a complete link method. Comput. J. 20, 4 (1977), complete linkage, O(n^2)
+2. A Hierarchical Algorithm for Extreme Clustering (KDD 2017), approximate Hierarchical clustering algorithms at the cost of some loss in performance.
+3. SLINK: an optimally efficient algorithm for the single-link cluster method, O(n^2)
+
 
 ### Other Interesting Works about Open IE
 1. Intergring Local Context and Global Cohesiveness for Open Information Extraction (ReMine, WSDM 2019)
