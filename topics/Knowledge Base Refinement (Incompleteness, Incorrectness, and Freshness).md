@@ -93,3 +93,6 @@ __General Papers (KBP from External Sources)__
 2. TimeMachine: Timeline generation for knowledge-base entities (KDD 2015)
 3. Outdated Fact Detection in Knowledge Bases (ICDE 2020, short) 🌟 [[Video](https://www.youtube.com/watch?v=yVn6uucEIvk)]
 4. Learning to Update Knowledge Graph by Reading News (EMNLP 2019)
+5. Summarizing Entity Temporal Evolution in Knowledge Graphs (WWW 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3308560.3316521)]
+
+### Knowledge Base Freshness
