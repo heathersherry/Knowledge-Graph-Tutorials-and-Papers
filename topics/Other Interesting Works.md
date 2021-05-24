@@ -64,9 +64,10 @@ __BERT+KG__
 1. ENRIE (Tsinghua) [[References](https://zhuanlan.zhihu.com/p/150118293)]
 2. ENRIE (Baidu) [[References](https://mp.weixin.qq.com/s?__biz=MzAxMDk0OTI3Ng==&mid=2247484077&idx=1&sn=fa39b7df8380ea3c49fa5cfd58f446ff&chksm=9b49c55eac3e4c489b3230063700e9414e2e3f5a75018ab3059d2c31a64f9e591da0df927bd9&scene=21#wechat_redirect)]
 
-__Explanable GNN__
+__XAI and Explanable GNN__
 1. On Explainability of Graph Neural Networks via Subgraph Explorations [[Paper](https://arxiv.org/pdf/2102.05152.pdf)] 🌟
 > * Shapley value --> taxi sharing
+2. ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction [[Paper](https://arxiv.org/pdf/2105.10446.pdf)]
 
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
