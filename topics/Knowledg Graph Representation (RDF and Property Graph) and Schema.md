@@ -9,4 +9,10 @@ __Queries and Search over RDF based KG__
 2. Semantic SPARQL similarity search over RDF knowledge graphs (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2983200.2983201)] 🌟
 
 ### Property Graph
+__General Papers__
 1. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) [[Paper](https://arxiv.org/pdf/2003.11580.pdf)] 🌟
+
+
+__Queries and Search over Property Graph based KG__
+1. Sqlgraph: An efficient relational-based property graph store (SIGMOD 2015) 🌟
+2. Cypher: An evolving query language for property graphs (SIGMOD 2018) 🌟
