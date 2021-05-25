@@ -1,6 +1,10 @@
 ## Knowledg Graph Representation (RDF and Property Graph) and Schema
+In my understanding, there are two major approaches to store and query knowledge graphs: one is RDF (Resource Description Framework) data model with SPARQL query language, and the other is property graph model with graph query languages such as Gremlin and Cypher. 
 
 ### RDF 
+__Surveys__
+1. RDF Data Storage and Query Processing Schemes: A Survey [[Paper](https://dl.acm.org/doi/pdf/10.1145/3177850)]
+
 __General Papers__
 1. Relational schema optimization for RDF-based knowledge graphs (Information Systems 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0306437921000223)] 
 
