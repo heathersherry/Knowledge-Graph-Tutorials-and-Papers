@@ -106,3 +106,4 @@ __Others__
 36. Effective and Scalable Clustering on Massive Attributed Graphs (WWW 2021)
 > * k-attributed graph clustering (k-AGC) groups nodes in G into k disjoint clusters, such that nodes within the same cluster share similar topological and attribute characteristics, while those in different clusters are dissimilar.
 37. Trav-SHACL: Efficiently Validating Networks of SHACL Constraints (WWW 2021)
+38. Sampling from Large Graphs (KDD 2006) [[Paper](https://cs.stanford.edu/people/jure/pubs/sampling-kdd06.pdf)]
