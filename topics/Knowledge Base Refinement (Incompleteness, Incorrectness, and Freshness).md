@@ -95,4 +95,3 @@ __General Papers (KBP from External Sources)__
 4. Learning to Update Knowledge Graph by Reading News (EMNLP 2019)
 5. Summarizing Entity Temporal Evolution in Knowledge Graphs (WWW 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3308560.3316521)]
 
-### Knowledge Base Freshness
