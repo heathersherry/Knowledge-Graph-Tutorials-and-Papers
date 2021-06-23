@@ -39,7 +39,7 @@ __General Papers__
 29. Entity Matching in the Wild: a Consistent and Versatile Framework to Unify Data in Industrial Applications [[Paper](https://doi.org/10.1145/3318464.3386143)] (SIGMOD 2020, industry track) 🌟
 30. REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs (KDD 2020)
 31. r-HUMO: A Risk-Aware Human-Machine Cooperation Framework for Entity Resolution with Quality Guarantees (TKDE 2020) 🌟
-32. Efficient Entity Resolution on Heterogeneous Records (TKDE 2020) 🌟
+32. Efficient Entity Resolution on Heterogeneous Records (TKDE 2020) 🌟 [[Paper](https://ieeexplore.ieee.org/document/8637043)]
 33. Waldo: An Adaptive Human Interface for Crowd Entity Resolution (SIGMOD 2017) 🌟
 34. Falcon: Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services (SIGMOD 2017) 🌟
 35. Generating Concise Entity Matching Rules (SIGMOD 2017) 🌟
