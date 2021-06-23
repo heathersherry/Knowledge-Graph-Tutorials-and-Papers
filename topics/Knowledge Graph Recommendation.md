@@ -33,6 +33,7 @@ __General Papers__
 24. Learning Intents behind Interactions with Knowledge Graph for Recommendation (WWW 2021)
 25. Learning Dynamic User Interest Sequence in Knowledge Graphs for Click-Through Rate Prediction (TKDE 2021) [[Paper](https://ieeexplore.ieee.org/document/9409651)]
 
+
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
 
