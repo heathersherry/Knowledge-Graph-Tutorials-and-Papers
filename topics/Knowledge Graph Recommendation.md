@@ -19,7 +19,7 @@ __General Papers__
 10. Towards Knowledge-Based Recommender Dialog System (EMNLP-IJCNLP 2019)
 11. Explianable Reasoning over Knowledge Graphs for Recommendation (AAAI 2019)
 12. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems (CIKM 2018)
-13. Collaborative knowledge base embedding for recommender systems (KDD 2016)
+13. Collaborative knowledge base embedding for recommender systems (KDD 2016) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2939672.2939673)]
 14. Dbrec—music recommendations using DBpedia (ISWC 2020)
 15. Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019) 
 16. Multi-modal Knowledge Graphs for Recommender Systems (CIKM 2020) [[Paper](https://zheng-kai.com/paper/cikm_2020_sun.pdf)]
