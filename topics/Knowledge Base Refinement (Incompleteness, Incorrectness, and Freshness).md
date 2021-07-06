@@ -14,7 +14,7 @@ __General Papers__
 3. Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs (WWW 2020, short paper) 🌟
 
 
-### Knowledge Base Completion
+### Knowledge Base Completion 
 __Surveys and Evaluations__
 1. Revisiting Evaluation of Knowledge Base Completion Models (from https://openreview.net/forum?id=1uufzxsxfL)
 2. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
