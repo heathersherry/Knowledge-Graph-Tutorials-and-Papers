@@ -25,7 +25,7 @@ __1.1 Summary Graph Based Approaches__
 > * BANKS [4], BANKS-II [5], and BLINKS [6], which propose approximate algorithms. BANKS merges paths from keyword vertices to approximate a minimum-weight GST, while BANKS-II further improves the performance of BANKS by conducting bidirectional search. In addition, BLINKS exploits the precomputed distances and graph partitioning to further improve the efficiency of the bidirectional search.
 7. Scalable keyword search on large rdf data (TKDE 2014) 🌟
 > * The search can also be pruned based on the graph summaries. The RDF data is first condensed into a generic graph, while the entity vertex with the corresponding keyword and type vertices are merged together. A type-based summarization approach is then proposed to speed up the search performance.
-8. Efficient and Progressive Group Steiner Tree Search (SIGMOD 2016)
+8. Efficient and Progressive Group Steiner Tree Search (SIGMOD 2016) 🌟
 > * To address the two limitations in [2], PrunedDP [8] is developed with optimal-tree decomposition techniques and conditional tree merging strategies. The search space of the parameterized DP algorithm is significantly reduced, and progressively-refined feasible solutions are conducted during the execution of the algorithm.
 10. Keyword Search on RDF Graphs — A Query Graph Assembly Approach (CIKM 2017)
 > * 
