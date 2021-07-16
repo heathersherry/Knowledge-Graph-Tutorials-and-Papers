@@ -67,6 +67,15 @@ Retrieval-based methods precompute an index a collection of size-bounded subgrap
 
 __1.3 Keyword Query Interpretation__
 
+These works first transform a keyword query into a structured query such as a SPARQL query. Then they  execute the structured query over the RDF graph to retrieve answers. 
+
+1. Top-k Exploration of Query Candidates for Efficient Keyword Search on Graph-Shaped (RDF) Data (ICDE 2005) 🌟
+> * They first conduct queries from the keywords while allowing the users to select the appropriate query. Moreover, to compute queries from keywords, they propose novel algorithms to determine the top-k exploration of subgraphs, which is guaranteed to compute all k subgraphs, including cyclic graphs, with the lowest costs.
+2. Finding Patterns in a Knowledge Base using Keywords to Compose Table Answers (VLDB 2014) 🌟
+> * This paper determines patterns which are relevant to the query based on a class of scoring functions in an efficient manner. They formulate a d-height tree pattern problem.
+> * They formally define the tree patterns that aggregate subtrees in the knowledge graph which contains all the keywords within a query, while the tree patterns are expected to (1) figure out the semantics of keyword queries, (2) generate and compose the table answers. 
+> * They further construct path-based indexes efficiently to discover the tree patterns for a given keyword query, and a sampling-based approach to provide approximate top-k to speed up query processing.
+
 __1.2 Keyword Query on Spatial Knowledge Graphs__
 
 __2. SPARQL Query on Knowledge Graphs__
