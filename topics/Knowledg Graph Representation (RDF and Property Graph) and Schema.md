@@ -49,13 +49,21 @@ Furthermore, an important but unsolved issue is how to group and summarize the a
 14. Summarizing answer graphs induced by keyword queries (VLDB 2013) 🌟
 > * This paper studies the summarization of the answer graphs induced by a keyword query. 
 > * Specifically, to measure the information loss after the summarization, the coverage ratio, which is a quality metric of summary graphs, is designed. 
-> * According to this metric, the authors formulate a set of summarization problems, with the target to determine the minimized summary graphs with the constraints of certain coverage ratio. Exact and heuristic summarization algorithms are proposed to solve the problems.
+> * According to this metric, the authors formulate a set of summarization problems, with the target to determine the minimized summary graphs with the constraints of certain coverage ratio. 
+> * Exact and heuristic summarization algorithms are proposed to solve the problems.
 
 __1.2 Retrieval-based Keyword Query__
 
 Retrieval-based methods precompute an index a collection of size-bounded subgraphs as candidate answers.
 
-
+1. EASE: an effective 3-in-1 keyword search method for unstructured, semi-structured and structured data （SIGMOD 2008）🌟
+> * EASE processes keyword queries on the graph constructed based on the target heterogenous data. 
+> * Specifically, instead of employing traditional inverted indices, EASE summarizes the graphs and constructs graph indices. 
+> * To facilitate the keyword-based search, an extended inverted index is proposed together with a novel ranking mechanism to enhance the effectiveness of search.
+2. Finding Top-k Answers in Keyword Search over Relational Databases Using Tuple Units (TKDE 2011) 🌟
+> * Motivation: effectively answer keyword queries by integrating multiple related tuple units (instead of single unit) to answer a keyword query in many real-world scenarios.
+> * SAINT devises single-keyword-based structure-aware index as well as keyword-pair-based structure-aware index. Then, the structural relationships between different tuple units are incorporated into these indexes, to identify the answers of integrated tuple units in an efficient manner. 
+> * Moreover, novel ranking strategies and algorithms are developed to locate the top-k answers progressively.
 
 __1.3 Keyword Query Interpretation__
 
