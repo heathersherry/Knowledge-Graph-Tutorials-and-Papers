@@ -59,6 +59,9 @@ __1.2 Keyword Query on Spatial Knowledge Graphs__
 
 __2. SPARQL Query on Knowledge Graphs__
 
+As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language!](https://www.w3.org/TR/sparql11-query/)]
+
+
 __2.1 Efficiency Improvement in Traditional SPARQL Queries__
 
 1. Faceted search over RDF-based knowledge graphs (Journal of Web Semantics 2016) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826815001432)] 
