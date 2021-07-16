@@ -76,6 +76,16 @@ These works first transform a keyword query into a structured query such as a SP
 > * They formally define the tree patterns that aggregate subtrees in the knowledge graph which contains all the keywords within a query, while the tree patterns are expected to (1) figure out the semantics of keyword queries, (2) generate and compose the table answers. 
 > * They further construct path-based indexes efficiently to discover the tree patterns for a given keyword query, and a sampling-based approach to provide approximate top-k to speed up query processing.
 
+Moreover, to generate top-k interpretations aligned with user intentions, based on a user’s query context, context-aware approaches that aim at keyword query interpretation to personalizes the interpretation is proposed.
+
+3. Effectively interpreting keyword queries on rdf databases with a rear view (ISWC 2011)
+> * They study a sequence of structured queries associated with the interpretations of keyword queries in the query history. 
+> * In detail, they propose a dynamic weighted summary graph model, which captures the representative characteristics of a user’s query history concisely. To extend the existing cost-balanced graph exploration algorithms, they further propose a top-k context-aware graph exploration algorithm, which is supported by biasing the exploration process based on context. 
+> * Early termination conditions according to a notion of dominance is done to enhance the efficiency. 
+4. Personalizing keyword search on RDF data (International Conference on Theory and Practice of Digital Libraries, 2013)
+> * Based on the ranking SVM approach which trains ranking functions according to the RDF-specific training features, the rank personalization is conducted with the employment of historical user feedback.
+
+
 __1.2 Keyword Query on Spatial Knowledge Graphs__
 
 __2. SPARQL Query on Knowledge Graphs__
