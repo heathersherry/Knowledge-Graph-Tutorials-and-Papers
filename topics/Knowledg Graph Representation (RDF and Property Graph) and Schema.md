@@ -12,7 +12,7 @@ __Queries and Search over RDF based KG__
 
 __1. Keyword search__
 
-__1.1 Summary Graph Based Keyword Query__
+__1.1 Summary Graph-based Keyword Query__
 1. Top-k exploration of query candidates for efficient keyword search on graph-shaped (rdf) data (ICDE 2009) 🌟
 2. Finding top-k min-cost connected trees in databases (ICDE 2007) 🌟
 3. Keyword search over RDF graphs (CIKM 2011) 🌟
@@ -20,8 +20,8 @@ __1.1 Summary Graph Based Keyword Query__
 > * This problem definition is very close to the group Steiner tree problem (GST), which is proven to be NP-complete.
 > * DPBF [2] guarantees to derive the exact optimal result of a minimum-weight GST with parameterized time complexity. However, DPBF still suffers from the exponential time and space complexity, especially on large graphs. Moreover, DPBF cannot generate a solution until the entire algorithm is completed.
 4. Keyword searching and browsing in databases using BANKS (ICDE 2002) 🌟
-5. Bidirectional expansion for keyword search on graph databases (VLDB 2005)
-6. BLINKS:rankedkeyword searches on graphs (SIGMOD 2007)
+5. Bidirectional expansion for keyword search on graph databases (VLDB 2005) 🌟
+6. BLINKS:rankedkeyword searches on graphs (SIGMOD 2007) 🌟
 > * BANKS [4], BANKS-II [5], and BLINKS [6], which propose approximate algorithms. BANKS merges paths from keyword vertices to approximate a minimum-weight GST, while BANKS-II further improves the performance of BANKS by conducting bidirectional search. In addition, BLINKS exploits the precomputed distances and graph partitioning to further improve the efficiency of the bidirectional search.
 7. Scalable keyword search on large rdf data (TKDE 2014) 🌟
 > * The search can also be pruned based on the graph summaries. The RDF data is first condensed into a generic graph, while the entity vertex with the corresponding keyword and type vertices are merged together. A type-based summarization approach is then proposed to speed up the search performance.
@@ -51,7 +51,11 @@ Furthermore, an important but unsolved issue is how to group and summarize the a
 > * Specifically, to measure the information loss after the summarization, the coverage ratio, which is a quality metric of summary graphs, is designed. 
 > * According to this metric, the authors formulate a set of summarization problems, with the target to determine the minimized summary graphs with the constraints of certain coverage ratio. Exact and heuristic summarization algorithms are proposed to solve the problems.
 
-__1.2 Retrieval Based Keyword Query__
+__1.2 Retrieval-based Keyword Query__
+
+Retrieval-based methods precompute an index a collection of size-bounded subgraphs as candidate answers.
+
+
 
 __1.3 Keyword Query Interpretation__
 
@@ -59,7 +63,7 @@ __1.2 Keyword Query on Spatial Knowledge Graphs__
 
 __2. SPARQL Query on Knowledge Graphs__
 
-As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language!](https://www.w3.org/TR/sparql11-query/)]
+As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)]
 
 
 __2.1 Efficiency Improvement in Traditional SPARQL Queries__
