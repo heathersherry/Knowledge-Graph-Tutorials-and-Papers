@@ -86,7 +86,7 @@ Moreover, to generate top-k interpretations aligned with user intentions, based 
 > * Based on the ranking SVM approach which trains ranking functions according to the RDF-specific training features, the rank personalization is conducted with the employment of historical user feedback.
 
 
-__1.2 Keyword Query on Spatial Knowledge Graphs__
+__1.4 Keyword Query on Spatial Knowledge Graphs__
 
 __2. SPARQL Query on Knowledge Graphs__
 
@@ -94,6 +94,14 @@ As the standard query language in RDF data model, SPARQL is widely used to query
 
 
 __2.1 Efficiency Improvement in Traditional SPARQL Queries__
+
+__2.2 Distributed SPARQL Query Processing__
+
+__2.3 From Natural Language Questions to SPARQL Queries__
+
+__2.4 SPARQL Query Rewriting and Understanding__
+
+__3. Facet Search over RDF Knowledge Graphs__
 
 1. Faceted search over RDF-based knowledge graphs (Journal of Web Semantics 2016) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826815001432)] 
 2. Semantic SPARQL similarity search over RDF knowledge graphs (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2983200.2983201)] 🌟
