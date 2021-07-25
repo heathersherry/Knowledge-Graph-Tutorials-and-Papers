@@ -1,4 +1,4 @@
-## Knowledg Graph Representation (RDF and Property Graph) and Schema
+## Knowledg Graph Representation (RDF and Property Graph), Schema and Query
 There are two major approaches to store and query knowledge graphs: (1) RDF (Resource Description Framework) data model with SPARQL query language, (2) property graph model with graph query languages such as Cypher. 
 
 ## RDF Graphs
