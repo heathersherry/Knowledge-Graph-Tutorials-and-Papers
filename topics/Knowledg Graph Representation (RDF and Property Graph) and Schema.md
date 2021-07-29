@@ -87,6 +87,7 @@ Moreover, to generate top-k interpretations aligned with user intentions, based 
 
 
 __1.4 Keyword Query on Spatial Knowledge Graphs__
+
 The target of the current works that focus on spatial keyword queries for a knowledge graph is to locate a subtree that covers all the query keywords. Specifically, there are essential requirements for the retrieved subtree rooted at a place vertex. First, it should be spatially close to a query location. Second, it should be compact in terms of the query keywords.
 
 
