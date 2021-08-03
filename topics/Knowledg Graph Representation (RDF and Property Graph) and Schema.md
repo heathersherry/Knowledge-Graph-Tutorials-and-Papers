@@ -88,17 +88,62 @@ Moreover, to generate top-k interpretations aligned with user intentions, based 
 
 __1.4 Keyword Query on Spatial Knowledge Graphs__
 
-The target of the current works that focus on spatial keyword queries for a knowledge graph is to locate a subtree that covers all the query keywords. Specifically, there are essential requirements for the retrieved subtree rooted at a place vertex. First, it should be spatially close to a query location. Second, it should be compact in terms of the query keywords.
+The target is to locate a subtree that covers all the query keywords. Specifically, there are essential requirements for the retrieved subtree rooted at a place vertex. First, it should be spatially close to a query location. Second, it should be compact in terms of the query keywords.
 
+1. Top-k Relevant Semantic Place Retrieval on Spatial RDF Data (SIGMOD 2016) 🌟
+2. Top-k relevant semantic place retrieval on spatiotemporal RDF data (VLDBJ 2019) 🌟
+> * [1] and [2] investigate a location-based keyword search query on RDF data. In detail, the top-k relevant semantic places (kSP) retrieval [1] aims to determine specific RDF subgraphs that meet the following requirements: (1) they contain the query keywords which rooted at spatial entities, and (2) they are close to the query location. Specifically, such kSP queries are location-sensitive, without employing any structured query language. In addition, two pruning approaches with a data preprocessing technique are introduced, to further accelerate the kSP retrieval. 
+To add temporal semantics to the kSP query, [2] introduces the kSPT query that incorporates temporal information by: (1) integrating the temporal differences between the keyword-matched vertices and the query timestamp, or (2) employing a temporal range to filter keyword-matched vertices.
+
+In real-world scenarios, employing a single subtree may not satisfy the user requirements. Therefore, collective spatial keyword query (CSKQ) is proposed, so that a group of subtrees are integrated to collectively cover the query keywords.
+
+3. Collective keyword query on a spatial knowledge base (TKDE 2018) 🌟
+> * This work introduces and formulates a spatial keyword query problem on a knowledge base, i.e., CoSKQ-KB. Specifically, the CoSKQ-KB problem determines a set of semantic places that collectively cover the query keywords with the target to minimize a ranking function, which is derived based on spatial closeness and keyword relevance. Moreover, to measure the travel distance of a user who visit all the member semantic places, a hub-based MaxSum distance is proposed. This work also proposes the BCK algorithm, which reduces the search spaces to address the CoSKQ-KB problem, by employing efficient pruning techniques, as well as the iSCK algorithm, which enhances BCK with dynamic bounds for the early termination of iterations.
+4. Collectivespatial keyword querying (SIGMOD 2011)
+5. Inherent-cost aware collective spatial keyword queries (SSTD 2017)
+6. Efficient collective spatial keyword query processing on road networks (IEEE Trans. Intell. Transp. Syst., 2017)
 
 __2. SPARQL Query on Knowledge Graphs__
 
 As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)]
 
-
 __2.1 Efficiency Improvement in Traditional SPARQL Queries__
 
+Conventional methods that investigate SPARQL queries over RDF-based knowledge graphs mainly suffer from two limitations. First, they are not able to produce answers for the SPARQL queries with wildcards with scalable approaches. Second, they are not able to deal with the frequent updates in RDF repositories in an efficient manner. 
+
+1. gStore: answering SPARQL queries via subgraph matching (VLDB 2011) 🌟
+> * This work proposes a graph-based approach to store the RDF data. They convert a SPARQL query into a subgraph matching query. To accelerate the query processing, they design VS-tree and VS∗-tree as indexes, together with effective pruning rules and efficient search algorithms, which are embedded into the query algorithms that determine the answers for both exact SPARQL queries and queries with wildcards uniformly and seamlessly.
+
 __2.2 Distributed SPARQL Query Processing__
+
+Because of the sheer size, the heterogeneity, and the further complexity brought by RDF reasoning, managing the large volumes of RDF data remains as a challenging issue. To address this size challenge, distributed storage architectures and distributed SPARQL query processing are proposed and investigated by many research works.
+
+1. RDF in the clouds: a survey (VLDBJ 2015) 🌟(a very good survey! 🥳)
+
+The first category of works focus on managing RDF datasets using cloud platforms. 
+
+2. S2RDF: RDF querying with SPARQL on spark (VLDB 2016) 🌟
+> * To minimize the query input size regardless of its pattern structure and diameter in an efficient manner, S2RDF describes ExtVP, a novel relational partitioning schema for RDF data, which utilizes a semi-join based preprocessing akin to the concept of join indices in relational databases. S2RDF is constructed on Spark, where the relational interfaces are utilized to execute the SPARQL queries over ExtVP. 
+3. S2X: Graph-Parallel Querying of RDF with GraphX (BigO(Q)/DMAH@VLDB 2015) 🌟
+> * S2X employs GraphX in Spark to conduct evaluation on the SPARQL queries. Specifically, S2X distributes all triple patterns to all vertices. Afterwards, the vertices validate their triple candidacy with their neighbors via exchanging messages. Finally, S2X collects and merges the partial results.
+
+The second category of works are partition-based, where the large RDF graph are divided into different partitions while each partition is stored in a site managed by a centralized RDF system. In this scenario, a SPARQL is decomposed into several subqueries at run time, while the subqueries can be executed and answered locally by one of the sites. Afterwards, the results of the all the subqueries are integrated.
+
+4. Scalable SPARQL Querying Using Path Partitioning (ICDE 2015) 🌟
+> * PathBMC decomposes the large-scale RDF graph into multiple path preserving data partitions. It then generates a collection of complex SPARQL queries to be inner-partition queries. Therefore, it can largely reduce or even avoid the cost of distributed joins over the large-scale RDF graph. 
+5. DiploCloud: Efficient and Scalable Management of RDF Data in the Cloud (TKDE 2015) 🌟
+> * DiploCloud performs a physiological analysis on the instance and schema information which is prior to partitioning the data. Specifically, it requires the administrator to define a set of templates as the partition unit, and stores the instantiations of the templates in compact lists as in a column-oriented database system.
+6. Query Workload-based RDF Graph Fragmentation and Allocation (EDBT 2016)
+> * This work conducts mining and selection of a set of frequent access patterns, which partition the RDF graph into several smaller fragments. Moreover, an allocation algorithm that distributes all such fragments over distinct sites is further proposed. Finally, according to the fragmentation and allocation results, the query are processed.
+
+However, the partitions proposed by most techniques are static. In other words, these patterns are not capable of adapting themselves to diverse changes within the query workload. Consequently, there are a few drawbacks. First, the existing approaches cannot consistently avoid the communication cost of the queries not favored or supported by the initial data partitioning. Second, for large-scale universal RDF knowledge graphs, the partitioning phase is likely to be expensive due to the high startup costs. 
+
+7. Accelerating SPARQL Queries by Exploiting Hash-based Locality and Adaptive Partitioning (VLDBJ 2016) 🌟
+8. Evaluating SPARQL Queries on Massive RDF Datasets (VLDB 2015) 🌟
+> * To address the above shortcomings, AdPart [7] and AdHash [8] apply lightweight hash partitioning that significantly reduces the startup cost. Specifically, the parallel processing of join patterns on subjects without any communication is favored by the partitioning. Through redistributing and replicating the frequently accessed data in an incremental manner, they further monitor the data access patterns, which are adapted to the query load dynamically. Therefore, the communication cost for future queries is eliminated or significantly reduced. 
+
+There are also another category of works that employ neither cloud platforms nor PDF graph partitioning. 
+9. DREAM: distributed RDF engine with adaptive query planner and minimal communication (VLDB 2015) 🌟
 
 __2.3 From Natural Language Questions to SPARQL Queries__
 
