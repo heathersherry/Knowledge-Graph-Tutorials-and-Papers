@@ -143,7 +143,9 @@ However, the partitions proposed by most techniques are static. In other words, 
 > * To address the above shortcomings, AdPart [7] and AdHash [8] apply lightweight hash partitioning that significantly reduces the startup cost. Specifically, the parallel processing of join patterns on subjects without any communication is favored by the partitioning. Through redistributing and replicating the frequently accessed data in an incremental manner, they further monitor the data access patterns, which are adapted to the query load dynamically. Therefore, the communication cost for future queries is eliminated or significantly reduced. 
 
 There are also another category of works that employ neither cloud platforms nor PDF graph partitioning. 
+
 9. DREAM: distributed RDF engine with adaptive query planner and minimal communication (VLDB 2015) 🌟
+
 
 __2.3 From Natural Language Questions to SPARQL Queries__
 
