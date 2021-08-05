@@ -167,7 +167,40 @@ Specifically, to deal with SPARQL queries over a distributed RDF graph, [10] emp
 
 __2.3 From Natural Language Questions to SPARQL Queries__
 
+The Question Answering (QA) systems based on knowledge graphs can interpret the questions raised by the users as SPARQL query, and return a set of answers retrieved from the RDF-based knowledge graph. Nevertheless, due to the complexity of entity linking and predicate linking, which aims to link natural phrases to specific RDF items, it is still challenging to understand users’ questions precisely. As a result, the answer set may not satisfy the expectation of users if it offers wrong answers and neglects part of the correct answers. There are many works that study this problem, aiming at interpreting the users’ questions to SPARQL queries precisely and efficiently. 
+
+1. Template-based question answering over RDF data (WWW 2012)
+> * Leveraging a parse of the question, [1] generates a SPARQL template that mirrors the internal structure of the question directly. Then, through employing statistical entity identification and predicate detection, the template is instantiated. 
+2. Evaluation of a Layered Approach to Question Answering over Linked Data (ISWC 2012)
+> * Similar to [1], based on part-of-speech tags, BELA [2] utilizes a lexical tree adjoining grammar to parse the input queries. This parsing produces a collection of SPARQL query templates, while each template is associated with a potential interpretation of the given query. Furthermore, an inverted index constructed from DBpedia entity names is consulted, in order to fill in the unknown slots in the SPARQL queries.
+3. Natural language questions for the web of data (EMNLP-CoNLL 2012) 🌟
+> * DENNA [3] is another work that translates the natural language questions to SPARQL templates. It address this issue by constructing a disambiguation graph, and further reducing the disambiguation task to an integer linear programming (ILP) problem.
+
+There are a group of methods that do not adopt any manually defined SPARQL templates.
+
+4. Natural language question answering over RDF: a graph data driven approach (SIGMOD 2014) 🌟
+> * To answer the natural language questions over RDF repository from a graph data-driven perspective, Zou et al. [4] propose a systematic framework. Specifically, they construct a semantic query graph which manipulates and models the query intention in the natural language question in a structural manner. The RDF-based question answering task is then reduced to subgraph matching problem based on the query graph. One of their essential technical contributions is to resolve the ambiguity of natural language questions when locating the matches of query. 
+5. IMPROVE-QA: an interactive mechanism for RDF question/answering systems (SIGMOD 2018) 🌟
+> * Zhang et al. [6] develop an Interactive Mechanism aiming for Promotion Via feedback to QA systems, which is called IMPROVE-QA. This platform enable the existing QA systems to return answers that are more precise to users. According to the user’s feedback over the answer set, IMPROVE-QA automatically refines the original query into a new query graph with minimum modifications.
+
 __2.4 SPARQL Query Rewriting and Understanding__
+
+Another approach to process SPARQL queries is query rewriting. The first category of works rewrite the SPARQL queries to another target query language, while delegating their execution and optimization and to an engine which supports the target query language. Some of the works rewrite the SPARQL query to SQL, which enables the existing optimizations of relational database engines to be conducted. Some of the works rewrite SPARQL to existing graph query languages such as Gremlin that support navigational features. Moreover, on graph databases, there are also many works study the query rewriting.
+
+1. Efficient answering of why-not questions in similar graph matching (TKDE 2015) 🌟
+> * Islam et al. [1] rewrite queries to conduct graph similarity search, with the target to minimize the edit distance between the query and the returned result.
+2. Graph Query Reformulation with Diversity (KDD 2015) 🌟
+> * This work proposed produces a collection of diverse queries, with the target to cover the original query results by these query results, and hence can be utilized to assist the users to understand and explore the underlying graph database. 
+
+However, most works target at producing only one output node in the given query. Obviously, this simplifies inputs from the users, and hence limits its application in real-world scenarios where users’ interest are based on most or all the nodes in the query. 
+
+3. SPARQL Rewriting: Towards Desired Results (SIGMOD 2020) 🌟
+> * To address this user-related issue in knowledge graphs, this work narrows the gap between the actual meaning of a SPARQL query and the user’s real desire, by proposing a set of modifiers for a given query. Specifically, this problem is modelled as two individual sub-problems. The first problem is the query-restricting problem, which is proven to be NP-hard and has no polynomial-time approximation scheme (PTAS). To address the query-restricting problem, a (1−1/e)-approximation method is introduced. The second problem is the query-relaxing problem, which is proven to be NP-hard and has no polynomial-time constant-factor approximation algorithm. Two heuristic strategies are proposed to address the query-relaxing problem.
+
+Furthermore, because of the “schema-free” nature of RDF data, the systems are likely to adopt distinct schemas to represent the same real-world facts. Therefore, complex SPARQL queries containing multiple UNION operators are needed, if the users require multiple answers to one question. Obviously, there are two challenges. First, it is too hard for common users or even the professional users to conceive and generate the complicated SPARQL queries, which both consider the flexible underlying schemas and conform to the syntax. Second, the same knowledge can be captured and represented in diverse graph fragments. 
+
+4. 
+
 
 __3. Facet Search over RDF Knowledge Graphs__
 
