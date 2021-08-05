@@ -145,7 +145,25 @@ However, the partitions proposed by most techniques are static. In other words, 
 There are also another category of works that employ neither cloud platforms nor PDF graph partitioning. 
 
 9. DREAM: distributed RDF engine with adaptive query planner and minimal communication (VLDB 2015) 🌟
+> * DREAM avoid partitioning RDF datasets but partition only SPARQL queries. 
+> * DREAM generates a general paradigm for various types of pattern matching queries without partitioning datasets. In particular, only auxiliary data are shuffled. Moreover, DREAM can adaptively select a suitable set of machines, by partitioning queries. Based on a graph-based query planner with a novel cost model, they largely maximizes the parallelism and minimizes auxiliary data communication for a certain given query, with a new rule-oriented query partitioning strategy.
+10. Processing SPARQL Queries over Distributed RDF Graphs (VLDBJ 2016) 🌟
+> * This work investigates a graph-based approach to conduct distributed SPARQL query processing based on the partial evaluation and assembly approaches.
+> * There are two major steps. First, they conduct query evaluation on each graph fragment in a parallel manner, to determine the local partial matches which is the overlapping parts between a crossing match and a fragment. Then, they apply two distinct assembly strategies to assemble the local partial matches to derive crossing matches: (1) centralized assembly, which sends all the local partial matches to a single site, (2) distributed assembly, which assembles the local partial matches at a collection of sites in parallel.
 
+Recently, to evaluate queries on distributed graphs, partial evaluation has been proposed.
+
+11. Performance Guarantees for Distributed Reachability Queries (VLDB 2012) 🌟
+12. Distributed Set Reachability (SIGMOD 2016) 🌟
+> * Both works present algorithms to evaluate reachability queries on distributed graphs.
+13. Distributed Graph Simulation: Impossibility and Possibility (VLDB 2014) 🌟
+14. Distributed Graph Pattern Matching (WWW 2012)
+> * Both works propose partial evaluation algorithms as well as optimizations to conduct distributed graph simulation.
+
+Specifically, to deal with SPARQL queries over a distributed RDF graph, [10] employ the “partial evaluation and assembly” framework. However, this work does not provide theoretical performance guarantees on the response time and the data shipment. 
+
+15. Accelerating Partial Evaluation in Distributed SPARQL Query Evaluation (ICDE 2019) 🌟
+> * This work improve the “partial evaluation and assembly” framework [10] and provides performance guarantees. To further enhance the partial evaluation-based distributed SPARQL query processing approach, there are three optimizations performed: (1) compress the partial evaluation results in LEC feature which is a compact data structure, and communicate them among different sites, in order to prune out the irrelevant partial evaluation results with performance guarantees, (2) conduct the LEC feature-based assembly of all the local partial matches, in order to cut down the search space, and (3) communicate the candidates of the variables among the sites, in order to eliminate the irrelevant local partial matches.
 
 __2.3 From Natural Language Questions to SPARQL Queries__
 
