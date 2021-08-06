@@ -1,3 +1,9 @@
+## General Information Extraction
+
+### General Papers
+1. Improving Information Extraction from Visually Rich Documents using Visual Span Representations [[Paper](https://vldb.org/pvldb/vol14/p822-sarkhel.pdf)] (VLDB 2021) 🌟
+2. Bootstrapping Information Extraction via Conceptualization (ICDE 2021) 🌟
+
 ## Open Information Extraction
 
 ### Sides, Tutorials and Surveys
@@ -47,6 +53,7 @@ __General Papers__
 10. Canonicalization of Open Knowledge Bases with Side Information from the Source Text (ICDE 2018) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8731346)]  🌟
 11. Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network （2020）[[Paper](https://arxiv.org/pdf/2006.09610.pdf)]
 12. Joint Entity and Relation Canonicalization in Open Knowledge Graphs using Variational Autoencoders (2020) [[Paper](https://arxiv.org/abs/2012.04780)]
+13. CaSIE: Canonicalize and Informative Selection of the OpenIE System (ICDE 2021, short) 🌟
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
