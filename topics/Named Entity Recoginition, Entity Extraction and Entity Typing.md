@@ -23,7 +23,7 @@ __General NER__
 12. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation (WWW 2019)
 13. Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network (EMNLP 2019)
 14. Mis-categorized entities detection [[Paper](https://link.springer.com/article/10.1007/s00778-021-00653-w)] (VLDBJ 2021) 🌟
-15. 
+15. Neural Named Entity Boundary Detection [[Paper](https://ieeexplore.ieee.org/document/9039695/)] (TKDE 2021) 🌟
 
 __Fine-grained NER or Entity Typing__
 1. Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding (PLE, KDD 2016) fine-grained entity typing
