@@ -37,6 +37,7 @@ __General KGQA__
 26. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs (ICDE 2020) [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9101747&tag=1)] 🌟
 27. Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.07743.pdf)]
 28. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases (ACL 2020) [[Paper](https://www.aclweb.org/anthology/2020.acl-main.91.pdf)] [[Code](https://github.com/lanyunshi/Multi-hopComplexKBQA)]
+29. CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs [[Paper](https://vldb.org/pvldb/vol14/p1325-orogat.pdf)] (VLDB 2021) 🌟
 
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
