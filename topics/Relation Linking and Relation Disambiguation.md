@@ -16,3 +16,4 @@ __Joint Entity and Relation Linking__
 > * J-REED is based on probabilistic graphical models that captures the interdependencies between entities and relations.
 > * J-REED consides which lexical types of entities are compatible with the type signature of which relation (but the experiments are only conducted on the PERSON-type entities).
 7. Better Call the Plumber: Orchestrating Dynamic Information Extraction Pipelines (ICWE 2021) [[Paper](https://arxiv.org/pdf/2102.10966.pdf)]
+8. TENET: Joint Entity and Relation Linking with Coherence Relaxation (SIGMOD 2021) 🌟
