@@ -2,7 +2,7 @@ Papers and Materials from All Areas
 ======
 Note: The papers in database area (or written in database style) are marked with 🌟 
 
-### Extraction and Integration to Construct KGs
+### Knowledge Extraction and Integration to Construct KGs
 * __Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)__
 
 * __About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md)__
