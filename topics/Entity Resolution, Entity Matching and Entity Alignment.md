@@ -46,8 +46,10 @@ __General Papers__
 36. Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation (AAAI 2020) [[Paper](https://arxiv.org/pdf/1911.08936.pdf)]
 37. Collective Multi-type Entity Alignment Between Knowledge Graphs (WWW 2020)
 38. Multi-Context Attention for Entity Matching (WWW 2020, short paper)
-40. 
+40. End-to-end Task Based Parallelization for Entity Resolution on Dynamic Data  (ICDE 2021) 🌟
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
+42. Cost–effective Variational Active Entity Resolution (ICDE 2021) 🌟
+43. Automating Entity Matching Model Development (ICDE 2021) 🌟
 
 __Embedding Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
