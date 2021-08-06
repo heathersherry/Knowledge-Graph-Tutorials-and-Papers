@@ -97,3 +97,4 @@ __Others__
 38. Sampling from Large Graphs (KDD 2006) [[Paper](https://cs.stanford.edu/people/jure/pubs/sampling-kdd06.pdf)]
 39. A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective [[Paper](https://ieeexplore.ieee.org/document/8862913/)] (TKDE 2021) 🌟
 40. Learning Dynamic User Interest Sequence in Knowledge Graphs for Click-Through Rate Prediction [[Paper](https://ieeexplore.ieee.org/document/9409651)] (TKDE 2021) 🌟
+41. Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond (SIGMOD 2021) 🌟
