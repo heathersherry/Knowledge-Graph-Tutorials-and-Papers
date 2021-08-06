@@ -50,7 +50,8 @@ __General Papers__
 41. Auto-EM: End-to-end Fuzzy Entity-Matching using Pre-trained Deep Models and Transfer Learning (WWW 2019)
 42. Cost–effective Variational Active Entity Resolution (ICDE 2021) 🌟
 43. Automating Entity Matching Model Development (ICDE 2021) 🌟
-44. Efficient and effective ER with progressive blocking [[Paper](https://link.springer.com/article/10.1007/s00778-021-00656-7)] (VLDBJ 2021)
+44. Efficient and effective ER with progressive blocking [[Paper](https://link.springer.com/article/10.1007/s00778-021-00656-7)] (VLDBJ 2021) 🌟
+45. Online Topic-Aware Entity Resolution Over Incomplete Data Streams (SIGMOD 2021) 🌟
 
 __Embedding Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
