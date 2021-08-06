@@ -22,6 +22,8 @@ __General NER__
 11. Adversarial Transfer for Named Entity Boundary Detection with Pointer Networks (IJCAI 2019) [[PDF](https://www.ijcai.org/Proceedings/2019/0702.pdf)]
 12. Neural Chinese Named Entity Recognition via CNN-LSTM-CRF and Joint Training with Word Segmentation (WWW 2019)
 13. Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network (EMNLP 2019)
+14. Improving Information Extraction from Visually Rich Documents using Visual Span Representations [[Paper](https://vldb.org/pvldb/vol14/p822-sarkhel.pdf)] (VLDB 2021) 🌟
+15. 
 
 __Fine-grained NER or Entity Typing__
 1. Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding (PLE, KDD 2016) fine-grained entity typing
