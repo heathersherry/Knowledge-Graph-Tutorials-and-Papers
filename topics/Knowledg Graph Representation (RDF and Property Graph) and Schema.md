@@ -199,10 +199,14 @@ However, most works target at producing only one output node in the given query.
 
 Furthermore, because of the “schema-free” nature of RDF data, the systems are likely to adopt distinct schemas to represent the same real-world facts. Therefore, complex SPARQL queries containing multiple UNION operators are needed, if the users require multiple answers to one question. Obviously, there are two challenges. First, it is too hard for common users or even the professional users to conceive and generate the complicated SPARQL queries, which both consider the flexible underlying schemas and conform to the syntax. Second, the same knowledge can be captured and represented in diverse graph fragments. 
 
-4. 
-
+4. Semantic SPARQL Similarity Search Over RDF Knowledge Graphs (VLDB 2016) 🌟
+> * This work investigates semantics-based SPARQL similarity search over RDF knowledge graphs. They introduce an instance-driven approach to discover and mine the semantic graph patterns, by taking the diverse semantically equivalent graph structures into account. They then propose semantic graph edit distance as a novel similarity measure, which is based on the semantic graph patterns. To facilitate the query processing, they devise semantic summary graph as an efficient index. The input query graphs are rewritten at query time. Finally, a two-level pruning strategies is conducted to further reduce the search space and achieve satisfactory efficiency. 
 
 __3. Facet Search over RDF Knowledge Graphs__
+
+Although SPARQL queries are popular and widely adopted in the RDF-data model, it is impossible for most users to write SPARQL queries to search in knowledge graphs, which requires professionality and proficiency in the query language. Therefore, a challenging research issue in the Semantic Web community is the design and implementation of simple but powerful query interfaces for non-expert users. As for the large-scale universal knowledge graphs such as DBpedia, Wikidata or Freebase which provide end- users searching services, this challenge becomes even more critical.
+To address this problem, faceted search is proposed as a prominent approach, which conducts queries on the entities while users are capable of narrowing down the search results according to their requirements. This is achieved by applying filters called facets progressively. Typically, a facet contains a predicate (e.g., ‘first name’ or ‘occupation’ when querying entities typed as person), as well as a collection of strings (e.g., ‘professor’). Generally, the entities in the collection are annotated with predicate-value pairs. Specifically, the users conduct selection of facet values iteratively during the faceted search. The entities annotated based on the selection are returned as the query result. 
+
 
 1. Faceted search over RDF-based knowledge graphs (Journal of Web Semantics 2016) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826815001432)] 
 2. Semantic SPARQL similarity search over RDF knowledge graphs (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2983200.2983201)] 🌟
