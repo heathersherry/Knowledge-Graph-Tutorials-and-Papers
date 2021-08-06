@@ -216,7 +216,7 @@ To address this problem, faceted search is proposed as a prominent approach, whi
 
 1. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1ejMq8cZrTZT1Nn0D-zaMlW7X7ESkSDro&sa=D&ust=1587488616453000&usg=AFQjCNEeyFqVvX9q4QWy8jc4jHfpdEc2Zw)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1JyhtaWEeRvzS6TmIuplZNd5ZId3Larpz&sa=D&ust=1587488616453000&usg=AFQjCNEI5es_-rKQs-eUImsqivdAFNAnvw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a445/290300a445.pdf)] (ICDE 2020) 🌟
 2. Online Indices for Predictive Top-k Entity and Aggregate Queries on Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D12mo2_5abIbU9BDxrI4eSPsZ-SFDRgMAN&sa=D&ust=1587488616485000&usg=AFQjCNHwZw7kP6JJ2nIbDiMT4FvlwebmsA)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1Vy15Q81aZg6Kn0AKqcJQ1LraCAb7ZyPy&sa=D&ust=1587488616485000&usg=AFQjCNEqOaDue8W4ZN91-2I2JPLkQTE3jw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b057/290300b057.pdf)] (ICDE 2020) 🌟
-4. Collective Keyword Query on a Spatial Knowledge Base (TKDE 2019) 🌟
+4. Effective searching of RDF knowledge graphs (Journal of Web Semantics 2018) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826817300677)]
 5. An analytical study of large SPARQL query logs (VLDBJ 2020) 🌟
 6. Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings (WWW 2020)  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380110)] 🌟
 7. Graph-Query Suggestions for Knowledge Graph Exploration (WWW 2020, short paper)
@@ -224,7 +224,7 @@ To address this problem, faceted search is proposed as a prominent approach, whi
 9. Efficient Computation of Semantically Cohesive Subgraphs for Keyword-Based Knowledge Graph Exploration (WWW 2021) 
 10. WiseKG: Balanced Access to Web Knowledge Graphs (WWW 2021)
 11. Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs (WWW 2021)
-12. Effective searching of RDF knowledge graphs (Journal of Web Semantics 2018) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826817300677)]
+
 
 
 ## Property Graphs
