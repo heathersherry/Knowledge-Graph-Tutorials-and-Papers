@@ -7,6 +7,7 @@ There are two major approaches to store and query knowledge graphs: (1) RDF (Res
 
 ### General Papers
 1. Relational schema optimization for RDF-based knowledge graphs (Information Systems 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0306437921000223)] 
+2. Materializing Knowledge Bases via Trigger Graphs (VLDB 2021) [[Paper](https://vldb.org/pvldb/vol14/p943-tsamoura.pdf)] 🌟
 
 ### Queries and Search over RDF based KG
 
