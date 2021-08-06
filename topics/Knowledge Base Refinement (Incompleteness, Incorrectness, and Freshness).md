@@ -94,4 +94,5 @@ __General Papers (KBP from External Sources)__
 3. Outdated Fact Detection in Knowledge Bases (ICDE 2020, short) 🌟 [[Video](https://www.youtube.com/watch?v=yVn6uucEIvk)]
 4. Learning to Update Knowledge Graph by Reading News (EMNLP 2019)
 5. Summarizing Entity Temporal Evolution in Knowledge Graphs (WWW 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3308560.3316521)]
+6. Learning Sequence Encoders for Temporal Knowledge Graph Completion (EMNLP 2018) [[Paper](https://aclanthology.org/D18-1516.pdf)]
 
