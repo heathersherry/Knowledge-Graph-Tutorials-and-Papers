@@ -2,15 +2,15 @@
 There are two major approaches to store and query knowledge graphs: (1) RDF (Resource Description Framework) data model with SPARQL query language, (2) property graph model with graph query languages such as Cypher. 
 
 ## RDF Graphs
-__Surveys__
+### Surveys
 1. RDF Data Storage and Query Processing Schemes: A Survey [[Paper](https://dl.acm.org/doi/pdf/10.1145/3177850)]
 
-__General Papers__
+### General Papers
 1. Relational schema optimization for RDF-based knowledge graphs (Information Systems 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0306437921000223)] 
 
-__Queries and Search over RDF based KG__
+### Queries and Search over RDF based KG
 
-__1. Keyword search__
+### 1. Keyword search
 
 __1.1 Summary Graph-based Keyword Query__
 1. Top-k exploration of query candidates for efficient keyword search on graph-shaped (rdf) data (ICDE 2009) 🌟
@@ -103,7 +103,7 @@ In real-world scenarios, employing a single subtree may not satisfy the user req
 5. Inherent-cost aware collective spatial keyword queries (SSTD 2017)
 6. Efficient collective spatial keyword query processing on road networks (IEEE Trans. Intell. Transp. Syst., 2017)
 
-__2. SPARQL Query on Knowledge Graphs__
+### 2. SPARQL Query on Knowledge Graphs
 
 As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)]
 
@@ -199,24 +199,26 @@ However, most works target at producing only one output node in the given query.
 
 Furthermore, because of the “schema-free” nature of RDF data, the systems are likely to adopt distinct schemas to represent the same real-world facts. Therefore, complex SPARQL queries containing multiple UNION operators are needed, if the users require multiple answers to one question. Obviously, there are two challenges. First, it is too hard for common users or even the professional users to conceive and generate the complicated SPARQL queries, which both consider the flexible underlying schemas and conform to the syntax. Second, the same knowledge can be captured and represented in diverse graph fragments. 
 
-4. Semantic SPARQL Similarity Search Over RDF Knowledge Graphs (VLDB 2016) 🌟
+4. Semantic SPARQL Similarity Search Over RDF Knowledge Graphs (VLDB 2016) 🌟 [[Paper](https://dl.acm.org/doi/pdf/10.14778/2983200.2983201)]
 > * This work investigates semantics-based SPARQL similarity search over RDF knowledge graphs. They introduce an instance-driven approach to discover and mine the semantic graph patterns, by taking the diverse semantically equivalent graph structures into account. They then propose semantic graph edit distance as a novel similarity measure, which is based on the semantic graph patterns. To facilitate the query processing, they devise semantic summary graph as an efficient index. The input query graphs are rewritten at query time. Finally, a two-level pruning strategies is conducted to further reduce the search space and achieve satisfactory efficiency. 
 
-__3. Facet Search over RDF Knowledge Graphs__
+### 3. Facet Search over RDF Knowledge Graphs
 
-Although SPARQL queries are popular and widely adopted in the RDF-data model, it is impossible for most users to write SPARQL queries to search in knowledge graphs, which requires professionality and proficiency in the query language. Therefore, a challenging research issue in the Semantic Web community is the design and implementation of simple but powerful query interfaces for non-expert users. As for the large-scale universal knowledge graphs such as DBpedia, Wikidata or Freebase which provide end- users searching services, this challenge becomes even more critical.
+Although SPARQL queries are popular and widely adopted in the RDF-data model, it is impossible for most users to write SPARQL queries to search in knowledge graphs, which requires professionality and proficiency in the query language. Therefore, a challenging research issue in the Semantic Web community is the design and implementation of simple but powerful query interfaces for non-expert users. As for the large-scale universal knowledge graphs such as DBpedia, Wikidata or Freebase which provide end-users searching services, this challenge becomes even more critical.
+
 To address this problem, faceted search is proposed as a prominent approach, which conducts queries on the entities while users are capable of narrowing down the search results according to their requirements. This is achieved by applying filters called facets progressively. Typically, a facet contains a predicate (e.g., ‘first name’ or ‘occupation’ when querying entities typed as person), as well as a collection of strings (e.g., ‘professor’). Generally, the entities in the collection are annotated with predicate-value pairs. Specifically, the users conduct selection of facet values iteratively during the faceted search. The entities annotated based on the selection are returned as the query result. 
 
+1. Semantic enrichment of web search results at real-time (SIGIR 2016)
+2. Faceted search over RDF-based knowledge graphs (Journal of Web Semantics 2016) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826815001432)] 
+> * This work proposes rigorous theoretical underpinnings for faceted search. Specifically, by employing faceted search are identified as a query paradigm, well-defined fragments of SPARQL can be captured. Arenas et al. also investigate the problem of updating faceted interfaces. To guide the faceted navigation, which aims to guide the users to formulate meaningful queries during exploratory search, they present a facet graph, which is a graph-based representation of OWL 2 ontologies as well as their logical entailments. According to the information in the graph, genetic interface generation and update algorithms are proposed. 
 
-1. Faceted search over RDF-based knowledge graphs (Journal of Web Semantics 2016) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826815001432)] 
-2. Semantic SPARQL similarity search over RDF knowledge graphs (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2983200.2983201)] 🌟
-3. Effective searching of RDF knowledge graphs (Journal of Web Semantics 2018) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826817300677)]
+### 4. Others
+1. Effective searching of RDF knowledge graphs (Journal of Web Semantics 2018) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826817300677)]
 
 ## Property Graphs
-__General Papers__
+### General Papers
 1. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) [[Paper](https://arxiv.org/pdf/2003.11580.pdf)] 🌟
 
-
-__Queries and Search over Property Graph based KG__
+### Queries and Search over Property Graph based KG
 1. Sqlgraph: An efficient relational-based property graph store (SIGMOD 2015) 🌟
 2. Cypher: An evolving query language for property graphs (SIGMOD 2018) 🌟
