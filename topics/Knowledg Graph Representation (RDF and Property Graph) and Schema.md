@@ -15,7 +15,10 @@
 13. Materializing Knowledge Bases via Trigger Graphs (VLDB 2021) [[Paper](https://vldb.org/pvldb/vol14/p943-tsamoura.pdf)] 🌟
 14. Fast Core-based Top-k Frequent Pattern Discovery in Knowledge Graphs (ICDE 2021) 🌟
 15. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021) 🌟
-16. Optimizing Multi-Query Evaluation in Federated RDF Systems [[Paper](https://ieeexplore.ieee.org/document/8868210)] 🤩 (TKDE 2021) 🌟
+16. 
+17. 
+18. Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching (SIGMOD 2021) 🌟
+
 
 ## Knowledg Graph Representation (RDF and Property Graph), Schema and Query
 There are two major approaches to store and query knowledge graphs: (1) RDF (Resource Description Framework) data model with SPARQL query language, (2) property graph model with graph query languages such as Cypher. 
@@ -26,6 +29,8 @@ There are two major approaches to store and query knowledge graphs: (1) RDF (Res
 
 ### General Papers
 1. Relational schema optimization for RDF-based knowledge graphs (Information Systems 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0306437921000223)] 
+2. Efficient Exploration of Interesting Aggregates in RDF Graphs (SIGMOD 2021) 🌟
+3. Optimizing Multi-Query Evaluation in Federated RDF Systems [[Paper](https://ieeexplore.ieee.org/document/8868210)] 🤩 (TKDE 2021) 🌟
 
 ### Queries and Search over RDF based KG
 
