@@ -47,6 +47,7 @@ __General Papers__
 18. Efficient Knowledge Graph Embedding without Negative Sampling (WWW 2021)
 19. MQuadE: a Unified Model for Knowledge Fact Embedding (WWW 2021)
 20. MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings (WWW 2021)
+21. Efficient Relation-Aware Scoring Function Search for Knowledge Graph Embedding (ICDE 2021) 🌟
 
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
