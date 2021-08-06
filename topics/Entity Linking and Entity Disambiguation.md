@@ -104,6 +104,7 @@ __Relax the Global Coherence Assumption__
 > * Employs neural ED approach which combines basic deep neural network model with Graph Attention Network (GAT) to utilize local features and global features.
 14. Neural collective entity linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
 > * Topical coherence only need to hold among neighboring mentions
+15. TENET: Joint Entity and Relation Linking with Coherence Relaxation (SIGMOD 2021) 🌟
 
 __Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
