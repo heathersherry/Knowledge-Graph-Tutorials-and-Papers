@@ -28,6 +28,7 @@ __Papers__
 11. P-Companion: A principled framework for diversified complementary product recommendation (CIKM 2020)
 12. J-Recs: Principled and scalable recommendation justification (ICDM 2020)
 13. PAM: Understanding Product Images in Cross Product Category Attribute Extraction (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.04630.pdf)]
+14. AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce (KDD 2021) 🌟
 
 __Product Data Set__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
