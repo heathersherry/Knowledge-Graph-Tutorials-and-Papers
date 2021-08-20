@@ -94,6 +94,7 @@ __General Papers__
 10. DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning  (EMNLP 2019)
 11. Collaborative Policy Learning for Open Knowledge Graph Reasoning (EMNLP 2019)
 12. Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1908.11513)]
+13. xERTE: Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs (ICLR 2021) [[Paper](https://openreview.net/pdf?id=pGIHq1m7PU)] [[Code](https://github.com/TemporalKGTeam/xERTE)] 
 
 ### 4. Rule Mining and Path Finding in KGs
 __General Papers__
