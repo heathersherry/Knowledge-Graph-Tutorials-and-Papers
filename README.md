@@ -91,6 +91,7 @@ Tutorials and Notes from Talented People
 17. Clique Relaxation Models in Networks: Theory, Algorithms, and Applications [[Slides](https://www.slideshare.net/ssakpi/clique-relaxation-models-in-networks-theory-algorithms-and-applications)]
 18. KG Applications in Baidu (Chinese) [[Link](https://mp.weixin.qq.com/s/z3cp4PaAsA2zGLlgfYAtTg)]
 19. Paper Digest (Database area) [[Link](https://www.paperdigest.org/category/database/)]
+20. Complex Network (Collection of Notes and Tutorials) [[GitHub](https://github.com/LiuChuang0059/Complex-Network)]
 
 Useful Tools or APIs
 ====
