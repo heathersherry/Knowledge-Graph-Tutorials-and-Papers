@@ -32,6 +32,7 @@ __General Papers__
 23. RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems (CIKM 2018) [[Paper](https://arxiv.org/pdf/1803.03467.pdf)] 
 24. Learning Intents behind Interactions with Knowledge Graph for Recommendation (WWW 2021)
 25. Learning Dynamic User Interest Sequence in Knowledge Graphs for Click-Through Rate Prediction (TKDE 2021) [[Paper](https://ieeexplore.ieee.org/document/9409651)]
+26. Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning (KDD 2021) [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf)]
 
 
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
