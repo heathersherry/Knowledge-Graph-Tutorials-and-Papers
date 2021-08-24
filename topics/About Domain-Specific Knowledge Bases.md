@@ -7,6 +7,13 @@
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
+4. Probase: A Probabilistic Taxonomy for Text Understanding (SIGMOD 2012)🌟
+> ProBase : Microsoft Conceptual Graph
+> * Iterative learning algorithm for extraction and taxonomy construction algorithm
+> * a probabilistic framework
+> * largest general-purpose taxonomy fully automatically constructed 
+
+
 
 ### Product KBs
 __Keynotes and Tutorials__
@@ -29,6 +36,11 @@ __Papers__
 12. J-Recs: Principled and scalable recommendation justification (ICDM 2020)
 13. PAM: Understanding Product Images in Cross Product Category Attribute Extraction (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.04630.pdf)]
 14. AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce (KDD 2021) 🌟
+15. AliCG : Alibaba Conceptual Graph for Semantic Search (KDD 2021)
+16. AliMe KG : Alibaba domain knowledge graph in E-commerce (CIKM 2020)
+
+
+
 
 __Product Data Set__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
