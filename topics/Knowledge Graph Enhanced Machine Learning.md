@@ -19,4 +19,22 @@
 > * Attention on related knowledge graph embedding can support the training of word embeddings.
 2. Commonsense knowledge aware conversation generation with graph attention (IJCAI 2018)
 > * Use attention on KG to facilitate the understanding and generation of conversational text.
-3. 
+
+### KG Integrated in Training Data
+The distant-supervision based training data augmentation works
+1. Distant supervision for relation extraction without labeled data (ACL 2009)
+
+### KG Integrated Learning Algorithms
+1. Knowledge-powered deep learning for word embedding (Joint European Conf. machine learning and knowledge discovery in databases. Springer, 2014)
+> * Known relations among words can be utilized as augmented contexts when computing word embeddings such as word2vec training.
+
+### KG Integrated in Final Hypothesis
+These works use the knowledge graphs to indicate whether the prediction is consistent with available knowledge.
+1. Explicit retrofitting of distributional word vectors (ACL 2018)
+> * Post-process word embeddings based on KG
+> * Similar work: Counter-fitting word vectors to linguistic constraints (arxiv)
+2. Object detection meets knowledge graphs (IJCAI 2017)
+> * Predicted probabilities of a learning system can be refined using semantic consistency measures derived form KGs
+
+### Knowledge-aware methods in XAI
+1. A Survey of Data-driven and Knowledge-aware eXplainable AI (TKDE 2021)
