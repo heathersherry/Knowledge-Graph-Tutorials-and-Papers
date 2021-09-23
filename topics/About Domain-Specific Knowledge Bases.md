@@ -36,9 +36,9 @@ __Papers__
 12. J-Recs: Principled and scalable recommendation justification (ICDM 2020)
 13. PAM: Understanding Product Images in Cross Product Category Attribute Extraction (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.04630.pdf)]
 14. AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce (KDD 2021) 🌟
-15. AliCG : Alibaba Conceptual Graph for Semantic Search (KDD 2021)
+15. AliCG : Alibaba Conceptual Graph for Semantic Search (KDD 2021) 🌟
 16. AliMe KG : Alibaba domain knowledge graph in E-commerce (CIKM 2020)
-
+17. Embedding-based Product Retrieval in Taobao Search (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.09297.pdf)] 🌟
 
 
 
