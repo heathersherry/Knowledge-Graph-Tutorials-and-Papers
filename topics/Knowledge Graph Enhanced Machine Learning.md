@@ -9,7 +9,7 @@
 
 #### (1) GNN + KGs as external sources
 
-1. The more you know: Using knowledge graphs for image classification (CVPR 2017)
+1. The more you know: Using knowledge graphs for image classification (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.04844.pdf)]
 > * Inference about a particular object is facilitated by using relations to other objects in an image.
 2. Symbolic graph reasoning meets convolutions (NIPS 2018)
 > * A graph reasoning layer can be inserted into any neural network, which enhances the representations in a given layer by propagating through a given knowledge graph.
