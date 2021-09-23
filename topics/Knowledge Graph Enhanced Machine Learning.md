@@ -38,3 +38,8 @@ These works use the knowledge graphs to indicate whether the prediction is consi
 
 ### Knowledge-aware methods in XAI
 1. A Survey of Data-driven and Knowledge-aware eXplainable AI (TKDE 2021)
+
+
+## Related Reading
+1. TensorFlow: Neural Structured Learning [[TF](https://www.tensorflow.org/neural_structured_learning)] [[GitHub](https://github.com/tensorflow/neural-structured-learning)]
+* train neural networks by leveraging structured signals in addition to feature inputs. Structure can be explicit as represented by a graph, or implicit as induced by adversarial perturbation.
