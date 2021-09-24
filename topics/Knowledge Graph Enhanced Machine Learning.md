@@ -11,6 +11,7 @@
 
 1. The more you know: Using knowledge graphs for image classification (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.04844.pdf)]
 > * Inference about a particular object is facilitated by using relations to other objects in an image.
+> * [Visual Genome](https://visualgenome.org/) is used as a source of the KG. "Specifically, we counted how often an object/object relationship or object/attribute pair occurred in the training set, and pruned any edges that had fewer than 200 instances. This leaves us with a graph over all of the images with each edge being a common relationship." Therefore, this is not the common knowledge graphs.
 2. Symbolic graph reasoning meets convolutions (NIPS 2018)
 > * A graph reasoning layer can be inserted into any neural network, which enhances the representations in a given layer by propagating through a given knowledge graph.
 
