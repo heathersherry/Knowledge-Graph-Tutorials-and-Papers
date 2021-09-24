@@ -36,10 +36,23 @@ These works use the knowledge graphs to indicate whether the prediction is consi
 2. Object detection meets knowledge graphs (IJCAI 2017)
 > * Predicted probabilities of a learning system can be refined using semantic consistency measures derived form KGs
 
-### Knowledge-aware methods in XAI
+## Knowledge-aware methods in XAI
+### Surveys and Tutorials
 1. A Survey of Data-driven and Knowledge-aware eXplainable AI (TKDE 2021)
+> * The second part of this survey discusses the KG based methods
+
+### General Papers
+#### Internal rules: consider KG when designing the models (nowadays mainly used in recommendation systems)
+1. Entity Suggestion with Conceptual Explanation (IJCAI 2017)
+
+#### External rules: combines KG and reasoning to generate explanations without changing the model structures (produces mapping between input-output behavious)
+1. Enabling Trust in Clinical Decision Support Rcommendations through Semantics (CEUR 2019)
+
+
 
 
 ## Related Reading
 1. TensorFlow: Neural Structured Learning [[TF](https://www.tensorflow.org/neural_structured_learning)] [[GitHub](https://github.com/tensorflow/neural-structured-learning)]
-* train neural networks by leveraging structured signals in addition to feature inputs. Structure can be explicit as represented by a graph, or implicit as induced by adversarial perturbation.
+* Train neural networks by leveraging structured signals in addition to feature inputs. Structure can be explicit as represented by a graph, or implicit as induced by adversarial perturbation.
+2. Yoshua Bengio: From System 1 Deep Learning to System 2 Deep Learning (NeurIPS 2019) [[Video](https://www.youtube.com/watch?v=T3sxeTgT4qc)]
+3. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[GitHub](https://github.com/THUDM/CogQA)]
