@@ -55,4 +55,5 @@ These works use the knowledge graphs to indicate whether the prediction is consi
 1. TensorFlow: Neural Structured Learning [[TF](https://www.tensorflow.org/neural_structured_learning)] [[GitHub](https://github.com/tensorflow/neural-structured-learning)]
 * Train neural networks by leveraging structured signals in addition to feature inputs. Structure can be explicit as represented by a graph, or implicit as induced by adversarial perturbation.
 2. Yoshua Bengio: From System 1 Deep Learning to System 2 Deep Learning (NeurIPS 2019) [[Video](https://www.youtube.com/watch?v=T3sxeTgT4qc)]
-3. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[GitHub](https://github.com/THUDM/CogQA)]
+3. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[GitHub](https://github.com/THUDM/CogQA)] [[Notes](https://zhuanlan.zhihu.com/p/72981392)]
+> * Cognitive Graph is not directly equal to Knowledge Graph. You can view CG as a (dynamic, partial, local) KG generated instantly from the query.
