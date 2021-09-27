@@ -25,7 +25,7 @@
 1. Object Detection Meets Knowledge Graphs (IJCAI 2017)
 > * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
 > * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
-> * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. 
+> * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. [[Reference](http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf)]
 
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works
