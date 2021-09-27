@@ -21,6 +21,12 @@
 2. Commonsense knowledge aware conversation generation with graph attention (IJCAI 2018)
 > * Use attention on KG to facilitate the understanding and generation of conversational text.
 
+#### (3) Others
+1. Object Detection Meets Knowledge Graphs (IJCAI 2017)
+> * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
+> * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
+> * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. 
+
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works
 1. Distant supervision for relation extraction without labeled data (ACL 2009)
