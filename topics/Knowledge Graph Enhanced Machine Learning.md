@@ -7,13 +7,19 @@
 ### KG Integrated in Hypothesis Set (e.g., the definition of a neural network’s architecture and hyper-parameters, or choosing model structure)
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_hs.png" width="400" class="center" />
 
-#### (1) GNN + KGs as external sources
+#### (1) KGs as external sources
 
 1. The more you know: Using knowledge graphs for image classification (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.04844.pdf)] [[Notes](https://vitalab.github.io/article/2017/09/15/deepGraph.html)]
 > * Inference about a particular object is facilitated by using relations to other objects in an image.
 > * [Visual Genome](https://visualgenome.org/) is used as a source of the KG. "Specifically, we counted how often an object/object relationship or object/attribute pair occurred in the training set, and pruned any edges that had fewer than 200 instances. This leaves us with a graph over all of the images with each edge being a common relationship." Therefore, this is not the common knowledge graphs.
 2. Symbolic graph reasoning meets convolutions (NIPS 2018)
 > * A graph reasoning layer can be inserted into any neural network, which enhances the representations in a given layer by propagating through a given knowledge graph.
+
+Zero-shot learning where KGs are used as external information
+1.  Zero-Shot Recognition via Semantic Embeddings and Knowledge Graphs (CVPR 2018)
+> * Used the KG to directly generate novel object classifiers
+2.  Rethinking Knowledge Graph Propagation for Zero-Shot Learning (CVPR 2019)
+3.  Multi-Label Zero-Shot Learning with Structured Knowledge Graphs (CVPR 2018)
 
 #### (2) Attention mechanisms on a knowledge graph in order to enhance features
 1. Knowledge enhanced contextual word representations (EMNLP 2019)
@@ -23,11 +29,15 @@
 
 #### (3) Others
 1. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment (IJCAI 2018)
-
+2. Deep Reasoning with Knowledge Graph for Social Relationship Understanding (IJCAI 2018)
+3. Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS 2018)
 
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works
 1. Distant supervision for relation extraction without labeled data (ACL 2009)
+
+
+
 
 ### KG Integrated Learning Algorithms
 1. Knowledge-powered deep learning for word embedding (Joint European Conf. machine learning and knowledge discovery in databases. Springer, 2014)
