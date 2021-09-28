@@ -1,7 +1,7 @@
 ## Good DB Papers
 Notes: Personally, these are the papers that have a very clear presentation to formulate and solve a problem / to construct a system.
 
-__Papers that defines problem__
+__Papers that define problems__
 1. The Community-search Problem and How to Plan a Successful Cocktail Party (KDD 2010) [[Paper](https://users.ics.aalto.fi/gionis/cocktail.pdf)]
 2. Optimizing DNN Computation Graph using Graph Substitutions (VLDB 2020)
 3. Robust Discovery of Positive and Negative Rules in Knowledge Bases (ICDE 2018) [[Paper](http://www.eurecom.fr/fr/publication/5321/download/data-publi-5321_2.pdf)]
