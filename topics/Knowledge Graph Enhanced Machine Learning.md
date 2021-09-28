@@ -31,6 +31,8 @@ Zero-shot learning where KGs are used as external information
 1. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment (IJCAI 2018)
 2. Deep Reasoning with Knowledge Graph for Social Relationship Understanding (IJCAI 2018)
 3. Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS 2018)
+4. Large-Scale Object Classification using Label Relation Graphs (ECCV 2014) [[Paper](https://www.cs.princeton.edu/~jiadeng/paper/deng2014large.pdf)]
+* This work introduces semantic relations including mutual exclusion, overlap, and subsumption, as constraints in the loss function to train the classifiers. 
 
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works (You may refer to [[the Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details)
