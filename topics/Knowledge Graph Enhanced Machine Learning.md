@@ -33,7 +33,7 @@ Zero-shot learning where KGs are used as external information
 3. Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS 2018)
 
 ### KG Integrated in Training Data
-The distant-supervision based training data augmentation works
+The distant-supervision based training data augmentation works (You may refer to [[the Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details)
 1. Distant supervision for relation extraction without labeled data (ACL 2009)
 
 
