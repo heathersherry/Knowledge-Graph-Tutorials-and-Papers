@@ -22,11 +22,8 @@
 > * Use attention on KG to facilitate the understanding and generation of conversational text.
 
 #### (3) Others
-1. Object Detection Meets Knowledge Graphs (IJCAI 2017) `visual semantic labeling`
-> * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
-> * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
-> * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. [[Reference](http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf)]
-2. 
+1. Co-training Embeddings of Knowledge Graphs and Entity Descriptions for Cross-lingual Entity Alignment (IJCAI 2018)
+
 
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works
@@ -43,6 +40,9 @@ These works use the knowledge graphs to indicate whether the prediction is consi
 > * Similar work: Counter-fitting word vectors to linguistic constraints (arxiv)
 2. Object detection meets knowledge graphs (IJCAI 2017)
 > * Predicted probabilities of a learning system can be refined using semantic consistency measures derived form KGs
+> * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
+> * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
+> * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. [[Reference](http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf)]
 
 ## Knowledge-aware methods in XAI
 ### Surveys and Tutorials
