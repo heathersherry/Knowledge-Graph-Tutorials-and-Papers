@@ -33,6 +33,10 @@ Zero-shot learning where KGs are used as external information
 3. Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS 2018)
 4. Large-Scale Object Classification using Label Relation Graphs (ECCV 2014) [[Paper](https://www.cs.princeton.edu/~jiadeng/paper/deng2014large.pdf)]
 * This work introduces semantic relations including mutual exclusion, overlap, and subsumption, as constraints in the loss function to train the classifiers. 
+5. Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)
+* This work formally represents the statistical knowledge in the form of a structured graph, and incorporates the graph into deep propagation network as extra guidance. In this way, it can effectively regularize the distribution of possible relationships of object pairs (so that the long-tail relationships are also captured) and thus make prediction less ambiguous.
+6. I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs (AAAI 2019)
+*  A novel ZSAR framework to directly and collectively model all the three types of relationships between action-attribute, action-action, and attribute-attribute by incorporating a knowledge graph in an end-to-end manner. The KG is based on [ConceptNet 5.5](https://arxiv.org/abs/1612.03975).
 
 ### KG Integrated in Training Data
 The distant-supervision based training data augmentation works (You may refer to [[the Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details)
