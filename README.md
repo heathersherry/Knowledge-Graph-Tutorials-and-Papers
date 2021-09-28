@@ -116,6 +116,13 @@ Useful Tools or APIs
 * WebQuestions
 * QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
 3. Entity Resolution [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
+4. KGE, KBC and KG Reasoning
+* FB13 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
+* FB15K [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
+* FB15K237 [[Paper](https://aclanthology.org/D15-1174/)]
+* WN11 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
+* WN18 [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
+* WN18RR [[Paper](https://arxiv.org/abs/1707.01476)]
  
 #### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
