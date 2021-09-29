@@ -4,8 +4,19 @@
 1. Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems (TKDE 2021) [[Paper](https://arxiv.org/pdf/1903.12394.pdf)] 🌟
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_ml.png" width="400" class="center" />
 
-### KG Integrated in Hypothesis Set (e.g., the definition of a neural network’s architecture and hyper-parameters, or choosing model structure)
+### General Papers
+### Task 1: KGs Integrated During Pre-processing of Learning
+
+In these works, KGs are utilized to enhance the training data. One popular direction is distant-supervision based training data augmentation for named entity recognition (NER) and relation extraction (You may refer to [[the NER and Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details).
+
+1. Distant supervision for relation extraction without labeled data (ACL 2009)
+
+### Task 2: KGs Integrated During In-processing of Learning
+### Task 2.1: KGs Integrated in Hypothesis Sets
+
+In these works, KG may be integrated in hypothesis sets, e.g., the definition of a neural network’s architecture and hyper-parameters, or choosing model structure. One classical example is as follows:
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_hs.png" width="400" class="center" />
+
 
 #### (1) KGs as external sources
 
@@ -38,19 +49,17 @@ Zero-shot learning where KGs are used as external information
 6. I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs (AAAI 2019)
 *  A novel ZSAR framework to directly and collectively model all the three types of relationships between action-attribute, action-action, and attribute-attribute by incorporating a knowledge graph in an end-to-end manner. The KG is based on [ConceptNet 5.5](https://arxiv.org/abs/1612.03975).
 
-### KG Integrated in Training Data
-The distant-supervision based training data augmentation works (You may refer to [[the Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details)
-1. Distant supervision for relation extraction without labeled data (ACL 2009)
+### Task 2.2: KGs Integrated in Learning Algorithms
 
+These works integrate graph knowledge into learning. Specifically, numerous NLP works (such as those in entity disambiguation and entity linking) utilize the relations between words or entities to learn their embeddings (you may refer the [[Entity Linking and Disambiguation section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md)] for more details).
 
-
-
-### KG Integrated Learning Algorithms
 1. Knowledge-powered deep learning for word embedding (Joint European Conf. machine learning and knowledge discovery in databases. Springer, 2014)
 > * Known relations among words can be utilized as augmented contexts when computing word embeddings such as word2vec training.
 
-### KG Integrated in Final Hypothesis
-These works use the knowledge graphs to indicate whether the prediction is consistent with available knowledge.
+### Task 3: KGs Integrated During Post-processing of Learning
+
+These works use the knowledge graphs in final hypothesis, which indicates whether the prediction is consistent with available knowledge.
+
 1. Explicit retrofitting of distributional word vectors (ACL 2018)
 > * Post-process word embeddings based on KG
 > * Similar work: Counter-fitting word vectors to linguistic constraints (arxiv)
@@ -59,6 +68,8 @@ These works use the knowledge graphs to indicate whether the prediction is consi
 > * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
 > * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
 > * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. [[Reference](http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf)]
+
+
 
 ## Knowledge-aware methods in XAI
 ### Surveys and Tutorials
