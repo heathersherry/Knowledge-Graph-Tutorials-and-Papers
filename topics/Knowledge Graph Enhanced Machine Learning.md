@@ -1,8 +1,12 @@
-## Knowledge Graph Enhanced Machine Learning
+## Knowledge Graphs Enhanced Machine Learning 
 
 ### Surveys and Tutorials
-1. Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems (TKDE 2021) [[Paper](https://arxiv.org/pdf/1903.12394.pdf)] 🌟
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_ml.png" width="400" class="center" />
+
+1. Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems (TKDE 2021) [[Paper](https://arxiv.org/pdf/1903.12394.pdf)] 🌟
+2. Knowledge graph semantic enhancement of input data for improving AI (IEEE Internet Computing 2020)
+3. Exploiting knowledge graphs in industrial products and services: A survey of key aspects, challenges, and future perspectives (Computers in Industry 2021)
+
 
 ### Task 1: KGs Integrated During Pre-processing of Learning
 
@@ -34,6 +38,8 @@ Zero-shot learning where KGs are used as external information
 > * Used the KG to directly generate novel object classifiers
 2.  Rethinking Knowledge Graph Propagation for Zero-Shot Learning (CVPR 2019)
 3.  Multi-Label Zero-Shot Learning with Structured Knowledge Graphs (CVPR 2018)
+4.  Semantics-Preserving Graph Propagation for Zero-Shot Object Detection (IEEE TRANSACTIONS ON IMAGE PROCESSING 2020)
+5.  All About Knowledge Graphs for Actions (arxiv 2020) [[Paper](https://arxiv.org/pdf/2008.12432.pdf)]
 
 #### (2) Attention mechanisms on a knowledge graph in order to enhance features
 1. Knowledge enhanced contextual word representations (EMNLP 2019)
