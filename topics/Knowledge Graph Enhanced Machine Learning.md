@@ -51,7 +51,7 @@ Zero-shot learning where KGs are used as external information
 
 ### Task 2.2: KGs Integrated in Learning Algorithms
 
-These works integrate graph knowledge into learning. Specifically, numerous NLP works (such as those in entity disambiguation and entity linking) utilize the relations between words or entities to learn their embeddings (you may refer the [[Entity Linking and Disambiguation section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md)] for more details).
+These works integrate graph knowledge into learning. Specifically, numerous NLP works (such as those in entity disambiguation and entity linking) utilize the relations between words or entities to learn their embeddings (you may refer the [[Entity Linking and Disambiguation section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md)] and the [[KG Embedding and Reasoning section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md)] for more details).
 
 1. Knowledge-powered deep learning for word embedding (Joint European Conf. machine learning and knowledge discovery in databases. Springer, 2014)
 > * Known relations among words can be utilized as augmented contexts when computing word embeddings such as word2vec training.
