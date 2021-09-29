@@ -15,6 +15,7 @@ In these works, KGs are utilized to enhance the training data. One popular direc
 ### Task 2.1: KGs Integrated in Hypothesis Sets
 
 In these works, KG may be integrated in hypothesis sets, e.g., the definition of a neural network’s architecture and hyper-parameters, or choosing model structure. One classical example is as follows:
+
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_hs.png" width="400" class="center" />
 
 
