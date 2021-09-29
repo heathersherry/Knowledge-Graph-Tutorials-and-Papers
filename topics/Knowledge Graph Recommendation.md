@@ -38,5 +38,16 @@ __General Papers__
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
 
+__Explainability__
+1. Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning (arxiv 2019) [[Paper](https://arxiv.org/abs/1906.09506)]
+> * Explainability analysis: Fig 2 and Table 3
+2. Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences (WWW 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313705)]
+> * Explainability analysis: Case Study in Sec 6.7
+3. Explainable recommendation based on knowledge graph and multi-objective optimization (Complex & Intelligent Systems 2021)
+> * Multi-objective optimization of recommendation performance and explanability (Pareto solution)
+> * Explainability analysis: Table 5, Table 6, Fig 5
+
+
+
 __Related Reading__
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
