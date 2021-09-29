@@ -4,7 +4,6 @@
 1. Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems (TKDE 2021) [[Paper](https://arxiv.org/pdf/1903.12394.pdf)] 🌟
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/kg_ml.png" width="400" class="center" />
 
-### General Papers
 ### Task 1: KGs Integrated During Pre-processing of Learning
 
 In these works, KGs are utilized to enhance the training data. One popular direction is distant-supervision based training data augmentation for named entity recognition (NER) and relation extraction (You may refer to [[the NER and Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details).
