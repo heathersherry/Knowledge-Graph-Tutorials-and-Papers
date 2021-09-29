@@ -7,6 +7,9 @@
 ### Task 1: KGs Integrated During Pre-processing of Learning
 
 In these works, KGs are utilized to enhance the training data. One popular direction is distant-supervision based training data augmentation for named entity recognition (NER) and relation extraction (You may refer to [[the NER and Entity Typing section](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)] for more details).
+> * In general, neural networks take separate (1) training data, (2) knowledge concepts, and (3) related concepts from KGs as input.
+> * Most works use the first input layer of the deep neural network architecture as the layer to augment training data with the KG. The remaining layers are application and task specific with loss computed at the last layer of the deep neural network. The end-to-end training of such a network results in learning the relative weighting between the training data and different concepts from the KG to handle the downstream tasks.
+> * Chanlleges: (1) different data formats in training data and KG, (2) different weights?, (3) explanability?
 
 1. Distant supervision for relation extraction without labeled data (ACL 2009)
 
