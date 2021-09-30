@@ -64,13 +64,15 @@ These works integrate graph knowledge into learning. Specifically, numerous NLP 
 
 1. Knowledge-powered deep learning for word embedding (Joint European Conf. machine learning and knowledge discovery in databases. Springer, 2014)
 > * Known relations among words can be utilized as augmented contexts when computing word embeddings such as word2vec training.
+2. Rule-enhanced iterative complementation for knowledge graph reasoning (Information Science 2021)
+> * A multi-relational GCN with attentive message passing is introduced as the triple discriminator. It acquires the structural information of KGs by aggregating neighbour relations and entities. 
 
 ### Task 3: KGs Integrated During Post-processing of Learning
 
 These works use the knowledge graphs in final hypothesis, which indicates whether the prediction is consistent with available knowledge.
 
 1. Explicit retrofitting of distributional word vectors (ACL 2018)
-> * Post-process word embeddings based on KG
+> * Post-process word embeddings based on prior knowledge
 > * Similar work: Counter-fitting word vectors to linguistic constraints (arxiv)
 2. Object detection meets knowledge graphs (IJCAI 2017)
 > * Predicted probabilities of a learning system can be refined using semantic consistency measures derived form KGs
