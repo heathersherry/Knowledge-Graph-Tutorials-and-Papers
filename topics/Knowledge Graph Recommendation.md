@@ -46,7 +46,12 @@ __Explainability__
 3. Explainable recommendation based on knowledge graph and multi-objective optimization (Complex & Intelligent Systems 2021)
 > * Multi-objective optimization of recommendation performance and explanability (Pareto solution)
 > * Explainability analysis: Table 5, Table 6, Fig 5
-
+4. Fairness-Aware Explainable Recommendation over Knowledge Graphs (SIGIR 2020)
+> * Path is the explanation for the recommendation (Fig 1)
+> * Explainability analysis: case study in Fig 7 (explainable path)
+5. Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation (Algorithms 2018)
+6. KGAT: Knowledge Graph Attention Network for Recommendation (KDD 2019)
+7. Reinforcement knowledge graph reasoning for explainable recommendation (SIGIR 2019)
 
 
 __Related Reading__
