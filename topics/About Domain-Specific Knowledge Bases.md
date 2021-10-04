@@ -39,6 +39,7 @@ __Papers__
 15. AliCG : Alibaba Conceptual Graph for Semantic Search (KDD 2021) 🌟
 16. AliMe KG : Alibaba domain knowledge graph in E-commerce (CIKM 2020)
 17. Embedding-based Product Retrieval in Taobao Search (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.09297.pdf)] 🌟
+18. Product Knowledge Graph Embedding for E-commerce (WSDM 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371778)]
 
 
 
