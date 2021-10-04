@@ -79,7 +79,8 @@ These works use the knowledge graphs in final hypothesis, which indicates whethe
 > * This paper proposes a novel framework of knowledge-aware object detection, which enables the integration of external knowledge graphs into any object detection algorithm. 
 > * The framework employs semantic consistency to quantify and generalize knowledge, which improves object detection through a re-optimization process to achieve better consistency with background knowledge.
 > * [MIT ConceptNet](https://conceptnet.io) is used as a source of the KG. [[Reference](http://alumni.media.mit.edu/~hugo/publications/papers/BTTJ-ConceptNet.pdf)]
-
+3. GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems (EMNLP 2020) [[Paper](https://arxiv.org/pdf/2010.03994.pdf)] [[GitHub](https://github.com/li3cmz/GRADE)]
+> * This work is for automatic evaluation for open-domain dialogue systems. It uses graph knowledge to evaluate the dialogue coherence as the result produced by the system. (not directly related to KGs as metrics, but may give some hints)
 
 
 ## Knowledge-aware methods in XAI
