@@ -89,6 +89,9 @@ __General Papers (KBP from External Sources)__
 > Apply rule mining
 6. Predicting ConceptNet Path Quality Using Crowdsourced Assessments of Naturalness (WWW 2019)
 7. Typing Errors in Factual Knowledge Graphs: Severity and Possible Ways Out (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.02307.pdf)]
+8. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
+9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
+
 
 ### Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
