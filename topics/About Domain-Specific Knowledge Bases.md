@@ -78,6 +78,7 @@ __Tools__
 
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
+2. Lei Chuan [[Website](https://leichuan.github.io/publications/)]
 
 ### Personalized KB
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
