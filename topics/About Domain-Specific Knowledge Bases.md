@@ -27,7 +27,7 @@
 #### Taxonomies of Domain Specific KBs
 1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
 
-## Applications of Domain-Specific Knowledge Bases
+## KBs in Specific Domains
 
 ### Product KBs
 __Keynotes and Tutorials__
