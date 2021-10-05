@@ -1,9 +1,9 @@
-## Domain-Specific KBs
+## Domain-Specific Knowledge Bases
 
 ### Tutorials
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
 
-### Papers about General Domain-Specific Knowledge Base Construction and Refinement
+### Papers about General Domain-Specific KB Construction and Refinement
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
@@ -13,7 +13,7 @@
 > * a probabilistic framework
 > * largest general-purpose taxonomy fully automatically constructed 
 
-### Papers about Different Tasks on Domain-Specific Knowledge Bases
+### Papers about Different Tasks on Domain-Specific KBs
 #### Domain Specific NER
 1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
 2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
