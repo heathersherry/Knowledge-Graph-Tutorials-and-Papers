@@ -1,19 +1,33 @@
-## About Domain Specific KBs
+## Domain-Specific KBs
 
 ### Tutorials
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
 
-### General Papers
+### Papers about General Domain-Specific Knowledge Base Construction and Refinement
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
 4. Probase: A Probabilistic Taxonomy for Text Understanding (SIGMOD 2012)🌟
 > ProBase : Microsoft Conceptual Graph
-> * Iterative learning algorithm for extraction and taxonomy construction algorithm
+> * iterative learning algorithm for extraction and taxonomy construction algorithm
 > * a probabilistic framework
 > * largest general-purpose taxonomy fully automatically constructed 
 
+### Papers about Different Tasks on Domain-Specific Knowledge Bases
+#### Domain Specific NER
+1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
+2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
 
+#### Domain Specific EL
+1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
+2. A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking ((ICCIDS 2019)
+3. Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce (SIGIR 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401067)]
+4. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
+
+#### Taxonomies of Domain Specific KBs
+1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
+
+## Applications of Domain-Specific Knowledge Bases
 
 ### Product KBs
 __Keynotes and Tutorials__
@@ -41,28 +55,15 @@ __Papers__
 17. Embedding-based Product Retrieval in Taobao Search (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.09297.pdf)] 🌟
 18. Product Knowledge Graph Embedding for E-commerce (WSDM 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371778)]
 
-
-
-__Product Data Set__
+__Datasets__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
 
-### Domain Specific NER
-1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
-2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
+### Meidcal KBs
+__Papers__
+1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
+2. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 
-### Domain Specific EL
-1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
-2. A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking ((ICCIDS 2019)
-3. Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce (SIGIR 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401067)]
-4. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
-
-### Taxonomies of Domain Specific KBs
-1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
-
-### Applications of Domain-Specific KBs
-1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
-2. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
-3. FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation (ISWC 2019) [[Github](https://foodkg.github.io/foodkg.html)]
+__Datasets__
 
 ### Personalized KB
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
@@ -76,3 +77,8 @@ __Product Data Set__
 
 ### Opinion Graphs
 1. Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)] [[Code](https://github.com/megagonlabs/explainit)]
+
+### Others
+1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
+2. FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation (ISWC 2019) [[Github](https://foodkg.github.io/foodkg.html)]
+
