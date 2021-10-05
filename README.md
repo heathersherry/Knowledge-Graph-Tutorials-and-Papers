@@ -68,6 +68,7 @@ Tutorials and Notes from Talented People
 5. KG STOA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
 7. KG Embedding STOA [[GitHub](https://github.com/xinguoxia/KGE)]
+8. Entity Related Papers [[GitHub](https://github.com/HelloRusk/entity-related-papers)]
 
 
 #### Tutorials and Notes of Other Insightful Topics
