@@ -77,6 +77,7 @@ __Datasets__
 6. ShARe [[Reference](https://aclanthology.org/S14-2007.pdf)]
 7. BioCreative [[Reference](https://biocreative.bioinformatics.udel.edu/resources/corpora/biocreative-v-cdr-corpus/)]
 8. Summary from NormCo [[Github](https://github.com/IBM/aihn-ucsd/tree/master/NormCo-deep-disease-normalization)]
+9. Datasets provided by [[MedType](https://github.com/svjan5/medtype)]: [[WikiMed](https://drive.google.com/u/0/uc?export=download&confirm=seZN&id=16suJCinjfYhw1u1S-gPFmGFQZD331u7I)] and [[PubMedDS](https://drive.google.com/u/0/uc?export=download&confirm=kB20&id=16mEFpCHhFGuQ7zYRAp2PP3XbAFq9MwoM)]
 
 
 __Tools__
