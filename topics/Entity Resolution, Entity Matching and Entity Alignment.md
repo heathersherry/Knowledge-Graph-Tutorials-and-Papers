@@ -15,7 +15,7 @@ __General Papers__
 6. The return of JedAI: End-to-End Entity Resolution for Structured and Semi-Structured Data (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1950-papadakis.pdf), demo] 🌟
 7. CloudMatcher: A Hands-Off Cloud/Crowd Service for Entity Matching (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p2042-govind.pdf), demo]🌟
 8. Robust Entity Resolution using Random Graphs (SIGMOD 2018) [[PDF](https://dl.acm.org/citation.cfm?id=3183755)] 🌟
-9. Deep Learning for Entity Matching: A Design Space Exploration (SIGMOD 2018) [[PDF](http://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf)] 🌟
+9. Deep Learning for Entity Matching: A Design Space Exploration (SIGMOD 2018) [[PDF](http://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf)] [[Code and Data](https://github.com/anhaidgroup/deepmatcher)] 🌟
 10. Schema-Agnostic Progressive Entity Resolution (ICDE 2018) [[PDF](http://www.dit.unitn.it/~pavel/OM/articles/Simonini_icde18.pdf)] 🌟
 11. A Graph-Theoretic Fusion Framework for Unsupervised Entity Resolution (ICDE 2018) [[PDF](http://staff.ustc.edu.cn/~hexn/papers/icde18-entity-resolution.pdf)] 🌟
 12. Enabling Quality Control for Entity Resolution: A Human and Machine Cooperation Framework (ICDE 2018) [[PDF](https://arxiv.org/pdf/1710.00204.pdf)] 🌟
