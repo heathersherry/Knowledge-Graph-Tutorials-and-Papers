@@ -66,6 +66,10 @@ __Papers__
 4. MEDTO: Medical Data to Ontology Matching Using Hybrid Graph Neural Networks (KDD 2021) 🌟
 
 __Datasets__
+1. PubMed
+
+__Tools__
+1. `BioBERT for NER` BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.08746.pdf)] [[GitHub](https://github.com/dmis-lab/biobert)]
 
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
