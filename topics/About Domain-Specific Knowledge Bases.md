@@ -62,6 +62,7 @@ __Datasets__
 __Papers__
 1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
 2. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
+3. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) 🌟
 
 __Datasets__
 
