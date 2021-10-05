@@ -12,6 +12,7 @@
 > * iterative learning algorithm for extraction and taxonomy construction algorithm
 > * a probabilistic framework
 > * largest general-purpose taxonomy fully automatically constructed 
+5. Semantic Enrichment of Data for AI Applications (DEEM 2021)
 
 ### Papers about Different Tasks on Domain-Specific KBs
 #### Domain Specific NER
