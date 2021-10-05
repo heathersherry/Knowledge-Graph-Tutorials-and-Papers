@@ -61,7 +61,8 @@ __Datasets__
 
 ### Meidcal KBs
 __Papers__
-Note: Medical entity linking is also referred to as medical concept normalization (MCN)
+
+👉 Note: Medical entity linking is also referred to as medical concept normalization (MCN)
 1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
 2. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 > * This work introduces `ED-GNN` based on three representative GNNs (GraphSAGE, R-GCN, and MAGNN) for Medical ED. 
