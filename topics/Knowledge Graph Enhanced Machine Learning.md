@@ -97,7 +97,6 @@ These works use the knowledge graphs in final hypothesis, which indicates whethe
 
 
 
-
 ## Related Reading
 1. TensorFlow: Neural Structured Learning [[TF](https://www.tensorflow.org/neural_structured_learning)] [[GitHub](https://github.com/tensorflow/neural-structured-learning)]
 * Train neural networks by leveraging structured signals in addition to feature inputs. Structure can be explicit as represented by a graph, or implicit as induced by adversarial perturbation.
