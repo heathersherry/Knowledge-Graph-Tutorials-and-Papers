@@ -80,12 +80,22 @@ __Datasets__
 7. BioCreative [[Reference](https://biocreative.bioinformatics.udel.edu/resources/corpora/biocreative-v-cdr-corpus/)]
 8. Summary from NormCo [[Github](https://github.com/IBM/aihn-ucsd/tree/master/NormCo-deep-disease-normalization)]
 9. Datasets provided by [[MedType](https://github.com/svjan5/medtype)]: [[WikiMed](https://drive.google.com/u/0/uc?export=download&confirm=seZN&id=16suJCinjfYhw1u1S-gPFmGFQZD331u7I)] and [[PubMedDS](https://drive.google.com/u/0/uc?export=download&confirm=kB20&id=16mEFpCHhFGuQ7zYRAp2PP3XbAFq9MwoM)]
+10. Unified Medical Language System (UMLS): 4.2 million biomedical concepts, with 127 types
+> * There is a UMLS Semantic Network for concept mapping to semantic types?
+11. MedMetions [[Reference](https://arxiv.org/pdf/1902.09476.pdf)]
 
 
 __Tools__
 1. `BioBERT for NER` BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper](https://arxiv.org/ftp/arxiv/papers/1901/1901.08746.pdf)] [[GitHub](https://github.com/dmis-lab/biobert)]
 2. `DeepMatcher for EM`: Deep Learning for Entity Matching: A Design Space Exploration (SIGMOD 2018) [[PDF](http://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-sigmod18.pdf)] [[Code and Data](https://github.com/anhaidgroup/deepmatcher)] 🌟
 3. `NCEL for EL`: Neural Collective Entity Linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)] [[Github](https://github.com/TaoMiner/NCEL)]
+4. `SciSpacy (as neural med-linker)`: SciSpaCy： Fast and Robust Models for Biomedical Natural Language Processing (arxiv 2019)  [[GitHub](https://allenai.github.io/scispacy/)]
+5. `cTAKES for medical entity linker` (map named entities to UMLS concepts)  [[Reference](https://cwiki.apache.org/confluence/display/CTAKES/cTAKES+4.0+-+LVG)]
+6. `Quick-UMLS for medical entity linker`
+7. `MetaMap for medical entity linker` (map biomedical mentions in text to UMLS concepts) [[Tool](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap.html)]
+> * `MetaMapLite`: reimplements baisc MetaMap with an additional emphasis on real-time processing and competitive performance [[Tool](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap/Docs/README_MetaMapLite_3.6.html)]
+8. QuickUMLS
+9. 
 
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
