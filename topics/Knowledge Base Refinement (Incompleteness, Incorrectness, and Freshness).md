@@ -7,6 +7,7 @@ __Surveys and Evaluations__
 2. Structured Knowledge: Have we made progress? An extrinsic study of KB coverage over 19 years (CIKM 2020, poster) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3417447)], investigate DBpedia and Wikidata
 4. Efficient Knowledge Graph Accuracy Evaluation [[PDF](https://arxiv.org/pdf/1907.09657.pdf)]  [[techical reprot](https://users.cs.duke.edu/~jygao/KG_eval_vldb_full.pdf)] (VLDB 2019) 🌟
 5. Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases [[PDF](http://www.eurecom.fr/fr/publication/5468/download/data-publi-5468.pdf), demo] (VLDB 2019) 🌟
+6. Knowledge graph quality control: A survey (Fundamental Research 2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S2667325821001655)] 
 
 __General Papers__
 1. Optimizing Knowledge Graphs through Voting-based User Feedback [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D18T_LjZIo6Fr3GhPVLFr3NtqOyHASdxAy&sa=D&ust=1587488616452000&usg=AFQjCNFS1PMHv1YoTTadm-1_KDEsuHZywg)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1aqOTcSYJON-aONp0PPCoUpz9rNr0lKZb&sa=D&ust=1587488616452000&usg=AFQjCNHJkIFfvJ5mARJ2fHMXfSXwljABTg)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a421/290300a421.pdf)]
