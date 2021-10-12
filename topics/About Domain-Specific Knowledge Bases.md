@@ -1,7 +1,8 @@
 ## Domain-Specific Knowledge Bases
 
-### Tutorials
+### Tutorials and Surveys
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
+2. Domain-specific Knowledge Graphs: A survey (2020) [[Paper](https://arxiv.org/pdf/2011.00235.pdf)]
 
 ### Papers about General Domain-Specific KB Construction and Refinement
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
