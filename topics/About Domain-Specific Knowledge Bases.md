@@ -95,8 +95,8 @@ __Tools__
 6. `Quick-UMLS for medical entity linker`
 7. `MetaMap for medical entity linker` (map biomedical mentions in text to UMLS concepts) [[Tool](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap.html)]
 > * `MetaMapLite`: reimplements baisc MetaMap with an additional emphasis on real-time processing and competitive performance [[Tool](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap/Docs/README_MetaMapLite_3.6.html)]
-8. QuickUMLS
-9. 
+8. `QuickUMLS`
+
 
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
