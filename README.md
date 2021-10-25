@@ -69,6 +69,7 @@ Tutorials and Notes from Talented People
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
 7. KG Embedding STOA [[GitHub](https://github.com/xinguoxia/KGE)]
 8. Entity Related Papers [[GitHub](https://github.com/HelloRusk/entity-related-papers)]
+9. Information Extraction Resources [[GitHub](https://github.com/casnlu/InformationExtraction)]
 
 
 #### Tutorials and Notes of Other Related Insightful Topics
