@@ -65,7 +65,9 @@ __Papers__
 
 👉 Note: Medical entity linking is also referred to as medical concept normalization (MCN)
 1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
-2. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
+> * Personalized KG to provided personalized prediction and explicit reasoning.
+> * The major idea is borrowed from MHGRN (multi-hop graph): Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Paper](https://arxiv.org/pdf/2005.00646.pdf)] [[Notes in Chinese](https://blog.csdn.net/ld326/article/details/114049909)]
+3. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 > * This work introduces `ED-GNN` based on three representative GNNs (GraphSAGE, R-GCN, and MAGNN) for Medical ED. 
 > * There are two optimization techniques: (1) a novel strategy to represent entities mentioned in text snippets as a query graph; (2) an effective negative sampling strategy.
 4. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) 🌟 
