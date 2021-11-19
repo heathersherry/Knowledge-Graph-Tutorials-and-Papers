@@ -98,3 +98,4 @@ __Others__
 39. A Survey on Data Collection for Machine Learning: A Big Data - AI Integration Perspective [[Paper](https://ieeexplore.ieee.org/document/8862913/)] (TKDE 2021) 🌟
 40. Learning Dynamic User Interest Sequence in Knowledge Graphs for Click-Through Rate Prediction [[Paper](https://ieeexplore.ieee.org/document/9409651)] (TKDE 2021) 🌟
 41. Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond (SIGMOD 2021) 🌟
+42. Alibaba - GraphScope (VLDB 2021/22 industrial) 🌟 三个独立引擎 GAIA (NSDI 2021), GRAPE (SIGMOD 2017), AliGraph 
