@@ -70,6 +70,11 @@ __Papers__
 > * There are two optimization techniques: (1) a novel strategy to represent entities mentioned in text snippets as a query graph; (2) an effective negative sampling strategy.
 4. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) 🌟 
 5. MEDTO: Medical Data to Ontology Matching Using Hybrid Graph Neural Networks (KDD 2021) 🌟
+6. DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation (KDD 2020) 🌟 [[Paper](http://pike.psu.edu/publications/kdd20-deterrent.pdf)] [[GitHub](https://github.com/cuilimeng/DETERRENT)] `Healthcare Misinformation Detection`
+> * A novel problem of explainable healthcare misinformation detection (from the web) by leveraging medical knowledge graph to better capture the high-order relations between entities.
+> * RGCN (with attention) for KG reasoning + text encoer of articles = learn the representation for each earticle, then formulate a classification problem to distinguish if a news is fake.
+> * The support KG: KnowLife: a versatile approach for constructing a large knowledge graph for biomedical sciences [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-015-0549-5.pdf)] [[Website](http://knowlife.mpi-inf.mpg.de)]
+> * Similar basic code (text+GRU+RGCN): Learning to Update Knowledge Graphs by Reading News (EMNLP 2019) [[GitHub](https://github.com/esddse/GUpdater)]
 
 __Datasets__
 1. PubMed
