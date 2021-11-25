@@ -8,8 +8,10 @@ __Papers that define problems__
 4. Interpretable Decision Sets: A Joint Framework for Description and Prediction (KDD 2016) [[Paper](https://www-cs-faculty.stanford.edu/people/jure/pubs/interpretable-kdd16.pdf)]
 5. LSH Ensemble: Internet-Scale Domain Search [[Paper](https://arxiv.org/pdf/1603.07410.pdf)] [[GitHub](https://github.com/ekzhu/datasketch)]
 6. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) [[Paper](https://arxiv.org/pdf/2003.11580.pdf)]
+7. Scaling Atributed Network Embedding to Massive Graphs (VLDB 2021 Best paper!) [[Paper](http://vldb.org/pvldb/vol14/p37-yang.pdf)] [[Datasets](https://renchi.ac.cn/datasets/)] [[Slides](https://renchi.ac.cn/files/talk-RUC.pdf)]
 
-__Papers that build a system__
+
+__Papers that build systems__
 1. NeuGraph: Parallel Deep Neural Network Computation on Large Graphs (USENIX 2019) [[Paper](https://www.usenix.org/system/files/atc19-ma_0.pdf)]
 
 ## Useful Materials
