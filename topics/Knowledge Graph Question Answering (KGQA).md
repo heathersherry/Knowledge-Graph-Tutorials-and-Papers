@@ -40,6 +40,10 @@ __General KGQA__
 29. CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs [[Paper](https://vldb.org/pvldb/vol14/p1325-orogat.pdf)] (VLDB 2021) 🌟
 30. SAKE: Spatial Question Answering over Knowledge Graph Based on Embedding Techniques (ICDE 2021) 🌟
 
+__Multiple Hop QA__
+1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020)
+2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group 2021)
+
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
 2. The Web as a Knowledge-base for Answering Complex Questions (NAACL-HLT 2018) [[Paper](https://www.aclweb.org/anthology/N18-1059.pdf)]
