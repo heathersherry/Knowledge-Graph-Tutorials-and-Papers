@@ -62,10 +62,10 @@ Tutorials and Notes from Talented People
 
 #### GitHub Repos that Summarize the Papers/Projects/Data related to Knowledge Graphs
 1. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
-2. KG STOA [[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md)]
+2. KG SOTA [[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md)]
 3. Awesome KG tutorials/papers/projects/communities [[GitHub](https://github.com/BrambleXu/knowledge-graph-learning)]
 4. Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
-5. KG STOA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
+5. KG SOTA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
 7. KG Embedding STOA [[GitHub](https://github.com/xinguoxia/KGE)]
 8. Entity Related Papers [[GitHub](https://github.com/HelloRusk/entity-related-papers)]
