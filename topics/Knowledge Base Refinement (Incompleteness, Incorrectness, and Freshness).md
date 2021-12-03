@@ -102,3 +102,4 @@ __General Papers (KBP from External Sources)__
 5. Summarizing Entity Temporal Evolution in Knowledge Graphs (WWW 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3308560.3316521)]
 6. Learning Sequence Encoders for Temporal Knowledge Graph Completion (EMNLP 2018) [[Paper](https://aclanthology.org/D18-1516.pdf)]
 7. Context-Aware Temporal Knowledge Graph Embedding (WISE 2020)
+8. Efficiently Embedding Dynamic Knowledge Graphs (arxiv 2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
