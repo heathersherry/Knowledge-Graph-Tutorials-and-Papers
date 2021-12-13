@@ -117,6 +117,7 @@ __People__
 ### Finance KBs
 1. Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining (IJCAI 2020, Special Track on AI in FinTech) [[Paper](https://www.ijcai.org/proceedings/2020/0643.pdf)]
 > * The SME graph as well as the labeled data for supply chain mining are from Alipay.
+2. 综述 | GNN金融风控领域业界进展调研 [[Link](https://zhuanlan.zhihu.com/p/348060075)]
 
 __Datasets__
 1. Fannie Mae Single-Family Loan Performance Data [[Link 1](https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/fannie-mae-single-family-loan-performance-data)] [[Link 2](https://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx)]
@@ -125,6 +126,7 @@ __Datasets__
 4. 金融时序超图(Finanical Temporal Hypergraph Ontology,FTHO) [[Link](http://www.openkg.cn/dataset/ftho)]
 5. 基金知识图谱 [[Link](http://www.openkg.cn/dataset/fundkg)]
 6. 其他中文金融相关知识图谱数据集 [[Link](http://www.openkg.cn/dataset?tags=%E9%87%91%E8%9E%8D)]
+
 
 ### Personalized KB
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
