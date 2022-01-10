@@ -41,7 +41,7 @@ __General KGQA__
 30. SAKE: Spatial Question Answering over Knowledge Graph Based on Embedding Techniques (ICDE 2021) 🌟
 
 __Multiple Hop QA__
-1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020)
+1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
 2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group 2021)
 3. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[Paper](https://arxiv.org/abs/1905.05460)] [[Code](https://github.com/THUDM/CogQA)]
 > * Note: Cognitive Graph is not directly equal to Knowledge Graph. You can view CG as a (dynamic, partial, local) KG generated instantly from the query.
