@@ -57,6 +57,7 @@ __Dynamic Embedding__
 4. Continuous-Time Dynamic Network Embeddings [WWW 2018] [[Paper](http://ryanrossi.com/pubs/nguyen-et-al-WWW18-BigNet.pdf)]
 5. Efficiently Embedding Dynamic Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 6. Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (TKDE 2020) [[https://ieeexplore.ieee.org/document/9091208]] [[Github](https://github.com/rootlu/DyHNE)]
+7. ChronoR: Rotation Based Temporal Knowledge Graph Embedding (arxiv 2021 or AAAI 2021?) [[Paper](https://arxiv.org/abs/2103.10379)]
 
 __CNN Based Embedding__
 1. A novel embedding model for knowledge base completion based on convolutional neural network (NAACL 2018)
