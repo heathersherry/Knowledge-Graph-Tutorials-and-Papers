@@ -113,6 +113,7 @@ __Useful tools (mainly for NER and EL to preprecess the data)__
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
 2. Lei Chuan [[Website](https://leichuan.github.io/publications/)]
+3. Xuan Wang [[Website](https://xuanwang91.github.io)]
 
 ### Finance KBs
 1. Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining (IJCAI 2020, Special Track on AI in FinTech) [[Paper](https://www.ijcai.org/proceedings/2020/0643.pdf)]
@@ -144,4 +145,4 @@ __Datasets__
 ### Others
 1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
 2. FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation (ISWC 2019) [[Github](https://foodkg.github.io/foodkg.html)]
-
+3. Modern Natural Language Processing Techniques for Scientific Web Mining: Tasks, Data, and Tools (WWW 2022 tutorial)
