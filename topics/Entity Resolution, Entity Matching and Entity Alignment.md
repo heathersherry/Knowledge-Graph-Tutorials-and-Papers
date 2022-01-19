@@ -52,6 +52,10 @@ __General Papers__
 43. Automating Entity Matching Model Development (ICDE 2021) 🌟
 44. Efficient and effective ER with progressive blocking [[Paper](https://link.springer.com/article/10.1007/s00778-021-00656-7)] (VLDBJ 2021) 🌟
 45. Online Topic-Aware Entity Resolution Over Incomplete Data Streams (SIGMOD 2021) 🌟
+46. Active Learning for Neural Entity Alignment (EMNLP 2021)
+> * Human in the loop to improve the quality of alignment seeds
+47. Ensemble Semi-supervised Entity Alignment via Cycle-teaching (AAAI 2022)
+48. Informed Multi-context Entity Alignment (WSDM 2022)
 
 __Embedding Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
