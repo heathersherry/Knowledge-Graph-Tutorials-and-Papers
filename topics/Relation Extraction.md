@@ -26,6 +26,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 > * OpenCeres: When open information extraction meets the semi-structured web (NAACL 2019)
 > * Ceres: Distantly supervised relation extraction from the semi-structured web (VLDB 2018)
 13. RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network (WWW 2021)
+14. Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction (WSDM 2019)
 
 __Notes__
 1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
