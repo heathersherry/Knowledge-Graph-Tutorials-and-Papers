@@ -19,6 +19,7 @@
 #### Domain Specific NER
 1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
 2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
+3. CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
 
 #### Domain Specific EL
 1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
@@ -77,6 +78,7 @@ __Papers__
 > * RGCN (with attention) for KG reasoning + text encoer of articles = learn the representation for each earticle, then formulate a classification problem to distinguish if a news is fake.
 > * The support KG: KnowLife: a versatile approach for constructing a large knowledge graph for biomedical sciences [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-015-0549-5.pdf)] [[Website](http://knowlife.mpi-inf.mpg.de)]
 > * Similar basic code (text+GRU+RGCN): Learning to Update Knowledge Graphs by Reading News (EMNLP 2019) [[GitHub](https://github.com/esddse/GUpdater)]
+7. CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
 
 __Datasets__
 1. PubMed
