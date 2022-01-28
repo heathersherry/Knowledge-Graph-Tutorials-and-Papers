@@ -94,7 +94,7 @@ __Datasets__
 10. Unified Medical Language System (UMLS): 4.2 million biomedical concepts, with 127 types
 > * There is a UMLS Semantic Network for concept mapping to semantic types?
 11. MedMetions [[Reference](https://arxiv.org/pdf/1902.09476.pdf)]
-
+12. Knowlife
 
 
 __Useful tools (mainly for NER and EL to preprecess the data)__
