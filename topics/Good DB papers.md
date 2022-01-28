@@ -13,6 +13,8 @@ __Papers that define problems__
 
 __Papers that build systems__
 1. NeuGraph: Parallel Deep Neural Network Computation on Large Graphs (USENIX 2019) [[Paper](https://www.usenix.org/system/files/atc19-ma_0.pdf)]
+2. Optimizing Machine Learning Workloads in Collaborative Environments (SIGMOD 2020) [[Paper](https://www.dfki.de/fileadmin/user_upload/import/11031_ml-paper.pdf)]
+
 
 ## Useful Materials
 __Some Graph things__
