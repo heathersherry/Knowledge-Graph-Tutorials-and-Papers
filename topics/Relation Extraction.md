@@ -27,6 +27,8 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 > * Ceres: Distantly supervised relation extraction from the semi-structured web (VLDB 2018)
 13. RECON: Relation Extraction using Knowledge Graph Context in a Graph Neural Network (WWW 2021)
 14. Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction (WSDM 2019)
+15. KnowPrompt: Knowledge-aware Prompt-tuning with Synergestic Optimization for Relation Extraction (WWW 2022) [[Paper](https://arxiv.org/abs/2104.07650)] [[Code](https://github.com/zjunlp/KnowPrompt)]
+> * [Related works](https://github.com/thunlp/PromptPapers)
 
 __Notes__
 1. [[Notes](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
