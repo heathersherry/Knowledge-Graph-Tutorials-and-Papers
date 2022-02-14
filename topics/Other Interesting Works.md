@@ -101,3 +101,5 @@ __Others__
 42. Alibaba - GraphScope (VLDB 2021/22 industrial) 🌟 三个独立引擎 GAIA (NSDI 2021), GRAPE (SIGMOD 2017), AliGraph 
 43. vertex central GNN (SIGMOD 2021) James Cheng, CUHK
 44. KungFu: Taking Training in Distributed Machine Learning Adaptive (OSDI)
+45. ArangoML Pipeline [[GitHub](https://github.com/arangoml/arangopipe)]
+
