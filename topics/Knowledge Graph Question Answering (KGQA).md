@@ -6,6 +6,7 @@ __Survey and Summary__
 3. Question Answering Summary (not limited to KBQA) [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
 4. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1907.09361.pdf)]
 5. Awesome KGQA [[GitHub](https://github.com/BshoterJ/awesome-kgqa)]
+6. What is in the KGQA Benchmark Datasets? Survey on Challenges in Datasets for Question Answering on Knowledge Graphs (Journal on Data Semantics, 2021)[[Paper](https://link.springer.com/content/pdf/10.1007/s13740-021-00128-9.pdf)]
 
 __General KGQA__
 1. Question Answering Over Knowledge Graphs: Question Understanding Via Template Decomposition (VLDB 2018) [[Paper](http://www.vldb.org/pvldb/vol11/p1373-zheng.pdf)]🌟
