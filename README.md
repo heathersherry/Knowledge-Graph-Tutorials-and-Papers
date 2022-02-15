@@ -36,7 +36,8 @@ Note: The papers in database area (or written in database style) are marked with
 * __Knowledge Graph Enhanced Machine Learning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md)__
 
 ### Schema and Query of KGs
-* __Knowledg Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
+* __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
+* __Knowledge Graph Taxonomy Construction and Improvement [[link]()]__
 
 ### Others
 * __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
