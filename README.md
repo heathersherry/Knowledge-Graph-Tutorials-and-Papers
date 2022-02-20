@@ -7,7 +7,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 * __About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md)__
 
-* __Named Entity Recoginition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)__
+* __Named Entity Recognition, Entity Extraction and Entity Typing [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recoginition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md)__
 
 * __Coreference Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Coreference%20Resolution.md)__
 
