@@ -69,7 +69,7 @@ Tutorials and Notes from Talented People
 4. Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
 5. KG SOTA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
-7. KG Embedding STOA [[GitHub](https://github.com/xinguoxia/KGE)]
+7. KG Embedding SOTA [[GitHub](https://github.com/xinguoxia/KGE)]
 8. Entity Related Papers [[GitHub](https://github.com/HelloRusk/entity-related-papers)]
 9. Information Extraction Resources [[GitHub](https://github.com/casnlu/InformationExtraction)]
 10. KGQA [[Giters](https://giters.com/simba0626/Question-Answering)]
