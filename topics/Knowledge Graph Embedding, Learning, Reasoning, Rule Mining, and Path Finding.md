@@ -1,12 +1,13 @@
 ## Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding
 
 ### 1. Surveys and Summary
-__Surveys and Experimental Studies__
+__Surveys, Tutorials and Experimental Studies__
 1. Knowledge graph embedding: A survey of approaches and applications (TKDE 2017)🌟
 2. Knowledge representation learning: A quantitative review (2018) [[Code in this paper](https://github.com/thunlp/OpenKE)]
 3. A Comprehensive Survey of Knowledge Graph Embeddings with Literals: Techniques and Applications (ESWC 2019) [[Paper](http://ceur-ws.org/Vol-2377/paper_4.pdf)]
 4. Knowledge Graph Embedding for Link Prediction: A Comparative Analysis [[Paper](https://arxiv.org/pdf/2002.00819.pdf)]
 5. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study [[Paper](https://doi.org/10.1145/3318464.3380599)] (SIGMOD 2020) 🌟
+6. Reasoning on Knowledge Graphs: Symbolic or Neural? (AAAI 2022 Tutorial) [[Link](https://aaai2022kgreasoning.github.io/)]
 
 __Summary__
 1. Papers, Surveys, and Datasets on Knowledge Graph Embedding (KGE) [[GitHub](https://github.com/xinguoxia/KGE)]
