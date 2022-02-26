@@ -52,6 +52,8 @@ __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
 2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group, NAACL-HLT 2021) [[Paper](https://arxiv.org/pdf/2104.06378.pdf)]
 
+__Multiligual QA__
+1. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (ACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.465/)]
 
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
