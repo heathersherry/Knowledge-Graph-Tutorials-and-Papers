@@ -58,6 +58,7 @@ __Papers__
 17. Embedding-based Product Retrieval in Taobao Search (KDD 2021) [[Paper](https://arxiv.org/pdf/2106.09297.pdf)] 🌟
 18. Product Knowledge Graph Embedding for E-commerce (WSDM 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371778)]
 19. Weakly-Supervised Opinion Summarization by Leveraging External Information (AAAI 2020)
+20. PGE: Robust Product Graph Embedding Learning for Error Detection (arxiv 2022, Luna's team) [[Paper](https://arxiv.org/pdf/2202.09747.pdf)]
 
 __Datasets__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
