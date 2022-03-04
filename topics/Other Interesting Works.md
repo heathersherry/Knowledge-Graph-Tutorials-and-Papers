@@ -57,6 +57,9 @@ __XAI and Explanable GNN__
 2. ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction [[Paper](https://arxiv.org/pdf/2105.10446.pdf)] [[Some discussion](https://mp.weixin.qq.com/s/sZjn5Q8IBu6JXziTBJVLTg)]
 3. Evaluating XAI: A comparison of rule-based and example-based explanations [[Paper](https://www.sciencedirect.com/science/article/pii/S0004370220301533)]
 
+__HGNN__
+1. Heterogeneous Graph Structure Learning for Graph Neural Networks (AAAI 2021) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16600)]
+
 __Others__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. A Fresh Look on Knowledge Bases Distilling Named (CIKM 2014)🌟
