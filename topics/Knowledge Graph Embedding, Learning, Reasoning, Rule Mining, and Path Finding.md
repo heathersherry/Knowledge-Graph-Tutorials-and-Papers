@@ -98,6 +98,7 @@ __General Papers__
 12. Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1908.11513)]
 13. xERTE: Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs (ICLR 2021) [[Paper](https://openreview.net/pdf?id=pGIHq1m7PU)] [[Code](https://github.com/TemporalKGTeam/xERTE)] 
 14. SMORE: KNOWLEDGE GRAPH COMPLETION AND MULTI-HOP REASONING IN MASSIVE KNOWLEDGE GRAPHS (Jure's group, Oct 2021) [[Paper](https://arxiv.org/pdf/2110.14890.pdf)]
+15. Knowledge Graph Reasoning with Relational Digraph (arxiv 2022)
 
 ### 4. Rule Mining and Path Finding in KGs
 __General Papers__
