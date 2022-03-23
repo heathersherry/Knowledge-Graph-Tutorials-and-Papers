@@ -26,6 +26,7 @@ __Multi-hop Reading__
 > * BERT + GNN
 2. Is Graph Structure Neccessary for Multi-Hop Reading? (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf)] [[Notes](https://mp.weixin.qq.com/s/zaNWytZQpy8sb2S7tLTgRA)]
 3. Dynamically fused graph network for multi-hop reading (ACL 2019)
+4. AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension (ACL 2022) [[Paper](https://arxiv.org/pdf/2203.08992.pdf)] [[Github](https://github.com/nju-websoft/AdaLoGN]
 
 __Graph Functional Dependencies__
 
