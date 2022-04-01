@@ -50,6 +50,15 @@ __General Papers__
 26. Relational Message Passing for Knowledge Graph Completion (KDD 2021)
 27. Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion (KDD 2021)
 
+__KGC/KGE based on Tensor Decomposition__
+1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
+2. Link Prediction based on Tensor Decomposition for the Knowledge Graph of COVID-19 Antiviral Drug (2022) [[Paper](https://direct.mit.edu/dint/article/4/1/134/109195/Link-Prediction-based-on-Tensor-Decomposition-for)]
+3. TuckER: Tensor factorization for knowledge graph completion. (EMNLP-IJCNLP 2019)
+> * the fundamental problem with deep, non-linear models is that they are nontransparent and poorly understood, as opposed to more mathematically principled and widely studied tensor decomposition models.
+4. Knowledge Graph Completion via Complex Tensor Factorization
+5. Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion 
+
+
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
 
