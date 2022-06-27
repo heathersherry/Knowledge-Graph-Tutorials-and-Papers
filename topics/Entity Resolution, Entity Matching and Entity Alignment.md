@@ -56,6 +56,7 @@ __General Papers__
 > * Human in the loop to improve the quality of alignment seeds
 47. Ensemble Semi-supervised Entity Alignment via Cycle-teaching (AAAI 2022)
 48. Informed Multi-context Entity Alignment (WSDM 2022)
+49. Deep Indexed Active Learning for Matching Heterogeneous Entity Representations [[Paper](http://vldb.org/pvldb/vol15/p31-jain.pdf)] [[Code](https://github.com/ArjitJ/DIAL)]
 
 __Embedding Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
