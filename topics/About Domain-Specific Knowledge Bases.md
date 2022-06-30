@@ -119,6 +119,9 @@ __People__
 2. Lei Chuan [[Website](https://leichuan.github.io/publications/)]
 3. Xuan Wang [[Website](https://xuanwang91.github.io)]
 
+__Materials__
+1. The Construction and Applications of Medical KGs (in Chinese, 医疗领域图谱的构建与应用) [[Link](https://mp.weixin.qq.com/s/dTAoI3pfCCT0CjNveanaxA)]
+
 ### Finance KBs
 1. Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining (IJCAI 2020, Special Track on AI in FinTech) [[Paper](https://www.ijcai.org/proceedings/2020/0643.pdf)]
 > * The SME graph as well as the labeled data for supply chain mining are from Alipay.
