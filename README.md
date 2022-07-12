@@ -39,7 +39,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 ### Schema and Query of KGs
 * __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
-* __Knowledge Graph Taxonomy Construction and Improvement [[link]()]__ (TBD)
+* __Knowledge Graph Taxonomy Construction and Improvement [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement)]__ (TBD)
 
 ### Others
 * __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
