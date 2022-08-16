@@ -81,6 +81,9 @@ __Papers__
 > * The support KG: KnowLife: a versatile approach for constructing a large knowledge graph for biomedical sciences [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-015-0549-5.pdf)] [[Website](http://knowlife.mpi-inf.mpg.de)]
 > * Similar basic code (text+GRU+RGCN): Learning to Update Knowledge Graphs by Reading News (EMNLP 2019) [[GitHub](https://github.com/esddse/GUpdater)]
 7. CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
+8. Kformer: Knowledge Injection in Transformer Feed-Forward Layers [[Arxiv 2022](https://arxiv.org/pdf/2201.05742.pdf)]
+> * There is a medical QA task in the experiment based on a [[Medical KB](https://arxiv.org/pdf/2009.13081.pdf)]. 
+
 
 __Datasets__
 1. PubMed
