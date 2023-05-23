@@ -37,7 +37,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 * __Knowledge Graph Enhanced Machine Learning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md)__
 
-* __Knowledge Graph for Large Language Models (LLMs) [[link (TBD)]]
+* __Knowledge Graph for Large Language Models (LLMs) [[link (TBD)]]__
 
 ### Schema and Query of KGs
 * __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
