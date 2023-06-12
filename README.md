@@ -37,7 +37,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 * __Knowledge Graph Enhanced Machine Learning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md)__
 
-* __Knowledge Graph for Large Language Models (LLMs) [[link (TBD)]]__ 🔥🔥🔥
+* __Knowledge Graphs and Large Language Models (LLMs) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20and%20LLMs.md)__ 🔥🔥🔥
 
 ### Schema and Query of KGs
 * __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
@@ -52,12 +52,7 @@ Papers and Materials from Database Area
 ======
 Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
-#### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)
-#### 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)
-#### 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)
-#### 2021 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md)
-#### 2022 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md)
-#### 2023 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md)
+#### 2018 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018) 2019 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019) 2020 [[Link]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-) 2021 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md) 2022 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md) 2023 [[Link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md)
 
 Tutorials and Notes from Talented People
 =====
