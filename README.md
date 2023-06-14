@@ -48,7 +48,7 @@ Note: The papers in database area (or written in database style) are marked with
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
 
-Papers and Materials from Database Area
+Papers and Materials from the Database Communities
 ======
 Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
@@ -56,7 +56,7 @@ Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
 Tutorials and Notes from Talented People
 =====
-#### Tutorials, Discussion and Communities
+#### Tutorials, Discussion, Courses and Communities
 1. An introduction to knowledge graph and knowledge extraction from unstructured text. [[Link](https://kgtutorial.github.io)]
 2. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
 3. [CS 520 - Knowledge Graphs (seminar) - provided by Stanford](https://web.stanford.edu/class/cs520/)
