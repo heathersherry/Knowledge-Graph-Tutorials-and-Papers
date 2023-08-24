@@ -51,8 +51,7 @@ __General Papers__
 21. Efficient Relation-Aware Scoring Function Search for Knowledge Graph Embedding (ICDE 2021) 🌟
 22. Simple and automated negative sampling for knowledge graph embedding [[Paper](https://link.springer.com/article/10.1007/s00778-020-00640-7)] (VLDBJ 2021) 🌟
 23. OntoProtein: Protein Pretraining With Gene Ontology Embedding (ICLR 2022) [[Paper](https://arxiv.org/pdf/2201.11147.pdf)] [[Github](https://github.com/zjunlp/OntoProtein)]
-24. 
-
+ 
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
 2. DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS [ICLR 2019] [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
@@ -73,12 +72,16 @@ __Graph Based Embedding__
 2. Modeling Relational Data with Graph Convolutional Networks (ESWC 2018) [[Paper](https://arxiv.org/pdf/1703.06103.pdf)]
 > * Apply GCN for KG Completion (link prediction), compared with the performance of KG embedding models in the experiment.
 
-
 __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
 3. COMPOSITION-BASED MULTI-RELATIONAL GRAPH CONVOLUTIONAL NETWORKS (ICLR 2020) [[Paper](https://arxiv.org/pdf/1911.03082.pdf)] [[Code](https://github.com/malllabiisc/CompGCN)]
-4. Knowledge Embedding Based Graph Convolutional Network (WWW 2021)
+5. Knowledge Embedding Based Graph Convolutional Network (WWW 2021)
+
+__Downstream Applications__
+1. Link Prediction
+> * You may refer to the SOTA listed on PaperWithCode, e.g., the exp results on FB15K [[Link](https://paperswithcode.com/sota/link-prediction-on-fb15k-237)]
+2. Entity Classification
 
 ### 3. KG Reasoning
 __Summary__
