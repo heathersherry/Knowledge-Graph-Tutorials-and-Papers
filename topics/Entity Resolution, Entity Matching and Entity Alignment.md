@@ -71,6 +71,7 @@ __Embedding Based Techniques__
 
 __Language Model Based Techniques__
 1. Deep Entity Matching with Pre-Trained Language Models (Tool:Ditto) [[Blog](https://megagonlabs.medium.com/deep-entity-matching-with-pre-trained-language-models-f4b42f1d1759)]
+2. Deep Entity Matching: Challenges and Opportunities (ACM Journal of Data and Information Quality, 2021) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3431816)]
 
 
 __Blocking Techniques__
