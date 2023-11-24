@@ -6,6 +6,7 @@ __Surveys__
 2. A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020) [[Paper](https://arxiv.org/pdf/2002.00388.pdf)]
 3. A survey of techniques for constructing Chinese knowledge graphs and their applications (Sustainability 2018)
 4. Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases (submitted to Foundations and Trends in Databases in 2020) [[Paper](https://arxiv.org/pdf/2009.11564.pdf)]
+5. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
 
 __Notes__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
@@ -33,6 +34,10 @@ __General Papers__
 16. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring (KDD 2020)
 17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
 
+__LLM for KG Constrution__
+1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
+2. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/abs/2305.04676)]
+3. Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01128)]
 
 __Fact Finding__
 1. Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf), demo] 🌟
