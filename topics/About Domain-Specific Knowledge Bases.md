@@ -15,6 +15,10 @@
 > * largest general-purpose taxonomy fully automatically constructed 
 5. Semantic Enrichment of Data for AI Applications (DEEM 2021)
 
+#### LLM for Domain-Specific KG Constrcution 🔥🔥🔥
+1. BEAR: Revolutionizing Service Domain Knowledge Graph Construction with LLM (ICSOC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_23)]
+
+
 ### Papers about Different Tasks on Domain-Specific KBs
 #### Domain Specific NER
 1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
