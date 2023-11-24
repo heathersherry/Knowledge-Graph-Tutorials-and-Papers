@@ -34,7 +34,7 @@ __General Papers__
 16. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring (KDD 2020)
 17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
 
-__LLM for KG Constrution__
+__LLM for General KG Constrution__ 🔥🔥🔥
 1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
 2. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/abs/2305.04676)]
 3. Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01128)]
