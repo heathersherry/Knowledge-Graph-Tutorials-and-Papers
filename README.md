@@ -75,6 +75,8 @@ Tutorials and Notes from Talented People
 9. Information Extraction Resources [[GitHub](https://github.com/casnlu/InformationExtraction)]
 10. KGQA [[Giters](https://giters.com/simba0626/Question-Answering)]
 11. Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities [[GitHub](https://openkg-tutorial.github.io/)]
+12. KG-LLM-Papers [[Link](https://github.com/zjukg/KG-LLM-Papers)]
+13. Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
 
 
 #### Tutorials and Notes of Other Related Insightful Topics
