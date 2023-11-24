@@ -73,7 +73,7 @@ outstanding capabilities of a QA system, such as KGQAN, in incorporating recent 
 2. Tutorial: Knowledge-Driven Vision-Language Encoding (CVPR 2023) [[Link](https://blender.cs.illinois.edu/tutorial/KnowledgeVLP/)]
 
 ### Other Resourses
-1. Github Repo: KG-LLM-Papers [Link](https://github.com/zjukg/KG-LLM-Papers)
-2. Github Repo: Awesome LLM-KGs [Link](https://github.com/RManLuo/Awesome-LLM-KG)
+1. Github Repo: KG-LLM-Papers [[Link](https://github.com/zjukg/KG-LLM-Papers)]
+2. Github Repo: Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
 
 
