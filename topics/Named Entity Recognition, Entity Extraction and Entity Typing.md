@@ -46,6 +46,12 @@ __Nested NER__
 4. NNE: A Dataset for Nested Named Entity Recognition in English Newswire (ACL 2019)
 5. Nested Named Entity Recognition via Second-best Sequence Learning and Decoding [[Paper](https://arxiv.org/pdf/1909.02250.pdf)]
 
+__LLM for NER__ 🔥🔥🔥
+1. GPT-NER: Named Entity Recognition via Large Language Models (Arxiv 2023, I think this is the first paper that brings LLM to NER) [[Paper](https://arxiv.org/abs/2304.10428)] [[Blog (in Chinese)](https://blog.csdn.net/HERODING23/article/details/130476395)]
+2. Spacy-llm: Integrating LLMs into structured NLP pipelines [[Github](https://github.com/explosion/spacy-llm)]
+3. Empirical Study of Zero-Shot NER with ChatGPT (Arxiv 2023) [[Paper](https://arxiv.org/abs/2310.10035)]
+4. Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models (Arxiv 2023, by the same team of paper 3) [[Paper](https://arxiv.org/pdf/2311.08921v1.pdf)]
+
 __Projects__
 1. https://github.com/kamalkraj/BERT-NER, coarse-grained
 2. https://github.com/conv1d/bert-fine-grained-ner, fine-grained
