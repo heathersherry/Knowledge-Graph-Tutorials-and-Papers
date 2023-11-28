@@ -10,7 +10,7 @@ Papers and Materials from All Areas
 
 * __About Multi-Modal Knowledge Graph (MMKG) [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/MMKG.md)]__ 
 
-* __Named Entity Recognition, Entity Extraction and Entity Typing [[link]]([https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recognition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recognition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md))__
+* __Named Entity Recognition, Entity Extraction and Entity Typing [[link]]((https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Named%20Entity%20Recognition%2C%20Entity%20Extraction%20and%20Entity%20Typing.md))__
 
 * __Coreference Resolution [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Coreference%20Resolution.md)__
 
