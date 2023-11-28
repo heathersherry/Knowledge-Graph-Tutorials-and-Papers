@@ -1,6 +1,6 @@
 Papers and Materials from All Areas
 ======
-* Note 1: The papers from the database communities are marked with 🌟.
+* Note 1: The papers from the database/data science communities are marked with 🌟.
 * Note 2: In Nov 2023, I start to add a new session related to LLM in each topic. 🔥
 
 ### Knowledge Extraction and Integration to Construct KGs
