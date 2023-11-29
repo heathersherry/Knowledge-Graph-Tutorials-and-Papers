@@ -241,5 +241,11 @@ __Supervised__
 ### 9. Entity Linking Evaluation Platform
 1. Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
 
-### 10. Datasets
+### 10. LLM and Entity Linking 🔥🔥🔥
+1. Large language models struggle to learn long-tail knowledge (PMLR 2023) [[Paper](https://proceedings.mlr.press/v202/kandpal23a.html)]
+2. Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01137)]
+3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
+
+
+### 11. Datasets
 1. Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
