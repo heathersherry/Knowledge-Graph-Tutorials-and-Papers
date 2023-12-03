@@ -76,6 +76,7 @@ __Graph Based Embedding__
 __Enfficient Emedding__
 1. NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs (ICLR 2022) [[Paper](https://openreview.net/forum?id=xMJWUKJnFSw)]
 > * Anchor based strategy, to achieve parameter efficiency.
+> * Some new works have already use NodePiece in experiments, such as InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities (Arxiv 2022) [[Paper](https://arxiv.org/pdf/2202.04897.pdf)]
 
 __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
