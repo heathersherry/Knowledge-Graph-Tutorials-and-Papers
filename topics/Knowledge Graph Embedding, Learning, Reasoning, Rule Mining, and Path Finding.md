@@ -73,6 +73,10 @@ __Graph Based Embedding__
 2. Modeling Relational Data with Graph Convolutional Networks (ESWC 2018) [[Paper](https://arxiv.org/pdf/1703.06103.pdf)]
 > * Apply GCN for KG Completion (link prediction), compared with the performance of KG embedding models in the experiment.
 
+__Enfficient Emedding__
+1. NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs (ICLR 2022) [[Paper](https://openreview.net/forum?id=xMJWUKJnFSw)]
+> * Anchor based strategy, to achieve parameter efficiency.
+
 __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
