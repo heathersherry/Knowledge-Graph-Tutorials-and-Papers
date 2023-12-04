@@ -1,4 +1,7 @@
-## Coreference Resolution
+## Coreference Resolution (CR)
+
+__Benchmarks, Libraries and Projects__
+1. Benchmark and Libraris [[Link](https://paperswithcode.com/task/coreference-resolution/latest)]
 
 __Surveys and Analysis__
 1. NLP progress for Coreference Resolution [[Github](https://github.com/sebastianruder/NLP-progress/blob/master/english/coreference_resolution.md)]
@@ -8,3 +11,9 @@ __Surveys and Analysis__
 
 __General Papers__
 1. End-to-end Neural Coreference Resolution (ACL 2017) [[Paper](https://www.aclweb.org/anthology/D17-1018.pdf)]
+2. Investigating Multilingual Coreference Resolution by Universal Annotations (2023) [[Paper](https://arxiv.org/pdf/2310.17734v1.pdf)]
+
+
+__LLM for CR__ 🔥🔥🔥
+1. Better Handling Coreference Resolution in Aspect Level Sentiment Classification by Fine-Tuning Language Models (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2307.05646.pdf)]
+
