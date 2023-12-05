@@ -109,4 +109,4 @@ __Others__
 43. vertex central GNN (SIGMOD 2021) James Cheng, CUHK
 44. KungFu: Taking Training in Distributed Machine Learning Adaptive (OSDI)
 45. ArangoML Pipeline [[GitHub](https://github.com/arangoml/arangopipe)]
-
+46. FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU (ICML 2023) [[Paper](https://arxiv.org/pdf/2303.06865.pdf)]
