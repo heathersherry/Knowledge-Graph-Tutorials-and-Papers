@@ -251,6 +251,8 @@ __Supervised__
 2. Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01137)]
 3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
 4. Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2311.15781v1.pdf)]
+5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper]([https://arxiv.org/pdf/2311.15781v1.pdf](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
+6. 
 
 
 ### 11. Datasets
