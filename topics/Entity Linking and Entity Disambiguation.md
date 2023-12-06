@@ -244,6 +244,7 @@ __Supervised__
 ### 10. Multimodal Entity Linking
 1. DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2310.05589v1.pdf)]
 2. Multi-Grained Multimodal Interaction Network for Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2307.09721v1.pdf)]
+3. Generative Multimodal Entity Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2306.12725)]
 
 
 ### 11. LLM and Entity Linking 🔥🔥🔥
@@ -252,7 +253,7 @@ __Supervised__
 3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
 4. Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2311.15781v1.pdf)]
 5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper]([https://arxiv.org/pdf/2311.15781v1.pdf](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
-6. 
+
 
 
 ### 11. Datasets
