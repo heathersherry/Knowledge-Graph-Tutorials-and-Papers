@@ -13,6 +13,9 @@ __Surveys and Analysis__
 3. Error analysis of the well known DeepED model [[Link](https://github.com/dalab/deep-ed)]
 4. Towards holistic Entity Linking: Survey and directions (Information Systems 2021) [[Link](https://www.sciencedirect.com/science/article/pii/S0306437920300958?casa_token=8iDZglH_xVgAAAAA:rHgcXMsLXdOCgSae1LEOH3Lc9LXEPyfcp9W40vRAIbEsPOxMWoAAHSi8q0M-ewkvpHWo5lB6czFS)]
 5. Neural Collective Entity Linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
+6. KG-Based Approach to Named Entity Disambiguation for Healthcare Applications — GraphAware (KGC 2022) [[Video](https://www.youtube.com/watch?app=desktop&v=4fDmD1z3fEQ)]
+7. Recent Trends in Word Sense Disambiguation : A Survey (IJCAI 2021, Survey Track) [[Paper](https://helda.helsinki.fi/server/api/core/bitstreams/12884f8e-ffd2-45e7-9737-eb368a3a4487/content)]
+
 
 __Notes and Discussions for Entity Linking__
 1. Candiate Entity Ranking [[Notes](https://www.jianshu.com/p/90e2c7a5c9f5)]
@@ -106,6 +109,7 @@ __Relax the Global Coherence Assumption__
 14. Neural collective entity linking (COLING 2018) [[Paper](https://arxiv.org/pdf/1811.08603.pdf)]
 > * Topical coherence only need to hold among neighboring mentions
 15. TENET: Joint Entity and Relation Linking with Coherence Relaxation (SIGMOD 2021) 🌟
+16. Entity Disambiguation with Entity Definitions (EACL 2023) [[Paper](https://aclanthology.org/2023.eacl-main.93.pdf)]
 
 __Some related works__
 1. Evaluating the Impact of Knowledge Graph Context on Entity Disambiguation Models (CIKM 2020, short) [[Paper]](https://arxiv.org/pdf/2008.05190.pdf)
