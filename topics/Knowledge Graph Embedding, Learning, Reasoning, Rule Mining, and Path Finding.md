@@ -111,6 +111,9 @@ __General Papers__
 14. SMORE: KNOWLEDGE GRAPH COMPLETION AND MULTI-HOP REASONING IN MASSIVE KNOWLEDGE GRAPHS (Jure's group, Oct 2021) [[Paper](https://arxiv.org/pdf/2110.14890.pdf)]
 15. Knowledge Graph Reasoning with Relational Digraph (arxiv 2022) [[Paper](https://arxiv.org/pdf/2108.06040.pdf)]
 
+__KG Reasoning for LLM__ 🔥
+1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
+
 ### 4. Rule Mining and Path Finding in KGs
 __General Papers__
 1. RuDiK: Rule Discovery in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf), demo] 🌟
