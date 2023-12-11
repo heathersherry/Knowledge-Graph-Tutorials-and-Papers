@@ -55,11 +55,20 @@ __Multiple-Options QA__
 __Multiligual QA__
 1. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (ACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.465/)]
 
+__LLM for KGQA__
+1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
+2. Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models (submitted to ICLR 2023 but not revised) [[Paper](https://openreview.net/forum?id=D2lo4toTUTo)]
+3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (Arxiv, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
+4. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (from Amazon Science, 2023) [[Paper](https://assets.amazon.science/10/14/9c09d8964b4b8b6219286d8fc05e/language-models-as-controlled-natural-language-semantic-parsers-for-knowledge-graph-question-answering.pdf)]
+5. Is GPT fit for KGQA? – Preliminary Results (CEUR Workshop 2023) [[Paper](https://ceur-ws.org/Vol-3447/Text2KG_Paper_11.pdf)]
+> Only GPT3 and GPT3.5 are used, so the experiemnts prove that there is limitation.
+6. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-shot KGQA (Amazon and UMass, Nov 2023) [[Paper](https://arxiv.org/pdf/2311.07850v1.pdf)]
+> In BYOKG, exploration leverages an LLM-backed symbolic agent that generates a diverse set of queryprogram exemplars, which are then used to ground a retrieval-augmented reasoning procedure to predict programs for arbitrary questions.
+
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
 2. The Web as a Knowledge-base for Answering Complex Questions (NAACL-HLT 2018) [[Paper](https://www.aclweb.org/anthology/N18-1059.pdf)]
 3. Scalable Join Processing on Very Large RDF Graphs (SIGMOD 2009) [[Paper](https://sites.fas.harvard.edu/~cs265/papers/neumann-2009.pdf)] 🌟
 
 __Some thoughts__
-
 Consider Combine embedding and subgraph matching for KGQA?
