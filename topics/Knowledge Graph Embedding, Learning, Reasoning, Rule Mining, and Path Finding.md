@@ -9,6 +9,7 @@ __Surveys, Tutorials and Experimental Studies__
 5. Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study [[Paper](https://doi.org/10.1145/3318464.3380599)] (SIGMOD 2020) 🌟
 6. Reasoning on Knowledge Graphs: Symbolic or Neural? (AAAI 2022 Tutorial) [[Link](https://aaai2022kgreasoning.github.io/)]
 7. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal	[[Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
+8. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)] 🔥
 
 __Summary__
 1. Papers, Surveys, and Datasets on Knowledge Graph Embedding (KGE) [[GitHub](https://github.com/xinguoxia/KGE)]
