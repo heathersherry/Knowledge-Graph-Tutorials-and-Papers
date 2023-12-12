@@ -8,6 +8,8 @@ __Survey and Summary__
 5. Awesome KGQA [[GitHub](https://github.com/BshoterJ/awesome-kgqa)]
 6. What is in the KGQA Benchmark Datasets? Survey on Challenges in Datasets for Question Answering on Knowledge Graphs (Journal on Data Semantics, 2021)[[Paper](https://link.springer.com/content/pdf/10.1007/s13740-021-00128-9.pdf)]
 7. Complex Knowledge Base Question Answering: A Survey [[Paper](https://arxiv.org/pdf/2108.06688v1.pdf)]
+8. Knowledge Graphs & LLMs: Multi-Hop Question Answering [[Neo4j Developer Blog](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/)] [[Another Similar Discussion](https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/)]
+
 
 __General KGQA__
 1. Question Answering Over Knowledge Graphs: Question Understanding Via Template Decomposition (VLDB 2018) [[Paper](http://www.vldb.org/pvldb/vol11/p1373-zheng.pdf)]🌟
@@ -55,7 +57,7 @@ __Multiple-Options QA__
 __Multiligual QA__
 1. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (ACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.465/)]
 
-__LLM for KGQA__ 🔥
+__LLM for KGQA/KG for QA based on LLM__ 🔥
 1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
 2. Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models (submitted to ICLR 2023 but not revised) [[Paper](https://openreview.net/forum?id=D2lo4toTUTo)]
 3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (Arxiv, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
@@ -64,6 +66,9 @@ __LLM for KGQA__ 🔥
 > Only GPT3 and GPT3.5 are used, so the experiemnts prove that there is limitation.
 6. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-shot KGQA (Amazon and UMass, Nov 2023) [[Paper](https://arxiv.org/pdf/2311.07850v1.pdf)]
 > In BYOKG, exploration leverages an LLM-backed symbolic agent that generates a diverse set of queryprogram exemplars, which are then used to ground a retrieval-augmented reasoning procedure to predict programs for arbitrary questions.
+7. A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.07509)]
+8. Knowledge-augmented language model prompting for zero-shot knowledge graph question answering (ACL 2023, KAIST + MBZUAI + Amazon) [[Paper](https://www.amazon.science/publications/knowledge-augmented-language-model-prompting-for-zero-shot-knowledge-graph-question-answering)]
+9. Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.emnlp-main.650.pdf)]
 
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
