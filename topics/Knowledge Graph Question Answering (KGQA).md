@@ -71,6 +71,11 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 8. Knowledge-augmented language model prompting for zero-shot knowledge graph question answering (ACL 2023, KAIST + MBZUAI + Amazon) [[Paper](https://www.amazon.science/publications/knowledge-augmented-language-model-prompting-for-zero-shot-knowledge-graph-question-answering)]
 9. Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.emnlp-main.650.pdf)]
 
+__Leaderboard and Benchmarks__ 📊
+1. QALD-9： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
+2. Lc-quad 2.0: A large dataset for complex question answering over wikidata and dbpedia (ISWC 2019)
+3. Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis (LREC 2022) [[Paper](https://aclanthology.org/2022.lrec-1.321/)] [[Link](https://kgqa.github.io/leaderboard/)]
+
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
 2. The Web as a Knowledge-base for Answering Complex Questions (NAACL-HLT 2018) [[Paper](https://www.aclweb.org/anthology/N18-1059.pdf)]
