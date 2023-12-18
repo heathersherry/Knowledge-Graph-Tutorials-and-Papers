@@ -69,10 +69,13 @@ __Embedding Based Techniques__
 7. Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks (EMNLP 2018) [[Paper](https://www.aclweb.org/anthology/D18-1032.pdf)] [[Code](https://github.com/1049451037/GCN-Align)]
 8. A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment (COLING 2020) [[Paper](https://www.aclweb.org/anthology/2020.coling-main.520.pdf)] [[Notes](https://mp.weixin.qq.com/s/3OD6fQBX50JgMBWLeQA_VA)]
 
-__Language Model Based Techniques__
+__Language Model Based Techniques__ 
 1. Deep Entity Matching with Pre-Trained Language Models (Tool:Ditto) [[Blog](https://megagonlabs.medium.com/deep-entity-matching-with-pre-trained-language-models-f4b42f1d1759)]
 2. Deep Entity Matching: Challenges and Opportunities (ACM Journal of Data and Information Quality, 2021) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3431816)]
 
+__LLM for Entity Matching__
+1. Can Foundation Models Wrangle Your Data? (Stanford, Numbers Station, Arxiv 2022) [[Paper](https://arxiv.org/pdf/2205.09911.pdf)] [[Github-"Foundation Models for Entity Matching in dbt and Snowflake"](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching)] 🌟
+2. 
 
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
