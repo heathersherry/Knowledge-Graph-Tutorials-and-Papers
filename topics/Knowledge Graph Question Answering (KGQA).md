@@ -1,7 +1,7 @@
 ## Knowledge Graph Question Answering (KGQA)
 Note: This task is highly related with [Entity Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md) as well as [Relation Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md).
 
-### Survey and Summary
+### 🔵 Survey and Summary
 1. Core techniques of question answering systems over knowledge bases: a survey (Knowledge and Information Systems 2017) [[Paper](https://link.springer.com/article/10.1007/s10115-017-1100-y)]
 2. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges (2020) [[Paper](https://arxiv.org/pdf/2007.13069.pdf)]
 3. Question Answering Summary (not limited to KBQA) [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
@@ -11,7 +11,7 @@ Note: This task is highly related with [Entity Linking and Disambiguation](https
 7. Complex Knowledge Base Question Answering: A Survey [[Paper](https://arxiv.org/pdf/2108.06688v1.pdf)]
 8. Knowledge Graphs & LLMs: Multi-Hop Question Answering [[Neo4j Developer Blog](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/)] [[Another Similar Discussion](https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/)]
 
-### Papers
+### 🔵 Papers
 __General KGQA__
 1. Question Answering Over Knowledge Graphs: Question Understanding Via Template Decomposition (VLDB 2018) [[Paper](http://www.vldb.org/pvldb/vol11/p1373-zheng.pdf)]🌟
 2. KBQA: Learning Question Answering over QA Corpora and Knowledge Bases
@@ -73,7 +73,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 8. Knowledge-augmented language model prompting for zero-shot knowledge graph question answering (ACL 2023, KAIST + MBZUAI + Amazon) [[Paper](https://www.amazon.science/publications/knowledge-augmented-language-model-prompting-for-zero-shot-knowledge-graph-question-answering)]
 9. Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.emnlp-main.650.pdf)]
 
-### Leaderboard and Benchmarks📊
+### 🔵 Leaderboard and Benchmarks📊
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
 2. __Lc-quad 2.0__: A large dataset for complex question answering over wikidata and dbpedia (ISWC 2019)
 3. Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis (LREC 2022) [[Paper](https://aclanthology.org/2022.lrec-1.321/)] [[Link](https://kgqa.github.io/leaderboard/)]
@@ -83,7 +83,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 6. __WebQuestionsSP__: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
 > * a smaller QA dataset with 4,737 questions. The questions in this dataset are 1-hop and 2-hop questions and are answerable through Freebase KG.
 
-### Others
+### 🔵 Others
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
 2. The Web as a Knowledge-base for Answering Complex Questions (NAACL-HLT 2018) [[Paper](https://www.aclweb.org/anthology/N18-1059.pdf)]
