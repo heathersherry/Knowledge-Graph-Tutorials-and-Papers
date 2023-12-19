@@ -1,10 +1,11 @@
 ## Domain-Specific Knowledge Bases
 
-### Tutorials and Surveys
+### 📝 Tutorials and Surveys
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
 2. Domain-specific Knowledge Graphs: A survey (2020) [[Paper](https://arxiv.org/pdf/2011.00235.pdf)]
 
-### Papers about General Domain-Specific KB Construction and Refinement
+### 📝 Research Papers for General 
+__General Domain-Specific KB Construction and Refinement__
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
@@ -15,34 +16,34 @@
 > * largest general-purpose taxonomy fully automatically constructed 
 5. Semantic Enrichment of Data for AI Applications (DEEM 2021)
 
-#### LLM for Domain-Specific KG Constrcution 🔥🔥🔥
+__LLM for Domain-Specific KG Constrcution__ 🔥🔥🔥
 1. BEAR: Revolutionizing Service Domain Knowledge Graph Construction with LLM (ICSOC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_23)]
 
 
-### Papers about Different Tasks on Domain-Specific KBs
-#### Domain Specific NER
+### 📝 Research Papers about Different Tasks on Domain-Specific KBs
+__Domain Specific NER__
 1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
 2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
 3. CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
 
-#### Domain Specific EL
+__Domain Specific EL__
 1. SHINE+: A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks (TKDE 2018) 🌟
 2. A Semantic Approach for Entity Linking by Diverse Knowledge Integration incorporating Role-Based Chunking ((ICCIDS 2019)
 3. Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce (SIGIR 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401067)]
 4. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 
-#### Taxonomies of Domain Specific KBs
+__Taxonomies of Domain Specific KBs__
 1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
 
 ## KBs in Specific Domains
 
-### Product KBs
+### 🛒 Product KBs
 __Keynotes and Tutorials__
 1. Amazon Product Graph [[Slides](http://lunadong.com/talks/PG.pdf)]
 2. Self-Driving Product Understanding for Thousands of Categories (By Luna Dong, Keynote at Knowledge Graphs and E-commerce Workshop, San Diego, CA, August 2020) [[Slides](http://lunadong.com/talks/SelfDrivingBG.pptx)]
 3. Building a Broad Knowledge Graph for Products (By Luna Dong, Keynote at IEEE International Conference on Data Engineering (ICDE), Macau, China, April 2019) [[Slides](http://lunadong.com/talks/BG.pdf)]
 
-__Papers__
+__Research Papers__
 1. AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types (KDD 2020, Applied Data Science Track) [[Paper](https://arxiv.org/pdf/2006.13473.pdf)]🌟
 2. GoodsKG - a Product Knowledge Graph Project [[GitHub](https://github.com/liuhuanyong/ProductKnowledgeGraph)]
 3. AliCoCo: Alibaba E-commerce Cognitive Concept Net (SIGMOD 2020 Industry Track) [[Paper](https://arxiv.org/pdf/2003.13230.pdf)] [[Github](https://github.com/alicogintel/AliCoCo)]🌟
@@ -67,10 +68,10 @@ __Papers__
 __Datasets__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
 
-### Meidcal KBs
-__Papers__
+### 💊 Meidcal KBs
+Note: Medical entity linking is also referred to as medical concept normalization (MCN)
 
-👉 Note: Medical entity linking is also referred to as medical concept normalization (MCN)
+__Research Papers__
 1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
 > * Personalized KG to provided personalized prediction and explicit reasoning.
 > * The major idea is borrowed from MHGRN (multi-hop graph): Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Paper](https://arxiv.org/pdf/2005.00646.pdf)] [[Notes in Chinese](https://blog.csdn.net/ld326/article/details/114049909)]
@@ -88,7 +89,6 @@ __Papers__
 8. Kformer: Knowledge Injection in Transformer Feed-Forward Layers [[Arxiv 2022](https://arxiv.org/pdf/2201.05742.pdf)]
 > * There is a medical QA task in the experiment based on a [[Medical KB](https://arxiv.org/pdf/2009.13081.pdf)]. 
 
-
 __Datasets__
 1. PubMed
 2. MDX [[Link](https://www.ibm.com/products/micromedex-with-watson)]
@@ -103,7 +103,6 @@ __Datasets__
 > * There is a UMLS Semantic Network for concept mapping to semantic types?
 11. MedMetions [[Reference](https://arxiv.org/pdf/1902.09476.pdf)]
 12. Knowlife
-
 
 __Useful tools (mainly for NER and EL to preprecess the data)__
 1. Resources Collection: AwesomeBioIE [[GitHub](https://github.com/caufieldjh/awesome-bioie#code-libraries)]
@@ -120,7 +119,6 @@ __Useful tools (mainly for NER and EL to preprecess the data)__
 > * "After installing medaCy and medaCy's clinical model..." I come across the same issue as [#210](https://github.com/NLPatVCU/medaCy/issues/210) and #209, will figure out later.
 11. An Advanced Review on Text Mining in Medicine [[Website](http://www.uco.es/kdis/textminingmedicine/)]
 
-
 __People__
 1. Fatma Özcan [[DBLP](https://dblp.org/pid/o/FatmaOzcan.html)]
 2. Lei Chuan [[Website](https://leichuan.github.io/publications/)]
@@ -129,7 +127,8 @@ __People__
 __Materials__
 1. The Construction and Applications of Medical KGs (in Chinese, 医疗领域图谱的构建与应用) [[Link](https://mp.weixin.qq.com/s/dTAoI3pfCCT0CjNveanaxA)]
 
-### Finance KBs
+### 💰 Finance KBs
+__Survey and Intersting Discussion__
 1. Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining (IJCAI 2020, Special Track on AI in FinTech) [[Paper](https://www.ijcai.org/proceedings/2020/0643.pdf)]
 > * The SME graph as well as the labeled data for supply chain mining are from Alipay.
 2. 综述 | GNN金融风控领域业界进展调研 [[Link](https://zhuanlan.zhihu.com/p/348060075)]
@@ -142,18 +141,20 @@ __Datasets__
 5. 基金知识图谱 [[Link](http://www.openkg.cn/dataset/fundkg)]
 6. 其他中文金融相关知识图谱数据集 [[Link](http://www.openkg.cn/dataset?tags=%E9%87%91%E8%9E%8D)]
 
-
-### Personalized KB
+### 🙍 Personalized KB
+__Research Papers__
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
 > * Knapsack, submodula objective function,  (1 − {1}{e})-approximation algorithm
-3. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)]
+2. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)]
 
-### Event KGs
+### 📅 Event KGs
+__Research Papers__
 1. Searching News Articles Using an Event Knowledge Graph Leveraged by Wikidata (WWW 2019) [[Paper](https://arxiv.org/pdf/1904.05557.pdf)]
 2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021)
 3. ASER: A Large-scale Eventuality Knowledge Graph (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)] [[Code](https://github.com/HKUST-KnowComp/ASER)]
 
-### Opinion Graphs
+### 💭 Opinion Graphs
+__Research Papers__
 1. Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)] [[Code](https://github.com/megagonlabs/explainit)]
 
 ### Others
