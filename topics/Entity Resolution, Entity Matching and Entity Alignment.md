@@ -1,12 +1,13 @@
 ## Entity Resolution, Entity Matching and Entity Alignment
 
-__Surveys and Analysis__
+### 📝 Surveys and Analysis
 1. End-to-End Entity Resolution for Big Data: A Survey (2019) [[Paper](https://arxiv.org/pdf/1905.06397.pdf)]
 2. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)]
 3. Comparative Analysis of Approximate Blocking Techniques for Entity Resolution (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2947618.2947624)] 🌟
 4. Entity Resolution: Past, Present and Yet-to-Come (EDBT 2020) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
 
-__General Papers__
+### 📝 Research Papers
+__General Topics__
 1. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD 2020)🌟
 2. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD 2020)🌟
 3. Synthesizing Entity Matching Rules by Examples (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p189-singh.pdf)]🌟
@@ -78,7 +79,6 @@ __LLM for Entity Matching__
 2. Entity Matching using Large Language Models (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2310.11244v1.pdf)]
 > * They had an informal version submitted earlier: Using ChatGPT for Entity Matching (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2305.03423.pdf)]
 
-
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
 2. A noise tolerant and schema-agnostic blocking technique for entity resolution (SAC 2019) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3297280.3299730)]
@@ -89,8 +89,8 @@ __Blocking Techniques__
 > * An unsupervised meta-blocking approach based on loose schema information.
 > * An algorithm to scale any meta-blocking method on MapReduce-like systems.
 
-__Awesome Tools/Repos__
+### 🛠️ Awesome Tools/Repos
 1. JedAIToolkit [[GitHub](https://github.com/scify/JedAIToolkit)]
 
-__Datasets__
+### 📊 Datasets or Benchmarks
 1. Clean-Clean ER datasets and Dirty ER datasets [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
