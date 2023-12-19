@@ -75,7 +75,9 @@ __Language Model Based Techniques__
 
 __LLM for Entity Matching__
 1. Can Foundation Models Wrangle Your Data? (Stanford, Numbers Station, Arxiv 2022) [[Paper](https://arxiv.org/pdf/2205.09911.pdf)] [[Github-"Foundation Models for Entity Matching in dbt and Snowflake"](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching)] 🌟
-2. 
+2. Entity Matching using Large Language Models (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2310.11244v1.pdf)]
+> * They had an informal version submitted earlier: Using ChatGPT for Entity Matching (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2305.03423.pdf)]
+
 
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
