@@ -1,12 +1,12 @@
 ## Entity Resolution, Entity Matching and Entity Alignment
 
-### 1. Surveys and Analysis 📝
+### 📝 Surveys and Analysis 
 1. End-to-End Entity Resolution for Big Data: A Survey (2019) [[Paper](https://arxiv.org/pdf/1905.06397.pdf)]
 2. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)]
 3. Comparative Analysis of Approximate Blocking Techniques for Entity Resolution (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2947618.2947624)] 🌟
 4. Entity Resolution: Past, Present and Yet-to-Come (EDBT 2020) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
 
-### 2. Research Papers 📝
+### 📝 Research Papers
 __General Topics__
 1. ZeroER: Entity Resolution using Zero Labeled Examples (SIGMOD 2020)🌟
 2. A Comprehensive Benchmark Framework for Active Learning Methods in Entity Matching (SIGMOD 2020)🌟
@@ -89,8 +89,8 @@ __Blocking Techniques__
 > * An unsupervised meta-blocking approach based on loose schema information.
 > * An algorithm to scale any meta-blocking method on MapReduce-like systems.
 
-### 3. Awesome Tools/Repos 🛠️
+### 🛠️ Awesome Tools/Repos 
 1. JedAIToolkit [[GitHub](https://github.com/scify/JedAIToolkit)]
 
-### 4. Datasets or Benchmarks 📊
-1. Clean-Clean ER datasets and Dirty ER datasets [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
+### 📊 Datasets or Benchmarks 
+1. __(Dataset)__ Clean-Clean ER datasets and Dirty ER datasets [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
