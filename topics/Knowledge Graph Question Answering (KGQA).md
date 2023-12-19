@@ -51,6 +51,7 @@ __Multiple Hop QA__
 3. Cognitive Graph for Multi-Hop Reading Comprehension at Scale (ACL 2019) [[Paper](https://arxiv.org/abs/1905.05460)] [[Code](https://github.com/THUDM/CogQA)]
 > * Note: Cognitive Graph is not directly equal to Knowledge Graph. You can view CG as a (dynamic, partial, local) KG generated instantly from the query.
 4. Complex Question Answering on knowledge graphs using machine translation and multi-task learning (EACL 2021) [[Paper](https://aclanthology.org/2021.eacl-main.300/)]
+5. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings (ACL 2020) [[Paper](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)] More than 300 stars in Github in Dec 2023!
 
 __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
