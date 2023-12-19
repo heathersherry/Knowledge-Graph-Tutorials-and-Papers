@@ -1,7 +1,7 @@
 
 ## Entity Linking and Entity Disambiguation
 
-### 1. Summary
+### 📝 Summary
 
 __Surveys and Analysis__
 1. Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions (TKDE 2014) [[Paper](https://ieeexplore.ieee.org/abstract/document/6823700)] 🌟
@@ -16,7 +16,6 @@ __Surveys and Analysis__
 6. KG-Based Approach to Named Entity Disambiguation for Healthcare Applications — GraphAware (KGC 2022) [[Video](https://www.youtube.com/watch?app=desktop&v=4fDmD1z3fEQ)]
 7. Recent Trends in Word Sense Disambiguation : A Survey (IJCAI 2021, Survey Track) [[Paper](https://helda.helsinki.fi/server/api/core/bitstreams/12884f8e-ffd2-45e7-9737-eb368a3a4487/content)]
 
-
 __Notes and Discussions for Entity Linking__
 1. Candiate Entity Ranking [[Notes](https://www.jianshu.com/p/90e2c7a5c9f5)]
 2. NLP-progress for Entity Linking [[Notes](http://nlpprogress.com/english/entity_linking.html)] [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/entity_linking.md)]
@@ -25,7 +24,7 @@ __Notes and Discussions for Entity Linking__
 5. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
 
 
-### 2. General Papers
+### 📝 General Papers
 1. Zero-Shot Entity Linking by Reading Entity Descriptions (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-1335.pdf)][[Code and Datasets](https://github.com/lajanugen/zeshel)]
 2. Keyphrase Overlap Relatedness for Entity Disambiguation (CIKM 2012), LSH 🌟
 3. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text (NAACL 2019), with Relation Linking
@@ -47,7 +46,7 @@ __Notes and Discussions for Entity Linking__
 19. Pivot-based Candidate Retrieval for Cross-lingual Entity Linking (WWW 2021) [[Video](http://videolectures.net/www2021_liu_candidate_retrieval/)]
 20. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 
-### 3. About Coherence among Entities
+### 📝 About Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
 2. Robust Disambiguation of Named Entities in Text (EMNLP 2011)
@@ -118,7 +117,7 @@ __Some related works__
 > * Claim that the one-pass sequential decision should consider both positive feedback and negative feedback.
 
 
-### 4. Entity Linking with Type Info
+### 📝 Entity Linking with Type Info
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/EL_with_type.png" width="400"/>
 
@@ -138,7 +137,7 @@ __Some related works__
 > * Paper 3,4,5,6 rely on extensive annotation of the type of mentions
 7. DeepType: Multilingual Entity Linking by Neural Type System Evolution (AAAI 2018) [[Paper](https://arxiv.org/pdf/1802.01021.pdf)]
 
-### 5. Meta EL
+### 📝 Meta EL
 Note: how to combine the outputs of multiple EL tools for providing a unified set of entity annotations?
 1. Better Together - An Ensemble Learner for Combining the Results of Ready-made Entity Linking Systems (SAC 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3341105.3373883)]
 2. A Novel Ensemble Method for Named Entity Recognition and Disambiguation Based on Neural Network (ISWC 2018)
@@ -149,7 +148,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 7. (Extended reading for Paper 5, same research group) An Ontology-Driven Probabilistic Soft Logic Approach to Improve NLP Entity Annotations (ISWC 2018) [[Slides](https://marcorospocher.com/files/slides/2018iswc_research_slides.pdf)]
 
 
-### 6. Joint NER and EL
+### 📝 Joint NER and EL
 
 <img src="https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/figures/joint%20NER%20and%20EL.png" width="400"/>
 
@@ -186,7 +185,7 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 > * The main idea is to consider all possible spans as potential mentions and learn contextual similarity scores over their entity candidates that are useful for both MD and ED decisions.
 10. Lightweight Multilingual Entity Extraction and Linking (EMNLP 2017) [[Paper](https://dl.acm.org/doi/10.1145/3018661.3018724)] [[Code](https://github.com/yahoo/FEL)] 🌟
 
-### 7. Unlinkable Mention Predication
+### 📝 Unlinkable Mention Predication
 __General__
 1. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-ACL 2012)
 > * Main idea: Train a classifier wuth features primarily derived from a timestamped corpus
@@ -234,7 +233,7 @@ __Supervised__
 11. No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities (EMNLP-CoNLL ’12)
 > * Train a classifier with features primarily derived from a timestamped corpus.
 
-### 8. Entity Embeddings (Pre-trained) and Entity Representation for EL
+### 📝 Entity Embeddings (Pre-trained) and Entity Representation for EL
 1. Wembedder: Wikidata entity embedding web service [[Intro](https://arxiv.org/pdf/1710.04099.pdf)] [[Github](https://github.com/fnielsen/wembedder)] [[Web service](https://tools.wmflabs.org/wembedder/)]
 > * Web service: only the "most similar" service.
 2. Pre-trained embeddings for Wikidata [[Link](https://torchbiggraph.readthedocs.io/en/latest/pretrained_embeddings.html)]
@@ -242,17 +241,15 @@ __Supervised__
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
 4. EntEval: A Holistic Evaluation Benchmark for Entity Representations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1909.00137)]
 
-### 9. Entity Linking Evaluation Platform
-1. Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
 
-### 10. Multimodal Entity Linking
+### 📝 Multimodal Entity Linking
 1. DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2310.05589v1.pdf)]
 2. Multi-Grained Multimodal Interaction Network for Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2307.09721v1.pdf)]
 3. Generative Multimodal Entity Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2306.12725)]
 4. Multimodal Entity Linking: A New Dataset and A Baseline (MM 2021) [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475400?casa_token=PbnNnd1-Hx8AAAAA:CeOMGFkcpxrRYSXGXlnBdiNLPlWWdB3HkmIfN5CjABR-TdpFQCOe84x8m0bJb-l2_KRQK69r-hJdlQ)]
 5. Self-Supervised Enhancement for Named Entity Disambiguation via Multimodal Graph Convolution (IEEE Transactions on Neural Networks and Learning Systems 2022) [[Paper](https://ieeexplore.ieee.org/abstract/document/9774860)]
 
-### 11. LLM and Entity Linking 🔥🔥🔥
+### 📝 LLM and Entity Linking 🔥🔥🔥
 1. Large language models struggle to learn long-tail knowledge (PMLR 2023) [[Paper](https://proceedings.mlr.press/v202/kandpal23a.html)]
 2. Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01137)]
 3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
@@ -260,6 +257,6 @@ __Supervised__
 5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper]([https://arxiv.org/pdf/2311.15781v1.pdf](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
 
 
-
-### 11. Datasets
-1. Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
+### 📊 Datasets, Benckmarks, and Evaluation Platforms
+1. (Dataset) Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
+2. (Evalaution Platforms) Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
