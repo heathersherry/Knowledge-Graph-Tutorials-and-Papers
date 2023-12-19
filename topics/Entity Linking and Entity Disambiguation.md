@@ -258,5 +258,5 @@ __Supervised__
 
 
 ### 📊 Datasets, Benckmarks, and Evaluation Platforms
-1. (Dataset) Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
-2. (Evalaution Platforms) Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
+1. __(Dataset)__ Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
+2. __(Evalaution Platforms)__ Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
