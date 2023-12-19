@@ -112,11 +112,12 @@ Useful Tools or APIs
 3. DBpedia Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
 4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
 5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
-6. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
-7. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
-8. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
-9. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
-10. PIKES [[Link](http://pikes.fbk.eu)]
+   > * spacy-llm [[Link](https://github.com/explosion/spacy-llm)]
+7. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
+8. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
+9. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
+10. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
+11. PIKES [[Link](http://pikes.fbk.eu)]
 
 #### Benchmark Datasets
 1. Entity Disambiguation: 
