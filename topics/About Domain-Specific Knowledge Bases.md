@@ -157,7 +157,7 @@ __Research Papers__
 __Research Papers__
 1. Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)] [[Code](https://github.com/megagonlabs/explainit)]
 
-### Others
+### 📝 Others
 1. Knowledge-aware Assessment of Severity of Suicide Risk for Early Intervention (WWW 2019)
 2. FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation (ISWC 2019) [[Github](https://foodkg.github.io/foodkg.html)]
 3. Modern Natural Language Processing Techniques for Scientific Web Mining: Tasks, Data, and Tools (WWW 2022 tutorial)
