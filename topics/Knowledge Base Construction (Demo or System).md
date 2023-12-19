@@ -1,6 +1,7 @@
 ## Knowledge Base Construction (Demo or System)
 Note: This is a very large topic which may contain numerous smaller directions
 
+### 📝 Survey and Summary
 __Surveys__
 1. A Survey on Automatically Constructed Universal Knowledge Bases (Semantic Web 2018)
 2. A Survey on Knowledge Graphs: Representation, Acquisition and Applications (2020) [[Paper](https://arxiv.org/pdf/2002.00388.pdf)]
@@ -9,10 +10,11 @@ __Surveys__
 5. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)] ️‍🔥
 6. Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[Paper](https://arxiv.org/pdf/2210.12714.pdf)] ️‍🔥
 
-__Notes__
+__Interesting Blogs and Discussions__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
-2. Topbase [[Web](https://mp.weixin.qq.com/s/Qp6w7uFcgqKXzM7dWhYwFg)]
+2. Topbase, a Tecent KG (in Chinese) [[Web](https://mp.weixin.qq.com/s/Qp6w7uFcgqKXzM7dWhYwFg)]
 
+### 📝 Research Papers
 __General Papers__
 1. DeepDive: Incremental Knowledge Base Construction Using DeepDive (VLDB 2015) [[Paper](http://www.vldb.org/pvldb/vol8/p1310-shin.pdf)][[Slides](https://slideplayer.com/slide/14894493/)][[Project link](http://deepdive.stanford.edu/)]🌟
 > * Distant Supervision; Build a fator graph containing both relation phrases and features.
