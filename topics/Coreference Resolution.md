@@ -5,6 +5,7 @@
 2. Coreference Resolution: A Survey (2005) [[Paper](https://ccc.inaoep.mx/~villasen/index_archivos/cursoTATII/EntidadesNombradas/Elango-SurveyCoreferenceResolution.pdf)]
 3. Event Coreference Resolution: A Survey of Two Decades of Research (IJCAI 2018) [[Paper](https://www.ijcai.org/Proceedings/2018/0773.pdf)]
 4. Anaphora and Coreference Resolution: A Review (Information Fusion, 2020) [[Paper](https://arxiv.org/pdf/1805.11824.pdf)]
+5. Lecture 16: Coreference Resolution - Harvard CS287 [[Slides](https://harvard-iacs.github.io/CS287/lectures/16_Coreference_Resolution.pdf)]
 
 ### 📝 General Papers
 __General Topics__
