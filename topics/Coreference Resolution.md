@@ -15,6 +15,6 @@ __General Topics__
 __LLM for CR__ 🔥🔥🔥
 1. Better Handling Coreference Resolution in Aspect Level Sentiment Classification by Fine-Tuning Language Models (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2307.05646.pdf)]
 
-### 📊 Benchmarks, Libraries and Projects__
+### 📊 Benchmarks, Libraries and Projects
 1. Benchmark and Libraris [[Link](https://paperswithcode.com/task/coreference-resolution/latest)]
 2. The Leaderbord [[Link](https://paperswithcode.com/task/coreference-resolution/latest)]
