@@ -6,7 +6,7 @@
 3. Relation Extraction II: CSE 517: Natural Language Processing [[Slides](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)]
 
 ### 📝 Research Papers
-___General topics__
+__General topics__
 1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases (CoType, WWW2017)[[Notes]](
 https://blog.csdn.net/hqc888688/article/details/73559365)
 2. Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations [[Code](http://aiweb.cs.washington.edu/ai/raphaelh/mr/)][[Slides](https://www.slideserve.com/anila/knowledge-based-weak-supervision-for-information-extraction-of-overlapping-relations)]
@@ -44,7 +44,6 @@ __LLM for RE__ 🔥🔥🔥
 1. __(Dataset) CoNLL__: A Linear Programming Formulation for Global Inference in Natural Language Tasks (ACL 2004)
 2. __(Dataset) NYT__: Modeling relations and their mentions without labeled text (ECML/PKDD 2010)
 3. __(Platform)__: Benchmarks for RE [[Link](https://paperswithcode.com/task/relation-extraction/latest)]
-4. 
 
 ### 💬 Interesting Blogs and Discussions
 1. 基于神经网络的实体识别和关系抽取联合学习 (in Chinese)[[Link](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
