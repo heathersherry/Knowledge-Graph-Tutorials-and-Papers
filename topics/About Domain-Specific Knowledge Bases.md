@@ -87,7 +87,10 @@ __Research Papers__
 > * Similar basic code (text+GRU+RGCN): Learning to Update Knowledge Graphs by Reading News (EMNLP 2019) [[GitHub](https://github.com/esddse/GUpdater)]
 7. CHEMNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.424.pdf)]
 8. Kformer: Knowledge Injection in Transformer Feed-Forward Layers [[Arxiv 2022](https://arxiv.org/pdf/2201.05742.pdf)]
-> * There is a medical QA task in the experiment based on a [[Medical KB](https://arxiv.org/pdf/2009.13081.pdf)]. 
+> * There is a medical QA task in the experiment based on a [[Medical KB](https://arxiv.org/pdf/2009.13081.pdf)].
+3. Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks (Arxiv, Nov 2023) [[Paper](https://arxiv.org/vc/arxiv/papers/2311/2311.11608v1.pdf)] 🔥
+> * Datasets: a comprehensive collection of 140 existing biomedical text mining datasets (38 Chinese datasets and 102 English datasets)
+> * Tasks: named entity recognition, relation extraction, text classification, question answering tasks
 
 __Datasets__
 1. PubMed
