@@ -106,6 +106,8 @@ __Datasets__
 > * There is a UMLS Semantic Network for concept mapping to semantic types?
 11. MedMetions [[Reference](https://arxiv.org/pdf/1902.09476.pdf)]
 12. Knowlife
+13. PrimeKG [[Github](https://github.com/mims-harvard/PrimeKG)]
+> * Precision Medicine Knowledge Graph (PrimeKG) presents a holistic view of diseases. PrimeKG integrates 20 high-quality biomedical resources to describe 17,080 diseases with 4,050,249 relationships representing ten major biological scales. 
 
 __Useful tools (mainly for NER and EL to preprecess the data)__
 1. Resources Collection: AwesomeBioIE [[GitHub](https://github.com/caufieldjh/awesome-bioie#code-libraries)]
