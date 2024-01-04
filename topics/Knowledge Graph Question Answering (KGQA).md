@@ -66,12 +66,24 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (Arxiv, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
 4. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (from Amazon Science, 2023) [[Paper](https://assets.amazon.science/10/14/9c09d8964b4b8b6219286d8fc05e/language-models-as-controlled-natural-language-semantic-parsers-for-knowledge-graph-question-answering.pdf)]
 5. Is GPT fit for KGQA? – Preliminary Results (CEUR Workshop 2023) [[Paper](https://ceur-ws.org/Vol-3447/Text2KG_Paper_11.pdf)]
-> Only GPT3 and GPT3.5 are used, so the experiemnts prove that there is limitation.
+> * Only GPT3 and GPT3.5 are used, so the experiemnts prove that there is limitation.
 6. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-shot KGQA (Amazon and UMass, Nov 2023) [[Paper](https://arxiv.org/pdf/2311.07850v1.pdf)]
-> In BYOKG, exploration leverages an LLM-backed symbolic agent that generates a diverse set of queryprogram exemplars, which are then used to ground a retrieval-augmented reasoning procedure to predict programs for arbitrary questions.
+> * In BYOKG, exploration leverages an LLM-backed symbolic agent that generates a diverse set of queryprogram exemplars, which are then used to ground a retrieval-augmented reasoning procedure to predict programs for arbitrary questions.
 7. A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.07509)]
 8. Knowledge-augmented language model prompting for zero-shot knowledge graph question answering (ACL 2023, KAIST + MBZUAI + Amazon) [[Paper](https://www.amazon.science/publications/knowledge-augmented-language-model-prompting-for-zero-shot-knowledge-graph-question-answering)]
 9. Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.emnlp-main.650.pdf)]
+10. KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph (Arxiv, Dec 2023) [[Paper](https://arxiv.org/pdf/2312.15880.pdf)]
+> * The baselines also include __StructGPT__ (A general framework for large language model to reason over structured data, Arxiv 2023) and __TOG__ (Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph, Arxiv 2023)
+11. Pretrained transformers for simple question answering over knowledge graphs (Web–ISWC 2019)
+> * The first work to utilize LLMs as classifiers for relation prediction.
+12. An empirical study of pre-trained language models in simple knowledge graph question answering (Arxiv 2023)
+> * It introduce two LLM-based KGQA frameworks that adopt LLMs to detect mentioned entities and relations. Then, they query the answer in KGs using the extracted entity-relation pairs.
+13. __QA-GNN__: QAGNN: Reasoning with language models and knowledge graphs for question answering (ACL 2021)
+> * It uses LLMs to encode the question and candidate answer pairs, which are adopted to estimate the importance of relative KG entities. The entities are retrieved to form a subgraph, where an answer reasoning is conducted by a GNN.
+14. A bert-based approach with relationaware attention for knowledge base question answering (IJCNN 2021)
+> * It use LLMs to calculate the similarities between relations and questions to retrieve related facts.
+15. Subgraph retrieval enhanced model for multi-hop knowledge base question answering (ACL 2022)
+> * a LLM-based path retriever to retrieve question-related relations hop-byhop and construct several paths.
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
@@ -90,4 +102,4 @@ __Related Readings__
 3. Scalable Join Processing on Very Large RDF Graphs (SIGMOD 2009) [[Paper](https://sites.fas.harvard.edu/~cs265/papers/neumann-2009.pdf)] 🌟
 
 __Some thoughts__
-Consider Combine embedding and subgraph matching for KGQA?
+* Consider Combine embedding and subgraph matching for KGQA?
