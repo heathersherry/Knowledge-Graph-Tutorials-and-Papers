@@ -84,6 +84,9 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 > * It use LLMs to calculate the similarities between relations and questions to retrieve related facts.
 15. Subgraph retrieval enhanced model for multi-hop knowledge base question answering (ACL 2022)
 > * a LLM-based path retriever to retrieve question-related relations hop-byhop and construct several paths.
+16. Can ChatGPT Replace Traditional KBQA Models? An In-Depth Analysis of the Question Answering Performance of the GPT LLM Family (ISWC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19)]
+17. ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph (ACL 2023) [[Paper](https://aclanthology.org/2023.emnlp-main.228/)]
+18. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (ECAI 2023) [[Paper](https://inria.hal.science/hal-04269089/)]
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
@@ -94,6 +97,11 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 > * It also provides a KG with 135k triples, 43k entities, and nine relations.
 6. __WebQuestionsSP__: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
 > * a smaller QA dataset with 4,737 questions. The questions in this dataset are 1-hop and 2-hop questions and are answerable through Freebase KG.
+7. **ComplexWebQuestions**: The web as a knowledge-base for answering complex questions (ACL 2018)
+8. **GraphQ**: On generating characteristic-rich question sets for QA evaluation (EMNLP 2016)
+7. __MKQA__: a linguistically diverse benchmark for multilingual open domain question answering (ACL 2021)
+8. __GrailQA__: Beyond IID: three levels of generalization for question answering on knowledge bases (WWW 2021)
+9. __KQA Pro__: a dataset with explicit compositional programs for complex question answering over knowledge base (ACL 2022)
 
 ### 🧐 Others
 __Related Readings__
