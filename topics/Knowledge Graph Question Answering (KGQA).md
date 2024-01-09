@@ -87,6 +87,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 16. Can ChatGPT Replace Traditional KBQA Models? An In-Depth Analysis of the Question Answering Performance of the GPT LLM Family (ISWC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47240-4_19)]
 17. ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph (ACL 2023) [[Paper](https://aclanthology.org/2023.emnlp-main.228/)]
 18. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (ECAI 2023) [[Paper](https://inria.hal.science/hal-04269089/)]
+19. LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (CCKS2023 CKBQA competition, F1 score is 75.63% on CKBQA dataset) [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-7224-1_24)]
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
