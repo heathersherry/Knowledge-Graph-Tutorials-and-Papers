@@ -84,6 +84,7 @@ __Related Reading__
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
 3. COMPOSITION-BASED MULTI-RELATIONAL GRAPH CONVOLUTIONAL NETWORKS (ICLR 2020) [[Paper](https://arxiv.org/pdf/1911.03082.pdf)] [[Code](https://github.com/malllabiisc/CompGCN)]
 5. Knowledge Embedding Based Graph Convolutional Network (WWW 2021)
+6. Making Large Language Models Perform Better in Knowledge Graph Completion (Arxiv 2024) [[Paper](https://arxiv.org/abs/2310.06671)]
 
 __Downstream Applications__
 1. Link Prediction
