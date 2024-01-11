@@ -88,6 +88,10 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 17. ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph (ACL 2023) [[Paper](https://aclanthology.org/2023.emnlp-main.228/)]
 18. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (ECAI 2023) [[Paper](https://inria.hal.science/hal-04269089/)]
 19. LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (CCKS2023 CKBQA competition, F1 score is 75.63% on CKBQA dataset) [[Paper](https://link.springer.com/chapter/10.1007/978-981-99-7224-1_24)]
+20. Improving Subgraph Extraction Algorithms for One-Shot SPARQL Query Generation with Large Language Models (ISWC 2023) [[Paper](https://ceur-ws.org/Vol-3592/paper6.pdf)]
+21. A Structure and Content Prompt-based Method for Knowledge Graph Question Answering over Scholarly Data  (ISWC 2023) [[Paper](https://ceur-ws.org/Vol-3592/paper3.pdf)]
+22. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.07850)]
+23. Check for updates LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (Springer Nature Singapore 2023)
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
