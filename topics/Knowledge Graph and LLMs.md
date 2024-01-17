@@ -14,7 +14,8 @@ outstanding capabilities of a QA system, such as KGQAN, in incorporating recent 
 6. ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结 [[Link](https://www.kuxai.com/article/814)]
 7. Augmented Language Models: a Survey, by MetaAI (Arxiv, Feb 2023) [[Paper](https://arxiv.org/pdf/2302.07842.pdf)]
 > * it is often necessary to process structured information when interacting with tools like a knowledge base.
-8. 万字长文讲述大模型与知识图谱的关系 [[Link](https://zhuanlan.zhihu.com/p/626433991)]
+8. Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain (ASE 2023, Top Conf in Software Engineering) [[Paper](https://ieeexplore.ieee.org/abstract/document/10298399)]
+9. 万字长文讲述大模型与知识图谱的关系 [[Link](https://zhuanlan.zhihu.com/p/626433991)]
 > Q3: 有了这种大模型以后，知识图谱还有意义吗？
 > * 知识图谱是有意义的，因为神经网络目前无法解决或者非常难以解决事实性准确的问题 (Google LaMDA, Deepmind)
 > * 专业知识in垂直领域
