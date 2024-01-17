@@ -2,6 +2,7 @@
 
 __General Tutorials__
 1. Learning and Reasoning on Graph for Recommendation (CIKM 2019 Tutorial) [[GitHub](https://next-nus.github.io/)]
+2. Tutorial on Large Language Models for Recommendation (RecSys 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3609494?casa_token=Z1-c53RaQLMAAAAA:XzzOBkKnZYzUlXcb16eBYsNNJJSzi-YCrXymaCOLKfM0uIbjyTTBdr1FX9IZy8-I-ckYvwHxDu40Ug)]
 
 __Surveys__
 1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)][[Notes](https://mp.weixin.qq.com/s/d3rytwQ5Yta_hTGxtqXmvQ)] 🌟
