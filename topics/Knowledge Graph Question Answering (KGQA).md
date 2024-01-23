@@ -10,6 +10,7 @@ Note: This task is highly related with [Entity Linking and Disambiguation](https
 6. What is in the KGQA Benchmark Datasets? Survey on Challenges in Datasets for Question Answering on Knowledge Graphs (Journal on Data Semantics, 2021)[[Paper](https://link.springer.com/content/pdf/10.1007/s13740-021-00128-9.pdf)]
 7. Complex Knowledge Base Question Answering: A Survey [[Paper](https://arxiv.org/pdf/2108.06688v1.pdf)]
 8. Knowledge Graphs & LLMs: Multi-Hop Question Answering [[Neo4j Developer Blog](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/)] [[Another Similar Discussion](https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/)]
+9. Multilingual Question Answering Systems for Knowledge Graphs—A Survey (Semantic Web 2023) [[Paper](https://www.semantic-web-journal.net/system/files/swj3530.pdf)]
 
 ### 📝 Papers
 __General KGQA__
