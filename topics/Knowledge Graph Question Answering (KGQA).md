@@ -92,6 +92,8 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 21. A Structure and Content Prompt-based Method for Knowledge Graph Question Answering over Scholarly Data  (ISWC 2023) [[Paper](https://ceur-ws.org/Vol-3592/paper3.pdf)]
 22. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.07850)]
 23. Check for updates LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (Springer Nature Singapore 2023)
+24. A Knowledge Graph Question Answering Approach to IoT Forensics (IoTDI 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3576842.3589161?casa_token=_O6uKqKs570AAAAA:bVmxBOAUkArF_hFJzsozv7eLklDpIqEaPeiDJ9LhIBMoMVn2G0BqPf3JLjk69ZW0O9evR9pb_KFMMQ)]
+
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
