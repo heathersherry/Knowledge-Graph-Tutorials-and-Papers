@@ -60,6 +60,7 @@ __Multiple-Options QA__
 
 __Multiligual QA__
 1. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (ACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.465/)]
+2. A System for Answering Simple Questions in Multiple Languages (ACL 2023, demo) [[Paper](https://aclanthology.org/2023.acl-demo.51/)]
 
 __LLM for KGQA/KG for QA based on LLM__ 🔥
 1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
