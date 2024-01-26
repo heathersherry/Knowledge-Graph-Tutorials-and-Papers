@@ -10,6 +10,8 @@ __General Papers__
 1. MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-demo.23/)]
 2. Multimodal Analytics for Real-world News using Measures of Cross-modal Entity Consistency (ICMR 20202) [[Paper](https://data.uni-hannover.de/dataset/tamperednews)]
 > * The authors work on two datasets TamperedNews & News400v (updated in IJMIR 2021) [[Link](https://data.uni-hannover.de/dataset/tamperednews-news400-ijmir21)]
+3. Toward a General Framework for Multimodal Big Data Analysis (Big Data 2022) [[Paper](https://www.liebertpub.com/doi/full/10.1089/big.2021.0326)]
+> * Multiple data sources are first integrated into a unified knowledge graph (KG). Different modalities of data are addressed by specifying ad hoc views on the KG and producing a rewriting of the graph containing merely the data to be processed. Graph traversal and rule extraction are this way boosted. 
 
 
 __Multimodal entity linking (MEL)__
