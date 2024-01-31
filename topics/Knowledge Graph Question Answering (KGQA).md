@@ -111,6 +111,8 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 7. __MKQA__: a linguistically diverse benchmark for multilingual open domain question answering (ACL 2021)
 8. __GrailQA__: Beyond IID: three levels of generalization for question answering on knowledge bases (WWW 2021)
 9. __KQA Pro__: a dataset with explicit compositional programs for complex question answering over knowledge base (ACL 2022)
+10. __Spider4SPARQL__: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems (Arxiv, Sep 2023) [[Github](https://github.com/ckosten/spider4sparql)]
+11. __GQA__: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)
 
 ### 🧐 Others
 __Related Readings__
