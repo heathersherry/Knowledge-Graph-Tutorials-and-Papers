@@ -91,6 +91,7 @@ __Research Papers__
 3. Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks (Arxiv, Nov 2023) [[Paper](https://arxiv.org/vc/arxiv/papers/2311/2311.11608v1.pdf)] 🔥
 > * Datasets: a comprehensive collection of 140 existing biomedical text mining datasets (38 Chinese datasets and 102 English datasets)
 > * Tasks: named entity recognition, relation extraction, text classification, question answering tasks
+10. LLMs Accelerate Annotation for Medical Information Extraction (PMLR 2023) [[Paper](https://proceedings.mlr.press/v225/goel23a)] 🔥
 
 __Datasets__
 1. PubMed
