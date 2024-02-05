@@ -45,6 +45,7 @@ __General KGQA__
 28. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases (ACL 2020) [[Paper](https://www.aclweb.org/anthology/2020.acl-main.91.pdf)] [[Code](https://github.com/lanyunshi/Multi-hopComplexKBQA)]
 29. CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs [[Paper](https://vldb.org/pvldb/vol14/p1325-orogat.pdf)] (VLDB 2021) 🌟
 30. SAKE: Spatial Question Answering over Knowledge Graph Based on Embedding Techniques (ICDE 2021) 🌟
+31. BeamQA: Multi-hop Knowledge Graph Question Answering with Sequence-to-Sequence Prediction and Beam Search (SIGIR 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591698)]🌟
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
