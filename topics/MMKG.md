@@ -5,6 +5,7 @@ __Surveys and Paper Summary__
 3. A Survey on Multimodal Knowledge Graphs: Construction, Completion and Applications (Mathematics 2023) [[Paper](https://www.mdpi.com/2227-7390/11/8/1815)]
 4. Awesome-Multimodal-Knowledge-Graph [[GitHub](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)]
 5. A collection of Multimoal KG Resources  [[GitHub](https://github.com/pengfei-luo/multimodal-knowledge-graph)]
+6. Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey (Arxiv, Feb 2024) [[Paper](http://arxiv.org/abs/2402.05391)] [[GitHub (KG-MM-Survey)](https://github.com/zjukg/KG-MM-Survey)]
 
 __General Papers__
 1. MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-demo.23/)]
