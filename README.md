@@ -1,14 +1,14 @@
 Research Topics in Knowledge Graph
-=====
+====
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![master](https://img.shields.io/github/last-commit/badges/shields/master) ![pr](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 
-Papers and Materials from All Areas
-======
-* Note 1: The papers from the database/data science communities are marked with 🌟.
-* Note 2: In Nov 2023, I start to add a new session related to LLM in each topic. 🔥
+## Papers and Materials from All Areas
 
-### Knowledge Extraction and Integration to Construct KGs
+> * Note 1: The papers from the database/data science communities are marked with 🌟.
+> * Note 2: In Nov 2023, I start to add a new session related to LLM in each topic. 🔥
+
+### 1. Knowledge Extraction and Integration to Construct KGs
 * __Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)__
 
 * __About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md)__
@@ -29,14 +29,14 @@ Papers and Materials from All Areas
 
 * __Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md)__
 
-### Mining and Refinement of KGs
+### 2. Mining and Refinement of KGs
 * __Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md)__
 
 * __Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Refinement%20(Incompleteness%2C%20Incorrectness%2C%20and%20Freshness).md)__
 
 * __Knowledge Fusion, Cleaning, Evaluation and Truth Discovery [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Fusion%2C%20Cleaning%2C%20Evaluation%20and%20Truth%20Discovery.md)__
 
-### Applications Supported by KGs
+### 3. Applications Supported by KGs
 * __Knowledge Graph Question Answering (KGQA) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Question%20Answering%20(KGQA).md)__
 
 * __Knowledge Graph Recommendation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Recommendation.md)__
@@ -45,23 +45,22 @@ Papers and Materials from All Areas
 
 * __Knowledge Graphs and Large Language Models (LLMs) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20and%20LLMs.md)__ 🔥🔥🔥
 
-### Schema and Query of KGs
+### 4. Schema and Query of KGs
 * __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
 * __Knowledge Graph Taxonomy Construction and Improvement [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement)]__ (TBD)
 
-### Others
+### 5. Others
 * __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
 
-Papers and Materials from the Database Communities
-======
-Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
+## Papers and Materials from the Database Communities
+> Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
 #### [[2018]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)  [[2019]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)  [[2020]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)  [[2021]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md)  [[2022]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md)  [[2023]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md)
 
-Tutorials and Notes from Talented People
-=====
+## Tutorials and Notes from Talented People
+
 #### Tutorials, Discussion, Courses and Communities
 1. An introduction to knowledge graph and knowledge extraction from unstructured text. [[Link](https://kgtutorial.github.io)]
 2. Information Extraction by Niranjan Balasubramanian {Slides in my Mac}
@@ -109,8 +108,8 @@ Tutorials and Notes from Talented People
 19. Paper Digest (Database area) [[Link](https://www.paperdigest.org/category/database/)]
 20. Complex Network (Collection of Notes and Tutorials) [[GitHub](https://github.com/LiuChuang0059/Complex-Network)]
 
-Useful Tools or APIs
-====
+## Useful Tools or APIs
+
 #### Named Entity Recogntion and Entity Linking
 1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
 2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
