@@ -1,5 +1,4 @@
 ## Named Entity Recognition, Entity Extraction and Entity Typing
-====
 
 ### 📝 Surveys
 1. Named Entity extraction for Knowledge Graphs: A Literature Overview (IEEE Access 2020) [[Paper](https://ieeexplore.ieee.org/abstract/document/8999622/)]
