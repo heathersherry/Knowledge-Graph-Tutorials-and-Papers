@@ -1,6 +1,6 @@
 ## General KG Queries and Knowledge Search
 
-### General Papers
+### 📝 General Papers
 1. Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D1ejMq8cZrTZT1Nn0D-zaMlW7X7ESkSDro&sa=D&ust=1587488616453000&usg=AFQjCNEeyFqVvX9q4QWy8jc4jHfpdEc2Zw)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1JyhtaWEeRvzS6TmIuplZNd5ZId3Larpz&sa=D&ust=1587488616453000&usg=AFQjCNEI5es_-rKQs-eUImsqivdAFNAnvw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a445/290300a445.pdf)] (ICDE 2020) 🌟
 2. Online Indices for Predictive Top-k Entity and Aggregate Queries on Knowledge Graphs [[Video](https://www.google.com/url?q=https://drive.google.com/open?id%3D12mo2_5abIbU9BDxrI4eSPsZ-SFDRgMAN&sa=D&ust=1587488616485000&usg=AFQjCNHwZw7kP6JJ2nIbDiMT4FvlwebmsA)][[Slides](https://www.google.com/url?q=https://drive.google.com/open?id%3D1Vy15Q81aZg6Kn0AKqcJQ1LraCAb7ZyPy&sa=D&ust=1587488616485000&usg=AFQjCNEqOaDue8W4ZN91-2I2JPLkQTE3jw)][[Paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b057/290300b057.pdf)] (ICDE 2020) 🌟
 4. Effective searching of RDF knowledge graphs (Journal of Web Semantics 2018) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826817300677)]
@@ -15,15 +15,12 @@
 13. Materializing Knowledge Bases via Trigger Graphs (VLDB 2021) [[Paper](https://vldb.org/pvldb/vol14/p943-tsamoura.pdf)] 🌟
 14. Fast Core-based Top-k Frequent Pattern Discovery in Knowledge Graphs (ICDE 2021) 🌟
 15. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021) 🌟
-16. 
-17. 
-18. Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching (SIGMOD 2021) 🌟
+16. Versatile Equivalences: Speeding up Subgraph Query Processing and Subgraph Matching (SIGMOD 2021) 🌟
 
-
-## Knowledg Graph Representation (RDF and Property Graph), Schema and Query
+## KG Representation (RDF and Property Graph), Schema and Query
 There are two major approaches to store and query knowledge graphs: (1) RDF (Resource Description Framework) data model with SPARQL query language, (2) property graph model with graph query languages such as Cypher. 
 
-## RDF Graphs
+### 📝 RDF Graphs
 ### Surveys
 1. RDF Data Storage and Query Processing Schemes: A Survey [[Paper](https://dl.acm.org/doi/pdf/10.1145/3177850)]
 
@@ -237,9 +234,7 @@ To address this problem, faceted search is proposed as a prominent approach, whi
 > * This work proposes rigorous theoretical underpinnings for faceted search. Specifically, by employing faceted search are identified as a query paradigm, well-defined fragments of SPARQL can be captured. Arenas et al. also investigate the problem of updating faceted interfaces. To guide the faceted navigation, which aims to guide the users to formulate meaningful queries during exploratory search, they present a facet graph, which is a graph-based representation of OWL 2 ontologies as well as their logical entailments. According to the information in the graph, genetic interface generation and update algorithms are proposed. 
 
 
-
-
-## Property Graphs
+### 📝 Property Graphs
 ### General Papers
 1. Property Graph Schema Optimization for Domain-Specific Knowledge Graphs (ICDE 2021) [[Paper](https://arxiv.org/pdf/2003.11580.pdf)] 🌟
 
