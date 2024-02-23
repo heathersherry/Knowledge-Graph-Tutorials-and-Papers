@@ -76,7 +76,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 8. Knowledge-augmented language model prompting for zero-shot knowledge graph question answering (ACL 2023, KAIST + MBZUAI + Amazon) [[Paper](https://www.amazon.science/publications/knowledge-augmented-language-model-prompting-for-zero-shot-knowledge-graph-question-answering)]
 9. Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.emnlp-main.650.pdf)]
 10. KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph (Arxiv, Dec 2023) [[Paper](https://arxiv.org/pdf/2312.15880.pdf)]
-> * The baselines also include __StructGPT__ (A general framework for large language model to reason over structured data, Arxiv 2023) and __TOG__ (Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph, Arxiv 2023)
+> * The baselines also include __StructGPT__ (A general framework for large language model to reason over structured data, Arxiv 2023) and __TOG__ (Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph, ICLR 2024 poster)
 11. Pretrained transformers for simple question answering over knowledge graphs (Web–ISWC 2019)
 > * The first work to utilize LLMs as classifiers for relation prediction.
 12. An empirical study of pre-trained language models in simple knowledge graph question answering (Arxiv 2023)
@@ -96,6 +96,10 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 22. Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.07850)]
 23. Check for updates LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (Springer Nature Singapore 2023)
 24. A Knowledge Graph Question Answering Approach to IoT Forensics (IoTDI 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3576842.3589161?casa_token=_O6uKqKs570AAAAA:bVmxBOAUkArF_hFJzsozv7eLklDpIqEaPeiDJ9LhIBMoMVn2G0BqPf3JLjk69ZW0O9evR9pb_KFMMQ)]
+25. Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments (ACL 2023) [[Paper](https://arxiv.org/pdf/2212.09736.pdf)]
+> * Pangu consists of a symbolic agent and a neural LM working in a concerted fashion: The agent explores the environment to incrementally construct valid plans, and the LM evaluates the plausibility of the candidate plans to
+guide the search process.
+> * The evaluation is conducted on KBQA.
 
 
 ### 📊 Leaderboard and Benchmarks
