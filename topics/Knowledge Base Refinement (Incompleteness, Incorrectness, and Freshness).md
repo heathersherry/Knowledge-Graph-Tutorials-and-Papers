@@ -1,6 +1,6 @@
 ## Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness)
 
-### General Knowledge Base Refinement
+### 📝 General Knowledge Base Refinement
 
 __Surveys and Evaluations__
 1. Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods (Semantic Web 2016)
@@ -15,7 +15,7 @@ __General Papers__
 3. Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs (WWW 2020, short paper) 🌟
 
 
-### Knowledge Base Completion 
+### 📝 Knowledge Base Completion 
 __Surveys and Evaluations__
 1. Revisiting Evaluation of Knowledge Base Completion Models (from https://openreview.net/forum?id=1uufzxsxfL)
 2. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
@@ -60,13 +60,12 @@ __KGC/KGE based on Tensor Decomposition__
 4. Knowledge Graph Completion via Complex Tensor Factorization
 5. Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion 
 
-
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
 
 
 
-### Knowledge Base Population
+### 📝 Knowledge Base Population
 __Survey, Summary and Notes__
 1. Knowledge Base Population: Successful Approaches and Challenges (ACL 2011)[[Paper](https://www.aclweb.org/anthology/P11-1115.pdf)]
 2. Overview: https://nlp.stanford.edu/projects/kbp/
@@ -91,7 +90,7 @@ __General Papers (KBP from External Sources)__
 6. KnowledgeNet: A Benchmark Dataset for Knowledge Base Population (EMNLP 2019) [[Paper](https://www.aclweb.org/anthology/D19-1069.pdf)]
 7. Information Extraction From Co-Occurring Similar Entities (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.05444.pdf)]
 
-### Knowledge Base Error Detection and Enhancement
+### 📝 Knowledge Base Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
@@ -104,8 +103,7 @@ __General Papers (KBP from External Sources)__
 8. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
 9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
 
-
-### Knowledge Base Freshness
+### 📝 Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Paper](https://www.ijcai.org/proceedings/2017/0524.pdf)] [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
 2. TimeMachine: Timeline generation for knowledge-base entities (KDD 2015)
 3. Outdated Fact Detection in Knowledge Bases (ICDE 2020, short) 🌟 [[Video](https://www.youtube.com/watch?v=yVn6uucEIvk)]
