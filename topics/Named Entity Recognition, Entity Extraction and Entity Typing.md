@@ -1,12 +1,15 @@
-### Named Entity Recognition, Entity Extraction and Entity Typing
+Named Entity Recognition, Entity Extraction and Entity Typing
+====
 
-__Surveys__
+### 📝 Surveys
 1. Named Entity extraction for Knowledge Graphs: A Literature Overview (IEEE Access 2020) [[Paper](https://ieeexplore.ieee.org/abstract/document/8999622/)]
 2. A survey of named entity recognition and classification [[Paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)]
 3. A Survey on Deep Learning for Named Entity Recognition (TKDE 2018) [[Paper] (https://www.researchgate.net/profile/Aixin_Sun/publication/339990379_A_Survey_on_Deep_Learning_for_Named_Entity_Recognition/links/5e78581c299bf1892c021d50/A-Survey-on-Deep-Learning-for-Named-Entity-Recognition.pdf)] [[Official version](https://ieeexplore.ieee.org/abstract/document/9039685)]🌟
 
-__Tutorials__
+### 📝 Tutorials
 1. https://cs230.stanford.edu/blog/namedentity/
+
+### 📝 Research Papers
 
 __General NER__
 1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014] 🌟
@@ -52,14 +55,21 @@ __LLM for NER__ 🔥🔥🔥
 3. Empirical Study of Zero-Shot NER with ChatGPT (Arxiv 2023) [[Paper](https://arxiv.org/abs/2310.10035)]
 4. Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models (Arxiv 2023, by the same team of paper 3) [[Paper](https://arxiv.org/pdf/2311.08921v1.pdf)]
 
-__Projects__
-1. https://github.com/kamalkraj/BERT-NER, coarse-grained
-2. https://github.com/conv1d/bert-fine-grained-ner, fine-grained
-3. https://github.com/CLUEbenchmark/CLUENER2020, fine-grained
-4. https://github.com/sigamani/ner, fine-grained, Chinese
-5. https://github.com/xiaoling/figer, fine-grained
-6. https://github.com/elenanereiss/Legal-Entity-Recognition, fine-grained
-
-
-
-
+### 🛠️ Awesome Tools/Repos 
+1. BERT coarse-grained NER [[GitHub](https://github.com/kamalkraj/BERT-NER)]
+2. BERT fine-grained NER [[GitHub](https://github.com/conv1d/bert-fine-grained-ner)]
+3. CLUENER2020, fine-grained NER [[GitHub](https://github.com/CLUEbenchmark/CLUENER20200)]
+4. Chinese fine-grained NER [[GitHub](https://github.com/sigamani/ner)]
+5. Figer, fine-grained NER [[GitHub](https://github.com/xiaoling/figer)]
+6. Legal, fine-grained NER [[GitHub](https://github.com/elenanereiss/Legal-Entity-Recognition)]
+1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
+2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
+3. DBpedia Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
+4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
+5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
+   > * spacy-llm [[Link](https://github.com/explosion/spacy-llm)]
+7. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
+8. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
+9. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
+10. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
+11. PIKES [[Link](http://pikes.fbk.eu)]
