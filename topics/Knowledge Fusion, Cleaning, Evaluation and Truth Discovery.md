@@ -1,12 +1,15 @@
 ## Knowledge Fusion, Data Fusion, and Truth Discovery
-__Surveys__
+
+### 📝 Surveys
 1. A Survey on Truth Discovery [[Paper](https://www.kdd.org/exploration_files/Article1_17_2.pdf)] 🌟
 2. Truth Discovery Algorithms: An Experimental Evaluation [[Paper](https://arxiv.org/pdf/1409.6428.pdf)]
 3. A survey on data fusion: what for? in what form? what is next? (Journal of Intelligent Information Systems, 2020) [[Paper](https://link.springer.com/article/10.1007/s10844-020-00627-4)]
 
+### 📝 General Papers
 __Data Fusion__
-> (I think this is a relatively old topic, people are moving to knowledge fusion)
-> (To be classified... single truth/multi-truth, copy detection, source reliability...)
+> I think this is a relatively old topic, people are moving to knowledge fusion since 2018.
+> Actually there are many interesting small topics. e.g., single truth/multi-truth, copy detection, source reliability. I will classfiy the following papers later.
+> However, I think data fusion/knowledge fusion will play an essential role in data processing in the pre-trained dataset in LLMs/LMs.
 1. Truth Discovery with Multiple Conflicting Information Providers on the Web (TKDE 2008), the most classical one. 🌟
 2. Integrating conflicting data: the role of source dependence (VLDB 2009), the most classical one. 🌟
 3. Fusing data with correlations (SIGMOD 2014) 🌟
@@ -39,7 +42,6 @@ __Knowledge Fusion, Cleaning and Evaluation__
 16. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
 17. Tracy: Tracing Facts over Knowledge Graphs and Text (WWW 2019, short)
 18. Few-Shot Knowledge Validation using Rules (WWW 2021) [[Paper](https://mott.in/papers/LosterWWW2021COLT.pdf)]
-19. 
 
 __Vandalism Detection__
 1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
@@ -49,9 +51,9 @@ __Malicious Participant Detection__
 2. Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation (SIGMOD 2014) [[Paper](https://dl.acm.org/doi/pdf/10.1145/2588555.2610509)] 🌟 (only mention malicious sources in one sentence)
 3. Reputation-Aware Data Fusion and Malicious Participant Detection in Mobile Crowdsensing (2018 IEEE International Conference on Big Data (Big Data)) [[Paper](https://ieeexplore.ieee.org/abstract/document/8622335)]
 
-__Datasets__
+### 📊 Datasets
 1. Fusion Datasets [[Link](http://lunadong.com/fusionDataSets.htm)]
 
-__Notes__
+### 💬 Notes
 1. Data Fusion – Resolving Data Conflicts for Integration [[Tutorial Proposal](http://lunadong.com/publication/fusion_vldbTutorial.pdf)]
 2. Data Integration and Machine Learning: A Natural Synergy
