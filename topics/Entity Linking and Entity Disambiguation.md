@@ -1,7 +1,7 @@
 
 ## Entity Linking and Entity Disambiguation
 
-### 📝 Summary
+### 📝 Summary and Overview
 
 __Surveys and Analysis__
 1. Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions (TKDE 2014) [[Paper](https://ieeexplore.ieee.org/abstract/document/6823700)] 🌟
@@ -16,15 +16,14 @@ __Surveys and Analysis__
 6. KG-Based Approach to Named Entity Disambiguation for Healthcare Applications — GraphAware (KGC 2022) [[Video](https://www.youtube.com/watch?app=desktop&v=4fDmD1z3fEQ)]
 7. Recent Trends in Word Sense Disambiguation : A Survey (IJCAI 2021, Survey Track) [[Paper](https://helda.helsinki.fi/server/api/core/bitstreams/12884f8e-ffd2-45e7-9737-eb368a3a4487/content)]
 
-__Notes and Discussions for Entity Linking__
+__Notes and Discussions__
 1. Candiate Entity Ranking [[Notes](https://www.jianshu.com/p/90e2c7a5c9f5)]
 2. NLP-progress for Entity Linking [[Notes](http://nlpprogress.com/english/entity_linking.html)] [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/entity_linking.md)]
 3. Recent Trend for Entity Linking [[Notes](https://github.com/izuna385/EntityLinking_RecentTrend)]
 4. Summary of Entity Linking [[Notes 1](http://pelhans.com/2019/02/22/entity_linking/)] [[Notes 2, check the appendices here](https://fyubang.com/2019/12/30/entity-linking/)]
 5. Entity Coherence in Entity Linking [[Blog](https://blog.csdn.net/u010960155/article/details/106387771)]
 
-
-### 📝 General Papers
+### 📝 General Entity Linking
 1. Zero-Shot Entity Linking by Reading Entity Descriptions (ACL 2019) [[Paper](https://www.aclweb.org/anthology/P19-1335.pdf)][[Code and Datasets](https://github.com/lajanugen/zeshel)]
 2. Keyphrase Overlap Relatedness for Entity Disambiguation (CIKM 2012), LSH 🌟
 3. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text (NAACL 2019), with Relation Linking
@@ -46,7 +45,7 @@ __Notes and Discussions for Entity Linking__
 19. Pivot-based Candidate Retrieval for Cross-lingual Entity Linking (WWW 2021) [[Video](http://videolectures.net/www2021_liu_candidate_retrieval/)]
 20. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 
-### 📝 About Coherence among Entities
+### 📝 Coherence among Entities
 __Global Coherence__
 1. Relational Inference for Wikification (ACL 2013)
 2. Robust Disambiguation of Named Entities in Text (EMNLP 2011)
@@ -73,7 +72,6 @@ __Global Coherence__
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
 24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
 25. Collective List-Only Entity Linking: A Graph-Based Approach (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8320777)]
-
 
 __Relax the Global Coherence Assumption__
 1. Joint entity linking with deep reinforcement learning (WWW 2019) [[Paper](https://arxiv.org/pdf/1902.00330.pdf)]
@@ -146,7 +144,6 @@ Note: how to combine the outputs of multiple EL tools for providing a unified se
 5. Joint posterior revision of NLP annotations via ontological knowledge (IJCAI 2018) [[Paper](https://www.ijcai.org/Proceedings/2018/0600.pdf)] [[Slides](https://marcorospocher.com/files/slides/2018scc_slides.pdf)] [[Details](https://pikes.fbk.eu/jpark.html)] 🌟
 6. (Extended Version of Paper 5) Knowledge-driven joint posterior revision of named entity classification and linking (Journal of Web Semantics, 2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826820300500)]
 7. (Extended reading for Paper 5, same research group) An Ontology-Driven Probabilistic Soft Logic Approach to Improve NLP Entity Annotations (ISWC 2018) [[Slides](https://marcorospocher.com/files/slides/2018iswc_research_slides.pdf)]
-
 
 ### 📝 Joint NER and EL
 
@@ -241,7 +238,6 @@ __Supervised__
 > * 100-dimention and 50-dimention, parsed by numpy.memmap. However, I can only read one float (instead of a vector) for each entity. No sure whether there is mistake.
 4. EntEval: A Holistic Evaluation Benchmark for Entity Representations (EMNLP 2019) [[Paper](https://arxiv.org/abs/1909.00137)]
 
-
 ### 📝 Multimodal Entity Linking
 1. DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2310.05589v1.pdf)]
 2. Multi-Grained Multimodal Interaction Network for Entity Linking (2023) [[Paper](https://arxiv.org/pdf/2307.09721v1.pdf)]
@@ -256,7 +252,20 @@ __Supervised__
 4. Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2311.15781v1.pdf)]
 5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper]([https://arxiv.org/pdf/2311.15781v1.pdf](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
 
+### 🛠️ Awesome Tools
+1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
+2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
+3. DBpedia Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
+4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
+5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
+   > * spacy-llm [[Link](https://github.com/explosion/spacy-llm)]
+7. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
+8. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
+9. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
+10. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
+11. PIKES [[Link](http://pikes.fbk.eu)]
 
 ### 📊 Datasets, Benckmarks, and Evaluation Platforms
-1. __(Dataset)__ Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
+1. __(Dataset for Entity Linking)__ Reddit Entity Linking Dataset [[Paper](https://arxiv.org/pdf/2101.01228.pdf)]
 2. __(Evalaution Platforms)__ Python command-line evaluation scripts for TAC [[GitHub](https://github.com/wikilinks/neleval)]
+3. __(Dataset for Entity Disambiguation)__ MSNBC and ACE2004 [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
