@@ -1,4 +1,4 @@
-Named Entity Recognition, Entity Extraction and Entity Typing
+## Named Entity Recognition, Entity Extraction and Entity Typing
 ====
 
 ### 📝 Surveys
