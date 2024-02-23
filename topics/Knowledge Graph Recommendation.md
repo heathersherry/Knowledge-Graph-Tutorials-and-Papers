@@ -1,5 +1,6 @@
 ## Knowledge Graph Recommendation
 
+### 📝 Tutorials and Surveys
 __General Tutorials__
 1. Learning and Reasoning on Graph for Recommendation (CIKM 2019 Tutorial) [[GitHub](https://next-nus.github.io/)]
 2. Tutorial on Large Language Models for Recommendation (RecSys 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3604915.3609494?casa_token=Z1-c53RaQLMAAAAA:XzzOBkKnZYzUlXcb16eBYsNNJJSzi-YCrXymaCOLKfM0uIbjyTTBdr1FX9IZy8-I-ckYvwHxDu40Ug)] 🔥
@@ -7,7 +8,8 @@ __General Tutorials__
 __Surveys__
 1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)][[Notes](https://mp.weixin.qq.com/s/d3rytwQ5Yta_hTGxtqXmvQ)] 🌟
 
-__General Papers__
+### 📝 Research Papers
+__General Topics__
 1. AKUPM: Attention-Enhanced Knowledge-Aware User Preference Model for Recommendation [[Paper](https://dl.acm.org/citation.cfm?doid=3292500.3330705), applied science track] (KDD 2019) 
 2. KGAT: Knowledge Graph Attention Network for Recommendation [[Paper](https://arxiv.org/pdf/1905.07854.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/kgat-knowledge-graph-attention-network-for-recommendation), [Code](https://github.com/xiangwang1223/knowledge_graph_attention_network)] (KDD 2019) 
 3. Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems [[Paper](https://arxiv.org/pdf/1905.04413.pdf), [Presentation](https://www.kdd.org/kdd2019/accepted-papers/view/knowledge-aware-graph-neural-networks-with-label-smoothness-regularization-)] (KDD 2019) 
@@ -35,7 +37,6 @@ __General Papers__
 25. Learning Dynamic User Interest Sequence in Knowledge Graphs for Click-Through Rate Prediction (TKDE 2021) [[Paper](https://ieeexplore.ieee.org/document/9409651)]
 26. Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning (KDD 2021) [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf)]
 
-
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
 
@@ -54,6 +55,5 @@ __Explainability__
 6. KGAT: Knowledge Graph Attention Network for Recommendation (KDD 2019)
 7. Reinforcement knowledge graph reasoning for explainable recommendation (SIGIR 2019)
 
-
-__Related Reading__
+### 💬 Related Reading and Discusssion
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
