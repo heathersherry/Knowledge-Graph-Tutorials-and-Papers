@@ -1,6 +1,6 @@
 ## Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding
 
-### 1. Surveys and Summary
+### 📝 Surveys and Summary
 __Surveys, Tutorials and Experimental Studies__
 1. Knowledge graph embedding: A survey of approaches and applications (TKDE 2017)🌟
 2. Knowledge representation learning: A quantitative review (2018) [[Code in this paper](https://github.com/thunlp/OpenKE)]
@@ -22,7 +22,7 @@ __Related Reading__
 3. Random Walk in Node Embeddings (DeepWalk, node2vec, LINE, and GraphSAGE) [[Link](https://medium.com/towards-artificial-intelligence/random-walk-in-node-embeddings-deepwalk-node2vec-line-and-graphsage-ca23df60e493)]
 
 
-### 2. KG Embedding and KG Representation
+### 📝 KG Embedding and KG Representation
 __General Papers__
 1. DeepWalk: Online Learning of Social Representations (DeepWalk, KDD 2014) [[Code](https://github.com/phanein/deepwalk), [Slides](https://www.slideshare.net/bperz/14-kdddeep-walk-2)]
 > * Use a sentence embedding model
@@ -91,7 +91,7 @@ __Downstream Applications__
 > * You may refer to the SOTA listed on PaperWithCode, e.g., the exp results on FB15K [[Link](https://paperswithcode.com/sota/link-prediction-on-fb15k-237)]
 2. Entity Classification
 
-### 3. KG Reasoning
+### 📝 KG Reasoning
 __Summary__
 1. Knowledge Graph Reasoning Papers [[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
 
@@ -117,7 +117,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
 2. KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models (EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.631/)]
 
-### 4. Rule Mining and Path Finding in KGs
+### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
 1. RuDiK: Rule Discovery in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf), demo] 🌟
 2. Discovering Diversified Paths in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p2002-aebeloe.pdf), demo] 🌟
