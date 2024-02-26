@@ -110,3 +110,6 @@ __Others__
 44. KungFu: Taking Training in Distributed Machine Learning Adaptive (OSDI)
 45. ArangoML Pipeline [[GitHub](https://github.com/arangoml/arangopipe)]
 46. FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU (ICML 2023) [[Paper](https://arxiv.org/pdf/2303.06865.pdf)]
+
+__LLM: From Beginers to Researcher(?)__
+1. A Survey of Large Language Models (Arxiv, 2023) [[Paper](https://arxiv.org/pdf/2303.18223.pdf)] [[A good summary and notes, fig 3 and fig 5 are quite useful](https://wandb.ai/vincenttu/blog_posts/reports/A-Survey-of-Large-Language-Models--VmlldzozOTY2MDM1)]
