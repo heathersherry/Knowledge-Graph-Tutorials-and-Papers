@@ -90,7 +90,7 @@ __Blocking Techniques__
 > * An unsupervised meta-blocking approach based on loose schema information.
 > * An algorithm to scale any meta-blocking method on MapReduce-like systems.
 
-### 🛠️ Awesome Tools/Repos 
+### 🛠️ Awesome Tools
 1. JedAIToolkit [[GitHub](https://github.com/scify/JedAIToolkit)]
 
 ### 📊 Datasets or Benchmarks 
