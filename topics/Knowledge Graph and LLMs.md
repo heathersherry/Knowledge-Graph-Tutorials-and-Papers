@@ -22,6 +22,7 @@ outstanding capabilities of a QA system, such as KGQAN, in incorporating recent 
 7. Augmented Language Models: a Survey, by MetaAI (Arxiv, Feb 2023) [[Paper](https://arxiv.org/pdf/2302.07842.pdf)]
 > * it is often necessary to process structured information when interacting with tools like a knowledge base.
 8. Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain (ASE 2023, Top Conf in Software Engineering) [[Paper](https://ieeexplore.ieee.org/abstract/document/10298399)]
+9. Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs? (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2308.10168.pdf)]
 
 __LLMs for Knowledge Graphs__
 1. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.04676.pdf)]
