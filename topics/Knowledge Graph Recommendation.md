@@ -55,5 +55,10 @@ __Explainability__
 6. KGAT: Knowledge Graph Attention Network for Recommendation (KDD 2019)
 7. Reinforcement knowledge graph reasoning for explainable recommendation (SIGIR 2019)
 
+__Recommendation related to LLM__
+1. Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph (Arxiv 2024, from Alibaba) [[Paper](https://arxiv.org/pdf/2402.13750.pdf)] [[Blog](https://mp.weixin.qq.com/s/WIFTUHAp4PXX_wx0QMOsHw)]
+> * LLMs+Inferential Knowledge Graph: Better understanding and prediction of user perchase.
+> * LLM-KERec: (1) There is an entity extractor that extracts unified concept terms from items and user information. (2) To provide cost-effective and reliable prior knowledge, entity pairs are generated based on entity popularity and specific strategies. (3) The LLM determines complementary relationships in each entity pair, and constructs a complementary knowledge graph. (4) A new complementary recall module and an Entity-Entity-Item (E-E-I) weight decision model refine the scoring of the ranking model by using real complementary exposure-click samples. 
+
 ### 💬 Related Reading and Discusssion
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
