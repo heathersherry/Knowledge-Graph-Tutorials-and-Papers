@@ -44,6 +44,7 @@ __Notes and Discussions__
 18. Read, Retrospect, Select: An MRC Framework to Short Text Entity Linking (AAAI 2021) [[Paper](https://arxiv.org/pdf/2101.02394v1.pdf)]
 19. Pivot-based Candidate Retrieval for Cross-lingual Entity Linking (WWW 2021) [[Video](http://videolectures.net/www2021_liu_candidate_retrieval/)]
 20. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
+21. Linking Entities across Relations and Graphs (ACM Transactions on Database Systems 2024) [[Paper](https://dl.acm.org/doi/full/10.1145/3639363)] - From Prof. Wenfei Fan
 
 ### 📝 Coherence among Entities
 __Global Coherence__
@@ -250,7 +251,7 @@ __Supervised__
 2. Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01137)]
 3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
 4. Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2311.15781v1.pdf)]
-5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper]([https://arxiv.org/pdf/2311.15781v1.pdf](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
+5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
 
 ### 🛠️ Awesome Tools
 1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
