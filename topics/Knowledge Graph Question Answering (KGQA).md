@@ -46,6 +46,8 @@ __General KGQA__
 29. CBench: Towards Better Evaluation of Question Answering Over Knowledge Graphs [[Paper](https://vldb.org/pvldb/vol14/p1325-orogat.pdf)] (VLDB 2021) 🌟
 30. SAKE: Spatial Question Answering over Knowledge Graph Based on Embedding Techniques (ICDE 2021) 🌟
 31. BeamQA: Multi-hop Knowledge Graph Question Answering with Sequence-to-Sequence Prediction and Beam Search (SIGIR 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591698)]🌟
+32. Joint Knowledge Graph Completion and Question Answering (KDD 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539289)]
+33. Would You Ask it that Way?: Measuring and Improving Question Naturalness for Knowledge Graph Question Answering (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531739)]
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
