@@ -49,6 +49,7 @@ __General KGQA__
 32. Joint Knowledge Graph Completion and Question Answering (KDD 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539289)]
 33. Would You Ask it that Way?: Measuring and Improving Question Naturalness for Knowledge Graph Question Answering (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531739)]
 
+
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
 2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group, NAACL-HLT 2021) [[Paper](https://arxiv.org/pdf/2104.06378.pdf)]
@@ -120,6 +121,7 @@ guide the search process.
 9. __KQA Pro__: a dataset with explicit compositional programs for complex question answering over knowledge base (ACL 2022)
 10. __Spider4SPARQL__: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems (Arxiv, Sep 2023) [[Github](https://github.com/ckosten/spider4sparql)]
 11. __GQA__: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)
+12. (A discussion of KGQA datasets) Knowledge Graph Question Answering Datasets and Their Generalizability: Are They Enough for Future Research? (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531751)]
 
 ### 🧐 Others
 __Related Readings__
