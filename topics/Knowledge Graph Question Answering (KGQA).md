@@ -121,7 +121,7 @@ guide the search process.
 9. __KQA Pro__: a dataset with explicit compositional programs for complex question answering over knowledge base (ACL 2022)
 10. __Spider4SPARQL__: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems (Arxiv, Sep 2023) [[Github](https://github.com/ckosten/spider4sparql)]
 11. __GQA__: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)
-12. (A discussion of KGQA datasets) Knowledge Graph Question Answering Datasets and Their Generalizability: Are They Enough for Future Research? (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531751)]
+12. __A discussion of KGQA datasets__: Knowledge Graph Question Answering Datasets and Their Generalizability: Are They Enough for Future Research? (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531751)]
 
 ### 🧐 Others
 __Related Readings__
