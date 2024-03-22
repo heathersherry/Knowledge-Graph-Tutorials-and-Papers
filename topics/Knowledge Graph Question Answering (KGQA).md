@@ -48,6 +48,7 @@ __General KGQA__
 31. BeamQA: Multi-hop Knowledge Graph Question Answering with Sequence-to-Sequence Prediction and Beam Search (SIGIR 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591698)]🌟
 32. Joint Knowledge Graph Completion and Question Answering (KDD 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539289)]
 33. Would You Ask it that Way?: Measuring and Improving Question Naturalness for Knowledge Graph Question Answering (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531739)]
+34. Sequence-to-Sequence Knowledge Graph Completion and Question Answering (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.201/)]
 
 
 __Multiple Hop QA__
