@@ -50,7 +50,7 @@ __General Papers__
 26. Relational Message Passing for Knowledge Graph Completion (KDD 2021)
 27. Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion (KDD 2021)
 28. KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion (Findings of the Association for Computational Linguistics: EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.580/)] 🔥
-29. 
+29. Sequence-to-Sequence Knowledge Graph Completion and Question Answering (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.201/)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
