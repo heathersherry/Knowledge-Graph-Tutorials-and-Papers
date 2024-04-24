@@ -104,6 +104,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 > * Pangu consists of a symbolic agent and a neural LM working in a concerted fashion: The agent explores the environment to incrementally construct valid plans, and the LM evaluates the plausibility of the candidate plans to
 guide the search process.
 > * The evaluation is conducted on KBQA.
+26. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
 
 
 ### 📊 Leaderboard and Benchmarks
