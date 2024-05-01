@@ -70,7 +70,7 @@ __Multiligual QA__
 __LLM for KGQA/KG for QA based on LLM__ 🔥
 1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
 2. Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models (submitted to ICLR 2023 but not revised) [[Paper](https://openreview.net/forum?id=D2lo4toTUTo)]
-3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (Arxiv, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
+3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (ijckg, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
 4. Language Models as Controlled Natural Language Semantic Parsers for Knowledge Graph Question Answering (from Amazon Science, 2023) [[Paper](https://assets.amazon.science/10/14/9c09d8964b4b8b6219286d8fc05e/language-models-as-controlled-natural-language-semantic-parsers-for-knowledge-graph-question-answering.pdf)]
 5. Is GPT fit for KGQA? – Preliminary Results (CEUR Workshop 2023) [[Paper](https://ceur-ws.org/Vol-3447/Text2KG_Paper_11.pdf)]
 > * Only GPT3 and GPT3.5 are used, so the experiemnts prove that there is limitation.
@@ -105,6 +105,7 @@ __LLM for KGQA/KG for QA based on LLM__ 🔥
 guide the search process.
 > * The evaluation is conducted on KBQA.
 26. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
+27. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 
 
 ### 📊 Leaderboard and Benchmarks
