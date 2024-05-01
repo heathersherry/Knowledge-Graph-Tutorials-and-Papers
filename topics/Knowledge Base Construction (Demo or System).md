@@ -42,6 +42,7 @@ __LLM for General KG Constrution__ 🔥🔥🔥
 2. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/abs/2305.04676)]
 3. Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01128)]
 4. LLM2KB: Constructing Knowledge Bases using instruction tuned context aware Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2308.13207.pdf)]
+5. Towards self-configuring Knowledge Graph Construction Pipelines using LLMs - A Case Study with RML (ESWC 2024 Workshop KGCW) [[Paper](https://openreview.net/forum?id=ALgDqGCGdB)]
 
 __Fact Finding__
 1. Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf), demo] 🌟
