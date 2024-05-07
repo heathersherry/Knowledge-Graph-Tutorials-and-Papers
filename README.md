@@ -108,6 +108,8 @@ Research Topics in Knowledge Graph
 18. KG Applications in Baidu (Chinese) [[Link](https://mp.weixin.qq.com/s/z3cp4PaAsA2zGLlgfYAtTg)]
 19. Paper Digest (Database area) [[Link](https://www.paperdigest.org/category/database/)]
 20. Complex Network (Collection of Notes and Tutorials) [[GitHub](https://github.com/LiuChuang0059/Complex-Network)]
+21. INTRODUCTION TO GENERATIVE AI (NTU, Prof HUNG-YI LEE) [[Syllabus and Course Materials of Spring 2024](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)]
+> * A very good and brief overview of Genearative AI! After listening to this course, you are able to clarify the important concepts in generative AI. For example, you can at least tell the difference between prompt engineering and fine-tuning (I think this is a very common mistake made by most people and even papers XD)
 
 ## Useful Tools or APIs
 
