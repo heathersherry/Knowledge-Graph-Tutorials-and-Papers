@@ -127,6 +127,7 @@ guide the search process.
 11. __GQA__: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)
 12. __A discussion of KGQA datasets__: Knowledge Graph Question Answering Datasets and Their Generalizability: Are They Enough for Future Research? (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531751)]
 13. __Leaderboard__: Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis (LREC 2022) [[Paper](https://aclanthology.org/2022.lrec-1.321/)]
+14. __ToolQA__: A Dataset for LLM Question Answering with External Tools (NeurIPS 2023, Datasets and Benchmarks Track) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9cb2a7495900f8b602cb10159246a016-Abstract-Datasets_and_Benchmarks.html)]
 
 ### 🧐 Others
 __Related Readings__
