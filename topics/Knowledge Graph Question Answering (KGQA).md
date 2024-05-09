@@ -106,6 +106,7 @@ guide the search process.
 > * The evaluation is conducted on KBQA.
 26. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
 27. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
+28. CyberQ: Generating Questions and Answers for Cybersecurity Education Using Knowledge Graph-Augmented LLMs (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30362)]
 
 
 ### 📊 Leaderboard and Benchmarks
