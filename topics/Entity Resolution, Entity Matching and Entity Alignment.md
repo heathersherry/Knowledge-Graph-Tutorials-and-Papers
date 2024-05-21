@@ -59,6 +59,8 @@ __General Topics__
 48. Informed Multi-context Entity Alignment (WSDM 2022)
 49. Deep Indexed Active Learning for Matching Heterogeneous Entity Representations [[Paper](http://vldb.org/pvldb/vol15/p31-jain.pdf)] [[Code](https://github.com/ArjitJ/DIAL)]
 50. BrewER: Entity Resolution On-Demand (VLDB 2023) [[Paper](https://dl.acm.org/doi/abs/10.14778/3611540.3611612)] 🌟
+51. FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data (VLDB 2024) [[Paper](https://dl.acm.org/doi/abs/10.14778/3648160.3648174)] 🌟
+>   * FusionQuery has a query stage and a fusion stage. In the query stage, this paper frames the heterogeneous data query problem as a knowledge graph matching problem and present a line graph-based method to accelerate it.
 
 __Embedding Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
