@@ -1,8 +1,9 @@
 ## KG and LLM
 
-### 📝 Overviews, Surveys and Summary
+### 📝 Overviews, Surveys, Tutorials and Summary
 1. Github Repo: KG-LLM-Papers [[Link](https://github.com/zjukg/KG-LLM-Papers)]
 2. Github Repo: Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
+3. The Journey to A Knowledgeable Assistant with Retrieval-Augmented Generation (RAG) (WSDM 2024 and SIGMOD 2024 keynote, by Luna Dong in Meta) 🌟
 
 ### 📝 Research Papers
 __Discussion and Research about Knowledge Graphs and LLMs__
