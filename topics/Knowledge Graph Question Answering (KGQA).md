@@ -68,6 +68,7 @@ __Multiligual QA__
 2. A System for Answering Simple Questions in Multiple Languages (ACL 2023, demo) [[Paper](https://aclanthology.org/2023.acl-demo.51/)]
 
 __LLM for KGQA/KG for QA based on LLM__ 🔥
+* It becomes a hot topic in both academics and industries, especially with the developement of **KG for RAG**.
 1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
 2. Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models (submitted to ICLR 2023 but not revised) [[Paper](https://openreview.net/forum?id=D2lo4toTUTo)]
 3. Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering (ijckg, Sep 2023) [[Paper](https://arxiv.org/abs/2309.11206)]
@@ -107,6 +108,7 @@ guide the search process.
 26. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
 27. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 28. CyberQ: Generating Questions and Answers for Cybersecurity Education Using Knowledge Graph-Augmented LLMs (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30362)]
+29. Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.findings-emnlp.13/)]
 
 
 ### 📊 Leaderboard and Benchmarks
