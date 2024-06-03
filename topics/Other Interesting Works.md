@@ -113,6 +113,7 @@ __Others__
 
 __LLM: From Beginers to Researcher(?)__
 1. A Survey of Large Language Models (Arxiv, 2023) [[Paper](https://arxiv.org/pdf/2303.18223.pdf)] [[A good summary and notes, fig 3 and fig 5 are quite useful](https://wandb.ai/vincenttu/blog_posts/reports/A-Survey-of-Large-Language-Models--VmlldzozOTY2MDM1)]
+
 Note: There are a few valuable survey collection regarding the data processing/management/collection for AI/LLM, including
 1. Awesome-Data-Centric-AI [[Github](https://github.com/daochenzha/data-centric-AI)]
 2. Data Management for LLM [[Github](https://github.com/ZigeW/data_management_LLM)]
