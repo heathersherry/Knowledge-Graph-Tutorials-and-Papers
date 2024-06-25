@@ -36,6 +36,7 @@ __General Papers__
 15. GIANT: Scalable Creation of a Web-scale Ontology [[Paper](https://doi.org/10.1145/3318464.3386145)] (SIGMOD industry track 2020) 🌟
 16. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring (KDD 2020)
 17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
+18. Defining a Knowledge Graph Development Process Through a Systematic Review (TOSEM 2023)  [[Paper](https://dl.acm.org/doi/full/10.1145/3522586)] 🌟 (although it comes from the SE area)
 
 __LLM for General KG Constrution__ 🔥🔥🔥
 1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
