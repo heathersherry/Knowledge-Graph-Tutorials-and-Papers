@@ -71,6 +71,9 @@ __Datasets__
 ### 💊 Meidcal KBs
 Note: Medical entity linking is also referred to as medical concept normalization (MCN)
 
+__Surveys__
+1. Towards electronic health record-based medical knowledge graph construction, completion, and applications: A literature study (Journal of Biomedical Informatics 2023) [[Link](https://www.sciencedirect.com/science/article/pii/S1532046423001247)]
+
 __Research Papers__
 1. MedPath: Augmenting Health Risk Prediction via Medical Knowledge Paths (WWW 2021)
 > * Personalized KG to provided personalized prediction and explicit reasoning.
