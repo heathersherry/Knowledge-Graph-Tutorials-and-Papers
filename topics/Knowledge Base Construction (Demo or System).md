@@ -9,6 +9,7 @@ __Surveys__
 4. Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases (submitted to Foundations and Trends in Databases in 2020) [[Paper](https://arxiv.org/pdf/2009.11564.pdf)]
 5. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)] ️‍🔥
 6. Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[Paper](https://arxiv.org/pdf/2210.12714.pdf)] ️‍🔥
+7. A Comprehensive Survey on Automatic Knowledge Graph Construction (ACM Computing Surveys, 2023) [[Link](https://dl.acm.org/doi/abs/10.1145/3618295)]
 
 __Interesting Blogs and Discussions__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
