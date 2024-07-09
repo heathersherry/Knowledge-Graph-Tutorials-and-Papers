@@ -95,6 +95,7 @@ __Research Papers__
 > * Datasets: a comprehensive collection of 140 existing biomedical text mining datasets (38 Chinese datasets and 102 English datasets)
 > * Tasks: named entity recognition, relation extraction, text classification, question answering tasks
 10. LLMs Accelerate Annotation for Medical Information Extraction (PMLR 2023) [[Paper](https://proceedings.mlr.press/v225/goel23a)] 🔥
+11. Knowledge graph-enhanced molecular contrastive learning with functional prompt (Nature Machine Intelligence 2023) [[Paper](https://www.nature.com/articles/s42256-023-00654-0)]
 
 __Datasets__
 1. PubMed
