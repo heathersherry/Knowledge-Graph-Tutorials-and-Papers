@@ -55,6 +55,7 @@ __General Papers__
 23. OntoProtein: Protein Pretraining With Gene Ontology Embedding (ICLR 2022) [[Paper](https://arxiv.org/pdf/2201.11147.pdf)] [[Github](https://github.com/zjunlp/OntoProtein)]
 24. How to Turn Your Knowledge Graph Embeddings into Generative Models (NeurIPS 2023) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/f4b768188be63b8d2680a46934fd295a-Paper-Conference.pdf)]
 25. Towards Continual Knowledge Graph Embedding via Incremental Distillation (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28722)]
+26. Knowledge Graph Enhanced Multimodal Transformer for Image-Text Retrieval (ICDE 2024) 🌟
  
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
