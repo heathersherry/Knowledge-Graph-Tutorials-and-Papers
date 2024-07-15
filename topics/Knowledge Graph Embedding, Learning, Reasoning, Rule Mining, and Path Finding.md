@@ -115,6 +115,7 @@ __General Papers__
 13. xERTE: Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs (ICLR 2021) [[Paper](https://openreview.net/pdf?id=pGIHq1m7PU)] [[Code](https://github.com/TemporalKGTeam/xERTE)] 
 14. SMORE: KNOWLEDGE GRAPH COMPLETION AND MULTI-HOP REASONING IN MASSIVE KNOWLEDGE GRAPHS (Jure's group, Oct 2021) [[Paper](https://arxiv.org/pdf/2110.14890.pdf)]
 15. Knowledge Graph Reasoning with Relational Digraph (arxiv 2022) [[Paper](https://arxiv.org/pdf/2108.06040.pdf)]
+16. Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning (ICDE 2024) 🌟
 
 __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
