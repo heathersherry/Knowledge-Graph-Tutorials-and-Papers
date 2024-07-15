@@ -62,7 +62,8 @@ __General Topics__
 51. FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data (VLDB 2024) [[Paper](https://dl.acm.org/doi/abs/10.14778/3648160.3648174)] 🌟
 >   * FusionQuery has a query stage and a fusion stage. In the query stage, this paper frames the heterogeneous data query problem as a knowledge graph matching problem and present a line graph-based method to accelerate it.
 
-__Embedding Based Techniques__
+
+__Embedding/Knowledge Graph Representation Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
 2. Multi-view Knowledge Graph Embedding for Entity Alignment (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2019/0754.pdf)]
 3. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
@@ -72,6 +73,8 @@ __Embedding Based Techniques__
 > * Paper 5 and 6 consider the embedding of relation (edges) in GCN
 7. Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks (EMNLP 2018) [[Paper](https://www.aclweb.org/anthology/D18-1032.pdf)] [[Code](https://github.com/1049451037/GCN-Align)]
 8. A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment (COLING 2020) [[Paper](https://www.aclweb.org/anthology/2020.coling-main.520.pdf)] [[Notes](https://mp.weixin.qq.com/s/3OD6fQBX50JgMBWLeQA_VA)]
+9. Representation Learning for Entity Alignment in Knowledge Graph: A Design Space Exploration 🌟 (ICDE 2024)
+10. Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment (WWW 2023) [[Paper](https://arxiv.org/pdf/2304.01563)]
 
 __Language Model Based Techniques__ 
 1. Deep Entity Matching with Pre-Trained Language Models (Tool:Ditto) [[Blog](https://megagonlabs.medium.com/deep-entity-matching-with-pre-trained-language-models-f4b42f1d1759)]
