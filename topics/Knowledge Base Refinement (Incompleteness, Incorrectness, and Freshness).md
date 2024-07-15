@@ -115,3 +115,4 @@ __General Papers (KBP from External Sources)__
 8. Efficiently Embedding Dynamic Knowledge Graphs (arxiv 2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 > * Seems this is the first work that studies dynamic embedding updating in KGs...
 9. EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (WSDM 2022) [[Paper](https://arxiv.org/pdf/2202.07648.pdf)]
+10. KartGPS: Knowledge Base Update with Temporal Graph Pattern-based Semantic Rules (ICDE 2024) 🌟
