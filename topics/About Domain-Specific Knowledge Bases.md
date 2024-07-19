@@ -64,6 +64,7 @@ __Research Papers__
 18. Product Knowledge Graph Embedding for E-commerce (WSDM 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3336191.3371778)]
 19. Weakly-Supervised Opinion Summarization by Leveraging External Information (AAAI 2020)
 20. PGE: Robust Product Graph Embedding Learning for Error Detection (arxiv 2022, Luna's team) [[Paper](https://arxiv.org/pdf/2202.09747.pdf)]
+21. E-Commerce Commonsense Knowledge Graphs for Intention-based Recommendation (SIGMOD 2024) [[Slides](https://cse.hkust.edu.hk/event/RTF2024/slides/yqsong-FolkScope-COSMO-YangqiuSong-Final.pdf)] 🌟
 
 __Datasets__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
