@@ -97,6 +97,7 @@ __Research Papers__
 > * Tasks: named entity recognition, relation extraction, text classification, question answering tasks
 10. LLMs Accelerate Annotation for Medical Information Extraction (PMLR 2023) [[Paper](https://proceedings.mlr.press/v225/goel23a)] 🔥
 11. Knowledge graph-enhanced molecular contrastive learning with functional prompt (Nature Machine Intelligence 2023) [[Paper](https://www.nature.com/articles/s42256-023-00654-0)]
+12. MatKG: An autonomously generated knowledge graph in Material Science (Scientific Data 2024) [[Paper](https://www.nature.com/articles/s41597-024-03039-z)]
 
 __Datasets__
 1. PubMed
