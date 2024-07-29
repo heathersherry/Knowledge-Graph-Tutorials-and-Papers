@@ -158,6 +158,7 @@ __Research Papers__
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
 > * Knapsack, submodula objective function,  (1 − {1}{e})-approximation algorithm
 2. What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380189)]
+3. A Question-Answering Assistant over Personal Knowledge Graph (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657665)] 
 
 ### 📅 Event KGs
 __Research Papers__
