@@ -38,6 +38,7 @@ __General Papers__
 16. CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring (KDD 2020)
 17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
 18. Defining a Knowledge Graph Development Process Through a Systematic Review (TOSEM 2023)  [[Paper](https://dl.acm.org/doi/full/10.1145/3522586)] 🌟 (although it comes from the SE area)
+19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
 
 __LLM for General KG Constrution__ 🔥🔥🔥
 1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
