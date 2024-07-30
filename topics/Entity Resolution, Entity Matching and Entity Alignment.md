@@ -61,7 +61,7 @@ __General Topics__
 50. BrewER: Entity Resolution On-Demand (VLDB 2023) [[Paper](https://dl.acm.org/doi/abs/10.14778/3611540.3611612)] 🌟
 51. FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data (VLDB 2024) [[Paper](https://dl.acm.org/doi/abs/10.14778/3648160.3648174)] 🌟
 >   * FusionQuery has a query stage and a fusion stage. In the query stage, this paper frames the heterogeneous data query problem as a knowledge graph matching problem and present a line graph-based method to accelerate it.
-
+52. KAE: A property-based method for knowledge graph alignment and extension (Journal of Web Semantics, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000180)]
 
 __Embedding/Knowledge Graph Representation Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
