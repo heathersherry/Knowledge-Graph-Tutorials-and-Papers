@@ -49,6 +49,8 @@ __General KGQA__
 32. Joint Knowledge Graph Completion and Question Answering (KDD 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539289)]
 33. Would You Ask it that Way?: Measuring and Improving Question Naturalness for Knowledge Graph Question Answering (SIGIR 2022) [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3531739)]
 34. Sequence-to-Sequence Knowledge Graph Completion and Question Answering (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.201/)]
+35. Knowledge Graph Question Answering with Ambiguous Query (WWW 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583316)]
+
 
 
 __Multiple Hop QA__
@@ -109,6 +111,7 @@ guide the search process.
 27. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 28. CyberQ: Generating Questions and Answers for Cybersecurity Education Using Knowledge Graph-Augmented LLMs (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30362)]
 29. Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.findings-emnlp.13/)]
+30. Chatgpt versus traditional question answering for knowledge graphs: Current status and future directions towards knowledge graph chatbots (Arxiv 2023, with 77+ citations in Aug 2024) [[Paper](https://arxiv.org/abs/2302.06466)]
 
 
 ### 📊 Leaderboard and Benchmarks
