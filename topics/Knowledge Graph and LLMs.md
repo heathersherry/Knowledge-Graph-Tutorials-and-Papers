@@ -49,7 +49,7 @@ guide the search process.
 > * The evaluation is conducted on KBQA.
 12. LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT (AIDRST 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-658-43705-3_8)]
 13. Making Large Language Models Perform Better in Knowledge Graph Completion (Arxiv 2023, but with 30+ citations) [[Paper](https://arxiv.org/pdf/2310.06671v2)]
-14. Assessing the evolution of llm capabilities for knowledge graph engineering in 2023 [[Paper](https://2024.eswc-conferences.org/wp-content/uploads/2024/04/ESWC_2024_paper_275.pdf)]
+14. Assessing the evolution of llm capabilities for knowledge graph engineering in 2023 (ESWC 2024) [[Paper](https://2024.eswc-conferences.org/wp-content/uploads/2024/04/ESWC_2024_paper_275.pdf)]
 
 __Knowledge Graphs for LLMs__
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
