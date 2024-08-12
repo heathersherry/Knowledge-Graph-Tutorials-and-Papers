@@ -5,6 +5,7 @@
 2. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)]
 3. Comparative Analysis of Approximate Blocking Techniques for Entity Resolution (VLDB 2016) [[Paper](https://dl.acm.org/doi/pdf/10.14778/2947618.2947624)] 🌟
 4. Entity Resolution: Past, Present and Yet-to-Come (EDBT 2020) [[Paper](http://helios.mi.parisdescartes.fr/~themisp/publications/edbt20-summary.pdf)]
+5. A survey: knowledge graph entity alignment research based on graph embedding (Artificial Intelligence Review 2024) [[Paper](https://link.springer.com/article/10.1007/s10462-024-10866-4)]
 
 ### 📝 Research Papers
 __General Topics__
