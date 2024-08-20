@@ -80,6 +80,8 @@ Note: So far most of the papers I read employ HAC for canonicalization for two m
 2. A Hierarchical Algorithm for Extreme Clustering (KDD 2017), approximate Hierarchical clustering algorithms at the cost of some loss in performance.
 3. SLINK: an optimally efficient algorithm for the single-link cluster method, O(n^2)
 
+__Benchmarks__
+1. BenchIE^FL: A Manually Re-Annotated Fact-Based Open Information Extraction Benchmark (ACL 2024) [[Paper](https://aclanthology.org/2024.findings-acl.496.pdf)]
 
 ### Other Interesting Works about Open IE
 1. Intergring Local Context and Global Cohesiveness for Open Information Extraction (ReMine, WSDM 2019)
