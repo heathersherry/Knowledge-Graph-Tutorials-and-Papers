@@ -54,7 +54,9 @@ __General Papers__
 11. Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network （2020）[[Paper](https://arxiv.org/pdf/2006.09610.pdf)]
 12. Joint Entity and Relation Canonicalization in Open Knowledge Graphs using Variational Autoencoders (2020) [[Paper](https://arxiv.org/abs/2012.04780)]
 13. CaSIE: Canonicalize and Informative Selection of the OpenIE System (ICDE 2021, short) 🌟
-14. Joint Open Knowledge Base Canonicalization and Linking (SIGMOD 2021) 🌟
+14. Joint Entity and Relation Linking with Coherence Relaxation (SIGMOD 2021) 🌟 [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457280)]
+15. Multi-level feature interaction for open knowledge base canonicalization (Knowledge-Based Systems 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124010207?__cf_chl_tk=VldX2UjfxVRSLXLYqj73WJ3IajVHYMNu4nwL6PPdh7A-1724223118-0.0.1.1-6249)]
+16. Jointly Canonicalizing and Linking Open Knowledge Base via Unified Embedding Learning (WWW 2024) [[Paper](https://dl.acm.org/doi/10.1145/3589334.3645700)]
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
