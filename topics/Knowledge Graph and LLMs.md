@@ -5,6 +5,7 @@
 2. Github Repo: Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
 3. The Journey to A Knowledgeable Assistant with Retrieval-Augmented Generation (RAG) (WSDM 2024 and SIGMOD 2024 keynote, by Luna Dong in Meta) 🌟
 4. LLM+KG Workshop, VLDB 2024 [[Link](https://seucoin.github.io/workshop/llmkg/)]
+> * I attended this workshop, and I will provide a detailed notes here later.
 
 ### 📝 Research Papers
 __Discussion and Research about Knowledge Graphs and LLMs__
