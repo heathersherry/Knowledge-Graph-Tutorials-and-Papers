@@ -71,7 +71,7 @@ __Multiligual QA__
 1. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph (ACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.465/)]
 2. A System for Answering Simple Questions in Multiple Languages (ACL 2023, demo) [[Paper](https://aclanthology.org/2023.acl-demo.51/)]
 
-__LLM for KGQA/KG for QA based on LLM__ 🔥
+__LLM for KGQA, or KG for QA based on LLM__ 🔥
 * It becomes a hot topic in both academics and industries, especially with the developement of **KG for RAG**.
 1. Leveraging LLMs in Scholarly Knowledge Graph Question Answering (Arxiv, Nov 2023) [[Paper](https://arxiv.org/abs/2311.09841)]
 2. Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models (submitted to ICLR 2023 but not revised) [[Paper](https://openreview.net/forum?id=D2lo4toTUTo)]
@@ -114,6 +114,8 @@ guide the search process.
 28. CyberQ: Generating Questions and Answers for Cybersecurity Education Using Knowledge Graph-Augmented LLMs (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30362)]
 29. Grape: Knowledge Graph Enhanced Passage Reader for Open-domain Question Answering (EMNLP 2022) [[Paper](https://aclanthology.org/2022.findings-emnlp.13/)]
 30. Chatgpt versus traditional question answering for knowledge graphs: Current status and future directions towards knowledge graph chatbots (Arxiv 2023, with 77+ citations in Aug 2024) [[Paper](https://arxiv.org/abs/2302.06466)]
+31. Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A Case Study at HCMUT (AIQAM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3643479.3662055)]
+32. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823/31429)]
 
 
 ### 📊 Leaderboard and Benchmarks
