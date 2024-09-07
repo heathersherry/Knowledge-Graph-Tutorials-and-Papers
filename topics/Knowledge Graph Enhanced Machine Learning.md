@@ -6,6 +6,7 @@
 1. Informed Machine Learning – A Taxonomy and Survey of Integrating Prior Knowledge into Learning Systems (TKDE 2021) [[Paper](https://arxiv.org/pdf/1903.12394.pdf)] 🌟
 2. Knowledge graph semantic enhancement of input data for improving AI (IEEE Internet Computing 2020)
 3. Exploiting knowledge graphs in industrial products and services: A survey of key aspects, challenges, and future perspectives (Computers in Industry 2021)
+4. Knowledge-graph-based explainable AI: A systematic review (ournal of Information Science, 2024) [[Paper](https://journals.sagepub.com/doi/full/10.1177/01655515221112844)]
 
 
 ### Task 1: KGs Integrated During Pre-processing of Learning
