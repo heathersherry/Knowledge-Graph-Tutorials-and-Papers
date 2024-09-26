@@ -57,6 +57,7 @@ __General Papers__
 14. Joint Entity and Relation Linking with Coherence Relaxation (SIGMOD 2021) 🌟 [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457280)]
 15. Multi-level feature interaction for open knowledge base canonicalization (Knowledge-Based Systems 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124010207?__cf_chl_tk=VldX2UjfxVRSLXLYqj73WJ3IajVHYMNu4nwL6PPdh7A-1724223118-0.0.1.1-6249)]
 16. Jointly Canonicalizing and Linking Open Knowledge Base via Unified Embedding Learning (WWW 2024) [[Paper](https://dl.acm.org/doi/10.1145/3589334.3645700)]
+17. Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation (International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2024) [[Paper](https://hal.science/EC-NANTES/hal-04702397v1)] 🔥
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
