@@ -117,6 +117,8 @@ guide the search process.
 31. Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A Case Study at HCMUT (AIQAM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3643479.3662055)]
 32. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823/31429)]
 33. Retrieval-augmented generation with knowledge graphs for customer service question answering (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3661370)]
+34. Knowledge Graph aided LLM based ESG Question-Answering from News ((KG4S2024, co-located with ESWC2024) [[Paper](https://ceur-ws.org/Vol-3753/paper6.pdf)]
+
 
 
 ### 📊 Leaderboard and Benchmarks
