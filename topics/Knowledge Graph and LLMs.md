@@ -96,6 +96,7 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs__
 8. Retrieval-augmented Generation across Heterogeneous Knowledge (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-srw.7/)]
 9. GraphRAG by Microsoft [[GitHub repo](https://github.com/microsoft/graphrag)] ⭐
 > * It uses knowledge graph memory structures to enhance LLM outputs
+10. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
 
 __Prompting and Knowledge Graphs__
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
