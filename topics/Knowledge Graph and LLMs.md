@@ -6,6 +6,7 @@
 3. The Journey to A Knowledgeable Assistant with Retrieval-Augmented Generation (RAG) (WSDM 2024 and SIGMOD 2024 keynote, by Luna Dong in Meta) 🌟
 4. LLM+KG Workshop, VLDB 2024 [[Link](https://seucoin.github.io/workshop/llmkg/)]
 > * I attended this workshop, and I will provide a detailed notes here later.
+5. 1st Workshop on Knowledge Graphs and Large Language Models (KaLLM 2024, from ACL) [[Link](https://aclanthology.org/volumes/2024.kallm-1/)]
 
 ### 📝 Research Papers
 __Discussion and Research about Knowledge Graphs and LLMs__
