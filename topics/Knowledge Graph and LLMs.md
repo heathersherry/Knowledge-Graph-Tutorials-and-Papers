@@ -5,7 +5,12 @@
 2. Github Repo: Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
 3. The Journey to A Knowledgeable Assistant with Retrieval-Augmented Generation (RAG) (WSDM 2024 and SIGMOD 2024 keynote, by Luna Dong in Meta) 🌟
 4. LLM+KG Workshop, VLDB 2024 [[Link](https://seucoin.github.io/workshop/llmkg/)]
-> * I attended this workshop, and I will provide a detailed notes here later.
+* Talk 1 – Integrating Knowledge Graph with Large Language Model: From the Perspective of Knowledge Engineering (Prof Qi)
+> * Introduction of KG and LLM
+> * KG for LLM (1) pretraining (2) as prompt (e.g., KAPING) (3) fine-tuning (4) inference (reduce the hallucination) (5) RAG (6) knowledge update or edit (7) knowledge fusion (8) knowledge validation (as benchmark) (9) future: learning of symbolic knowledge, benchmark, improve the interpretable reasoning of llm
+> * LLM for KG (1) entity and relation extraction (in-context learning & SFT) (2) triple generation (3) ontology matching (e.g., olala) (4) entity alignment (e.g., chatea) (5) KBQA (e.g., ELLMKGQA framework) (6) ontology reasoning (data construction: subsumption checking + instance checking) (7) KG reasoning (kg embedding is enhanced, e.g., KoPA)
+> * KG&LLM integration (1) knowledge service platform based on KG&LLM Integration (2) OpenKG + Tool + Application
+* The summary of the other talks. 
 5. 1st Workshop on Knowledge Graphs and Large Language Models (KaLLM 2024, from ACL) [[Link](https://aclanthology.org/volumes/2024.kallm-1/)]
 
 ### 📝 Research Papers
