@@ -104,6 +104,7 @@ __General Papers (KBP from External Sources)__
 7. Typing Errors in Factual Knowledge Graphs: Severity and Possible Ways Out (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.02307.pdf)]
 8. Triple Trustworthiness Measurement for Knowledge Graph (WWW 2019)
 9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
+10. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/HCOMP/article/view/31605)]
 
 ### 📝 Knowledge Base Freshness
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Paper](https://www.ijcai.org/proceedings/2017/0524.pdf)] [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
