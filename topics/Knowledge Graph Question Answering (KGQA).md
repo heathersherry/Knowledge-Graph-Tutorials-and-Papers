@@ -141,6 +141,7 @@ guide the search process.
 13. __Leaderboard__: Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis (LREC 2022) [[Paper](https://aclanthology.org/2022.lrec-1.321/)]
 14. __ToolQA__: A Dataset for LLM Question Answering with External Tools (NeurIPS 2023, Datasets and Benchmarks Track) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9cb2a7495900f8b602cb10159246a016-Abstract-Datasets_and_Benchmarks.html)]
 15. __QuALITY__: Question Answering with Long Input Texts, Yes! (NAACL 2022) [[Link](https://nyu-mll.github.io/quality/)]
+16. __GeoQuestions1089__: The question answering system GeoQA2 and a new benchmark for its evaluation (International Journal of Applied Earth Observation and Geoinformation 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843224005594)] 
 
 ### 🧐 Others
 __Related Readings__
