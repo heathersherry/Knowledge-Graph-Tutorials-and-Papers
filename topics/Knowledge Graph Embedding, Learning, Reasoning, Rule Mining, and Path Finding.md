@@ -99,6 +99,7 @@ __Downstream Applications__
 ### 📝 KG Reasoning
 __Summary__
 1. Knowledge Graph Reasoning Papers [[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
+2. wesome-Knowledge-Graph-Reasoning [[GitHub](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
 
 __General Papers__
 1. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (Know-Evolve, ICML 2017)[[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[Code (C++)](https://github.com/rstriv/Know-Evolve)]
