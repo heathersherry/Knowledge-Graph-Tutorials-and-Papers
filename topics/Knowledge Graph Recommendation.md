@@ -38,6 +38,7 @@ __General Topics__
 26. Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning (KDD 2021) [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf)]
 27. DiffKG: Knowledge Graph Diffusion Model for Recommendation (WSDM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)]
 28. AKGNN: Attribute Knowledge Graph Neural Networks Recommendation for Corporate Volunteer Activities (IEEE Transactions on Big Data 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10664007)]
+29. KGGLM: A Generative Language Model for Generalizable Knowledge Graph Representation Learning in Recommendation (RecSys 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3691703)] 🔥
 
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
