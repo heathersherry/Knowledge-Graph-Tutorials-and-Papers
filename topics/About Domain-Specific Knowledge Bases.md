@@ -100,6 +100,7 @@ __Research Papers__
 11. Knowledge graph-enhanced molecular contrastive learning with functional prompt (Nature Machine Intelligence 2023) [[Paper](https://www.nature.com/articles/s42256-023-00654-0)]
 12. MatKG: An autonomously generated knowledge graph in Material Science (Scientific Data 2024) [[Paper](https://www.nature.com/articles/s41597-024-03039-z)]
 13. CancerKG.ORG - A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680094)]
+14. Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction (TKDE 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10706014)] 🌟
 
 __Datasets__
 1. PubMed
