@@ -3,6 +3,7 @@
 ### 📝 Tutorials and Surveys
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
 2. Domain-specific Knowledge Graphs: A survey (2020) [[Paper](https://arxiv.org/pdf/2011.00235.pdf)]
+3. A Comprehensive Survey on Automatic Knowledge Graph Construction (ACM 2023) [[Paper](https://arxiv.org/abs/2302.05019)]
 
 ### 📝 Research Papers
 __General Domain-Specific KB Construction and Refinement__
