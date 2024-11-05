@@ -54,8 +54,6 @@ __General KGQA__
 37. STaR: Space and Time-aware Statistic Query Answering (CIKM 2024) [[Paper](https://hal.science/hal-04689206v1)]
 
 
-
-
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
 2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group, NAACL-HLT 2021) [[Paper](https://arxiv.org/pdf/2104.06378.pdf)]
@@ -120,6 +118,8 @@ guide the search process.
 34. Knowledge Graph aided LLM based ESG Question-Answering from News ((KG4S2024, co-located with ESWC2024) [[Paper](https://ceur-ws.org/Vol-3753/paper6.pdf)]
 35. Improving LLM-based KGQA for multi-hop Question Answering with implicit reasoning in few-shot examples (KaLLM 2024) [[Paper](https://aclanthology.org/2024.kallm-1.13/)]
 
+__SPARQL__
+1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
