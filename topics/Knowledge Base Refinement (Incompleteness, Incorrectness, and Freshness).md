@@ -52,6 +52,7 @@ __General Papers__
 28. KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion (Findings of the Association for Computational Linguistics: EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.580/)] 🔥
 29. Sequence-to-Sequence Knowledge Graph Completion and Question Answering (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.201/)]
 30. Multi-modal Siamese Network for Few-shot Knowledge Graph Completion (ICDE 2024) 🌟
+31. Open knowledge graph completion with negative-aware representation learning and multi-source reliability inference (Infomation Fusion 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005074)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
