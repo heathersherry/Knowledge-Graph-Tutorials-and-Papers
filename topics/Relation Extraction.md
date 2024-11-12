@@ -32,6 +32,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 14. Discovering Correlations between Sparse Features in Distant Supervision for Relation Extraction (WSDM 2019)
 15. KnowPrompt: Knowledge-aware Prompt-tuning with Synergestic Optimization for Relation Extraction (WWW 2022) [[Paper](https://arxiv.org/abs/2104.07650)] [[Code](https://github.com/zjunlp/KnowPrompt)]
 > * [Related works](https://github.com/thunlp/PromptPapers)
+16. Document-Level Relation Extraction Based on Heterogeneous Graph Reasoning (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679899)]
 
 __LLM for RE__ 🔥🔥🔥
 1. Revisiting Relation Extraction in the era of Large Language Models (ACL 2023) [[Paper](https://aclanthology.org/2023.acl-long.868.pdf)]
