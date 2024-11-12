@@ -52,6 +52,7 @@ __General KGQA__
 35. Knowledge Graph Question Answering with Ambiguous Query (WWW 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583316)]
 36. Efficient and Accurate Contextual Re-Ranking for Knowledge Graph Question Answering (LREC-COLING 2024) [[Paper](https://aclanthology.org/2024.lrec-main.496.pdf)]
 37. STaR: Space and Time-aware Statistic Query Answering (CIKM 2024) [[Paper](https://hal.science/hal-04689206v1)]
+38. DiaKoP: Dialogue-based Knowledge-oriented Programming for Neural-symbolic Knowledge Base Question Answering (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679229)]
 
 
 __Multiple Hop QA__
