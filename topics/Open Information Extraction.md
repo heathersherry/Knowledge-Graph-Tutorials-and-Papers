@@ -93,3 +93,7 @@ __Benchmarks__
 3. OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference (NAACL 2019)
 4. On Aligning OpenIE Extractions with Knowledge Bases: A Case Study (ACL 2020) [[Paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14.pdf)]
 5. Syntactic and Semantic-driven Learning for Open Information Extraction (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.findings-emnlp.69.pdf)]
+
+## Joint Multimodal Entity-Relation Extraction (JMERE) 
+### Research Papers
+1. CAG: A Consistency-Adaptive Text-Image Alignment Generation for Joint Multimodal Entity-Relation Extraction (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679883)]
