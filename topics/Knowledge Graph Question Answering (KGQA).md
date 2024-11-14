@@ -118,6 +118,7 @@ guide the search process.
 33. Retrieval-augmented generation with knowledge graphs for customer service question answering (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3661370)]
 34. Knowledge Graph aided LLM based ESG Question-Answering from News ((KG4S2024, co-located with ESWC2024) [[Paper](https://ceur-ws.org/Vol-3753/paper6.pdf)]
 35. Improving LLM-based KGQA for multi-hop Question Answering with implicit reasoning in few-shot examples (KaLLM 2024) [[Paper](https://aclanthology.org/2024.kallm-1.13/)]
+36. Towards Faithful Knowledge Graph Explanation Through Deep Alignment in Commonsense Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.1052.pdf)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
@@ -142,7 +143,9 @@ __SPARQL__
 13. __Leaderboard__: Knowledge Graph Question Answering Leaderboard: A Community Resource to Prevent a Replication Crisis (LREC 2022) [[Paper](https://aclanthology.org/2022.lrec-1.321/)]
 14. __ToolQA__: A Dataset for LLM Question Answering with External Tools (NeurIPS 2023, Datasets and Benchmarks Track) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9cb2a7495900f8b602cb10159246a016-Abstract-Datasets_and_Benchmarks.html)]
 15. __QuALITY__: Question Answering with Long Input Texts, Yes! (NAACL 2022) [[Link](https://nyu-mll.github.io/quality/)]
-16. __GeoQuestions1089__: The question answering system GeoQA2 and a new benchmark for its evaluation (International Journal of Applied Earth Observation and Geoinformation 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843224005594)] 
+16. __GeoQuestions1089__: The question answering system GeoQA2 and a new benchmark for its evaluation (International Journal of Applied Earth Observation and Geoinformation 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843224005594)]
+17. **CommonsenseQA in-house (IH) data split**:  Commonsenseqa: A question answering challenge targeting commonsense knowledge (NAACL 2019)
+18. **OpenBookQA**:  Can a suit of armor conduct electricity? a new dataset for open book question answering (EMNLP 2018)   
 
 ### 🧐 Others
 __Related Readings__
