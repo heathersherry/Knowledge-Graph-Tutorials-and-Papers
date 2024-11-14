@@ -29,8 +29,10 @@
 > * Map the dependency relations of an input sentence to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 
-__Open Relation Extraction__
+__Open Relation Extraction (ORE)__
 1. LOREM: Language-consistent Open Relation Extraction from Unstructured Text (WWW 2020)
+2. Topic-Oriented Open Relation Extraction with A Priori Seed Generation (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.766.pdf)] 🔥
+> PriORE leverages the built-in knowledge of LLMs to maintain a dynamic seed relation dictionary for the topic.
 
 ### Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering
 __General Papers__
