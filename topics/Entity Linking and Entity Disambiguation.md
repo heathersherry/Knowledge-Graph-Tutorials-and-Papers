@@ -45,6 +45,7 @@ __Notes and Discussions__
 19. Pivot-based Candidate Retrieval for Cross-lingual Entity Linking (WWW 2021) [[Video](http://videolectures.net/www2021_liu_candidate_retrieval/)]
 20. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 21. Linking Entities across Relations and Graphs (ACM Transactions on Database Systems 2024) [[Paper](https://dl.acm.org/doi/full/10.1145/3639363)] - From Prof. Wenfei Fan
+22. Unsupervised Named Entity Disambiguation for Low Resource Domains (EMNLP 2024)
 
 ### 📝 Coherence among Entities
 __Global Coherence__
