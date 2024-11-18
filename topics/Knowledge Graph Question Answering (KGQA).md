@@ -119,6 +119,7 @@ guide the search process.
 34. Knowledge Graph aided LLM based ESG Question-Answering from News ((KG4S2024, co-located with ESWC2024) [[Paper](https://ceur-ws.org/Vol-3753/paper6.pdf)]
 35. Improving LLM-based KGQA for multi-hop Question Answering with implicit reasoning in few-shot examples (KaLLM 2024) [[Paper](https://aclanthology.org/2024.kallm-1.13/)]
 36. Towards Faithful Knowledge Graph Explanation Through Deep Alignment in Commonsense Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.1052.pdf)]
+37. Retrieval and Reasoning on KGs: Integrate Knowledge Graphs into Large Language Models for Complex Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.findings-emnlp.446.pdf)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
