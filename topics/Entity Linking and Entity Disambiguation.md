@@ -74,6 +74,7 @@ __Global Coherence__
 23. A Novel Path-based Entity Relatedness Measure for Efficient Collective Entity Linking (ISWC 2020)
 24. Collective disambiguation in entity linking based on topic coherence in semantic graphs (2020) [[Paper](https://citius.usc.es/sites/default/files/publicacions_preprints/2019_kbs_v5_ans.pdf)]
 25. Collective List-Only Entity Linking: A Graph-Based Approach (IEEE Access 2018) [[Paper](https://ieeexplore.ieee.org/document/8320777)]
+26. Unsupervised Named Entity Disambiguation for Low Resource Domains (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.830.pdf)]
 
 __Relax the Global Coherence Assumption__
 1. Joint entity linking with deep reinforcement learning (WWW 2019) [[Paper](https://arxiv.org/pdf/1902.00330.pdf)]
