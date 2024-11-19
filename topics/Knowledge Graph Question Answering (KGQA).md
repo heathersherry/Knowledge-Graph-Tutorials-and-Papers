@@ -148,7 +148,7 @@ __SPARQL__
 15. __QuALITY__: Question Answering with Long Input Texts, Yes! (NAACL 2022) [[Link](https://nyu-mll.github.io/quality/)]
 16. __GeoQuestions1089__: The question answering system GeoQA2 and a new benchmark for its evaluation (International Journal of Applied Earth Observation and Geoinformation 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1569843224005594)]
 17. **CommonsenseQA in-house (IH) data split**:  Commonsenseqa: A question answering challenge targeting commonsense knowledge (NAACL 2019)
-18. **OpenBookQA**:  Can a suit of armor conduct electricity? a new dataset for open book question answering (EMNLP 2018)   
+18. **OpenBookQA**:  Can a suit of armor conduct electricity? a new dataset for open book question answering (EMNLP 2018)
 
 ### 🧐 Others
 __Related Readings__
