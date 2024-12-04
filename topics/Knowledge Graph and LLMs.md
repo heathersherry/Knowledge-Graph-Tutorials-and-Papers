@@ -111,6 +111,9 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs__
 __Prompting and Knowledge Graphs__
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 
+__VLMs and Knowledge Graphs__
+1. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023 poster) [[OpenReview](https://openreview.net/forum?id=YmEDnMynuO&noteId=0rFYtJNqHc)]
+
 __Related Works and Discussion (maybe they are not directly related to both KG and LLM, but they give us some insights!)__
 1. ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models (Arxiv 2021) [[Paper](https://arxiv.org/pdf/2108.12472.pdf)]
 > From Graph to Text
