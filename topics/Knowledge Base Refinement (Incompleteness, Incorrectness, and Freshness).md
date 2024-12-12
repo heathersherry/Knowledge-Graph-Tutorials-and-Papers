@@ -54,6 +54,7 @@ __General Papers__
 30. Multi-modal Siamese Network for Few-shot Knowledge Graph Completion (ICDE 2024) 🌟
 31. Open knowledge graph completion with negative-aware representation learning and multi-source reliability inference (Infomation Fusion 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005074)]
 32. Bi-directional Learning of Logical Rules with Type Constraints for Knowledge Graph Completion (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679695)]
+33. DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/html/2311.03780v2)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
@@ -66,6 +67,11 @@ __KGC/KGE based on Tensor Decomposition__
 __Projects__
 1. KG-BERT: BERT for Knowledge Graph Completion [[GitHub](https://github.com/yao8839836/kg-bert)]
 
+__Datasets/Benchmarks__
+1. **WN18RR**: Convolutional 2D Knowledge Graph Embeddings (AAAI 2018)
+2. **FB15k-237**: Observed versus Latent Features for Knowledge Base and Text Inference (3rd Workshop on Continuous Vector Space Models and their Compositionality, 2015)
+3. **CoDex-M**: CoDEx: A Comprehensive Knowledge Graph Completion Benchmark (EMNLP 2020)
+4. **YAGO3-10**: Yago3: A Knowledge Base from Multilingual Wikipedias (Conference on Innovative Data Systems Research, 2015)
 
 
 ### 📝 Knowledge Base Population
