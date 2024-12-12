@@ -54,7 +54,7 @@ __General Papers__
 30. Multi-modal Siamese Network for Few-shot Knowledge Graph Completion (ICDE 2024) 🌟
 31. Open knowledge graph completion with negative-aware representation learning and multi-source reliability inference (Infomation Fusion 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005074)]
 32. Bi-directional Learning of Logical Rules with Type Constraints for Knowledge Graph Completion (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679695)]
-33. DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/html/2311.03780v2)]
+33. DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/html/2311.03780v2)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/LMcF-Q0I_EX99LjgF9aMbA?token=748920746&lang=zh_CN)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
