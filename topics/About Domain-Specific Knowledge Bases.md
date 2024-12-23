@@ -179,3 +179,4 @@ __Research Papers__
 2. FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation (ISWC 2019) [[Github](https://foodkg.github.io/foodkg.html)]
 3. Modern Natural Language Processing Techniques for Scientific Web Mining: Tasks, Data, and Tools (WWW 2022 tutorial)
 4. UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction (NeurIPS 2023, Datasets and Benchmarks Track) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c4a30a4dd840cfeff30ba4d2661ff097-Paper-Datasets_and_Benchmarks.pdf)]
+5. UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction (NeurIPS 2024) [[Paper](https://arxiv.org/pdf/2402.06861)]
