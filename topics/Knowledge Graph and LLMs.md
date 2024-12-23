@@ -62,6 +62,7 @@ guide the search process.
 16. LLMs for knowledge graph construction and reasoning: recent capabilities and future opportunities (WWW journal 2024) [[Paper](https://link.springer.com/article/10.1007/s11280-024-01297-w)]
 17. Collaborative System Synergizing Human Expertise and Large-scale Language Models for Legal Knowledge Graph Construction (CEUR-WS 2024) [[Paper](https://ceur-ws.org/Vol-3828/paper9.pdf)]
 18. SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph (ACL 2024) [[Paper](https://aclanthology.org/2024.acl-long.238/)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/kxkQDspKeRTw-CveR2trWw?token=1056117110&lang=zh_CN)]
+19. UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction (NeurIPS 2024) [[Paper](https://arxiv.org/pdf/2402.06861)]
 
 __Knowledge Graphs for LLMs__
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
