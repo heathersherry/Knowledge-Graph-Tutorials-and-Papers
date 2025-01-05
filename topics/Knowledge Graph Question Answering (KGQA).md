@@ -152,6 +152,7 @@ __SPARQL__
 17. **CommonsenseQA in-house (IH) data split**:  Commonsenseqa: A question answering challenge targeting commonsense knowledge (NAACL 2019)
 18. **OpenBookQA**:  Can a suit of armor conduct electricity? a new dataset for open book question answering (EMNLP 2018)
 19. **RAC**: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings (EMNLP 2024, industry) [[Paper](https://aclanthology.org/2024.emnlp-industry.108.pdf)]
+20. **2WikiMultiHop Dataset**: Constructing a multihop QA dataset for comprehensive evaluation of reasoning steps (COLING 2020)
 
 ### 🧐 Others
 __Related Readings__
