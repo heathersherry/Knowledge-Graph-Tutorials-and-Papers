@@ -127,3 +127,4 @@ __General Papers (KBP from External Sources)__
 9. EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (WSDM 2022) [[Paper](https://arxiv.org/pdf/2202.07648.pdf)]
 10. KartGPS: Knowledge Base Update with Temporal Graph Pattern-based Semantic Rules (ICDE 2024) 🌟
 11. Towards Efficient Temporal Graph Learning: Algorithms, Frameworks, and Tools (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679104)]
+12. Editing Language Model-based Knowledge Graph Embeddings (AAAI 2024) [[Paper](https://arxiv.org/pdf/2301.10405)]
