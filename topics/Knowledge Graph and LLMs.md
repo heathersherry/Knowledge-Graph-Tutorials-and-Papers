@@ -65,6 +65,8 @@ guide the search process.
 19. UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction (NeurIPS 2024) [[Paper](https://arxiv.org/pdf/2402.06861)]
 20. A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning (NeurIPS 2024) [[Paper](https://arxiv.org/pdf/2410.12288)]
 >   LLM for KG reasoning
+21. Editing Language Model-based Knowledge Graph Embeddings (AAAI 2024) [[Paper](https://arxiv.org/pdf/2301.10405)]
+>   Update KG embedding for data freshness
 
 __Knowledge Graphs for LLMs__
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
