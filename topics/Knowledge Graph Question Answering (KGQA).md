@@ -124,6 +124,7 @@ guide the search process.
 37. Retrieval and Reasoning on KGs: Integrate Knowledge Graphs into Large Language Models for Complex Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.findings-emnlp.446.pdf)]
 38. Training-free Deep Concept Injection Enables Language Models for Video Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.1249.pdf)]
 39. A GAIL Fine-Tuned LLM Enhanced Framework for Low-Resource Knowledge Graph Question Answering (CIKM 2024) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679753)]
+40. Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering (ACL 2024) [[Paper](https://aclanthology.org/2024.acl-long.397/)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
@@ -153,6 +154,9 @@ __SPARQL__
 18. **OpenBookQA**:  Can a suit of armor conduct electricity? a new dataset for open book question answering (EMNLP 2018)
 19. **RAC**: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings (EMNLP 2024, industry) [[Paper](https://aclanthology.org/2024.emnlp-industry.108.pdf)]
 20. **2WikiMultiHop Dataset**: Constructing a multihop QA dataset for comprehensive evaluation of reasoning steps (COLING 2020)
+21. **HotpotQA (HQA)**: HotpotQA: A dataset for diverse, explainable multi-hop question answering (EMNLP 2018)
+22. **MuSiQue (MQA)**: MuSiQue: Multihop questions via single-hop question composition (TACL 2022)
+23. **StrategyQA (SQA)**: Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies (TACL 2021)
 
 ### 🧐 Others
 __Related Readings__
