@@ -56,6 +56,7 @@ __General KGQA__
 39. FZI-WIM at AVeriTeC Shared Task: Real-World Fact-Checking with Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.fever-1.8.pdf)] - Related to `knowledge store` instead of knowledge graph.
 40. Enhancing Complex Question Answering over Knowledge Graphs through Evidence Pattern Retrieval (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645563)]
 41. NuTrea: neural tree search for context-guided multi-hop KGQA (NeurIPS 2023) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/707a2d58641b2192203b4bf4c532cfe1-Abstract-Conference.html)]
+42. Uniqorn: Unified question answering over RDF knowledge graphs and natural language text (Journal of Web Semantics, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000192)]
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
