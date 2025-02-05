@@ -7,6 +7,8 @@ __General Tutorials__
 
 __Surveys__
 1. A Survey on Knowledge Graph-Based Recommender Systems (TKDE 2020) [[Paper](https://arxiv.org/pdf/2003.00911.pdf)][[Notes](https://mp.weixin.qq.com/s/d3rytwQ5Yta_hTGxtqXmvQ)] 🌟
+2. KG4RecEval: Does Knowledge Graph Really Matter for Recommender Systems? [[Paper](https://dl.acm.org/doi/abs/10.1145/3713071)]
+> * To remove, randomly distort or decrease knowledge does not necessarily decrease recommendation accuracy, even for cold-start users.
 
 ### 📝 Research Papers
 __General Topics__
