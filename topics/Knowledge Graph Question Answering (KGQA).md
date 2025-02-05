@@ -159,6 +159,8 @@ __SPARQL__
 21. **HotpotQA (HQA)**: HotpotQA: A dataset for diverse, explainable multi-hop question answering (EMNLP 2018)
 22. **MuSiQue (MQA)**: MuSiQue: Multihop questions via single-hop question composition (TACL 2022)
 23. **StrategyQA (SQA)**: Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies (TACL 2021)
+24. **CQW**: The web as a knowledge-base for answering complex questions (NAACL 2018)
+25. **WebQSP**: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
 
 ### 🧐 Others
 __Related Readings__
