@@ -126,6 +126,7 @@ guide the search process.
 38. Training-free Deep Concept Injection Enables Language Models for Video Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.1249.pdf)]
 39. A GAIL Fine-Tuned LLM Enhanced Framework for Low-Resource Knowledge Graph Question Answering (CIKM 2024) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679753)]
 40. Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering (ACL 2024) [[Paper](https://aclanthology.org/2024.acl-long.397/)]
+41. RGR-KBQA: Generating Logical Forms for Question Answering Using Knowledge-Graph-Enhanced Large Language Model (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.205/)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
