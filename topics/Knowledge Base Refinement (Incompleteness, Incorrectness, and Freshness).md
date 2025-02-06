@@ -57,6 +57,7 @@ __General Papers__
 33. DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/html/2311.03780v2)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/LMcF-Q0I_EX99LjgF9aMbA?token=748920746&lang=zh_CN)]
 34. Contextualization Distillation from Large Language Model for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.01729)] 🔥
 35. SemSI-GAT: Semantic Similarity-based Interaction Graph Attention Network for Knowledge Graph Completion (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10839124)]
+36. Anytime bottom-up rule learning for large-scale knowledge graph completion (VLDBJ 2023) 🌟 [[Paper](https://link.springer.com/article/10.1007/s00778-023-00800-5)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
