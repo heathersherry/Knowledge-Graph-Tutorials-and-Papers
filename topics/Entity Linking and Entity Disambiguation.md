@@ -254,6 +254,7 @@ __Supervised__
 3. Instructed Language Models with Retrievers Are Powerful Entity Linkers (Arxiv 2023) [[Paper](https://arxiv.org/abs/2311.03250)]
 4. Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2311.15781v1.pdf)]
 5. Use Large Language Models for Named Entity Disambiguation in Academic Knowledge Graphs (EIMSS 2023) [[Paper](https://www.atlantis-press.com/proceedings/eimss-23/125991633))]
+6. Contextual Augmentation for Entity Linking using Large Language Models (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.570/)]
 
 ### 🛠️ Awesome Tools
 1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
