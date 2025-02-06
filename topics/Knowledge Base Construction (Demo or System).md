@@ -55,5 +55,9 @@ __Fact Finding__
 __Taxonomy Expansion__
 1. Enquire One’s Parent and Child Before Decision: Fully Exploit Hierarchical Structure for Self-Supervised Taxonomy Expansion
 
+__Incremental Construction__
+1. Incremental Knowledge Graph Construction from Heterogeneous Data Sources (semantic-web-journal 2025) [[Paper](https://semantic-web-journal.net/system/files/swj3790.pdf)]
+
+
 
 
