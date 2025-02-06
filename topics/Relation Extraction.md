@@ -46,6 +46,7 @@ __LLM for RE__ 🔥🔥🔥
 1. __(Dataset) CoNLL__: A Linear Programming Formulation for Global Inference in Natural Language Tasks (ACL 2004)
 2. __(Dataset) NYT__: Modeling relations and their mentions without labeled text (ECML/PKDD 2010)
 3. __(Platform)__: Benchmarks for RE [[Link](https://paperswithcode.com/task/relation-extraction/latest)]
+4. __(Benchmark)__: NCRE: A Benchmark for Document-level Nominal Compound Relation Extraction (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.701/)]
 
 ### 💬 Interesting Blogs and Discussions
 1. 基于神经网络的实体识别和关系抽取联合学习 (in Chinese)[[Link](https://www.cnblogs.com/robert-dlut/p/7710735.html)]
