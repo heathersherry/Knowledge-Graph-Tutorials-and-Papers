@@ -12,7 +12,7 @@
 3. Open Information Extraction on Scientific Text: An Evaluation [[Paper](http://aclweb.org/anthology/C18-1289)]
 4. Open Information Extraction (OIE) Resources Summary [[Paper](https://github.com/gkiril/oie-resources)]
 
-### OpenIE Tools
+### OpenIE Tools or Works
 1. Open Information Extraction from the Web (TextRunner, IJCAI 2007)
 > * Incoherent Extractions 
 > * Uninformative Extractions
@@ -21,13 +21,14 @@
 > * identify and remove parts that are considered over specific
 3. Facts that Matter (SALIE, EMNLP 2018) [[Code](https://github.com/mponza/SalIE)]
 > * Extract salient facts, which fulfil two requirements: (1) relevance and (2) diversity
-4. Identifying Relations for Open Information Extraction (ReVerb, EMNLP 2011) [[Paper](http://www.aclweb.org/anthology/D11-1142)][[Code](https://github.com/knowitall/reverb)][[Homepage](http://reverb.cs.washington.edu/)]               
+4. Identifying Relations for Open Information Extraction (ReVerb, EMNLP 2011) [[Paper](http://www.aclweb.org/anthology/D11-1142)][[Code](https://github.com/knowitall/reverb)][[Homepage](http://reverb.cs.washington.edu/)]         
 > * Use syntactic constraints to specify relation phrases (3 simple patterns). Find longest phrase matching one of the syntactic constraints. 
 > * Find nearest noun-phrases to the left and right of relation phrase. - Not a relative pronoun or WHO-adverb or an existential there.
 > * To avoid "over-specified" relation phrases, a relation phrase must have many distinct args in a large corpus
 5. ClausIE: Clause-Based Open Information Extraction (ClausIE, WWW 2013) [[Paper](http://resources.mpi-inf.mpg.de/d5/clausie/clausie-www13.pdf)][[Code (Python)](https://github.com/AnthonyMRios/pyclausie)][[Code (Java)](https://github.com/IsaacChanghau/ClausIE)]
 > * Map the dependency relations of an input sentence to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
+6. CycleOIE: A Low-Resource Training Framework For Open Information Extraction (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.227/)]
 
 __Open Relation Extraction (ORE)__
 1. LOREM: Language-consistent Open Relation Extraction from Unstructured Text (WWW 2020)
