@@ -61,6 +61,7 @@ __General Papers__
 28. Document-Level Relation Extraction Based on Heterogeneous Graph Reasoning (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679899)]
 29. Embedding Knowledge Graphs in Function Spaces (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679819)]
 30. Noise-powered Multi-modal Knowledge Graph Representation Framework (COLING 2025)
+31. Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation (COLING 2025)
  
 __Dynamic Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
