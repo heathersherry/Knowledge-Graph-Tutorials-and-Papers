@@ -58,6 +58,7 @@ __General KGQA__
 41. NuTrea: neural tree search for context-guided multi-hop KGQA (NeurIPS 2023) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/707a2d58641b2192203b4bf4c532cfe1-Abstract-Conference.html)]
 42. Uniqorn: Unified question answering over RDF knowledge graphs and natural language text (Journal of Web Semantics, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000192)]
 43. Reasoning with Trees: Faithful Question Answering over Knowledge Graph (COLING 2025)
+44. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025)
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
