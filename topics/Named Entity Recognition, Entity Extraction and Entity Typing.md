@@ -10,7 +10,7 @@
 
 ### 📝 Research Papers
 
-__General NER__
+__General NER or Entity Typing__
 1. Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion [Knowledge Vault, KDD 2014] 🌟
 2. ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering [ClusType, KDD2015] (Also Relation Clustering) coarse grained entity typing 🌟 
 3. Named entity recognition with document-specific KB tag gazetteers (EMNLP 2015)
@@ -27,6 +27,7 @@ __General NER__
 14. Mis-categorized entities detection [[Paper](https://link.springer.com/article/10.1007/s00778-021-00653-w)] (VLDBJ 2021) 🌟
 15. Neural Named Entity Boundary Detection [[Paper](https://ieeexplore.ieee.org/document/9039695/)] (TKDE 2021) 🌟
 16. Enhancing Temporal and Geographical Named Entity Recognition in Chinese Ancient Texts with External Time-series Knowledge Bases (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679917)]
+17. Knowledge Graph Entity Typing with Curriculum Contrastive Learning (COLING 2025)
 
 __Fine-grained NER or Entity Typing__
 1. Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding (PLE, KDD 2016) fine-grained entity typing
