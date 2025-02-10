@@ -100,6 +100,7 @@ __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Quest
 
 
 __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
+
 My thoughts:
 * This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
 * Graph RAG/KAG may be more valuable in domain-specific area.
