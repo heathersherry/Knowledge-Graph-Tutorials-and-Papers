@@ -104,6 +104,18 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 My thoughts:
 * This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
 * Graph RAG/KAG may be more valuable in domain-specific area.
+* However, although the evaluation results on research benchmarks of multi-hop QA proves that KAG works, I am still wondering whether KAG really works in real-world scenarios, since building accurate domain-specific KG is very costly. Purely employing the exisiting information extraction methods (e.g., various tools for OpenIE) cannot output a KG with 100% correct and reliable knowledge. Maybe the KAG work (Arxiv 2024) is a good example to start this research, since it successfully applied KAG to two professional knowledge Q&A tasks of the industrial downstream tasks in the Ant Group.
+
+There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
+1. GraphRAG
+2. DALK
+3. SUGRE
+4. ToG 2.0
+5. GRAG
+6. GNN-RAG
+7. HippoRAG
+
+Here are some general works:
 1. (A very good paper for beginners) Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 2. OpenSPG, a knowledge graph engine developed by Ant Group in collaboration with OpenKG [[Website](https://spg.openkg.cn/)] [[Github](https://github.com/OpenSPG/openspg/tree/master)] ⭐
 > * an open engine for knowledge graph designed and implemented on the basis of SPG framework, which provides explicit semantic representations, logical rule definitions, operator frameworks (construction, inference) and other capabilities for the domain knowledge graphs, and supports pluggable adaptation of basic engines and algorithmic services by various vendors to build customized solutions.
