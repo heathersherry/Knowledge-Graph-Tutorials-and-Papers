@@ -112,26 +112,26 @@ Some good papers/surveys for beginners to know more about RAG:
 * The keypoint of Graph RAG/KAG should be **the wiseful integration** of the benefits of unstructured information and structured information.
 
 There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
-1. GraphRAG
-2. DALK
-3. SUGRE
-4. ToG 2.0
-5. GRAG
-6. GNN-RAG
+1. **GraphRAG**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)]
+2. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
+3. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
+4. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
+5. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)]
+6. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
 7. **HippoRAG**: Neurobiologically Inspired Long-Term Memory for Large Language Models [[Paper](https://arxiv.org/pdf/2405.14831)]
-8. OpenSPG, a knowledge graph engine developed by Ant Group in collaboration with OpenKG [[Website](https://spg.openkg.cn/)] [[Github](https://github.com/OpenSPG/openspg/tree/master)] ⭐
+8. **OpenSPG**, a knowledge graph engine developed by Ant Group in collaboration with OpenKG [[Website](https://spg.openkg.cn/)] [[Github](https://github.com/OpenSPG/openspg/tree/master)] ⭐
 > * an open engine for knowledge graph designed and implemented on the basis of SPG framework, which provides explicit semantic representations, logical rule definitions, operator frameworks (construction, inference) and other capabilities for the domain knowledge graphs, and supports pluggable adaptation of basic engines and algorithmic services by various vendors to build customized solutions.
-9. KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation [[Paper](https://arxiv.org/pdf/2409.13731)] ⭐
+9. **KAG**: Boosting LLMs in Professional Domains via Knowledge Augmented Generation [[Paper](https://arxiv.org/pdf/2409.13731)] ⭐
 > * (1) LLM-friendly knowledge representation, (2) mutual-indexing between knowledge graphs and original chunks, (3) logical-form-guided hybrid reasoning engine, (4) knowledge alignment with semantic reasoning, and (5) model capability enhancement for KAG.
 > * Compared with RAG, achieving a relative improvement of 19.6% on hotpotQA and 33.5% on 2wiki in terms of F1 score.
 > * Applied KAG to two professional knowledge Q&A tasks of Ant Group, including E-Government Q&A and E-Health Q&A, achieving significant improvement in professionalism compared to RAG methods.
-10. LightRAG: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)]
+10. **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)]
 
 Here are some general works:
-4. Knowledge Graph RAG Query Engine [[Link](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine.html)]
-5. GraphRAG: Unlocking LLM discovery on narrative private data (Feb 2024, Microsoft) [[Link](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)]
-6. Going Meta - Ep 22: RAG with Knowledge Graphs (from Neo4j) [[YouTube](https://www.youtube.com/watch?v=9DxwgIKVSHY)]
-7. A very clear blog (in Chinese) to demonstrate Graph RAG: 7 种查询策略教你用好 Graph RAG 探索知识图谱 [[Blog](https://www.cnblogs.com/nebulagraph/p/17882072.html)], which also provides valuable references:
+1. Knowledge Graph RAG Query Engine [[Link](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine.html)]
+2. GraphRAG: Unlocking LLM discovery on narrative private data (Feb 2024, Microsoft) [[Link](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)]
+3. Going Meta - Ep 22: RAG with Knowledge Graphs (from Neo4j) [[YouTube](https://www.youtube.com/watch?v=9DxwgIKVSHY)]
+4. A very clear blog (in Chinese) to demonstrate Graph RAG: 7 种查询策略教你用好 Graph RAG 探索知识图谱 [[Blog](https://www.cnblogs.com/nebulagraph/p/17882072.html)], which also provides valuable references:
 > * Graph RAG LlamaIndex Workshop：[[Blog](https://colab.research.google.com/drive/1tLjOg2ZQuIClfuWrAC2LdiZHCov8oUbs?usp=sharing)]
 > * Knowledge Graph Index：[[Link](https://gpt-index.readthedocs.io/en/stable/examples/index_structs/knowledge_graph/KnowledgeGraphDemo.html#knowledge-graph-index)]
 > * Knowledge Graph Query Engine：[[Link](https://gpt-index.readthedocs.io/en/stable/examples/query_engine/knowledge_graph_query_engine.html)]
@@ -139,16 +139,16 @@ Here are some general works:
 > * Custom Retriever combining KG Index and VectorStore Index：[[Link](https://gpt-index.readthedocs.io/en/stable/examples/index_structs/knowledge_graph/KnowledgeGraphIndex_vs_VectorStoreIndex_vs_CustomIndex_combined.html)]
 > * LlamaIndex Webinar: Graph Databases, Knowledge Graphs, and RAG with Wey (NebulaGraph)：[[Link](https://www.youtube.com/watch?v=bPoNCkjDmco)]
 > * Enhancing Large Language Models with Knowledge Graphs: The Role of Graph Algorithms
-6. Biomedical knowledge graph-enhanced prompt generation for large language models (Nov 2023) [[Paper](https://arxiv.org/pdf/2311.17330.pdf)]
+5. Biomedical knowledge graph-enhanced prompt generation for large language models (Nov 2023) [[Paper](https://arxiv.org/pdf/2311.17330.pdf)]
 > * A task-agnostic Knowledge Graph-based Retrieval Augmented Generation (KG-RAG) framework by leveraging the massive biomedical KG SPOKE with LLMs such as Llama-2-13b, GPT-3.5-Turbo and GPT-4, to generate meaningful biomedical text rooted in established knowledge.
-7. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
-8. Retrieval-augmented Generation across Heterogeneous Knowledge (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-srw.7/)]
-9. GraphRAG by Microsoft [[GitHub repo](https://github.com/microsoft/graphrag)] ⭐
+6. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
+7. Retrieval-augmented Generation across Heterogeneous Knowledge (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-srw.7/)]
+8. GraphRAG by Microsoft [[GitHub repo](https://github.com/microsoft/graphrag)] ⭐
 > * It uses knowledge graph memory structures to enhance LLM outputs
-10. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
-11. Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.17600)] [[Notes(Chinese)]()]
-12. LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.18050)] [[Github](https://github.com/QingFei1/LongRAG)]
-14. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models
+9. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
+10. Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.17600)] [[Notes(Chinese)]()]
+11. LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.18050)] [[Github](https://github.com/QingFei1/LongRAG)]
+12. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models
 
 __Prompting and Knowledge Graphs__
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
