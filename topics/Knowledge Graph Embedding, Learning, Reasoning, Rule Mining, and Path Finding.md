@@ -138,3 +138,12 @@ __General Papers__
 3. Robust Discovery of Positive and Negative Rules in Knowledge Bases (ICDE 2018) [[PDF](http://www.eurecom.fr/fr/publication/5321/download/data-publi-5321_2.pdf)] 🌟
 4. An Embedding-Based Approach to Rule Learning in Knowledge Graphs [[Paper](https://ieeexplore.ieee.org/document/8839576/)] (TKDE 2021) 🌟
 
+### 📊 Benchmarks
+1. FB13 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
+2. FB15K [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
+3. FB15K237 [[Paper](https://aclanthology.org/D15-1174/)]
+4. WN11 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
+5. WN18 [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
+6. WN18RR [[Paper](https://arxiv.org/abs/1707.01476)]
+ 
+
