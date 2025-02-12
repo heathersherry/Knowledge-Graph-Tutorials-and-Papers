@@ -114,36 +114,6 @@ Research Topics in Knowledge Graph
 > * A very good and brief overview of Genearative AI! After listening to this course, you are able to clarify the important concepts in generative AI. For example, you can at least tell the difference between prompt engineering and fine-tuning (I think this is a very common mistake made by most people and even papers XD)
 
 ## Useful Tools or APIs
-
-#### Named Entity Recogntion and Entity Linking
-1. TagMe [[Python API](https://pypi.org/project/tagme/)] [[API](https://tagme.d4science.org/tagme/)] [[GitHub1](https://github.com/marcocor/tagme-python)] [[GitHub2](https://github.com/gammaliu/tagme)]
-2. Stanford NER [[Link](https://nlp.stanford.edu/software/CRF-NER.html)]
-3. DBpedia Spotlight [[Link](https://www.dbpedia-spotlight.org/)]
-4. NLTK Tagger [[Link](https://www.nltk.org/book/ch05.html)]
-5. SpaCy [[Link1](https://spacy.io/api/annotation#section-named-entities)] [[Link2](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)]
-   > * spacy-llm [[Link](https://github.com/explosion/spacy-llm)]
-7. EARL (including Relation Linking) [[Link](https://github.com/AskNowQA/EARL)]
-8. Falcon (including Relatoin Linking) [[DBpedia version](https://github.com/AhmadSakor/falcon)] [[Wikidata version](https://github.com/SDM-TIB/falcon2.0)] 
-9. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
-10. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
-11. PIKES [[Link](http://pikes.fbk.eu)]
-
-#### Benchmark Datasets
-1. Entity Disambiguation: 
-* MSNBC and ACE2004 [[Link](https://users.dcc.uchile.cl/~hrosales/MSNBC_ACE2004_to_NIF.html)]
-2. QA: 
-* WebQuestions
-* QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
-3. Entity Resolution [[GitHub](https://github.com/scify/JedAIToolkit/tree/master/data)]
-4. KGE, KBC and KG Reasoning
-* FB13 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
-* FB15K [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
-* FB15K237 [[Paper](https://aclanthology.org/D15-1174/)]
-* WN11 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
-* WN18 [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
-* WN18RR [[Paper](https://arxiv.org/abs/1707.01476)]
- 
-#### Other Useflul Tools
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
 2. SPARQL tutorial [[Link](https://www.w3.org/2009/Talks/0615-qbe/)]
 3. Installing and running ElasticSearch [[Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/targz.html)]
