@@ -165,6 +165,9 @@ __SPARQL__
 24. **CQW**: The web as a knowledge-base for answering complex questions (NAACL 2018)
 25. **WebQSP**: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
 
+References:
+1. QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
+
 ### 🧐 Others
 __Related Readings__
 1. Unsupervised Question Decomposition for Question Answering (EMNLP 2020) [[Paper](https://www.aclweb.org/anthology/2020.emnlp-main.713.pdf)] [[Code](https://github.com/facebookresearch/UnsupervisedDecomposition)]
