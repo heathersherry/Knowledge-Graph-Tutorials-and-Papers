@@ -167,6 +167,7 @@ __SPARQL__
 23. **StrategyQA (SQA)**: Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies (TACL 2021)
 24. **CQW**: The web as a knowledge-base for answering complex questions (NAACL 2018)
 25. **WebQSP**: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
+26. **MarkQA**: A large scale KBQA dataset with numerical reasoning (EMNLP 2023) [[Paper](https://arxiv.org/abs/2310.15517)]
 
 References:
 1. QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
