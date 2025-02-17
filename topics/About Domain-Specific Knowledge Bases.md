@@ -157,6 +157,9 @@ __Datasets__
 5. 基金知识图谱 [[Link](http://www.openkg.cn/dataset/fundkg)]
 6. 其他中文金融相关知识图谱数据集 [[Link](http://www.openkg.cn/dataset?tags=%E9%87%91%E8%9E%8D)]
 
+__Research Papers__
+1. Construction and Canonicalization of Economic Knowledge Graphs with LLMs (KGSWC 2024) [[Link](https://books.google.com.hk/books?hl=zh-CN&lr=&id=3yhGEQAAQBAJ&oi=fnd&pg=PA334&ots=KPSlLdVk8m&sig=HW4PzpubB902d1_dLgwv_UWpIGY&redir_esc=y#v=onepage&q&f=false)]
+
 ### 🙍 Personalized KB
 __Research Papers__
 1. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket (ICDM 2019 Best Paper) [[Paper](https://ieeexplore.ieee.org/document/8970788)]
