@@ -102,6 +102,8 @@ __Research Papers__
 13. CancerKG.ORG - A Web-scale, Interactive, Verifiable Knowledge Graph-LLM Hybrid for Assisting with Optimal Cancer Treatment and Care (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3680094)]
 14. Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction (TKDE 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10706014)] 🌟
 15. BioLinkerAI: Capturing Knowledge Using LLMs to Enhance Biomedical Entity Linking (WISE 2024) [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_19)]
+16. Knowledge Enhanced Representation Learning for Drug Discovery (AAAI 2024) [[Paper](file:///C:/Users/l00628295/Downloads/28924-Article%20Text-32978-1-2-20240324.pdf)] [[Notes in Chinese](https://mp.weixin.qq.com/s/MayWOs6zGWMjBc10zavOKw?token=1754278729&lang=zh_CN)]
+>   * Release an MKG containing 30 million triples. The MKG enhanced representation surpasses the state of the art for predicting drugs-proteins interactions (GNN related).
 
 __Datasets__
 1. PubMed
