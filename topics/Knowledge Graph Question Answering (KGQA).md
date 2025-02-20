@@ -133,6 +133,8 @@ guide the search process.
 43. Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering (ACL 2024)
 >   Two challenges in LLM-assisted QA: responses are both accommodating to user requirements and appropriately leveraging domain-specific knowledge bases.
 >   This paper introduces Knowledgeable Preference AlignmenT(KnowPAT), which constructs two kinds of preference sets to tackle the two issues. They design a new alignment objective to align the LLM preference with different human preferences uniformly.
+44. Reasoning with Trees: Faithful Question Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.211/)]
+>   This work integrates LLMs with knowledge graphs (KGs) to enhance reasoning performance and interpretability, by formu;ating KGQA as a discrete decision-making problem, leveraging Monte Carlo Tree Search (MCTS) to iteratively refine reasoning paths.
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
