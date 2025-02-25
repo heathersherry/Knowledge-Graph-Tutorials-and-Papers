@@ -61,6 +61,10 @@ __General Papers__
 15. Multi-level feature interaction for open knowledge base canonicalization (Knowledge-Based Systems 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124010207?__cf_chl_tk=VldX2UjfxVRSLXLYqj73WJ3IajVHYMNu4nwL6PPdh7A-1724223118-0.0.1.1-6249)]
 16. Jointly Canonicalizing and Linking Open Knowledge Base via Unified Embedding Learning (WWW 2024) [[Paper](https://dl.acm.org/doi/10.1145/3589334.3645700)]
 17. Enhancing Domain-Independent Knowledge Graph Construction through OpenIE Cleaning and LLMs Validation (International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, 2024) [[Paper](https://hal.science/EC-NANTES/hal-04702397v1)] 🔥
+18. CMVC+: a Multi-View Clustering Framework for Open Knowledge Base Canonicalization via Contrastive Learning (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10891880)] 🌟
+>   * CMVC+ is a novel unsupervised framework for canonicalizing OKBs without the need for manually annotated labels.
+>   * A multi-view CHF K-Means clustering algorithm mutually reinforces the clustering of view-specific embeddings learned from each view by considering the clustering quality in a fine-grained manner.
+>   * A novel contrastive learning module refines the learned view-specific embeddings.
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
