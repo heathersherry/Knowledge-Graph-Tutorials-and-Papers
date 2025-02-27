@@ -126,6 +126,7 @@ __General Papers__
 17. Towards Foundation Models for Knowledge Graph Reasoning (ICLR 2024) [[Paper](https://arxiv.org/pdf/2310.04562)] [[Discussion](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507232&idx=1&sn=d0d987505e14b5fdc07bfbbac61ef052&chksm=fcb07ac5cbc7f3d39e72a107ba52980d50eca7c3404aab2ee6c316e82f153ff81314a4da6916&token=614723215&lang=zh_CN#rd)]
 18. Relation Logical Reasoning and Relation-aware Entity Encoding for Temporal Knowledge Graph Reasoning (COLING 2025)
 19. Hawkes based Representation Learning for Reasoning over Scale-free Community-structured Temporal Knowledge Graphs (COLING 2025)
+20. Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)] 🔥
 
 __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
