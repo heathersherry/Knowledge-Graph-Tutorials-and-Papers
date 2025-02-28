@@ -110,9 +110,10 @@ __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Quest
 
 __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 
-Some good papers/surveys for beginners to know more about RAG:
+Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
+3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
 
 💡 My thoughts!:
 * This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
