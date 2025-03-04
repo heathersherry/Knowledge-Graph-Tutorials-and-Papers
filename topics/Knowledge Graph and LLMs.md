@@ -110,18 +110,22 @@ __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Quest
 
 __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 
-Some good papers/surveys for beginners to know more about RAG and Graph RAG:
+💡 Traditional RAG Frameworks：
+1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - VDB: LanceDB
+2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - VDB: PostgreSQL + pgvector
+3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - VDB: Elasticsearch
+
+💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
+> My thoughts!:
+> * This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
+> * Graph RAG/KAG may be more valuable in domain-specific area.
+> * However, although the evaluation results on research benchmarks of multi-hop QA proves that KAG works, I am still wondering whether KAG really works in real-world scenarios, since building accurate domain-specific KG is very costly. Purely employing the exisiting information extraction methods (e.g., various tools for OpenIE) cannot output a KG with 100% correct and reliable knowledge. Maybe the KAG work (Arxiv 2024) is a good example to start this research, since it successfully applied KAG to two professional knowledge Q&A tasks of the industrial downstream tasks in the Ant Group.
+> * The keypoint of Graph RAG/KAG should be **the wiseful integration** of the benefits of unstructured information and structured information.
 
-💡 My thoughts!:
-* This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
-* Graph RAG/KAG may be more valuable in domain-specific area.
-* However, although the evaluation results on research benchmarks of multi-hop QA proves that KAG works, I am still wondering whether KAG really works in real-world scenarios, since building accurate domain-specific KG is very costly. Purely employing the exisiting information extraction methods (e.g., various tools for OpenIE) cannot output a KG with 100% correct and reliable knowledge. Maybe the KAG work (Arxiv 2024) is a good example to start this research, since it successfully applied KAG to two professional knowledge Q&A tasks of the industrial downstream tasks in the Ant Group.
-* The keypoint of Graph RAG/KAG should be **the wiseful integration** of the benefits of unstructured information and structured information.
-
-There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
+💡 There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
 1. **GraphRAG**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)]
 2. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
 3. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
@@ -140,7 +144,7 @@ There are some pioneer works that **use KGs** to enhance the performance of the 
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 12. **LazyGraphRAG**: Setting a new standard for quality and cost - Microsoft Research (Microsoft, Nov 2024) [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
 
-Here are some general works:
+💡 Here are some general research works for KG+RAG:
 1. Knowledge Graph RAG Query Engine [[Link](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine.html)]
 2. GraphRAG: Unlocking LLM discovery on narrative private data (Feb 2024, Microsoft) [[Link](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)]
 3. Going Meta - Ep 22: RAG with Knowledge Graphs (from Neo4j) [[YouTube](https://www.youtube.com/watch?v=9DxwgIKVSHY)]
