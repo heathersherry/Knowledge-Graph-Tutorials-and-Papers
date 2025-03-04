@@ -110,10 +110,14 @@ __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Quest
 
 __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 
-💡 Traditional RAG Frameworks：
-1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - VDB: LanceDB
-2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - VDB: PostgreSQL + pgvector
-3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - VDB: Elasticsearch
+💡 Traditional RAG Frameworks - It is highly recommended that you get familiar with one or more of the following frameworks first：
+1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
+2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - Default VDB: PostgreSQL + pgvector
+3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - Default VDB: Elasticsearch
+4. Dify (agentic AI workflow, RAG pipeline, agent capabilities, model management, ...) [[Github](https://github.com/langgenius/dify/)] - VDB: Elasticsearch / TiDB? ([[can refer to yaml](https://github.com/langgenius/dify/blob/main/docker/docker-compose.yaml)])
+5. FastGPT (data processing, RAG retrieval, and visual AI workflow orchestration) [[Github](https://github.com/labring/FastGPT/blob/main/README_en.md)] - VDB: MongoDB + PostgreSQL (PG Vector)/Milvus
+6. LangChain-Chatchat/Langchain-ChatGLM (local knowledge based LLM RAG and Agent) [[Github](https://github.com/chatchat-space/Langchain-Chatchat)] Default DB:sqlite?
+7. QAnything (a local knowledge base question-answering system designed to support a wide range of file formats and databases, from 网易有道速读) [[Github](https://github.com/netease-youdao/QAnything)] 
 
 💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
@@ -122,7 +126,7 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 > My thoughts!:
 > * This may be different from multi-modal RAG, where the context is in multiple modalities (e.g., image, text, video, ...) represented as embedding, and the query is based on fuzzy serach in vector db. If we need to query the knowledge in KGs, we need to rely on other query engine, such as SPAEQL on graphs.
 > * Graph RAG/KAG may be more valuable in domain-specific area.
-> * However, although the evaluation results on research benchmarks of multi-hop QA proves that KAG works, I am still wondering whether KAG really works in real-world scenarios, since building accurate domain-specific KG is very costly. Purely employing the exisiting information extraction methods (e.g., various tools for OpenIE) cannot output a KG with 100% correct and reliable knowledge. Maybe the KAG work (Arxiv 2024) is a good example to start this research, since it successfully applied KAG to two professional knowledge Q&A tasks of the industrial downstream tasks in the Ant Group.
+> * However, although the evaluation results on research benchmarks of multi-hop QA proves that KAG works, I am still wondering whether KAG really works in real-world scenarios, since building accurate domain-specific KG is very costly. Purely employing the exisiting information extraction methods (e.g., various tools for OpenIE) cannot output a KG with 100% correct and reliable knowledge, which may lead to hallusiciasion as well. Maybe the KAG work (Arxiv 2024) is a good example to start this research, since it successfully applied KAG to two professional knowledge Q&A tasks of the industrial downstream tasks in the Ant Group.
 > * The keypoint of Graph RAG/KAG should be **the wiseful integration** of the benefits of unstructured information and structured information.
 
 💡 There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
