@@ -148,6 +148,8 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 11. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 12. **LazyGraphRAG**: Setting a new standard for quality and cost - Microsoft Research (Microsoft, Nov 2024) [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
+13. **Graph RAG-Tool Fusion** [[Paper](https://arxiv.org/pdf/2502.07223)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/0yLAr_xcLr_1-EI_Np3qig)]
+
 
 💡 Here are some general research works for KG+RAG:
 1. Knowledge Graph RAG Query Engine [[Link](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine.html)]
