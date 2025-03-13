@@ -119,7 +119,8 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 6. LangChain-Chatchat/Langchain-ChatGLM (local knowledge based LLM RAG and Agent) [[Github](https://github.com/chatchat-space/Langchain-Chatchat)] Default DB:sqlite?
 7. QAnything (a local knowledge base question-answering system designed to support a wide range of file formats and databases, from 网易有道速读) [[Github](https://github.com/netease-youdao/QAnything)]
 8. Quivr (Opiniated RAG) [[Github](https://github.com/QuivrHQ/quivr)] - Any Vectorstore: PGVector, Faiss
-9. 
+9. RAG-GPT [[GitHub](https://github.com/gpt-open/rag-gpt)]
+10. Verba - [[GitHub](https://github.com/weaviate/Verba)] VDB：Weaviate
 
 💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
