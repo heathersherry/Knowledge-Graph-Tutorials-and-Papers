@@ -104,3 +104,4 @@ __Benchmarks__
 ## Joint Multimodal Entity-Relation Extraction (JMERE) 
 ### Research Papers
 1. CAG: A Consistency-Adaptive Text-Image Alignment Generation for Joint Multimodal Entity-Relation Extraction (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679883)]
+2. Enhancing Multimodal Object-Entity Relation Extraction via Multi-Aspect Contrastive Learning in Large Multimodal Models (IEEE Transactions on Audio, Speech and Language Processing, 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10910215)]
