@@ -101,9 +101,10 @@ __Downstream Applications__
 2. Entity Classification
 
 ### 📝 KG Reasoning
-__Summary__
+__Summarys and Surveys__
 1. Knowledge Graph Reasoning Papers [[GitHub](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers)]
-2. wesome-Knowledge-Graph-Reasoning [[GitHub](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
+2. Awesome-Knowledge-Graph-Reasoning [[GitHub](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
+3. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal [[Paper](https://ieeexplore.ieee.org/abstract/document/10577554)]
 
 __General Papers__
 1. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (Know-Evolve, ICML 2017)[[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[Code (C++)](https://github.com/rstriv/Know-Evolve)]
