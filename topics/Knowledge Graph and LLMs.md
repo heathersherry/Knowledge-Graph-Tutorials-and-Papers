@@ -75,6 +75,7 @@ guide the search process.
 >   Update KG embedding for data freshness
 22. Language Models over Large-Scale Knowledge Base: on Capacity, Flexibility and Reasoning for New Facts (COLING 2025)
 23. Construction and Canonicalization of Economic Knowledge Graphs with LLMs (KGSWC 2024) [[Link](https://books.google.com.hk/books?hl=zh-CN&lr=&id=3yhGEQAAQBAJ&oi=fnd&pg=PA334&ots=KPSlLdVk8m&sig=HW4PzpubB902d1_dLgwv_UWpIGY&redir_esc=y#v=onepage&q&f=false)]
+24. Utilizing Language Models For Synthetic Knowledge Graph Generation (ICLR 2025 Workshop Data Problems) [[Paper](https://openreview.net/forum?id=IutH9tRtMI)]
 
 __Knowledge Graphs for LLMs__
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
