@@ -124,6 +124,8 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 10. Verba - [[GitHub](https://github.com/weaviate/Verba)] VDB：Weaviate
 11. FlashRAG：6 pre-processed benchmark RAG datasets and 16 state-of-the-art RAG algorithms [[GitHub](https://github.com/RUC-NLPIR/FlashRAG)] Support multimodal RAG
 12. kotaemon: An open-source clean & customizable RAG UI for chatting with your documents. [[GitHub](https://github.com/Cinnamon/kotaemon)]
+13. RAGapp：Agentic RAG, Built using LlamaIndex [[GitHub](https://github.com/ragapp/ragapp)]
+14. TurboRAG: KVCache+ Chunked text [[Paper](https://arxiv.org/abs/2410.07590)] [[GitHub](https://github.com/MooreThreads/TurboRAG)]
 
 💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
