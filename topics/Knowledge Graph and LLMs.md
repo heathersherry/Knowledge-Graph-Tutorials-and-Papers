@@ -126,6 +126,8 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 12. kotaemon: An open-source clean & customizable RAG UI for chatting with your documents. [[GitHub](https://github.com/Cinnamon/kotaemon)]
 13. RAGapp：Agentic RAG, Built using LlamaIndex [[GitHub](https://github.com/ragapp/ragapp)]
 14. TurboRAG: KVCache+ Chunked text [[Paper](https://arxiv.org/abs/2410.07590)] [[GitHub](https://github.com/MooreThreads/TurboRAG)]
+15. Ten: a voice agent framework to create conversational AI. TEN also facilitates the integration of AI with audio-visual tools, databases, monitoring systems, RAG, and more. [[GitHub](https://github.com/TEN-framework/ten_framework)]
+16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 
 💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
@@ -138,7 +140,8 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 > * The keypoint of Graph RAG/KAG should be **the wiseful integration** of the benefits of unstructured information and structured information.
 
 💡 There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
-1. **GraphRAG**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)]
+1. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
+> * GraphRAG-Local-UI/GraphRAG-Ollama-UI,  an adaptation of Microsoft's GraphRAG, tailored to support local models and featuring a comprehensive interactive user interface ecosystem. [[GitHub](https://github.com/severian42/GraphRAG-Local-UI)]
 2. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
 3. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
 4. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
@@ -151,7 +154,7 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 > * (1) LLM-friendly knowledge representation, (2) mutual-indexing between knowledge graphs and original chunks, (3) logical-form-guided hybrid reasoning engine, (4) knowledge alignment with semantic reasoning, and (5) model capability enhancement for KAG.
 > * Compared with RAG, achieving a relative improvement of 19.6% on hotpotQA and 33.5% on 2wiki in terms of F1 score.
 > * Applied KAG to two professional knowledge Q&A tasks of Ant Group, including E-Government Q&A and E-Health Q&A, achieving significant improvement in professionalism compared to RAG methods.
-10. **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)]
+10. **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)][[GitHub](https://github.com/HKUDS/LightRAG)] 🔥
 11. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 12. **LazyGraphRAG**: Setting a new standard for quality and cost - Microsoft Research (Microsoft, Nov 2024) [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
