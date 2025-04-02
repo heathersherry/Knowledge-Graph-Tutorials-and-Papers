@@ -140,6 +140,8 @@ guide the search process.
 45. Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.1023.pdf)]
 >   The provided KG lacks some of the factual triples for each question.
 >   The new method Generate-on-Graph (GoG) can generate new factual triples while exploring KGs. Specifically, GoG performs reasoning through a Thinking-Searching-Generating framework, which treats LLM as both Agent and KG in IKGQA.
+46. A Collaborative Reasoning Framework Powered by Reinforcement Learning and Large Language Models for Complex Questions Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.712/)]
+47. Knowledge Graphs as a source of trust for LLM-powered enterprise question answering (Journal of Web Semantics 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000441)]
 
 
 __SPARQL__
