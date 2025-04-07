@@ -142,6 +142,11 @@ guide the search process.
 >   The new method Generate-on-Graph (GoG) can generate new factual triples while exploring KGs. Specifically, GoG performs reasoning through a Thinking-Searching-Generating framework, which treats LLM as both Agent and KG in IKGQA.
 46. A Collaborative Reasoning Framework Powered by Reinforcement Learning and Large Language Models for Complex Questions Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.712/)]
 47. Knowledge Graphs as a source of trust for LLM-powered enterprise question answering (Journal of Web Semantics 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000441)]
+48. Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.15131)] [[Notes](https://mp.weixin.qq.com/s/eyki7sdVedEtZ0X5YzBcIg)]
+>   Three challenges in KBQA systems: (1) Complex query handling; (2) Resource scarcity for semantic parsing; (3) Underutilization of large language models
+(LLMs).
+>   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper). Given a complex query,
+the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
 
 
 __SPARQL__
