@@ -145,7 +145,7 @@ guide the search process.
 48. Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.15131)] [[Notes](https://mp.weixin.qq.com/s/eyki7sdVedEtZ0X5YzBcIg)]
 >   Three challenges in KBQA systems: (1) Complex query handling; (2) Resource scarcity for semantic parsing; (3) Underutilization of large language models
 (LLMs).
->   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper). Given a complex query,
+>   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper, Thought-Action-Observation). Given a complex query,
 the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
 
 
