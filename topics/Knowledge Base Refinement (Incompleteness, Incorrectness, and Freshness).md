@@ -60,6 +60,8 @@ __General Papers__
 36. Anytime bottom-up rule learning for large-scale knowledge graph completion (VLDBJ 2023) 🌟 [[Paper](https://link.springer.com/article/10.1007/s00778-023-00800-5)]
 37. MKGL: Mastery of a Three-Word Language (NeurIPS 2024 Spotlight) [[Paper](https://openreview.net/forum?id=eqMNwXvOqn)] 🔥
 38. Making Large Language Models Perform Better in Knowledge Graph Completion (MM 2024) [[Paper](https://arxiv.org/pdf/2310.06671)] 🔥
+39. PR-KGC: Text-enhanced Knowledge Graph Completion with Pair-wise Re-ranking (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889671)]
+40. Maximum Mutual Information Estimation based Graph Attention Network for Knowledge Graph Completion (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889069)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
