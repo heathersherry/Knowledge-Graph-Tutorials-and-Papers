@@ -104,6 +104,7 @@ __Research Papers__
 15. BioLinkerAI: Capturing Knowledge Using LLMs to Enhance Biomedical Entity Linking (WISE 2024) [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-0573-6_19)]
 16. Knowledge Enhanced Representation Learning for Drug Discovery (AAAI 2024) [[Paper](file:///C:/Users/l00628295/Downloads/28924-Article%20Text-32978-1-2-20240324.pdf)] [[Notes in Chinese](https://mp.weixin.qq.com/s/MayWOs6zGWMjBc10zavOKw?token=1754278729&lang=zh_CN)]
 >   * Release an MKG containing 30 million triples. The MKG enhanced representation surpasses the state of the art for predicting drugs-proteins interactions (GNN related).
+17. Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications (Arxiv 2025 Feb) [[Paper](https://arxiv.org/pdf/2502.11108)]
 
 __Datasets__
 1. PubMed
