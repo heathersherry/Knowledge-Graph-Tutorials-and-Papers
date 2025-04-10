@@ -148,9 +148,11 @@ guide the search process.
 >   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper, Thought-Action-Observation). Given a complex query,
 the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
 
-
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
+
+__Factoid entity questions (FEQ)__
+1. A Knowledge Graph Embedding Model for Answering Factoid Entity Questions (ACM Transactions on Information Systems, 2025) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3678003)]
 
 ### 📊 Leaderboard and Benchmarks
 1. __QALD-9__： The 9th challenge on question answering over linked data (QALD-9) (invited paper) (CEUR Workshop 2018)
