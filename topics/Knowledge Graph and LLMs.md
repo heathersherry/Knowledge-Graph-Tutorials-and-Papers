@@ -205,3 +205,5 @@ __Related Works and Discussion (maybe they are not directly related to both KG a
 ### 📊 Tools, Datasets, and Benchmarks
 1. Open RAG, an opensource RAG KB. [[Link](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595)]
 2. A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases (GRADES-NDA 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3661304.3661901)]
+3. OneEval: A benchmark for LLM+KB tasks. [[Details (Chinese)](https://mp.weixin.qq.com/s/BeKah91_texXN3s1WAOcKg)] [[Website](http://oneeval.openkg.cn/)]
+> * 4 types of Knowledge (text, table, KG, code) + 6 key areas (general, medical, politics, science, law, programming)
