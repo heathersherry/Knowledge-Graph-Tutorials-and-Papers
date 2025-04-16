@@ -135,3 +135,4 @@ __General Papers (KBP from External Sources)__
 10. KartGPS: Knowledge Base Update with Temporal Graph Pattern-based Semantic Rules (ICDE 2024) 🌟
 11. Towards Efficient Temporal Graph Learning: Algorithms, Frameworks, and Tools (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679104)]
 12. Editing Language Model-based Knowledge Graph Embeddings (AAAI 2024) [[Paper](https://arxiv.org/pdf/2301.10405)]
+13. LLM-DR: A Novel LLM-Aided Diffusion Model for Rule Generation on Temporal Knowledge Graphs (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33249)]
