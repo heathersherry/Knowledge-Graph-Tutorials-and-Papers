@@ -77,13 +77,14 @@ __Embedding/Knowledge Graph Representation Based Techniques__
 9. Representation Learning for Entity Alignment in Knowledge Graph: A Design Space Exploration 🌟 (ICDE 2024)
 10. Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment (WWW 2023) [[Paper](https://arxiv.org/pdf/2304.01563)]
 
-__LM/LLM Based Techniques__ 
+__LM/LLM Based Techniques__ 🔥
 1. Deep Entity Matching with Pre-Trained Language Models (Tool:Ditto) [[Blog](https://megagonlabs.medium.com/deep-entity-matching-with-pre-trained-language-models-f4b42f1d1759)]
 2. Deep Entity Matching: Challenges and Opportunities (ACM Journal of Data and Information Quality, 2021) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3431816)]
 3. Can Foundation Models Wrangle Your Data? (Stanford, Numbers Station, Arxiv 2022) [[Paper](https://arxiv.org/pdf/2205.09911.pdf)] [[Github-"Foundation Models for Entity Matching in dbt and Snowflake"](https://github.com/jacopotagliabue/foundation-models-for-dbt-entity-matching)] 🌟
 4. Entity Matching using Large Language Models (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2310.11244v1.pdf)]
 > * They had an informal version submitted earlier: Using ChatGPT for Entity Matching (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2305.03423.pdf)]
-5. Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[Paper](https://arxiv.org/abs/2405.16806)] 
+5. Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[Paper](https://arxiv.org/abs/2405.16806)]
+6. HLMEA: Unsupervised Entity Alignment Based on Hybrid Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33294)]
 
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
