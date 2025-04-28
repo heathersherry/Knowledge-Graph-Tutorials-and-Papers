@@ -105,6 +105,7 @@ __Research Papers__
 16. Knowledge Enhanced Representation Learning for Drug Discovery (AAAI 2024) [[Paper](file:///C:/Users/l00628295/Downloads/28924-Article%20Text-32978-1-2-20240324.pdf)] [[Notes in Chinese](https://mp.weixin.qq.com/s/MayWOs6zGWMjBc10zavOKw?token=1754278729&lang=zh_CN)]
 >   * Release an MKG containing 30 million triples. The MKG enhanced representation surpasses the state of the art for predicting drugs-proteins interactions (GNN related).
 17. Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications (Arxiv 2025 Feb) [[Paper](https://arxiv.org/pdf/2502.11108)]
+18. Advancing Feature Extraction in Healthcare through the Integration of Knowledge Graphs and Large Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35224)] 🔥
 
 __Datasets__
 1. PubMed
