@@ -131,7 +131,7 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 
 💡 Some good papers/surveys for beginners to know more about RAG and Graph RAG:
-1. Retrieval-Augmented Generation for Large Language Models: A Survey [[Paper](https://arxiv.org/pdf/2312.10997)]
+1. Retrieval-Augmented Generation for Large Language Models: A Survey (Arxiv, Mar 2024) [[Paper](https://arxiv.org/pdf/2312.10997)] [[Notes for OpenRAG Base](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
 > My thoughts!:
