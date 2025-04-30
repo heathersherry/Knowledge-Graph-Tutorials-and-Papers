@@ -63,6 +63,7 @@ __General Papers__
 39. PR-KGC: Text-enhanced Knowledge Graph Completion with Pair-wise Re-ranking (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889671)]
 40. Maximum Mutual Information Estimation based Graph Attention Network for Knowledge Graph Completion (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889069)]
 41. SPAC: Sparse Partitioning and Adaptive Core Tensor Pruning Model for Knowledge Graph Completion (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33671)]
+42. Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=WQvkqarwXi)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
