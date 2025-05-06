@@ -63,7 +63,7 @@ __General Papers__
 30. Noise-powered Multi-modal Knowledge Graph Representation Framework (COLING 2025)
 31. Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation (COLING 2025)
  
-__Dynamic Embedding__
+__Dynamic/Adaptive Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
 2. DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS [ICLR 2019] [[Paper](https://openreview.net/pdf?id=HyePrhR5KX)]
 3. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs [Know-Evolve, ICML 2017][[Paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[Code (C++)](https://github.com/rstriv/Know-Evolve)]
@@ -71,6 +71,7 @@ __Dynamic Embedding__
 5. Efficiently Embedding Dynamic Knowledge Graphs (2019) [[Paper](https://arxiv.org/pdf/1910.06708.pdf)]
 6. Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (TKDE 2020) [[https://ieeexplore.ieee.org/document/9091208]] [[Github](https://github.com/rootlu/DyHNE)]
 7. ChronoR: Rotation Based Temporal Knowledge Graph Embedding (arxiv 2021 or AAAI 2021?) [[Paper](https://arxiv.org/abs/2103.10379)]
+8. AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10981648)] 🌟
 
 __CNN Based Embedding__
 1. A novel embedding model for knowledge base completion based on convolutional neural network (NAACL 2018)
