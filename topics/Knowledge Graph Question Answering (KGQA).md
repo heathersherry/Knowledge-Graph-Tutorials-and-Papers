@@ -151,6 +151,7 @@ the LLM is required to think and provide an action to interact with the KB throu
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
+2. Assessing Large Language Models for SPARQL Query Generation in Scientific Question Answering (ISWC 2024) [[Paper](https://ceur-ws.org/Vol-3953/357.pdf)] 🔥
 
 __Factoid entity questions (FEQ)__
 1. A Knowledge Graph Embedding Model for Answering Factoid Entity Questions (ACM Transactions on Information Systems, 2025) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3678003)]
