@@ -1,4 +1,4 @@
-## Knowledge Base Refinement (Incompleteness, Incorrectness, and Freshness)
+## Knowledge Base/Knowledge Graph Refinement (Incompleteness, Incorrectness, and Freshness)
 
 ### 📝 General Knowledge Base Refinement
 
@@ -64,6 +64,7 @@ __General Papers__
 40. Maximum Mutual Information Estimation based Graph Attention Network for Knowledge Graph Completion (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889069)]
 41. SPAC: Sparse Partitioning and Adaptive Core Tensor Pruning Model for Knowledge Graph Completion (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33671)]
 42. Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=WQvkqarwXi)]
+43. Knowledge Graph Completion with Relation-Aware Anchor Enhancement (AAAI 2025) [[Paper](https://arxiv.org/pdf/2504.06129)]
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
