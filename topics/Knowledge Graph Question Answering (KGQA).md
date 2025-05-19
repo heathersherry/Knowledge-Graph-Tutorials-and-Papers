@@ -70,6 +70,7 @@ __Multiple Hop QA__
 > * Note: Cognitive Graph is not directly equal to Knowledge Graph. You can view CG as a (dynamic, partial, local) KG generated instantly from the query.
 4. Complex Question Answering on knowledge graphs using machine translation and multi-task learning (EACL 2021) [[Paper](https://aclanthology.org/2021.eacl-main.300/)]
 5. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings (ACL 2020) [[Paper](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)] More than 300 stars in Github in Dec 2023!
+6. HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs (ACL 2024) [[Paper](https://arxiv.org/pdf/2406.06027)] 🔥
 
 __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
