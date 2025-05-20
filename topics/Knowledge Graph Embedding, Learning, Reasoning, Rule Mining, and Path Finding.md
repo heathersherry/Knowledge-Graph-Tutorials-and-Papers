@@ -62,6 +62,7 @@ __General Papers__
 29. Embedding Knowledge Graphs in Function Spaces (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679819)]
 30. Noise-powered Multi-modal Knowledge Graph Representation Framework (COLING 2025)
 31. Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation (COLING 2025)
+32. Including Co-Relation via Concatenate Operator for Static and Temporal Knowledge Graph Embedding (ACM Transactions on Information Systems, 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3733231)]
  
 __Dynamic/Adaptive Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
