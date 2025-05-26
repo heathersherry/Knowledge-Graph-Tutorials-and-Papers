@@ -42,6 +42,7 @@ __LLM for RE__ 🔥🔥🔥
 3. Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks (Arxiv, Nov 2023) [[Paper](https://arxiv.org/vc/arxiv/papers/2311/2311.11608v1.pdf)]
 > * Datasets: a comprehensive collection of 140 existing biomedical text mining datasets (38 Chinese datasets and 102 English datasets)
 > * Tasks: named entity recognition, relation extraction, text classification, question answering tasks
+4. Unleashing the Power of Large Language Models in Zero-shot Relation Extraction via Self-Prompting (EMNLP 2024) [[Paper](https://aclanthology.org/2024.findings-emnlp.769.pdf)]
 
 ### Datasets, Benchmarks, and Platform for Evaluation
 1. __(Dataset) CoNLL__: A Linear Programming Formulation for Global Inference in Natural Language Tasks (ACL 2004)
