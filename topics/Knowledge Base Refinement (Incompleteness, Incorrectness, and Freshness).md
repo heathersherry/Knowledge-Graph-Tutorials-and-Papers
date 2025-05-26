@@ -124,7 +124,7 @@ __General Papers (KBP from External Sources)__
 9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
 10. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/HCOMP/article/view/31605)]
 
-### 📝 Knowledge Base Freshness
+### 📝 Knowledge Base Freshness (related to Temporal KG)
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Paper](https://www.ijcai.org/proceedings/2017/0524.pdf)] [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
 2. TimeMachine: Timeline generation for knowledge-base entities (KDD 2015)
 3. Outdated Fact Detection in Knowledge Bases (ICDE 2020, short) 🌟 [[Video](https://www.youtube.com/watch?v=yVn6uucEIvk)]
@@ -139,3 +139,5 @@ __General Papers (KBP from External Sources)__
 11. Towards Efficient Temporal Graph Learning: Algorithms, Frameworks, and Tools (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679104)]
 12. Editing Language Model-based Knowledge Graph Embeddings (AAAI 2024) [[Paper](https://arxiv.org/pdf/2301.10405)]
 13. LLM-DR: A Novel LLM-Aided Diffusion Model for Rule Generation on Temporal Knowledge Graphs (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33249)]
+14. KGMark: A Diffusion Watermark for Knowledge Graphs (ICML 2025)
+>   * The first graph watermarking framework that aims to generate robust, detectable, and transparent diffusion fingerprints for dynamic KG data
