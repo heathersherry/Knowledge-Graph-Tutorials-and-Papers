@@ -66,6 +66,7 @@ __General Papers__
 42. Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=WQvkqarwXi)]
 43. Knowledge Graph Completion with Relation-Aware Anchor Enhancement (AAAI 2025) [[Paper](https://arxiv.org/pdf/2504.06129)]
 44. Stability and Generalization Capability of Subgraph Reasoning Models for Inductive Knowledge Graph Completion (ICML 2025)
+45. TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion (ICML 2025)
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
