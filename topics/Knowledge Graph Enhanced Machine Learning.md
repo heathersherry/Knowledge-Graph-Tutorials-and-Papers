@@ -8,7 +8,7 @@
 3. Exploiting knowledge graphs in industrial products and services: A survey of key aspects, challenges, and future perspectives (Computers in Industry 2021)
 4. Knowledge-graph-based explainable AI: A systematic review (ournal of Information Science, 2024) [[Paper](https://journals.sagepub.com/doi/full/10.1177/01655515221112844)]
 5. Knowledge Graphs for Responsible AI (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679085)]
-
+6. How Expressive are Knowledge Graph Foundation Models? (ICML 2025) [[Paper](https://arxiv.org/abs/2502.13339)]
 
 ### Task 1: KGs Integrated During Pre-processing of Learning
 
