@@ -143,6 +143,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
 2. KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models (EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.631/)]
 3. LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases (ICLR 2025, poster) [[Paper](https://openreview.net/forum?id=wNobG8bV5Q)]
+4. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025)
 
 
 ### 📝 Rule Mining and Path Finding in KGs
