@@ -192,6 +192,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 13. MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot (WWW 2025 poster) [[Paper](https://openreview.net/forum?id=7C6cd95qvH#discussion)]
 14. Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2502.11108)]
 15. A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34716)] ⭐
+16. Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification (ICML 2025) [[Paper](https://arxiv.org/pdf/2504.04578)]
 
 __Prompting and Knowledge Graphs__
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
