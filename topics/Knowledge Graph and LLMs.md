@@ -95,6 +95,7 @@ __Knowledge Graphs for LLMs__
 13. Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models (ICLR 2025 Poster, Xiaofang Zhou and Lei Chen) [[Paper](https://openreview.net/forum?id=49fIu0yDJ4)]
 14. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 
+
 __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Question generation)__
 1. ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs (Arxiv, May 2023) [[Paper](https://arxiv.org/pdf/2305.03513.pdf)]
 2. KG-BART: Knowledge Graph-Augmented BART for Generative Commonsense Reasoning (AAAI 2021) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16796)]
