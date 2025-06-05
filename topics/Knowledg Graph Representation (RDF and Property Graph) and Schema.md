@@ -128,12 +128,14 @@ In real-world scenarios, employing a single subtree may not satisfy the user req
 
 As the standard query language in RDF data model, SPARQL is widely used to query RDF-based knowledge graphs. [[SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/)]
 
-__2.1 Efficiency Improvement in Traditional SPARQL Queries__
+__2.1 Efficiency and Correctness Improvement in Traditional SPARQL Queries__
 
 Conventional methods that investigate SPARQL queries over RDF-based knowledge graphs mainly suffer from two limitations. First, they are not able to produce answers for the SPARQL queries with wildcards with scalable approaches. Second, they are not able to deal with the frequent updates in RDF repositories in an efficient manner. 
 
 1. gStore: answering SPARQL queries via subgraph matching (VLDB 2011) 🌟
 > * This work proposes a graph-based approach to store the RDF data. They convert a SPARQL query into a subgraph matching query. To accelerate the query processing, they design VS-tree and VS∗-tree as indexes, together with effective pruning rules and efficient search algorithms, which are embedded into the query algorithms that determine the answers for both exact SPARQL queries and queries with wildcards uniformly and seamlessly.
+2. Passage: Ensuring Completeness and Responsiveness of Public SPARQL Endpoints with SPARQL Continuation Queries (WWWW 2025)
+> * PASSAGE ensures the completeness and responsiveness of SPARQL while delivering high performance
 
 __2.2 Distributed SPARQL Query Processing__
 
