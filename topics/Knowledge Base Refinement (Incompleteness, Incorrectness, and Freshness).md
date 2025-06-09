@@ -1,6 +1,6 @@
 ## Knowledge Base/Knowledge Graph Refinement (Incompleteness, Incorrectness, and Freshness)
 
-### 📝 General Knowledge Base Refinement
+### 📝 General KB/KG Refinement
 
 __Surveys and Evaluations__
 1. Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods (Semantic Web 2016)
@@ -15,7 +15,7 @@ __General Papers__
 3. Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs (WWW 2020, short paper) 🌟
 
 
-### 📝 Knowledge Base Completion 
+### 📝 KB/KG Completion 
 __Surveys and Evaluations__
 1. Revisiting Evaluation of Knowledge Base Completion Models (from https://openreview.net/forum?id=1uufzxsxfL)
 2. An overview of embedding models of entities and relationships for knowledge base completion [[Paper](https://arxiv.org/pdf/1703.08098.pdf)]
@@ -67,6 +67,7 @@ __General Papers__
 43. Knowledge Graph Completion with Relation-Aware Anchor Enhancement (AAAI 2025) [[Paper](https://arxiv.org/pdf/2504.06129)]
 44. Stability and Generalization Capability of Subgraph Reasoning Models for Inductive Knowledge Graph Completion (ICML 2025)
 45. TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion (ICML 2025)
+46. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)] 🔥
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
@@ -86,7 +87,7 @@ __Datasets/Benchmarks__
 4. **YAGO3-10**: Yago3: A Knowledge Base from Multilingual Wikipedias (Conference on Innovative Data Systems Research, 2015)
 
 
-### 📝 Knowledge Base Population
+### 📝 KB/KG Population
 __Survey, Summary and Notes__
 1. Knowledge Base Population: Successful Approaches and Challenges (ACL 2011)[[Paper](https://www.aclweb.org/anthology/P11-1115.pdf)]
 2. Overview: https://nlp.stanford.edu/projects/kbp/
@@ -112,7 +113,7 @@ __General Papers (KBP from External Sources)__
 7. Information Extraction From Co-Occurring Similar Entities (WWW 2021) [[Paper](https://arxiv.org/pdf/2102.05444.pdf)]
 8. Shadowfax: Harnessing Textual Knowledge Base Population (SIGIR 2024) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657666)]
 
-### 📝 Knowledge Base Error Detection and Enhancement
+### 📝 KB/KG Error Detection and Enhancement
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
@@ -126,7 +127,7 @@ __General Papers (KBP from External Sources)__
 9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
 10. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/HCOMP/article/view/31605)]
 
-### 📝 Knowledge Base Freshness (related to Temporal KG)
+### 📝 KB/KG Freshness (related to Temporal KG)
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Paper](https://www.ijcai.org/proceedings/2017/0524.pdf)] [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
 2. TimeMachine: Timeline generation for knowledge-base entities (KDD 2015)
 3. Outdated Fact Detection in Knowledge Bases (ICDE 2020, short) 🌟 [[Video](https://www.youtube.com/watch?v=yVn6uucEIvk)]
