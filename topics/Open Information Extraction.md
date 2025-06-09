@@ -36,7 +36,7 @@ __Open Relation Extraction (ORE)__
 2. Topic-Oriented Open Relation Extraction with A Priori Seed Generation (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.766.pdf)] 🔥
 > PriORE leverages the built-in knowledge of LLMs to maintain a dynamic seed relation dictionary for the topic.
 
-### Canonicalization of Open Knowledge Bases, OpenIE Triple Clustering
+### Canonicalization of Open KB/KG, OpenIE Triple Clustering
 __General Papers__
 1. Query-Driven On-The-Fly Knowledge Base Construction (QKBfly, VLDB2017) relation clustering based on the PATTY dictionary 🌟 
 2. CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information (CESI, WWW 2018) [Code](https://github.com/malllabiisc/cesi) triple
@@ -66,6 +66,7 @@ __General Papers__
 >   * CMVC+ is a novel unsupervised framework for canonicalizing OKBs without the need for manually annotated labels.
 >   * A multi-view CHF K-Means clustering algorithm mutually reinforces the clustering of view-specific embeddings learned from each view by considering the clustering quality in a fine-grained manner.
 >   * A novel contrastive learning module refines the learned view-specific embeddings.
+19. Open Knowledge Base Canonicalization with Multi-task Learning (WWW 2024) [[Paper](https://arxiv.org/pdf/2403.14733)]
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
