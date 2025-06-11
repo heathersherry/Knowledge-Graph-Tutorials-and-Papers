@@ -96,6 +96,7 @@ __Knowledge Graphs for LLMs__
 13. Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models (ICLR 2025 Poster, Xiaofang Zhou and Lei Chen) [[Paper](https://openreview.net/forum?id=49fIu0yDJ4)]
 14. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 15. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.267.pdf)]
+16. Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714892)]
 
 
 __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Question generation)__
