@@ -40,7 +40,6 @@ __General Topics__
 26. Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning (KDD 2021) [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/KDD2021-anchorkg.pdf)]
 27. DiffKG: Knowledge Graph Diffusion Model for Recommendation (WSDM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635850)]
 28. AKGNN: Attribute Knowledge Graph Neural Networks Recommendation for Corporate Volunteer Activities (IEEE Transactions on Big Data 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10664007)]
-29. KGGLM: A Generative Language Model for Generalizable Knowledge Graph Representation Learning in Recommendation (RecSys 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3691703)] 🔥
 
 __Dynamic Senarios (what if the item-user and the KG are updating?)__
 * But it seems that there is no good ground truth datasets for evaluation? 😅 ...
@@ -60,10 +59,12 @@ __Explainability__
 6. KGAT: Knowledge Graph Attention Network for Recommendation (KDD 2019)
 7. Reinforcement knowledge graph reasoning for explainable recommendation (SIGIR 2019)
 
-__Recommendation related to LLM__
+__Recommendation related to LLM__ 🔥🔥🔥
 1. Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph (Arxiv 2024, from Alibaba) [[Paper](https://arxiv.org/pdf/2402.13750.pdf)] [[Blog](https://mp.weixin.qq.com/s/WIFTUHAp4PXX_wx0QMOsHw)]
 > * LLMs+Inferential Knowledge Graph: Better understanding and prediction of user perchase.
-> * LLM-KERec: (1) There is an entity extractor that extracts unified concept terms from items and user information. (2) To provide cost-effective and reliable prior knowledge, entity pairs are generated based on entity popularity and specific strategies. (3) The LLM determines complementary relationships in each entity pair, and constructs a complementary knowledge graph. (4) A new complementary recall module and an Entity-Entity-Item (E-E-I) weight decision model refine the scoring of the ranking model by using real complementary exposure-click samples. 
+> * LLM-KERec: (1) There is an entity extractor that extracts unified concept terms from items and user information. (2) To provide cost-effective and reliable prior knowledge, entity pairs are generated based on entity popularity and specific strategies. (3) The LLM determines complementary relationships in each entity pair, and constructs a complementary knowledge graph. (4) A new complementary recall module and an Entity-Entity-Item (E-E-I) weight decision model refine the scoring of the ranking model by using real complementary exposure-click samples.
+2. LLM is Knowledge Graph Reasoner: LLM’s Intuition-Aware Knowledge Graph Reasoning for Cold-Start Sequential Recommendation (ECIR 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-88711-6_17)]
+3. KGGLM: A Generative Language Model for Generalizable Knowledge Graph Representation Learning in Recommendation (RecSys 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3640457.3691703)] 
 
 ### 💬 Related Reading and Discusssion
 1. Explainable Recommendation: A Survey and New Perspectives (Foundations and Trends in Information Retrieval, 2020) [[PDF](https://arxiv.org/pdf/1804.11192.pdf)]
