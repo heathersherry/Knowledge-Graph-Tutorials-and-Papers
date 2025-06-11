@@ -65,6 +65,8 @@ __General Papers__
 32. Including Co-Relation via Concatenate Operator for Static and Temporal Knowledge Graph Embedding (ACM Transactions on Information Systems, 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3733231)]
 33. Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs (ICML 2025, poster)
 34. Improving Soft Unification with Knowledge Graph Embedding Methods (ICML 2025, poster)
+35. Universal Knowledge Graph Embeddings (WWW 2024) [[Paper](https://doi.org/10.1145/3589335.3651978)]
+36. Poisoning Attack on Federated Knowledge Graph Embedding (WWW 2024) [[Paper](https://doi.org/10.1145/3589334.3645422)]
  
 __Dynamic/Adaptive Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
