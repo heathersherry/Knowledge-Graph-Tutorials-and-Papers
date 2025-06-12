@@ -35,6 +35,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 16. Document-Level Relation Extraction Based on Heterogeneous Graph Reasoning (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679899)]
 17. Topic-Oriented Open Relation Extraction with A Priori Seed Generation (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.766.pdf)]
 18. Improving Data Annotation for Low-Resource Relation Extraction with Logical Rule-Augmented Collaborative Language Models (NAACL 2025) [[Paper](https://aclanthology.org/2025.naacl-long.70/)]
+19. Analyzing the Influence of Knowledge Graph Information on Relation Extraction (ESWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_25)]
 
 __LLM for RE__ 🔥🔥🔥
 1. Revisiting Relation Extraction in the era of Large Language Models (ACL 2023) [[Paper](https://aclanthology.org/2023.acl-long.868.pdf)]
