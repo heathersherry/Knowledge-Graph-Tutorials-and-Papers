@@ -28,6 +28,7 @@ __General NER or Entity Typing__
 15. Neural Named Entity Boundary Detection [[Paper](https://ieeexplore.ieee.org/document/9039695/)] (TKDE 2021) 🌟
 16. Enhancing Temporal and Geographical Named Entity Recognition in Chinese Ancient Texts with External Time-series Knowledge Bases (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679917)]
 17. Knowledge Graph Entity Typing with Curriculum Contrastive Learning (COLING 2025)
+18. What can knowledge graph do for few-shot named entity recognition (Journal of Web Semantics 2025)
 
 __Fine-grained NER or Entity Typing__
 1. Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding (PLE, KDD 2016) fine-grained entity typing
