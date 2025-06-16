@@ -147,6 +147,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 2. KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models (EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.631/)]
 3. LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases (ICLR 2025, poster) [[Paper](https://openreview.net/forum?id=wNobG8bV5Q)]
 4. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025)
+5. KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph (ACL 2025)
 
 
 ### 📝 Rule Mining and Path Finding in KGs
