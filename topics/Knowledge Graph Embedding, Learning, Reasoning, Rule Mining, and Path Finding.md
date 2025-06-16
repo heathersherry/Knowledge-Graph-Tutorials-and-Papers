@@ -68,6 +68,7 @@ __General Papers__
 35. Universal Knowledge Graph Embeddings (WWW 2024) [[Paper](https://doi.org/10.1145/3589335.3651978)]
 36. Poisoning Attack on Federated Knowledge Graph Embedding (WWW 2024) [[Paper](https://doi.org/10.1145/3589334.3645422)]
 37. Robustness Evaluation of Knowledge Graph Embedding Models Under Non-targeted Attacks (ESWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_15)]
+38. Croppable Knowledge Graph Embedding (ACL 2025)
  
 __Dynamic/Adaptive Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
