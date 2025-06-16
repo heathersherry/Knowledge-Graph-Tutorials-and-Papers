@@ -70,6 +70,8 @@ __General Papers__
 37. Robustness Evaluation of Knowledge Graph Embedding Models Under Non-targeted Attacks (ESWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_15)]
 38. Croppable Knowledge Graph Embedding (ACL 2025)
 39. RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph (ACL 2025)
+40. A Mutual Information Perspective on Knowledge Graph Embedding (ACL 2025)
+
  
 __Dynamic/Adaptive Embedding__
 1. Dynamic Word Embeddings [[Paper](https://arxiv.org/pdf/1702.08359.pdf)]
