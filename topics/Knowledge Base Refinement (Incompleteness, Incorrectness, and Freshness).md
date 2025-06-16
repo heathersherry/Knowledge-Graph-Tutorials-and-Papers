@@ -147,3 +147,4 @@ __General Papers (KBP from External Sources)__
 13. LLM-DR: A Novel LLM-Aided Diffusion Model for Rule Generation on Temporal Knowledge Graphs (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33249)]
 14. KGMark: A Diffusion Watermark for Knowledge Graphs (ICML 2025)
 >   * The first graph watermarking framework that aims to generate robust, detectable, and transparent diffusion fingerprints for dynamic KG data
+15. AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting (ACL 2025)
