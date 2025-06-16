@@ -150,6 +150,8 @@ guide the search process.
 (LLMs).
 >   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper, Thought-Action-Observation). Given a complex query, the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
 49. Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering (ACL 2025) [[Paper](https://arxiv.org/abs/2410.08085)]
+50. Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering (ACL 2025) [[Paper](https://arxiv.org/abs/2502.11491)]
+51. Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering (ACL 2025) [[Paper]()]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
