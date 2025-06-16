@@ -71,6 +71,7 @@ __Multiple Hop QA__
 4. Complex Question Answering on knowledge graphs using machine translation and multi-task learning (EACL 2021) [[Paper](https://aclanthology.org/2021.eacl-main.300/)]
 5. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings (ACL 2020) [[Paper](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)] More than 300 stars in Github in Dec 2023!
 6. HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs (ACL 2024) [[Paper](https://arxiv.org/pdf/2406.06027)] 🔥
+7. Extending Complex Logical Queries on Uncertain Knowledge Graphs (ACL 2025)
 
 __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
@@ -147,8 +148,8 @@ guide the search process.
 48. Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.15131)] [[Notes](https://mp.weixin.qq.com/s/eyki7sdVedEtZ0X5YzBcIg)]
 >   Three challenges in KBQA systems: (1) Complex query handling; (2) Resource scarcity for semantic parsing; (3) Underutilization of large language models
 (LLMs).
->   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper, Thought-Action-Observation). Given a complex query,
-the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
+>   The proposed Interactive-KBQA framework conceptualizes the LLM as an agent and the KB as the environment (See Fig 1 in the paper, Thought-Action-Observation). Given a complex query, the LLM is required to think and provide an action to interact with the KB through a set of specific tools. These tools return the execution results as observations.
+49. Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering (ACL 2025) [[Paper](https://arxiv.org/abs/2410.08085)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
