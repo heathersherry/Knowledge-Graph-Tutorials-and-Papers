@@ -44,6 +44,9 @@ __Knowledge Fusion, Cleaning and Evaluation__
 18. Few-Shot Knowledge Validation using Rules (WWW 2021) [[Paper](https://mott.in/papers/LosterWWW2021COLT.pdf)]
 19. Two Heads are Better than One: Zero-shot Cognitive Reasoning via Multi-LLM Knowledge Fusion (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679744)] 🔥
 
+__KG Fact Checking__
+1. GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking (ACL 2025)
+
 __Vandalism Detection__
 1. Debiasing Vandalism Detection Models at Wikidata (WWW 2019)
 
