@@ -175,8 +175,9 @@ __Research Papers__
 ### 📅 Event KGs
 __Research Papers__
 1. Searching News Articles Using an Event Knowledge Graph Leveraged by Wikidata (WWW 2019) [[Paper](https://arxiv.org/pdf/1904.05557.pdf)]
-2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021)
+2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021) 🌟
 3. ASER: A Large-scale Eventuality Knowledge Graph (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)] [[Code](https://github.com/HKUST-KnowComp/ASER)]
+4. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025) 🔥
 
 ### 💭 Opinion Graphs
 __Research Papers__
