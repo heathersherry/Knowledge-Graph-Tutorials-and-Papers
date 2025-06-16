@@ -148,3 +148,6 @@ __General Papers (KBP from External Sources)__
 14. KGMark: A Diffusion Watermark for Knowledge Graphs (ICML 2025)
 >   * The first graph watermarking framework that aims to generate robust, detectable, and transparent diffusion fingerprints for dynamic KG data
 15. AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting (ACL 2025)
+16. TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion (ACL 2025)
+17. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025)
+
