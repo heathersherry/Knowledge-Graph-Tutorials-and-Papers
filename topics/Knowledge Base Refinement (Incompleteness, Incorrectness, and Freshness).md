@@ -69,6 +69,9 @@ __General Papers__
 45. TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion (ICML 2025)
 46. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)] 🔥
 
+__Link Prediction__
+1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
+
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
 2. Link Prediction based on Tensor Decomposition for the Knowledge Graph of COVID-19 Antiviral Drug (2022) [[Paper](https://direct.mit.edu/dint/article/4/1/134/109195/Link-Prediction-based-on-Tensor-Decomposition-for)]
