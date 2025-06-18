@@ -99,6 +99,7 @@ __Knowledge Graphs for LLMs__
 15. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.267.pdf)]
 16. Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714892)]
 17. HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses (ACL 2025)
+18. Knowledge Graph Guided Evaluation of Abstention Techniques (NAACL 2025) [[Paper](https://arxiv.org/pdf/2412.07430)]
 
 
 __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Question generation)__
