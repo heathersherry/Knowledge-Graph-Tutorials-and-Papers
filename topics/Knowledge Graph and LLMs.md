@@ -172,9 +172,9 @@ __RAG (Retrieval augmented generation) and Knowledge Graphs/Graph RAG/KAG__
 11. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 12. **LazyGraphRAG**: Setting a new standard for quality and cost - Microsoft Research (Microsoft, Nov 2024) [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
-13. **Graph RAG-Tool Fusion** [[Paper](https://arxiv.org/pdf/2502.07223)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/0yLAr_xcLr_1-EI_Np3qig)]
+13. **Graph RAG-Tool Fusion**: [[Paper](https://arxiv.org/pdf/2502.07223)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/0yLAr_xcLr_1-EI_Np3qig)]
 >   * The construction of the "tool KG" seems to be very time-consuming.
-
+14. **KG2RAG**: Knowledge Graph-Guided Retrieval Augmented Generation (NAACL 2025, From Alibaba) [[Paper]([Knowledge Graph-Guided Retrieval Augmented Generation](https://arxiv.org/pdf/2502.06864))] [[Github](https://github.com/nju-websoft/KG2RAG)]
 
 💡 Here are some general research works for KG+RAG:
 1. Knowledge Graph RAG Query Engine [[Link](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine.html)]
@@ -202,6 +202,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 14. Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2502.11108)]
 15. A Systematic Exploration of Knowledge Graph Alignment with Large Language Models in Retrieval Augmented Generation (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34716)] ⭐
 16. Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification (ICML 2025) [[Paper](https://arxiv.org/pdf/2504.04578)]
+
 
 __Prompting and Knowledge Graphs__
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
