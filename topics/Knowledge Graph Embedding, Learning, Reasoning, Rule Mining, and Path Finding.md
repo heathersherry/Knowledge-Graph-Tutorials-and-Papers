@@ -71,6 +71,7 @@ __General Papers__
 38. Croppable Knowledge Graph Embedding (ACL 2025)
 39. RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph (ACL 2025)
 40. A Mutual Information Perspective on Knowledge Graph Embedding (ACL 2025)
+41. Conformalized Answer Set Prediction for Knowledge Graph Embedding (NAACL 2025)
 
  
 __Dynamic/Adaptive Embedding__
