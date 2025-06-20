@@ -72,6 +72,7 @@ __General Papers__
 39. RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph (ACL 2025)
 40. A Mutual Information Perspective on Knowledge Graph Embedding (ACL 2025)
 41. Conformalized Answer Set Prediction for Knowledge Graph Embedding (NAACL 2025)
+42. Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding (NAACL 2025)
 
  
 __Dynamic/Adaptive Embedding__
