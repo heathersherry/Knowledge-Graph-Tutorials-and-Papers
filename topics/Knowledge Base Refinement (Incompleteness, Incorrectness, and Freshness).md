@@ -68,6 +68,7 @@ __General Papers__
 44. Stability and Generalization Capability of Subgraph Reasoning Models for Inductive Knowledge Graph Completion (ICML 2025)
 45. TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion (ICML 2025)
 46. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)] 🔥
+47. Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion (NAACL 2025)
 
 __Link Prediction__
 1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
