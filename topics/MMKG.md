@@ -14,6 +14,7 @@ __General Papers__
 3. Toward a General Framework for Multimodal Big Data Analysis (Big Data 2022) [[Paper](https://www.liebertpub.com/doi/full/10.1089/big.2021.0326)]
 > * Multiple data sources are first integrated into a unified knowledge graph (KG). Different modalities of data are addressed by specifying ad hoc views on the KG and producing a rewriting of the graph containing merely the data to be processed. Graph traversal and rule extraction are this way boosted.
 4. Multimodal Reasoning with Multimodal Knowledge Graphs (ACL 2024) [[Paper](https://arxiv.org/abs/2406.02030)] [[Notes](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507392&idx=1&sn=7be74834021c7c1a391af3d344a5aafe&chksm=fcb07a25cbc7f33338df0312af915135d2f370250cd36bfd9e9a861c7ad6883dd4e06c9e539b&token=1338044507&lang=zh_CN#rd)]
+5. Let Modalities Teach Each Other: Modal-Collaborative Knowledge Extraction and Fusion for Multimodal Knowledge Graph Completion (NAACL 2025)
 
 
 __Multimodal entity linking (MEL)__
