@@ -63,6 +63,7 @@ __General KGQA__
 44. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025)
 45. Answering Conjunctive Queries with Safe Negation and Inequalities over RDFS Knowledge Bases (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33625)]
 
+
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
 2. QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (Jure's group, NAACL-HLT 2021) [[Paper](https://arxiv.org/pdf/2104.06378.pdf)]
@@ -153,6 +154,7 @@ guide the search process.
 50. Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering (ACL 2025) [[Paper](https://arxiv.org/abs/2502.11491)]
 51. Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering (ACL 2025) 
 52. Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking using Knowledge Graphs (ACL 2025) [[Paper](https://openreview.net/forum?id=zP8HygcAMY)] (rejected by ICLR but you may still read the reviews)
+53. Time-aware ReAct Agent for Temporal Knowledge Graph Question Answering (NAACL 2025)
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
