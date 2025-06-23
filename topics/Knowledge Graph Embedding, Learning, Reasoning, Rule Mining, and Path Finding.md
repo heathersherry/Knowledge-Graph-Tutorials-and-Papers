@@ -155,6 +155,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 3. LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases (ICLR 2025, poster) [[Paper](https://openreview.net/forum?id=wNobG8bV5Q)]
 4. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025)
 5. KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph (ACL 2025)
+6. CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning (NAACL 2025)
 
 
 ### 📝 Rule Mining and Path Finding in KGs
