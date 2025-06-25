@@ -57,7 +57,7 @@ Research Topics in Knowledge Graph
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
 
-## Papers and Materials from the Database Communities
+## Papers and Materials from the Database/Data Science Communities
 > Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
 
 #### [[2018]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)  [[2019]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)  [[2020]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)  [[2021]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md)  [[2022]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md)  [[2023]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md) [[2024](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2024.md)] [[2025](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2025.md)]
