@@ -25,6 +25,7 @@ __Multimodal entity linking (MEL)__
 5. Multimodal Entity Tagging with Multimodal Knowledge Base (Arxiv 2022) [[Paper](https://arxiv.org/abs/2201.00693)]
 6. Generative Multimodal Entity Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2306.12725)] 🔥
 4. Integrating Large Language Models in Multimodal Entity Linking: A Novel Two-Level Reflection Framework (submitted to ACL 2023, open review) [[Paper](https://openreview.net/forum?id=0pKFrH7pmh1)] 🔥
+5. Explicit-Implicit Entity Alignment Method in Multi-modal Knowledge Graphs (KDD 2025)
 
 __Benchmarks, Datasets and Evaluation__
 1. __(MEL Dataset)__ WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.328/)]
