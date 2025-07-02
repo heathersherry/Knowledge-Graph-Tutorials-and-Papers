@@ -62,7 +62,7 @@ __General KGQA__
 43. Reasoning with Trees: Faithful Question Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.211/)]
 44. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025)
 45. Answering Conjunctive Queries with Safe Negation and Inequalities over RDFS Knowledge Bases (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33625)]
-
+46. TEQA: Temporal knowledge graph enhanced question answering (Knowledge Based System 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S095070512500961X)]
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
