@@ -46,6 +46,7 @@ __Notes and Discussions__
 20. Medical Entity Disambiguation using Graph Neural Networks (SIGMOD 2021) 🌟
 21. Linking Entities across Relations and Graphs (ACM Transactions on Database Systems 2024) [[Paper](https://dl.acm.org/doi/full/10.1145/3639363)] - From Prof. Wenfei Fan
 22. Unsupervised Named Entity Disambiguation for Low Resource Domains (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.830.pdf)]
+23. Integration of knowledge bases and external sources using user-defined predicates and adaptive entity linking (WWW Journal 2025) [[Paper](https://link.springer.com/article/10.1007/s11280-025-01355-x)]
 
 ### 📝 Coherence among Entities
 __Global Coherence__
