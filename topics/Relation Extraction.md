@@ -36,6 +36,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 17. Topic-Oriented Open Relation Extraction with A Priori Seed Generation (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.766.pdf)]
 18. Improving Data Annotation for Low-Resource Relation Extraction with Logical Rule-Augmented Collaborative Language Models (NAACL 2025) [[Paper](https://aclanthology.org/2025.naacl-long.70/)]
 19. Analyzing the Influence of Knowledge Graph Information on Relation Extraction (ESWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_25)]
+20. Task-Oriented Dynamic Knowledge Distillation for Continuous Few-Shot Relation Extraction (Knowledge Base System 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125009591)]
 
 __LLM for RE__ 🔥🔥🔥
 1. Revisiting Relation Extraction in the era of Large Language Models (ACL 2023) [[Paper](https://aclanthology.org/2023.acl-long.868.pdf)]
