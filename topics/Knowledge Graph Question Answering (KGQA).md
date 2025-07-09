@@ -155,6 +155,7 @@ guide the search process.
 51. Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering (ACL 2025) 
 52. Can LLMs Evaluate Complex Attribution in QA? Automatic Benchmarking using Knowledge Graphs (ACL 2025) [[Paper](https://openreview.net/forum?id=zP8HygcAMY)] (rejected by ICLR but you may still read the reviews)
 53. Time-aware ReAct Agent for Temporal Knowledge Graph Question Answering (NAACL 2025)
+54. Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models (ACL 2025)
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
