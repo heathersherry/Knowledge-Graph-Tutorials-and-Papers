@@ -9,12 +9,13 @@ __General Domain-Specific KB Construction and Refinement__
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
 3. Domain Specific Knowledge Graphs as a Service to the Public (KDD 2020, Applied Data Science Track) 🌟 
-4. Probase: A Probabilistic Taxonomy for Text Understanding (SIGMOD 2012)🌟
+4. Probase: A Probabilistic Taxonomy for Text Understanding (SIGMOD 2012) 🌟
 > ProBase : Microsoft Conceptual Graph
 > * iterative learning algorithm for extraction and taxonomy construction algorithm
 > * a probabilistic framework
 > * largest general-purpose taxonomy fully automatically constructed 
 5. Semantic Enrichment of Data for AI Applications (DEEM 2021)
+6. Taxonomy-Driven Knowledge Graph Construction for Domain-Specific Scientific Applications (ACL 2025)
 
 __LLM for Domain-Specific KG Constrcution__ 🔥🔥🔥
 1. BEAR: Revolutionizing Service Domain Knowledge Graph Construction with LLM (ICSOC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_23)]
