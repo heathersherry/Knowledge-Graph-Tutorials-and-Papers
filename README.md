@@ -97,5 +97,7 @@ Research Topics in Knowledge Graph
 6. Wikidata Integrator [[GitHub](https://github.com/SuLab/WikidataIntegrator)]
 7. OpenTapioca [[Link](https://opentapioca.readthedocs.io/en/latest/install.html)]
 8. Grakn KGLIB (Knowledge Graph Library) [[GitHub](https://github.com/graknlabs/kglib)]
-9. SPASQL server on Freebase [[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS)] [[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
+9. SPARQL server on Freebase [[GitHub](https://github.com/xwhan/Freebase-SPARQL-server-on-AWS)] [[About VOS](http://vos.openlinksw.com/owiki/wiki/VOS)]
 10. LATEX Code Search [[Link](https://www.latex4technics.com/codesearch)]
+
+I have listed more tools/benchmarks/APIs/demos in each sub-page of different topics in this repo. Feel free to check!
