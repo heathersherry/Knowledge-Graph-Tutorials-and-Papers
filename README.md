@@ -50,6 +50,7 @@ Research Topics in Knowledge Graph
 
 ### 4. Schema and Query of KGs
 * __Knowledge Graph Representation (RDF and Property Graph), Schema and Query [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledg%20Graph%20Representation%20(RDF%20and%20Property%20Graph)%20and%20Schema.md)__
+
 * __Knowledge Graph Taxonomy Construction and Improvement [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement.md)]__ 
 
 ### 5. Others
@@ -57,7 +58,7 @@ Research Topics in Knowledge Graph
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
 
-* __Tutorials and Notes of Other Related Insightful Topics [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Tutorials%20and%20Notes%20of%20Other%20Related%20Insightful%20Topics)]__
+* __Tutorials and Notes of Other Related Insightful Topics [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Tutorials%20and%20Notes%20of%20Other%20Related%20Insightful%20Topics.md)]__
 
 ## Papers and Materials from the Database/Data Science Communities
 > Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
