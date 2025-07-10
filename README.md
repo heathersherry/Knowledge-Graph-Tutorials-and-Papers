@@ -53,9 +53,11 @@ Research Topics in Knowledge Graph
 * __Knowledge Graph Taxonomy Construction and Improvement [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Taxonomy%20Construction%20and%20Improvement.md)]__ 
 
 ### 5. Others
-* __Other Interesting Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
+* __Other Interesting Research Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
+
+* __Tutorials and Notes of Other Related Insightful Topics__
 
 ## Papers and Materials from the Database/Data Science Communities
 > Note: Papers from SIGMOD/VLDB/ICDE/KDD/TKDE/VLDBJ
