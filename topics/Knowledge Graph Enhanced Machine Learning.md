@@ -18,6 +18,7 @@ In these works, KGs are utilized to enhance the training data. One popular direc
 > * Chanlleges: (1) different data formats in training data and KG, (2) different weights?, (3) explanability?
 
 1. Distant supervision for relation extraction without labeled data (ACL 2009)
+2. RLKGF: Reinforcement Learning from Knowledge Graph Feedback Without Human Annotations (ACL 2025)
 
 ### Task 2: KGs Integrated During In-processing of Learning
 ### Task 2.1: KGs Integrated in Hypothesis Sets
