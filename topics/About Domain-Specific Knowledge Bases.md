@@ -20,6 +20,9 @@ __General Domain-Specific KB Construction and Refinement__
 __LLM for Domain-Specific KG Constrcution__ 🔥🔥🔥
 1. BEAR: Revolutionizing Service Domain Knowledge Graph Construction with LLM (ICSOC 2023) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_23)]
 2. SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph (ACL 2024) [[Paper](https://aclanthology.org/2024.acl-long.238/)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/kxkQDspKeRTw-CveR2trWw?token=1056117110&lang=zh_CN)]
+3. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
+4. Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification (AAAI-MAKE 2024) [[Paper](https://arxiv.org/pdf/2403.12151)]
+
 
 ### 📝 Research Papers about Different Tasks on Domain-Specific KBs
 __Domain Specific NER__
