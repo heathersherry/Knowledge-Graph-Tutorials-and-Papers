@@ -78,6 +78,7 @@ guide the search process.
 24. Utilizing Language Models For Synthetic Knowledge Graph Generation (ICLR 2025 Workshop Data Problems) [[Paper](https://openreview.net/forum?id=IutH9tRtMI)]
 25. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)]
 26. CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025)
+27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 
 __Knowledge Graphs for LLMs__
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
