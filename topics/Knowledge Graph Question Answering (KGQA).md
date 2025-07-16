@@ -157,6 +157,7 @@ guide the search process.
 53. Time-aware ReAct Agent for Temporal Knowledge Graph Question Answering (NAACL 2025)
 54. Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models (ACL 2025)
 55. FiDeLiS: Faithful Reasoning in Large Language Models for Knowledge Graph Question Answering (ACL 2025)
+56. KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3701716.3715240)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
