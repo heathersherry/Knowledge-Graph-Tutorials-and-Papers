@@ -11,6 +11,7 @@ __Surveys, Tutorials and Experimental Studies__
 7. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal	[[Link](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)]
 8. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)] 🔥
 9. Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces (ACM Computing Surveys 2024) [[Paper](https://dl.acm.org/doi/full/10.1145/3643806)]
+10. Overview of knowledge reasoning for knowledge graph (Neurocomputing 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224003424)]
 
 __Summary__
 1. Papers, Surveys, and Datasets on Knowledge Graph Embedding (KGE) [[GitHub](https://github.com/xinguoxia/KGE)]
