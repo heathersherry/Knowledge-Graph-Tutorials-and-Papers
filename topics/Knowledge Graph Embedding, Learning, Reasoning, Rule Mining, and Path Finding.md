@@ -158,6 +158,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 4. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025)
 5. KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph (ACL 2025)
 6. CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning (NAACL 2025)
+7. A New Pipeline for Knowledge Graph Reasoning Enhanced by Large Language Models Without Fine-Tuning (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.81.pdf)]
 
 
 ### 📝 Rule Mining and Path Finding in KGs
