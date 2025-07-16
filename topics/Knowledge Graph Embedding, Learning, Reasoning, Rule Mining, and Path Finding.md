@@ -170,6 +170,10 @@ __General Papers__
 3. Robust Discovery of Positive and Negative Rules in Knowledge Bases (ICDE 2018) [[PDF](http://www.eurecom.fr/fr/publication/5321/download/data-publi-5321_2.pdf)] 🌟
 4. An Embedding-Based Approach to Rule Learning in Knowledge Graphs [[Paper](https://ieeexplore.ieee.org/document/8839576/)] (TKDE 2021) 🌟
 
+__Rule Mining or Path Finding in KGs with LLM__ 🔥
+1. ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning (PAKDD 2025) [[Github](https://github.com/RManLuo/ChatRule)] [[Paper](https://arxiv.org/pdf/2309.01538)]
+> * LLM-based Rule Generator in End2end rule mining.
+
 ### 📊 Benchmarks
 1. FB13 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
 2. FB15K [[Paper](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)]
