@@ -1,11 +1,11 @@
-## Domain-Specific Knowledge Bases
+# Domain-Specific Knowledge Bases
 
-### 📝 Tutorials and Surveys
+## 📝 Tutorials and Surveys
 1. Constructing Domain-specific Knowledge Graphs (AAAI 2018) [[Tutorial](https://usc-isi-i2.github.io/AAAI18Tutorial/)]
 2. Domain-specific Knowledge Graphs: A survey (2020) [[Paper](https://arxiv.org/pdf/2011.00235.pdf)]
 3. A Comprehensive Survey on Automatic Knowledge Graph Construction (ACM 2023) [[Paper](https://arxiv.org/abs/2302.05019)]
 
-### 📝 Research Papers
+## 📝 Research Papers about General Domain-Specific KGs (not focus on any specific domain)
 __General Domain-Specific KB Construction and Refinement__
 1. Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms [[PDF](https://ieeexplore.ieee.org/abstract/document/8731487)] (ICDE 2019) 🌟 
 2. Demonstrating Spindra: A Geographic Knowledge Graph Management System [[PDF](http://www.public.asu.edu/~jiayu2/geospark/publication/spindra-icde2019-demo.pdf), demo] (ICDE 2019) 🌟 
@@ -24,8 +24,7 @@ __LLM for Domain-Specific KG Constrcution__ 🔥🔥🔥
 3. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 4. Fusing Domain-Specific Content from Large Language Models into Knowledge Graphs for Enhanced Zero Shot Object State Classification (AAAI-MAKE 2024) [[Paper](https://arxiv.org/pdf/2403.12151)]
 
-
-### 📝 Research Papers about Different Tasks on Domain-Specific KBs
+## 📝 Research Papers about Different Tasks on Domain-Specific KBs
 __Domain Specific NER__
 1. Learning Named Entity Tagger using Domain-Specific Dictionary [[Paper](https://arxiv.org/pdf/1809.03599.pdf)] [[Notes](https://blog.csdn.net/Rock_y/article/details/108900106)]
 2. A Hybrid Generative/Discriminative Model for Rapid Prototyping of Domain-Specific Named Entity Recognition [[Paper](https://pdfs.semanticscholar.org/d14d/ece78249b2039aa748bf3c7381653224d345.pdf)]
@@ -40,7 +39,7 @@ __Domain Specific EL__
 __Taxonomies of Domain Specific KBs__
 1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
 
-## KBs in Specific Domains
+## 📝 KBs in Specific Domains
 
 ### 🛒 Product KBs
 __Keynotes and Tutorials__
