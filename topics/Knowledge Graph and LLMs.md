@@ -17,6 +17,8 @@
 7. OneGraph: A KG constructed by LLM [[Website](http://onegraph.openkg.cn/)] [[Data Download](http://data.openkg.cn/dataset/onegraphv1)]
 8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, July 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
 9. Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap (Engineering 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809924007239)]
+10. Integrating Large Language Models and Knowledge Graphs for Next-level AGI (WWW 2025 tutorial) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715866)]
+
 
 ### 💬 Discussions about Knowledge Graphs and LLMs
 1. The Future of Knowledge Graphs in a World of Large Language Models, given by Denny Vrandečić, Post-conference recording of the keynote for May 11 at the Knowledge Graph Conference 2023 in New York, NY. [[Video](https://www.youtube.com/watch?v=WqYBx2gB6vA)]
