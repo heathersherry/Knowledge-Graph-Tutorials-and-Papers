@@ -11,36 +11,40 @@
 > * LLM for KG (1) entity and relation extraction (in-context learning & SFT) (2) triple generation (3) ontology matching (e.g., olala) (4) entity alignment (e.g., chatea) (5) KBQA (e.g., ELLMKGQA framework) (6) ontology reasoning (data construction: subsumption checking + instance checking) (7) KG reasoning (kg embedding is enhanced, e.g., KoPA)
 > * KG&LLM integration (1) knowledge service platform based on KG&LLM Integration (2) OpenKG + Tool + Application
 * The summary of the other talks. [[My notes](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/issues/12)]
+5. Research Trends for the Interplay between Large Language Models and Knowledge Graphs (LLM+KG Workshop, VLDB 2024) [[Paper](https://arxiv.org/pdf/2406.08223)] 🌟
 5. 1st Workshop on Knowledge Graphs and Large Language Models (KaLLM 2024, from ACL) [[Link](https://aclanthology.org/volumes/2024.kallm-1/)]
 6. Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey [[Paper](https://arxiv.org/abs/2402.05391)]
 7. OneGraph: A KG constructed by LLM [[Website](http://onegraph.openkg.cn/)] [[Data Download](http://data.openkg.cn/dataset/onegraphv1)]
-8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
+8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, July 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
+9. Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap (Engineering 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809924007239)]
+
+### 💬 Discussions about Knowledge Graphs and LLMs
+1. The Future of Knowledge Graphs in a World of Large Language Models, given by Denny Vrandečić, Post-conference recording of the keynote for May 11 at the Knowledge Graph Conference 2023 in New York, NY. [[Video](https://www.youtube.com/watch?v=WqYBx2gB6vA)]
+2. Bridging the Gap: Integrating Knowledge Graphs and Large Language Models (Arango DB) [[Video](https://www.youtube.com/watch?v=qCT1a2jdpk4)]
+3. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)]
+4. ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结 [[Link](https://www.kuxai.com/article/814)]
+
 
 ### 📝 Research Papers
-__Discussion and Research about Knowledge Graphs and LLMs__
-1. The Future of Knowledge Graphs in a World of Large Language Models, given by Denny Vrandečić, Post-conference recording of the keynote for May 11 at the Knowledge Graph Conference 2023 in New York, NY. [[Video](https://www.youtube.com/watch?v=WqYBx2gB6vA)]
-2. Language Models as Knowledge Bases? (EMNLP 2019) [[Paper](https://aclanthology.org/D19-1250.pdf)]
-3. Bridging the Gap: Integrating Knowledge Graphs and Large Language Models (Arango DB) [[Video](https://www.youtube.com/watch?v=qCT1a2jdpk4)]
-4. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)]
-5. Language Models are Open Knowledge Graphs (ICLR 2021, Rejected) [[Paper](https://openreview.net/forum?id=aRTRjVPkm-)]
-6. JAKET: Joint Pre-training of Knowledge Graph and Language Understanding (AAAI 2022) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)]
-7. Language Models sounds the Death Knell of Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/abs/2301.03980)]
-8. ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots (Arxiv 2023) [[Paper](https://arxiv.org/abs/2302.06466)]
+__Knowledge Graphs and LLMs__
+1. Language Models as Knowledge Bases? (EMNLP 2019) [[Paper](https://aclanthology.org/D19-1250.pdf)]
+2. Language Models are Open Knowledge Graphs (ICLR 2021, Rejected) [[Paper](https://openreview.net/forum?id=aRTRjVPkm-)]
+3. JAKET: Joint Pre-training of Knowledge Graph and Language Understanding (AAAI 2022) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)]
+4. Language Models sounds the Death Knell of Knowledge Graphs (Arxiv 2023) [[Paper](https://arxiv.org/abs/2301.03980)]
+5. ChatGPT versus Traditional Question Answering for Knowledge Graphs: Current Status and Future Directions Towards Knowledge Graph Chatbots (Arxiv 2023) [[Paper](https://arxiv.org/abs/2302.06466)]
 > * ⭐ Interesting!! Key point: ChatGPT is trained on information from different data sources. Thus, it does not generalize to unseen domain information.
 > * Advanced KG Chatbots could be developed by incorporating capabilities of language models, such as ChatGPT, in question understanding, robustness, and explainability, with the
 outstanding capabilities of a QA system, such as KGQAN, in incorporating recent information and generality across different domains.
-5. Towards InnoGraph: A Knowledge Graph for AI Innovation (WWW 2023) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543873.3587614)]
-6. ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结 [[Link](https://www.kuxai.com/article/814)]
+6. Towards InnoGraph: A Knowledge Graph for AI Innovation (WWW 2023) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3543873.3587614)]
 7. Augmented Language Models: a Survey, by MetaAI (Arxiv, Feb 2023) [[Paper](https://arxiv.org/pdf/2302.07842.pdf)]
 > * it is often necessary to process structured information when interacting with tools like a knowledge base.
 8. Let's Chat to Find the APIs: Connecting Human, LLM and Knowledge Graph through AI Chain (ASE 2023, Top Conf in Software Engineering) [[Paper](https://ieeexplore.ieee.org/abstract/document/10298399)]
 9. Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs? (NAACL 2024) [[Paper](https://arxiv.org/pdf/2308.10168.pdf)] - Xin Luna Dong from Meta 🔥
-10. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, July 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
-11. Large Language Models as Reliable Knowledge Bases? (Arxiv, Jul 2024 - from University of Edinburgh and Huawei Edinburgh Research Center) [[Paper](https://arxiv.org/pdf/2407.13578)]
+10. Large Language Models as Reliable Knowledge Bases? (Arxiv, Jul 2024 - from University of Edinburgh and Huawei Edinburgh Research Center) [[Paper](https://arxiv.org/pdf/2407.13578)]
 > This study defines criteria that a reliable LLM-as-KB should meet, focusing on factuality and consistency, and covering both seen and unseen knowledge.
-12. Llm-tikg: Threat intelligence knowledge graph construction utilizing large language model (Computers & Security, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0167404824003043)]
-13. Large Language Models and Knowledge Graphs: Opportunities and Challenges (Arxiv, Aug 2023) [[Paper](https://arxiv.org/pdf/2308.06374)] [[Notes (Chinese)](https://hub.baai.ac.cn/view/29492)]
-14. MKGL: Mastery of a Three-Word Language (NeurIPS 2024 Spotlight) [[Paper](https://openreview.net/forum?id=eqMNwXvOqn)]
+11. Llm-tikg: Threat intelligence knowledge graph construction utilizing large language model (Computers & Security, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0167404824003043)]
+12. Large Language Models and Knowledge Graphs: Opportunities and Challenges (Arxiv, Aug 2023) [[Paper](https://arxiv.org/pdf/2308.06374)] [[Notes (Chinese)](https://hub.baai.ac.cn/view/29492)]
+13. MKGL: Mastery of a Three-Word Language (NeurIPS 2024 Spotlight) [[Paper](https://openreview.net/forum?id=eqMNwXvOqn)]
 >   0. Main target: LLMs to carry out knowledge graph completion.
 >   1. They investigate the integration of LLMs with KGs by introducing a specialized KG Language (KGL), where a sentence precisely consists of an entity noun, a relation verb, and ends with another entity noun.
 >   2. Conclusions: (1) LLMs can achieve fluency in KGL, drastically reducing errors compared to conventional KG embedding methods on KG completion. (2) The enhanced LLM shows exceptional competence in generating accurate three-word sentences from an initial entity and interpreting new unseen terms out of KGs.
@@ -104,7 +108,6 @@ __Knowledge Graphs for LLMs__
 18. Knowledge Graph Guided Evaluation of Abstention Techniques (NAACL 2025) [[Paper](https://arxiv.org/pdf/2412.07430)]
 19. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://openreview.net/forum?id=9buvSnaiMp)]
 20. ReKG-MCTS: Reinforcing LLM Reasoning on Knowledge Graphs via Training-Free Monte Carlo Tree Search (ACL 2025)
-
 
 __LLMs and Knowledge Graphs for Other Tasks (e.g., Information Extraction, Question generation)__
 1. ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs (Arxiv, May 2023) [[Paper](https://arxiv.org/pdf/2305.03513.pdf)]
@@ -228,6 +231,7 @@ __Related Works and Discussion (maybe they are not directly related to both KG a
 > From Graph to Text
 2. Tutorial: Knowledge-Driven Vision-Language Encoding (CVPR 2023) [[Link](https://blender.cs.illinois.edu/tutorial/KnowledgeVLP/)]
 3. How Large Language Models Will Disrupt Data Management (VLDB 2023) [[Paper](https://dl.acm.org/doi/abs/10.14778/3611479.3611527?casa_token=R7i7B4vpWogAAAAA:gYDDYu_4iVROViIGQOkNl3y8k4Ap3NE3B99Pjya6pIpmhRlpF-22PbOn_vIRV67bshk1vmTHRzowTQ)] ⭐
+4. Graph Machine Learning in the Era of Large Language Models (LLMs) (ACM Transactions on Intelligent Systems and Technology 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3732786)]
 
 ### 📊 Tools, Datasets, and Benchmarks
 1. Open RAG, an opensource RAG KB. [[Link](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595)]
