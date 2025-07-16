@@ -163,6 +163,9 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 6. CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning (NAACL 2025)
 7. A New Pipeline for Knowledge Graph Reasoning Enhanced by Large Language Models Without Fine-Tuning (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.81.pdf)]
 8. Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)]
+9. SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714768)]
+10. Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning (Electronics 2025)
+11. Knowledge Crosswords: Geometric Knowledge Reasoning with Large Language Models (ACL 2024 - Findings) [[Paper](https://aclanthology.org/2024.findings-acl.154/)]
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
