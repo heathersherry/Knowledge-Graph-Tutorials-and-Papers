@@ -39,7 +39,7 @@ __Domain Specific EL__
 __Taxonomies of Domain Specific KBs__
 1. TiFi: Taxonomy Induction for Fictional Domains? (WWW 2019)
 
-## 📝 KBs in Specific Domains
+## 📝 KBs/KGs in Specific Domains
 
 ### 🛒 Product KBs
 __Keynotes and Tutorials__
