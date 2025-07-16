@@ -14,6 +14,7 @@
 5. 1st Workshop on Knowledge Graphs and Large Language Models (KaLLM 2024, from ACL) [[Link](https://aclanthology.org/volumes/2024.kallm-1/)]
 6. Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey [[Paper](https://arxiv.org/abs/2402.05391)]
 7. OneGraph: A KG constructed by LLM [[Website](http://onegraph.openkg.cn/)] [[Data Download](http://data.openkg.cn/dataset/onegraphv1)]
+8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
 
 ### 📝 Research Papers
 __Discussion and Research about Knowledge Graphs and LLMs__
