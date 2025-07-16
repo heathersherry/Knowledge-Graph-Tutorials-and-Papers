@@ -152,4 +152,5 @@ __General Papers (KBP from External Sources)__
 15. AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting (ACL 2025)
 16. TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion (ACL 2025)
 17. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025)
+18. MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion (IEEE Transactions on Cybernetics 2024)
 
