@@ -105,6 +105,9 @@ __Enfficient Emedding__
 > * Anchor based strategy, to achieve parameter efficiency.
 > * Some new works have already use NodePiece in experiments, such as InterHT: Knowledge Graph Embeddings by Interaction between Head and Tail Entities (Arxiv 2022) [[Paper](https://arxiv.org/pdf/2202.04897.pdf)]
 
+__LLM related__ 🔥
+1. LLM-Guided Explanation Generation for Knowledge Graph Embedding-Based Node Classification (ACL 2025 submission) [[Paper](https://openreview.net/forum?id=vSucHYb4oh)]
+
 __Related Reading__
 1. Neural Subgraph Isomorphism Counting (KDD 2020) [[Paper](https://arxiv.org/pdf/1912.11589.pdf)] [[Code](https://github.com/HKUST-KnowComp/NeuralSubgraphCounting)] 🌟
 2. DFS-based frequent graph pattern extraction to characterize the content of RDF Triple Stores (2010) [[Paper](https://hal.inria.fr/hal-01170896/document)]
