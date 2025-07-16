@@ -152,6 +152,7 @@ __General Papers__
 25. CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective (ICDE 2025) [[Paper](https://arxiv.org/abs/2504.14282)] 🌟
 26. Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning (AAAI 2025, Technical Tracks) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33405)]
 27. Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains (ACL 2025)
+28. FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning (TKDE 2024) 🌟
 
 __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING (ICLR 2024) [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
