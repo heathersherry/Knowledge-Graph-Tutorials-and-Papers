@@ -10,6 +10,7 @@ __Surveys__
 5. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (WWW jornal, 2024) [[Paper](https://arxiv.org/abs/2305.13168)] ️‍🔥
 6. Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[Paper](https://arxiv.org/pdf/2210.12714.pdf)] ️‍🔥
 7. A Comprehensive Survey on Automatic Knowledge Graph Construction (ACM Computing Surveys, 2023) [[Link](https://dl.acm.org/doi/abs/10.1145/3618295)]
+8. LLMs for knowledge graph construction and reasoning: recent capabilities and future opportunities (WWW jornal 2024) [[Paper](https://link.springer.com/article/10.1007/s11280-024-01297-w)] 🔥
 
 __Interesting Blogs and Discussions__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
