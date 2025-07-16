@@ -161,7 +161,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 5. KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph (ACL 2025)
 6. CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning (NAACL 2025)
 7. A New Pipeline for Knowledge Graph Reasoning Enhanced by Large Language Models Without Fine-Tuning (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.81.pdf)]
-
+8. Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)]
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
@@ -173,6 +173,7 @@ __General Papers__
 __Rule Mining or Path Finding in KGs with LLM__ 🔥
 1. ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning (PAKDD 2025) [[Github](https://github.com/RManLuo/ChatRule)] [[Paper](https://arxiv.org/pdf/2309.01538)]
 > * LLM-based Rule Generator in End2end rule mining.
+2. Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning (WWW 2025) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714892)]
 
 ### 📊 Benchmarks
 1. FB13 [[Paper](https://proceedings.neurips.cc/paper/2013/file/b337e84de8752b27eda3a12363109e80-Paper.pdf)]
