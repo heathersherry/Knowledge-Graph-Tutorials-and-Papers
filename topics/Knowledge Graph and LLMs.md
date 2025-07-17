@@ -155,6 +155,7 @@ __KG for RAG (Retrieval augmented generation)__
 💡 There are some pioneer works that **use KGs** to enhance the performance of the RAG system in multi-hop and cross-paragraph tasks. Strong reasoning capabilities have been introduced into the RAG technical framework.
 1. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
 > * GraphRAG-Local-UI/GraphRAG-Ollama-UI,  an adaptation of Microsoft's GraphRAG, tailored to support local models and featuring a comprehensive interactive user interface ecosystem. [[GitHub](https://github.com/severian42/GraphRAG-Local-UI)]
+> * No reasoning or path finding, just community detection!
 > * My personal opinion: However, the quality of using LLM to extract knowledge from documents to build a KG is not guaranteed and may be too expensive. Therefore, it may only work in specific area like general knowledge management, but not yje.
 2. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
 3. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
