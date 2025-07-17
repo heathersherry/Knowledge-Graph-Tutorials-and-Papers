@@ -111,6 +111,7 @@ __Research Papers__
 17. Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications (Arxiv 2025 Feb) [[Paper](https://arxiv.org/pdf/2502.11108)]
 18. Advancing Feature Extraction in Healthcare through the Integration of Knowledge Graphs and Large Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35224)] 🔥
 19. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models (Bioinformatics 2024) [[Paper](https://academic.oup.com/bioinformatics/article/40/6/btae353/7687047?login=false)] 🔥
+20. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0fd17409385ab9304e5019c6a6eb327a-Paper-Conference.pdf)] 🔥
 
 __Datasets__
 1. PubMed
