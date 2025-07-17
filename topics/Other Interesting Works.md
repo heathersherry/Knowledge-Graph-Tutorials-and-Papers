@@ -119,3 +119,6 @@ Note: There are a few valuable survey collection regarding the data processing/m
 1. Awesome-Data-Centric-AI [[Github](https://github.com/daochenzha/data-centric-AI)]
 2. Data Management for LLM [[Github](https://github.com/ZigeW/data_management_LLM)]
 3. Data-Centric Multimodal LLM [[Github](https://github.com/beccabai/Data-centric_multimodal_LLM)]
+
+__File Format__
+1. Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings [[Paper](https://arxiv.org/pdf/2504.15247)] - Very insightful!!!
