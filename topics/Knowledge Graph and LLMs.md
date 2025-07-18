@@ -98,16 +98,16 @@ guide the search process.
 These papers discuss how to utilze KG in the pre-training, post-training (SFT), inference and other stages of LLM.
 ```
 
-#### KG for Pretraining
+#### 1. KG for Pretraining
 __KG for Contextual Word Representations__
 1. Knowledge enhanced contextual word representations ((EMNLP-IJCNLP 2019)
 
-#### KG for SFT
+#### 2. KG for SFT
 __KG for CoT__
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2504.00993)]
 
 
-#### KG for Inference
+#### 3. KG for Inference
 
 __KG for RAG (Retrieval augmented generation)__
 
@@ -202,7 +202,7 @@ __Prompting and Knowledge Graphs__
 > * 3 existing challenges for KG-enhanced LLMs：huge search space, high API costs, and laborious prompt engineering.
 > * KnowGPT enhance LLMs with domain knowledge. It contains a knowledge extraction module to extract the most informative knowledge from KGs, and a context-aware prompt construction module to automatically convert extracted knowledge into effective prompts.
 
-#### Other tasks (Unclassified)
+#### 4. Other tasks (Unclassified)
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
 2. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 3. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
