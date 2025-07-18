@@ -74,7 +74,7 @@ __Research Papers__
 __Datasets__
 1.  Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction [[Link](http://webdatacommons.org/productcorpus/)]
 
-### 💊 Meidcal KBs
+### 💊 Meidcal/HealthCare/Bio KBs
 Note: Medical entity linking is also referred to as medical concept normalization (MCN)
 
 __Surveys__
@@ -112,6 +112,7 @@ __Research Papers__
 18. Advancing Feature Extraction in Healthcare through the Integration of Knowledge Graphs and Large Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35224)] 🔥
 19. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models (Bioinformatics 2024) [[Paper](https://academic.oup.com/bioinformatics/article/40/6/btae353/7687047?login=false)] 🔥
 20. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0fd17409385ab9304e5019c6a6eb327a-Paper-Conference.pdf)] 🔥
+21. Knowledge graphs and their applications in drug discovery (Artificial Intelligence (AI) in Drug Discovery 2021) [[Paper](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1910673)]
 
 __Datasets__
 1. PubMed
