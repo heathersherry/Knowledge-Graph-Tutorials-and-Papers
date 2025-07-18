@@ -7,7 +7,7 @@ Research Topics in Knowledge Graph
 ## Papers and Materials from All Areas
 
 > * Note 1: The papers from the database/data science communities are marked with 🌟.
-> * Note 2: In Nov 2023, I start to add a new session related to LLM in each topic. 🔥
+> * Note 2: From Nov 2023, I started to add papers related to LLM in each session, marked with 🔥. 
 ### 0. Overview
 * __Survey of Knowledge Graphs - General Concepts, Scientific Problems, Applications, Challenges, and Directions) [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/overview.md)]__
 
