@@ -176,6 +176,8 @@ __General Papers__
 2. Discovering Diversified Paths in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p2002-aebeloe.pdf), demo] 🌟
 3. Robust Discovery of Positive and Negative Rules in Knowledge Bases (ICDE 2018) [[PDF](http://www.eurecom.fr/fr/publication/5321/download/data-publi-5321_2.pdf)] 🌟
 4. An Embedding-Based Approach to Rule Learning in Knowledge Graphs [[Paper](https://ieeexplore.ieee.org/document/8839576/)] (TKDE 2021) 🌟
+5. Learn to Explain Efficiently via Neural Logic Inductive Learning (ICLR 2020) [[Paper](https://openreview.net/forum?id=SJlh8CEYDB)]
+6. TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs (ICLR 2023) [[Paper](https://openreview.net/forum?id=_X12NmQKvX)]
 
 __Rule Mining or Path Finding in KGs with LLM__ 🔥
 1. ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning (PAKDD 2025) [[Github](https://github.com/RManLuo/ChatRule)] [[Paper](https://arxiv.org/pdf/2309.01538)]
