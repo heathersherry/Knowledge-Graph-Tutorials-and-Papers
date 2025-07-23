@@ -115,9 +115,11 @@ __KG for Contextual Word Representations__
 1. Knowledge enhanced contextual word representations ((EMNLP-IJCNLP 2019)
 
 #### 2. KG for SFT
-__KG for CoT__
+__KG for generation of CoT (Chain of Thoughts) data__
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025, UCSC+UBC+NTU+Stanford+Cornell+NYU) [[Paper](https://arxiv.org/pdf/2504.00993)]
 2. Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024-Findings, UIUC+Amazon+Upenn+UV, Han Jiawei) [[Paper](https://aclanthology.org/2024.findings-acl.11.pdf)]
+3. REASONING-ENHANCED HEALTHCARE PREDICTIONS WITH KNOWLEDGE GRAPH COMMUNITY RETRIEVAL (ICLR 2025, Han Jiawei) [[Paper](https://arxiv.org/pdf/2410.04585)]
+
 
 
 #### 3. KG for Inference
