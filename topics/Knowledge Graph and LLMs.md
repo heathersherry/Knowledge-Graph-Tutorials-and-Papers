@@ -35,10 +35,7 @@ fine-tuning of LLMs (particularly domain-specific LLMs) by integrating structure
 3. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)]
 4. ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结 [[Link](https://www.kuxai.com/article/814)]
 
-
-
-## 📝 Research Papers
-### Knowledge Graphs and LLMs
+## 📝 Knowledge Graphs and LLMs
 ```
 These papers mainly discuss or investigate the relationship between KG and LLM, e.g., how one affects the other one.
 ```
@@ -66,7 +63,7 @@ outstanding capabilities of a QA system, such as KGQAN, in incorporating recent 
 14. Integrating Large Language Models and Knowledge Graphs for Next-level AGI (WWW 2025 tutorial) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715866)]
 
 
-### LLMs for Knowledge Graphs
+## 📝 LLMs for Knowledge Graphs
 ```
 These papers discuss how to utilze LLM for the existing topics in KG, such as KG Constuction and Information Retrieval.
 You can also find these papers marked with 🔥 in the other topic pages of this github repository.
@@ -106,17 +103,17 @@ guide the search process.
 26. CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025)
 27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 
-### Knowledge Graphs for LLMs
+## 📝 Knowledge Graphs for LLMs
 ```
 These papers discuss how to utilze KG in the pre-training, post-training, SFT, inference and other stages of LLM.
 Personally, KG for preparing training data (in pre-training, post-training, SFT) will be a more promising direction.
 ```
 
-#### 1. KG for Pretraining
+### 1. KG for Pretraining
 __KG for Contextual Word Representations__
 1. Knowledge enhanced contextual word representations ((EMNLP-IJCNLP 2019)
 
-#### 2. KG for SFT
+### 2. KG for SFT
 __KG for generation of CoT (Chain of Thoughts) data__
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025, UCSC+UBC+NTU+Stanford+Cornell+NYU) [[Paper](https://arxiv.org/pdf/2504.00993)]
 2. Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024-Findings, UIUC+Amazon+Upenn+UV, Han Jiawei) [[Paper](https://aclanthology.org/2024.findings-acl.11.pdf)]
@@ -124,11 +121,11 @@ __KG for generation of CoT (Chain of Thoughts) data__
 
 
 
-#### 3. KG for Inference
+### 3. KG for Inference
 
-__KG for RAG (Retrieval Augmented Generation)__
+#### KG for RAG (Retrieval Augmented Generation)__
 
-💡 Traditional RAG Frameworks - It is highly recommended that you get familiar with one or more of the following frameworks first：
+💡 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
 2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - Default VDB: PostgreSQL + pgvector
 3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - Default VDB: Elasticsearch
@@ -147,7 +144,7 @@ __KG for RAG (Retrieval Augmented Generation)__
 16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 17. All RAG Techniques [[Github](https://github.com/liu673/rag-all-techniques)] - A series of simple and clear demos!! Strongly recommended.
 
-💡 Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG:
+💡 **Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG**:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey (Arxiv, Mar 2024) [[Paper](https://arxiv.org/pdf/2312.10997)] [[Notes for OpenRAG Base](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
@@ -170,7 +167,7 @@ __KG for RAG (Retrieval Augmented Generation)__
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
 
-💡 KG-RAG works
+💡 **KG-RAG works**
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
 2. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
@@ -216,7 +213,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 29. SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation (ACL 2025)
 30. FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs (ACL 2025)
 
-__Prompting and Knowledge Graphs__
+#### Prompting and Knowledge Graphs
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 2. KG-prompt: Interpretable knowledge graph prompt for pre-trained language models (Knowledge-Based Systems, 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001650)]
 3. KnowGPT: Knowledge Graph based Prompting for Large Language Models (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b8705a611ed1ce19cdb759031078705-Paper-Conference.pdf)]
@@ -227,7 +224,7 @@ __Prompting and Knowledge Graphs__
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
 
-#### 4. (Unclassified)
+### 4. (Unclassified)
 1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
 2. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 3. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
@@ -253,7 +250,7 @@ __Prompting and Knowledge Graphs__
 
 
 
-### LLMs and Knowledge Graphs for Other Tasks 
+## 📝 LLMs and Knowledge Graphs for Other Tasks 
 ```
 These papers discuss how to utilze LLM and KG for other tasks, such as Information Extraction and Question generation.
 ```
@@ -275,10 +272,10 @@ These papers discuss how to utilze LLM and KG for other tasks, such as Informati
 13. LLM is Knowledge Graph Reasoner: LLM’s Intuition-Aware Knowledge Graph Reasoning for Cold-Start Sequential Recommendation (ECIR 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-88711-6_17)]
 14. Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models (ACL 2025)
 
-### VLMs and Knowledge Graphs
+## 📝 VLMs and Knowledge Graphs
 1. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023 poster) [[OpenReview](https://openreview.net/forum?id=YmEDnMynuO&noteId=0rFYtJNqHc)]
 
-### Related Works and Discussion (maybe they are not directly related to both KG and LLM, but they give us some insights!)
+## 📝 Related Works and Discussion (maybe they are not directly related to both KG and LLM, but they give us some insights!)
 1. ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models (Arxiv 2021) [[Paper](https://arxiv.org/pdf/2108.12472.pdf)]
 > From Graph to Text
 2. Tutorial: Knowledge-Driven Vision-Language Encoding (CVPR 2023) [[Link](https://blender.cs.illinois.edu/tutorial/KnowledgeVLP/)]
