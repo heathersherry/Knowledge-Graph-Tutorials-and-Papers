@@ -125,7 +125,7 @@ __KG for generation of CoT (Chain of Thoughts) data__
 ```
 The papers listed in this section may have overlaps with the KGQA papers.
 ```
-#### KG for RAG (Retrieval Augmented Generation)__
+#### KG for RAG (Retrieval Augmented Generation)
 
 💡 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
