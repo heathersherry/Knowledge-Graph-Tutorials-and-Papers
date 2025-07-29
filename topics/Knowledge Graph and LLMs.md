@@ -6,8 +6,10 @@ Nevertheless, it may not necessarily be scientifically optimal for modeling all 
 compared with LLM which captures complex distributions through neural networks.
 2. KGs, however, offer verified factual accuracy (primarily curated through crowdsourcing and human validation), thereby
 avoiding the hallucination issues inherent in LLMs.
-3. In the era of LLMs, I advocate leveraging pre-existing high-precision knowledge graphs to enhance post-training and
+3. In the era of LLMs, these research directions may be more insightful.
+(1) leveraging pre-existing high-precision knowledge graphs to enhance post-training and
 fine-tuning of LLMs (particularly domain-specific LLMs) by integrating structured knowledge into their data preparation pipeline.
+(2) leveraging pre-existing high-precision knowledge graphs to enhance the quality of inference, either by RAG or prompting.
 ```
 
 ## 📝 Overviews, Surveys, Tutorials and Summary
