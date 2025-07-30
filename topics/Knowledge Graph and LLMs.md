@@ -36,6 +36,7 @@ fine-tuning of LLMs (particularly domain-specific LLMs) by integrating structure
 2. Bridging the Gap: Integrating Knowledge Graphs and Large Language Models (Arango DB) [[Video](https://www.youtube.com/watch?v=qCT1a2jdpk4)]
 3. Uniting Large Language Models and Knowledge Graphs for Enhanced Knowledge Representation (Big Data LDN 2023) [[Video](https://www.youtube.com/watch?v=CEaDSOh_AoM)]
 4. ChatGPT下的知识图谱审视：一次关于必然影响、未来方向的讨论实录与总结 [[Link](https://www.kuxai.com/article/814)]
+5. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
 
 ## 📝 Knowledge Graphs and LLMs
 ```
@@ -241,8 +242,11 @@ Query Focused Summerization (QFS):
 1. Knowledge Graph-augmented Language Models for Complex Question Answering (NLRSE, ACL workshop) [[Paper](https://aclanthology.org/2023.nlrse-1.1/)]
 2. FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction (ASONAM 2023) [[Paper](https://dl.acm.org/doi/10.1145/3625007.3627505)]
 
+#### KG as other roles in Inference
+1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
+
 ### 4. (Unclassified)
-1. Using Knowledge Graph data in Large Language Models (Keynote) [[Video](https://www.youtube.com/watch?v=SHHHJXwHeWM)]
+
 2. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 3. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
 4. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
@@ -250,14 +254,12 @@ Query Focused Summerization (QFS):
 5. Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles (Arxiv 2022) [[Paper](https://arxiv.org/abs/2211.16504)]
 6. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)]
 7. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
-8. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023) [[Papers](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b25c39788e5cf11d3541de433ebf4c0-Abstract-Conference.html)] --> KGs for VLMs
 9. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 10. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
 11. Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs (ACL 2024) [[Paper](https://arxiv.org/abs/2407.21358)] [[Notes](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507048&idx=1&sn=8ebfe3c9a0f7593e6453994574b5ba57&chksm=fcb07b8dcbc7f29b4d33080d7f144f097d9f056bff75ff053d86c4c9f0007f48210481ce4f1e&token=1932359749&lang=zh_CN#rd)]
 >   A new dataset: MusicBrainz-x-Wikidata, which contains 109 questions that require reasoning with information from both MusicBrainz and Wikidata.
 12. Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models (ICLR 2025 Poster, Jieping Ye) [[Paper](https://openreview.net/forum?id=oMFOKjwaRS)]
 13. Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models (ICLR 2025 Poster, Xiaofang Zhou and Lei Chen) [[Paper](https://openreview.net/forum?id=49fIu0yDJ4)]
-14. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 15. Aligning Complex Knowledge Graph Question Answering as Knowledge-Aware Constrained Code Generation (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.267.pdf)]
 16. Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714892)]
 17. HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses (ACL 2025)
@@ -290,7 +292,10 @@ These papers discuss how to utilze LLM and KG for other tasks, such as Informati
 14. Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models (ACL 2025)
 
 ## 📝 VLMs and Knowledge Graphs
-1. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023 poster) [[OpenReview](https://openreview.net/forum?id=YmEDnMynuO&noteId=0rFYtJNqHc)]
+```
+The papers in this section may have overlaps with MMKGs.
+```
+1. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023 poster) [[OpenReview](https://openreview.net/forum?id=YmEDnMynuO&noteId=0rFYtJNqHc)][[Papers](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b25c39788e5cf11d3541de433ebf4c0-Abstract-Conference.html)]
 
 ## 📝 Related Works and Discussion (maybe they are not directly related to both KG and LLM, but they give us some insights!)
 1. ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models (Arxiv 2021) [[Paper](https://arxiv.org/pdf/2108.12472.pdf)]
