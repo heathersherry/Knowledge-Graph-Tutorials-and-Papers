@@ -1,4 +1,4 @@
-# Knowledge Graph Structual Mining
+# Knowledge Graph enhanced Graph Analysis
 
 ### KG enhanced Community Detection
 __Surveys__
