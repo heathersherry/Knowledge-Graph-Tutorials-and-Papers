@@ -1,4 +1,4 @@
-# Knowledge Graph enhanced Graph Analysis
+# Graph Analysis
 
 ### KG enhanced Community Detection
 __Surveys__
