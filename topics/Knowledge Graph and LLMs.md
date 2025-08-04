@@ -105,6 +105,7 @@ guide the search process.
 25. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)]
 26. CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025)
 27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
+28. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics, KGE on BERT based LM) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
 
 ## 📝 Knowledge Graphs for LLMs
 ```
@@ -115,6 +116,10 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 ### 1. KG for Pretraining
 __KG for Contextual Word Representations__
 1. Knowledge enhanced contextual word representations ((EMNLP-IJCNLP 2019)
+
+__KG as Training Corpus__
+1. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
+
 
 ### 2. KG for SFT
 __KG for generation of CoT (Chain of Thoughts) data__
@@ -247,9 +252,7 @@ Query Focused Summerization (QFS):
 
 ### 4. (Unclassified)
 
-2. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
-3. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
-4. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
+1. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
 > * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
 5. Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles (Arxiv 2022) [[Paper](https://arxiv.org/abs/2211.16504)]
 6. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)]
