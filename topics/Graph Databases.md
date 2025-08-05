@@ -22,7 +22,7 @@
 > * `in-memory`, `mutable graph`
 > * An in-memory system that extends hybrid transactional/analytical processing (HTAP) systems to support graph analytical processing (GAP).
 6. Columnar Storage and List-based Processing for Graph Database Management Systems (VLDB 2020) [[Github (you can refer to the presentation video)](https://github.com/graphflow/graphflow-columnar-techniques?tab=readme-ov-file)]
-* `in-memory`, `immutable graph`, `adjancency list`
+* `in-memory`, `immutable graph`, `adjancency list and CSR?`
 
 ## Interface
 1. GRIN
