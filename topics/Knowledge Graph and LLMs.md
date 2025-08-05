@@ -30,6 +30,8 @@ fine-tuning of LLMs (particularly domain-specific LLMs) by integrating structure
 8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, July 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
 9. Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap (Engineering 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809924007239)]
 10. Integrating Large Language Models and Knowledge Graphs for Next-level AGI (WWW 2025 tutorial) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715866)]
+11. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)] 🌟
+> * KG in Before-training/During-training/Post-training enhancement for pretrained LMs. (see Table 2)
 
 ## 💬 Discussions about Knowledge Graphs and LLMs
 1. The Future of Knowledge Graphs in a World of Large Language Models, given by Denny Vrandečić, Post-conference recording of the keynote for May 11 at the Knowledge Graph Conference 2023 in New York, NY. [[Video](https://www.youtube.com/watch?v=WqYBx2gB6vA)]
@@ -249,13 +251,13 @@ Query Focused Summerization (QFS):
 
 #### KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
+2. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
+> * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
 
 ### 4. (Unclassified)
 
-1. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
-> * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
-5. Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles (Arxiv 2022) [[Paper](https://arxiv.org/abs/2211.16504)]
-6. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)]
+1.  
+6. 
 7. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
 9. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 10. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
@@ -299,6 +301,8 @@ These papers discuss how to utilze LLM and KG for other tasks, such as Informati
 The papers in this section may have overlaps with MMKGs.
 ```
 1. GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph (NeurIPS 2023 poster) [[OpenReview](https://openreview.net/forum?id=YmEDnMynuO&noteId=0rFYtJNqHc)][[Papers](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b25c39788e5cf11d3541de433ebf4c0-Abstract-Conference.html)]
+2. Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles (Arxiv 2022) [[Paper](https://arxiv.org/abs/2211.16504)]
+3. 
 
 ## 📝 Related Works and Discussion (maybe they are not directly related to both KG and LLM, but they give us some insights!)
 1. ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models (Arxiv 2021) [[Paper](https://arxiv.org/pdf/2108.12472.pdf)]
