@@ -25,8 +25,8 @@
 > * `in-memory`, `immutable graph`, `adjancency list and CSR?`
 7. GraphOne: A Data Store for Real-time Analytics on Evolving Graphs (FAST 2019) [[Paper](https://www.usenix.org/conference/fast19/presentation/kumar)]
 > * `in-memory`, `mutable graph`
-8. GraphChi: Large-Scale Graph Computation on Just a PC (OSDI 2012) [[Paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf)]
-> * `on-disk`, `mutable graph (but only update the edge/node values)`
+8. GraphChi: Large-Scale Graph Computation on Just a PC (OSDI 2012) [[Paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf)] hot!
+> * `on-disk`, `mutable graph`
   
 ## Interface
 1. GRIN
