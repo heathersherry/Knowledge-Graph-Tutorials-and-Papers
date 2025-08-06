@@ -22,9 +22,11 @@
 > * `in-memory`, `mutable graph`
 > * An in-memory system that extends hybrid transactional/analytical processing (HTAP) systems to support graph analytical processing (GAP).
 6. Columnar Storage and List-based Processing for Graph Database Management Systems (VLDB 2020) [[Github (you can refer to the presentation video)](https://github.com/graphflow/graphflow-columnar-techniques?tab=readme-ov-file)]
-* `in-memory`, `immutable graph`, `adjancency list and CSR?`
+> * `in-memory`, `immutable graph`, `adjancency list and CSR?`
 7. GraphOne: A Data Store for Real-time Analytics on Evolving Graphs (FAST 2019) [[Paper](https://www.usenix.org/conference/fast19/presentation/kumar)]
-* `in-memory`, `mutable graph`
+> * `in-memory`, `mutable graph`
+8. GraphChi: Large-Scale Graph Computation on Just a PC (OSDI 2012) [[Paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf)]
+> * `on-disk`, `mutable graph (but only update the edge/node values)`
   
 ## Interface
 1. GRIN
