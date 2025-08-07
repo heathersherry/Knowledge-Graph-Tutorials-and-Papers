@@ -116,15 +116,15 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 ```
 
 ### 1. KG for Pretraining
-__KG for Contextual Word Representations__
+#### 1.1 KG for Contextual Word Representations
 1. Knowledge enhanced contextual word representations ((EMNLP-IJCNLP 2019)
 
-__KG as Training Corpus__
+#### 1.2 KG as Training Corpus
 1. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 
 
 ### 2. KG for SFT
-__KG for generation of CoT (Chain of Thoughts) data__
+#### 2.1 KG for generation of CoT (Chain of Thoughts) data
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025, UCSC+UBC+NTU+Stanford+Cornell+NYU) [[Paper](https://arxiv.org/pdf/2504.00993)]
 2. Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024-Findings, UIUC+Amazon+Upenn+UV, Han Jiawei) [[Paper](https://aclanthology.org/2024.findings-acl.11.pdf)]
 3. REASONING-ENHANCED HEALTHCARE PREDICTIONS WITH KNOWLEDGE GRAPH COMMUNITY RETRIEVAL (ICLR 2025, Han Jiawei) [[Paper](https://arxiv.org/pdf/2410.04585)]
@@ -135,9 +135,9 @@ __KG for generation of CoT (Chain of Thoughts) data__
 ```
 The papers listed in this section may have overlaps with the KGQA papers.
 ```
-#### KG for RAG (Retrieval Augmented Generation)
+#### 3.1 KG for RAG (Retrieval Augmented Generation)
 
-💡 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
+**Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
 2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - Default VDB: PostgreSQL + pgvector
 3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - Default VDB: Elasticsearch
@@ -156,7 +156,7 @@ The papers listed in this section may have overlaps with the KGQA papers.
 16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 17. All RAG Techniques [[Github](https://github.com/liu673/rag-all-techniques)] - A series of simple and clear demos!! Strongly recommended.
 
-💡 **Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG**:
+**Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG**:
 1. Retrieval-Augmented Generation for Large Language Models: A Survey (Arxiv, Mar 2024) [[Paper](https://arxiv.org/pdf/2312.10997)] [[Notes for OpenRAG Base](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
@@ -178,8 +178,7 @@ The papers listed in this section may have overlaps with the KGQA papers.
 > * Enhancing Large Language Models with Knowledge Graphs: The Role of Graph Algorithms
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
-
-💡 **KG-RAG works**
+**KG-RAG works**
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
 2. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
@@ -225,7 +224,8 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 30. FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs (ACL 2025)
 31. Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency (submitted to ACL 2025) [[Paper](https://openreview.net/forum?id=kRpq4ONlXz)]
 
-💡 **RAG benchmarks**
+**RAG benchmarks**
+
 Fact Retrieval:
 1. HotPotQA
 2. MultiHop-RAG
@@ -234,7 +234,7 @@ Fact Retrieval:
 Query Focused Summerization (QFS):
 1. Document Summarization with Latent Queries (TACL 2022) [[Paper](https://aclanthology.org/2022.tacl-1.36/)]
 
-#### KG in Agent Memory
+#### 3.2 KG in Agent Memory
 1. Memory [[Github](https://github.com/kingjulio8238/Memary/tree/main)]
 > * Memary uses a graph database to store knoweldge.
 > * Llama Index was used to add nodes into the graph store based on documents.
@@ -244,7 +244,7 @@ Query Focused Summerization (QFS):
 3. AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.04363)] [[Github](https://github.com/AIRI-Institute/AriGraph)] hot!
 > *  Retrieval from the AriGraph memory consists of two procedures: (1) a semantic search returns the most relevant triplets (semantic edges) and (2) an episodic search that, given extracted triplets, returns the most relevant episodic vertices 
 
-#### KG and Prompting
+#### 3.3 KG and Prompting
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 > * KG enhances knowledge retrieval, where at query time an LLM-based agent dynamically traverses a graph with nodes representing document elements (e.g., passages, tables) and edges encoding lexical and semantical similarity or structural relationships.
 3. KG-prompt: Interpretable knowledge graph prompt for pre-trained language models (Knowledge-Based Systems, 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001650)]
@@ -255,17 +255,16 @@ Query Focused Summerization (QFS):
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
-#### KG as Grounded Truths in Inference
+#### 3.4 KG as Grounded Truths in Inference
 1. Knowledge Graph-augmented Language Models for Complex Question Answering (NLRSE, ACL workshop) [[Paper](https://aclanthology.org/2023.nlrse-1.1/)]
 2. FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction (ASONAM 2023) [[Paper](https://dl.acm.org/doi/10.1145/3625007.3627505)]
 
-#### KG as other roles in Inference
+#### 3.5 KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 2. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
 > * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
 
-### 4. (Unclassified)
-
+### 4. Unclassified works
 1. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
 9. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 10. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
