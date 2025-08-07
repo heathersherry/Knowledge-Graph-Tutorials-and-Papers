@@ -223,6 +223,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 28. Advancing Feature Extraction in Healthcare through the Integration of Knowledge Graphs and Large Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/35224)]
 29. SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation (ACL 2025)
 30. FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs (ACL 2025)
+31. Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency (submitted to ACL 2025) [[Paper](https://openreview.net/forum?id=kRpq4ONlXz)]
 
 💡 **RAG benchmarks**
 Fact Retrieval:
@@ -233,6 +234,15 @@ Fact Retrieval:
 Query Focused Summerization (QFS):
 1. Document Summarization with Latent Queries (TACL 2022) [[Paper](https://aclanthology.org/2022.tacl-1.36/)]
 
+#### KG in Agent Memory
+1. Memory [[Github](https://github.com/kingjulio8238/Memary/tree/main)]
+> * Memary uses a graph database to store knoweldge.
+> * Llama Index was used to add nodes into the graph store based on documents.
+> * Perplexity (mistral-7b-instruct model) was used for external queries.
+2. ZEP: A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2501.13956)]
+> * Zep implements three search functions: cosine semantic similarity search (ϕcos), Okapi BM25 full-text search (ϕbm25), and breadth-first search (ϕbfs). The first two functions utilize Neo4j’s implementation of Lucene.
+3. AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.04363)] [[Github](https://github.com/AIRI-Institute/AriGraph)] hot!
+> *  Retrieval from the AriGraph memory consists of two procedures: (1) a semantic search returns the most relevant triplets (semantic edges) and (2) an episodic search that, given extracted triplets, returns the most relevant episodic vertices 
 
 #### KG and Prompting
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
@@ -256,9 +266,7 @@ Query Focused Summerization (QFS):
 
 ### 4. (Unclassified)
 
-1.  
-6. 
-7. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
+1. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
 9. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 10. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
 11. Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs (ACL 2024) [[Paper](https://arxiv.org/abs/2407.21358)] [[Notes](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507048&idx=1&sn=8ebfe3c9a0f7593e6453994574b5ba57&chksm=fcb07b8dcbc7f29b4d33080d7f144f097d9f056bff75ff053d86c4c9f0007f48210481ce4f1e&token=1932359749&lang=zh_CN#rd)]
