@@ -41,6 +41,10 @@ __General Papers__
 18. Defining a Knowledge Graph Development Process Through a Systematic Review (TOSEM 2023)  [[Paper](https://dl.acm.org/doi/full/10.1145/3522586)] 🌟 (although it comes from the SE area)
 19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
 
+__VKG__
+```Note: VKG is not the same as normal KGs.```
+1. LLM4VKG: Leveraging Large Language Models for Virtual Knowledge Graph Construction (IJCAI 2025) [[Notes](https://mp.weixin.qq.com/s/x8XWw-rzKyZK7o5SostG-Q?poc_token=HJ-lmmij3caLskPLJLQeg9mWhEZ35w-MvazD85SC)] 🔥
+
 __LLM for General KG Constrution__ 🔥🔥🔥
 1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
 2. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/abs/2305.04676)]
