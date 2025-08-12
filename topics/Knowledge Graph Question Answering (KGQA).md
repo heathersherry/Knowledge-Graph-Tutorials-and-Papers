@@ -158,6 +158,7 @@ guide the search process.
 54. Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models (ACL 2025)
 55. FiDeLiS: Faithful Reasoning in Large Language Models for Knowledge Graph Question Answering (ACL 2025)
 56. KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3701716.3715240)]
+57. ReKG-MCTS: Reinforcing LLM Reasoning on Knowledge Graphs via Training-Free Monte Carlo Tree Search (ACL 2025) [[Paper](https://aclanthology.org/2025.findings-acl.484.pdf)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
