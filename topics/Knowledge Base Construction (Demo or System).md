@@ -42,6 +42,7 @@ __General Papers__
 19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
 
 __VKG__
+
 ```Note: VKG is not the same as normal KGs.```
 1. LLM4VKG: Leveraging Large Language Models for Virtual Knowledge Graph Construction (IJCAI 2025) [[Notes](https://mp.weixin.qq.com/s/x8XWw-rzKyZK7o5SostG-Q?poc_token=HJ-lmmij3caLskPLJLQeg9mWhEZ35w-MvazD85SC)] 🔥
 
