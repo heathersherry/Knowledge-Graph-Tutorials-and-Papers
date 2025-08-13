@@ -85,6 +85,7 @@ __LM/LLM Based Techniques__ 🔥
 > * They had an informal version submitted earlier: Using ChatGPT for Entity Matching (Arxiv, 2023 May) [[Paper](https://arxiv.org/pdf/2305.03423.pdf)]
 5. Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[Paper](https://arxiv.org/abs/2405.16806)]
 6. HLMEA: Unsupervised Entity Alignment Based on Hybrid Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33294)]
+7. Unlocking the Power of Large Language Models for Entity Alignment (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.15048)]
 
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
