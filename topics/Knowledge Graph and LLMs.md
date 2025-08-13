@@ -226,6 +226,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 31. Distill-SynthKG: Distilling Knowledge Graph Synthesis Workflow for Improved Coverage and Efficiency (submitted to ACL 2025) [[Paper](https://openreview.net/forum?id=kRpq4ONlXz)]
 32. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
 33. HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses (ACL 2025)
+34. **HippoRAG 2**: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [[Paper](https://mp.weixin.qq.com/s/Gq6FTFMacjO3CpW3NtawSg)]
 
 **RAG benchmarks**
 
