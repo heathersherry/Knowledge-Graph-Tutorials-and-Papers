@@ -91,7 +91,7 @@ __Datasets/Benchmarks__
 2. **FB15k-237**: Observed versus Latent Features for Knowledge Base and Text Inference (3rd Workshop on Continuous Vector Space Models and their Compositionality, 2015)
 3. **CoDex-M**: CoDEx: A Comprehensive Knowledge Graph Completion Benchmark (EMNLP 2020)
 4. **YAGO3-10**: Yago3: A Knowledge Base from Multilingual Wikipedias (Conference on Innovative Data Systems Research, 2015)
-
+5. **WikiRAG**: Revisiting Wikidata KGC Datasets with Community Updates and Retrieval-Augmented Generation (KDD 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737444)]
 
 ### 📝 KB/KG Population
 __Survey, Summary and Notes__
