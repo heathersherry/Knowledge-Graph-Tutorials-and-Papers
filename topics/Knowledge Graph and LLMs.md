@@ -260,7 +260,9 @@ Query Focused Summerization (QFS):
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
 #### 3.4 KG as Grounded Truths in Inference
-``` Some of these works may be related to Retrieval-augmented language model (RALM), which relies on retrieved external knowledge to generate responses.```
+``` 
+Some of these works may be related to Retrieval-augmented language model (RALM), which relies on retrieved external knowledge to generate responses.
+```
 1. Knowledge Graph-augmented Language Models for Complex Question Answering (NLRSE, ACL workshop) [[Paper](https://aclanthology.org/2023.nlrse-1.1/)]
 2. FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction (ASONAM 2023) [[Paper](https://dl.acm.org/doi/10.1145/3625007.3627505)]
 3. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
