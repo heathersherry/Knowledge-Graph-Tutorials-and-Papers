@@ -227,6 +227,8 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 32. RD-P: A Trustworthy Retrieval-Augmented Prompter with Knowledge Graphs for LLMs (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679659)]
 33. HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses (ACL 2025)
 34. **HippoRAG 2**: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [[Paper](https://mp.weixin.qq.com/s/Gq6FTFMacjO3CpW3NtawSg)]
+35. GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.findings-acl.856/)]
+36. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.acl-long.830/)]
 
 **RAG benchmarks**
 
@@ -259,13 +261,14 @@ Query Focused Summerization (QFS):
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
-#### 3.4 KG as Grounded Truths in Inference
+#### 3.4 KG as Grounded Truths/Benchmarks in Inference
 ``` 
 Some of these works may be related to Retrieval-augmented language model (RALM), which relies on retrieved external knowledge to generate responses.
 ```
 1. Knowledge Graph-augmented Language Models for Complex Question Answering (NLRSE, ACL workshop) [[Paper](https://aclanthology.org/2023.nlrse-1.1/)]
 2. FABULA: Intelligence Report Generation Using Retrieval-Augmented Narrative Construction (ASONAM 2023) [[Paper](https://dl.acm.org/doi/10.1145/3625007.3627505)]
 3. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
+4. Conceptual Diagnostics for Knowledge Graphs and Large Language Models (ACL 2025, emerging industry track submission) [[Paper](https://aclanthology.org/2025.acl-industry.37/)]
 
 #### 3.5 KG for Reasoning/CoT in Inference
 1. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://openreview.net/forum?id=9buvSnaiMp)]
