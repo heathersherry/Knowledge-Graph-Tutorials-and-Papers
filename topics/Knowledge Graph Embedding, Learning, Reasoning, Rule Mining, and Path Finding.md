@@ -72,7 +72,7 @@ __General Papers__
 37. Robustness Evaluation of Knowledge Graph Embedding Models Under Non-targeted Attacks (ESWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-94575-5_15)]
 38. Croppable Knowledge Graph Embedding (ACL 2025)
 39. RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph (ACL 2025)
-40. A Mutual Information Perspective on Knowledge Graph Embedding (ACL 2025)
+40. A Mutual Information Perspective on Knowledge Graph Embedding (ACL 2025) [[Paper](https://aclanthology.org/2025.acl-long.1077/)]
 41. Conformalized Answer Set Prediction for Knowledge Graph Embedding (NAACL 2025)
 42. Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding (NAACL 2025)
 43. Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs (ICML 2025) [[Paper](https://openreview.net/forum?id=2tH2vexW1Z)]
