@@ -11,6 +11,7 @@
 __General Topics__
 1. End-to-end Neural Coreference Resolution (ACL 2017) [[Paper](https://www.aclweb.org/anthology/D17-1018.pdf)]
 2. Investigating Multilingual Coreference Resolution by Universal Annotations (2023) [[Paper](https://arxiv.org/pdf/2310.17734v1.pdf)]
+3. STPar: A Structure-Aware Triaffine Parser for Screenplay Character Coreference Resolution (TACL 2025) [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.28/132116)]
 
 __LLM for CR__ 🔥🔥🔥
 1. Better Handling Coreference Resolution in Aspect Level Sentiment Classification by Fine-Tuning Language Models (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2307.05646.pdf)]
