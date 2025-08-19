@@ -113,6 +113,8 @@ __Research Papers__
 19. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models (Bioinformatics 2024) [[Paper](https://academic.oup.com/bioinformatics/article/40/6/btae353/7687047?login=false)] 🔥
 20. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0fd17409385ab9304e5019c6a6eb327a-Paper-Conference.pdf)] 🔥
 21. Knowledge graphs and their applications in drug discovery (Artificial Intelligence (AI) in Drug Discovery 2021) [[Paper](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1910673)]
+22. Learning from Negative Samples in Biomedical Generative Entity Linking (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.558/)]
+
 
 __Datasets__
 1. PubMed
