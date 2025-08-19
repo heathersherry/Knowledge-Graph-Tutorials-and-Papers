@@ -184,6 +184,7 @@ __Research Papers__
 2. NewsLink: Empowering Intuitive News Search with Knowledge Graphs (ICDE 2021) 🌟
 3. ASER: A Large-scale Eventuality Knowledge Graph (WWW 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380107)] [[Code](https://github.com/HKUST-KnowComp/ASER)]
 4. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025) 🔥
+5. Event Pattern-Instance Graph: A Multi-Round Role Representation Learning Strategy for Document-Level Event Argument Extraction (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.94/)]
 
 ### 💭 Opinion Graphs
 __Research Papers__
