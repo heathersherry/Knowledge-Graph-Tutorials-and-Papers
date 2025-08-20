@@ -74,6 +74,7 @@ __Multiple Hop QA__
 5. Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings (ACL 2020) [[Paper](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)] More than 300 stars in Github in Dec 2023!
 6. HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs (ACL 2024) [[Paper](https://arxiv.org/pdf/2406.06027)] 🔥
 7. Extending Complex Logical Queries on Uncertain Knowledge Graphs (ACL 2025)
+8. Search-in-Context: Efficient Multi-Hop QA over Long Contexts via Monte Carlo Tree Search with Dynamic KV Retrieval (ACL 2025)
 
 __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
