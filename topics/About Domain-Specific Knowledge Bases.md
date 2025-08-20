@@ -155,6 +155,7 @@ __People__
 
 __Materials__
 1. The Construction and Applications of Medical KGs (in Chinese, 医疗领域图谱的构建与应用) [[Link](https://mp.weixin.qq.com/s/dTAoI3pfCCT0CjNveanaxA)]
+2. Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models (ACL 2025 Findings)
 
 ### 💰 Finance KBs
 __Survey and Intersting Discussion__
