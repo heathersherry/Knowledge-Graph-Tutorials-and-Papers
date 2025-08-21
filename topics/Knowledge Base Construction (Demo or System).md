@@ -46,7 +46,7 @@ __VKG__
 ```Note: VKG is not the same as normal KGs.```
 1. LLM4VKG: Leveraging Large Language Models for Virtual Knowledge Graph Construction (IJCAI 2025) [[Notes](https://mp.weixin.qq.com/s/x8XWw-rzKyZK7o5SostG-Q?poc_token=HJ-lmmij3caLskPLJLQeg9mWhEZ35w-MvazD85SC)] 🔥
 
-__LLM for General KG Constrution__ 🔥🔥🔥
+__LLM for General KG Construction 🔥🔥🔥
 1. LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities (Arxiv, 22 May 2023) [[Paper](https://arxiv.org/abs/2305.13168)]
 2. Enhancing Knowledge Graph Construction Using Large Language Models (Arxiv 2023) [[Paper](https://arxiv.org/abs/2305.04676)]
 3. Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction (Arxiv 2023) [[Paper](https://arxiv.org/abs/2307.01128)]
