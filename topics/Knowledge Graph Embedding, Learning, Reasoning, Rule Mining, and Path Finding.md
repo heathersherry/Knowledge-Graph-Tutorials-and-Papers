@@ -77,6 +77,7 @@ __General Papers__
 42. Mitigating Heterogeneity among Factor Tensors via Lie Group Manifolds for Tensor Decomposition Based Temporal Knowledge Graph Embedding (NAACL 2025)
 43. Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs (ICML 2025) [[Paper](https://openreview.net/forum?id=2tH2vexW1Z)]
 44. Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings (ACL 2025)
+45. Time-enhanced compound geometric operations for temporal knowledge graph embedding (Neurocomputing 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225018545)]
 
  
 __Dynamic/Adaptive Embedding__
