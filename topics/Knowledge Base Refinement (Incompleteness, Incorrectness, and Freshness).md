@@ -57,7 +57,7 @@ __General Papers__
 33. DynaSemble: Dynamic Ensembling of Textual and Structure-Based Models for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/html/2311.03780v2)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/LMcF-Q0I_EX99LjgF9aMbA?token=748920746&lang=zh_CN)]
 34. Contextualization Distillation from Large Language Model for Knowledge Graph Completion (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.01729)] 🔥
 35. SemSI-GAT: Semantic Similarity-based Interaction Graph Attention Network for Knowledge Graph Completion (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10839124)]
-36. Anytime bottom-up rule learning for large-scale knowledge graph completion (VLDBJ 2023) 🌟 [[Paper](https://link.springer.com/article/10.1007/s00778-023-00800-5)]
+36. Anytime bottom-up rule learning for large-scale knowledge graph completion (VLDBJ 2023) [[Paper](https://link.springer.com/article/10.1007/s00778-023-00800-5)] 🌟
 37. MKGL: Mastery of a Three-Word Language (NeurIPS 2024 Spotlight) [[Paper](https://openreview.net/forum?id=eqMNwXvOqn)] 🔥
 38. Making Large Language Models Perform Better in Knowledge Graph Completion (MM 2024) [[Paper](https://arxiv.org/pdf/2310.06671)] 🔥
 39. PR-KGC: Text-enhanced Knowledge Graph Completion with Pair-wise Re-ranking (ICASSP 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10889671)]
@@ -70,6 +70,7 @@ __General Papers__
 46. Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion (ISWC 2024) [[Paper](https://arxiv.org/pdf/2407.16127)] 🔥
 47. Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion (NAACL 2025)
 48. Let Modalities Teach Each Other: Modal-Collaborative Knowledge Extraction and Fusion for Multimodal Knowledge Graph Completion (NAACL 2025)
+49. Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10884893)] 🌟
 
 __Link Prediction__
 1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
