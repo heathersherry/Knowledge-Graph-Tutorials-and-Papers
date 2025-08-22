@@ -12,7 +12,7 @@ Research Topics in Knowledge Graph
 * __Survey of Knowledge Graphs - General Concepts, Scientific Problems, Applications, Challenges, and Directions) [[link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/overview.md)]__
 
 ### 1. Knowledge Extraction and Integration to Construct KGs
-* __Knowledge Base Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Base%20Construction%20(Demo%20or%20System).md)__
+* __Knowledge Graph Construction (Demo or System) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Construction%20(Demo%20or%20System).md)__
 
 * __About Domain-Specific Knowledge Bases [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/About%20Domain-Specific%20Knowledge%20Bases.md)__
 
