@@ -1,4 +1,4 @@
-## Knowledge Base Construction (Demo or System)
+## Knowledge Graph Construction (Demo or System)
 Note: This is a very large topic which may contain numerous smaller directions
 
 ### 📝 Survey and Summary
