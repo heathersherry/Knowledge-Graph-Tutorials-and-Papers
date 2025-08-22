@@ -12,9 +12,10 @@ __Surveys__
 7. A Comprehensive Survey on Automatic Knowledge Graph Construction (ACM Computing Surveys, 2023) [[Link](https://dl.acm.org/doi/abs/10.1145/3618295)]
 8. LLMs for knowledge graph construction and reasoning: recent capabilities and future opportunities (WWW jornal 2024) [[Paper](https://link.springer.com/article/10.1007/s11280-024-01297-w)] 🔥
 
-__Interesting Blogs and Discussions__
+__Interesting Blogs, Repos and Discussions__
 1. Conceptualizing the Knowledge Graph Construction Pipeline [[Web](https://towardsdatascience.com/conceptualizing-the-knowledge-graph-construction-pipeline-33edb25ab831)]
 2. Topbase, a Tecent KG (in Chinese) [[Web](https://mp.weixin.qq.com/s/Qp6w7uFcgqKXzM7dWhYwFg)]
+3. Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
 
 ### 📝 Research Papers
 __General Papers__
