@@ -68,6 +68,7 @@ Research Topics in Knowledge Graph
 #### [[2018]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2018)  [[2019]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2019)  [[2020]](https://github.com/heathersherry/Knowledge-Graphs-and-Data-Integration-in-Database-Conferences-2020-)  [[2021]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2021.md)  [[2022]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2022.md)  [[2023]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2023.md) [[2024](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2024.md)] [[2025](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/DB-2025.md)]
 
 ## Tutorials and Notes from Talented People
+> Note: We only list the general tutorials here. For the surveys or communities of specific topics such as KG Construction, KG4LLM or KG Embedding, please refer to the above detailed sections.
 
 #### Tutorials, Discussion, Courses and Communities
 1. An introduction to knowledge graph and knowledge extraction from unstructured text. [[Link](https://kgtutorial.github.io)]
@@ -79,7 +80,6 @@ Research Topics in Knowledge Graph
 1. A Collection of KG Surveys, Papers (WWW+ACL+AAAI) and Data [[GitHub](https://github.com/shaoxiongji/knowledge-graphs#survey)]
 2. KG SOTA [[GitHub](https://github.com/impillar/knowledge_graph/blob/master/README.md)]
 3. Awesome KG tutorials/papers/projects/communities [[GitHub](https://github.com/BrambleXu/knowledge-graph-learning)]
-4. Knowledge Graph Construction (from zero to everything, in Chinese) [[GitHub](https://github.com/Pelhans/Z_knowledge_graph)]
 5. KG SOTA (Chinese) [[Zhihu](https://zhuanlan.zhihu.com/p/44904796)]
 6. Tracking Progress in Natural Language Processing [[GitHub](https://github.com/sebastianruder/NLP-progress)]
 7. KG Embedding SOTA [[GitHub](https://github.com/xinguoxia/KGE)]
@@ -89,6 +89,13 @@ Research Topics in Knowledge Graph
 11. Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities [[GitHub](https://openkg-tutorial.github.io/)]
 12. KG-LLM-Papers [[Link](https://github.com/zjukg/KG-LLM-Papers)]
 13. Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
+
+## Knowledge Graph Datasets
+> Note: We only list the general KGs here. For the datasets or benchmarks for specific topics such as KGQA or KG Completion, please refer to the above detailed sections.
+1. WikiData
+2. Yago
+3. Google Knowledge Graph
+4. Chinese OwnThink Knowledge Graph [[Link](https://github.com/ownthink/KnowledgeGraphData)]
 
 ## Useful Tools or APIs
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
