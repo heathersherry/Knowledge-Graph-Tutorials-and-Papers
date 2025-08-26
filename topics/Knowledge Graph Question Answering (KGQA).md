@@ -200,6 +200,7 @@ __Factoid entity questions (FEQ)__
 24. **CQW**: The web as a knowledge-base for answering complex questions (NAACL 2018)
 25. **WebQSP**: The value of semantic parse labeling for knowledge base question answering (ACL 2016)
 26. **MarkQA**: A large scale KBQA dataset with numerical reasoning (EMNLP 2023) [[Paper](https://arxiv.org/abs/2310.15517)]
+27. **CR-LT-KGQA**: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge (SIGIR 2024) [[Paper](https://arxiv.org/pdf/2403.01395)]
 
 References:
 1. QA datasets summary [[GitHub](https://github.com/sebastianruder/NLP-progress/blob/master/english/question_answering.md)]
