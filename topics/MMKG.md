@@ -15,6 +15,7 @@ __General Papers__
 > * Multiple data sources are first integrated into a unified knowledge graph (KG). Different modalities of data are addressed by specifying ad hoc views on the KG and producing a rewriting of the graph containing merely the data to be processed. Graph traversal and rule extraction are this way boosted.
 4. Multimodal Reasoning with Multimodal Knowledge Graphs (ACL 2024) [[Paper](https://arxiv.org/abs/2406.02030)] [[Notes](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507392&idx=1&sn=7be74834021c7c1a391af3d344a5aafe&chksm=fcb07a25cbc7f33338df0312af915135d2f370250cd36bfd9e9a861c7ad6883dd4e06c9e539b&token=1338044507&lang=zh_CN#rd)]
 5. Let Modalities Teach Each Other: Modal-Collaborative Knowledge Extraction and Fusion for Multimodal Knowledge Graph Completion (NAACL 2025)
+6. Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph Completion (TKDD 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3760786)]
 
 
 __Multimodal entity linking (MEL)__
@@ -26,6 +27,7 @@ __Multimodal entity linking (MEL)__
 6. Generative Multimodal Entity Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2306.12725)] 🔥
 4. Integrating Large Language Models in Multimodal Entity Linking: A Novel Two-Level Reflection Framework (submitted to ACL 2023, open review) [[Paper](https://openreview.net/forum?id=0pKFrH7pmh1)] 🔥
 5. Explicit-Implicit Entity Alignment Method in Multi-modal Knowledge Graphs (KDD 2025)
+
 
 __Benchmarks, Datasets and Evaluation__
 1. __(MEL Dataset)__ WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.328/)]
