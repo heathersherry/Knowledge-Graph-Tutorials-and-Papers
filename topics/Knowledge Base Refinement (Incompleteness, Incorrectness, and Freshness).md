@@ -121,6 +121,10 @@ __General Papers (KBP from External Sources)__
 8. Shadowfax: Harnessing Textual Knowledge Base Population (SIGIR 2024) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657666)]
 
 ### 📝 KB/KG Error Detection and Enhancement
+__Surveys__
+1. Fact Checking Knowledge Graphs -- A Survey (ACM Computing Surveys 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3749838)]
+
+__Papers__
 1. Knowledge Base Enhancement via Data Facts and Crowdsourcing (ICDE 2018) [[PDF](https://ieeexplore.ieee.org/document/8509324)], more similar to a crowdsourcing work 🌟
 2. User Guidance for Efficient Fact Checking (VLDB 2019) [[PDF](https://dl.acm.org/citation.cfm?id=3324031.3341984)] 🌟
 3. Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond (VLDB 2020) 🌟
