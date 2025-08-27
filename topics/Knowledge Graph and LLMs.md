@@ -248,9 +248,12 @@ Query Focused Summerization (QFS):
 2. ZEP: A TEMPORAL KNOWLEDGE GRAPH ARCHITECTURE FOR AGENT MEMORY (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2501.13956)]
 > * Zep implements three search functions: cosine semantic similarity search (ϕcos), Okapi BM25 full-text search (ϕbm25), and breadth-first search (ϕbfs). The first two functions utilize Neo4j’s implementation of Lucene.
 3. AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.04363)] [[Github](https://github.com/AIRI-Institute/AriGraph)] hot!
-> *  Retrieval from the AriGraph memory consists of two procedures: (1) a semantic search returns the most relevant triplets (semantic edges) and (2) an episodic search that, given extracted triplets, returns the most relevant episodic vertices 
+> *  Retrieval from the AriGraph memory consists of two procedures: (1) a semantic search returns the most relevant triplets (semantic edges) and (2) an episodic search that, given extracted triplets, returns the most relevant episodic vertices
 
-#### 3.3 KG and Prompting
+#### 3.3 KG for Agent
+1. SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature computational science 2025) [[Paper](https://www.nature.com/articles/s43588-025-00849-y)]
+
+#### 3.4 KG and Prompting
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 > * KG enhances knowledge retrieval, where at query time an LLM-based agent dynamically traverses a graph with nodes representing document elements (e.g., passages, tables) and edges encoding lexical and semantical similarity or structural relationships.
 3. KG-prompt: Interpretable knowledge graph prompt for pre-trained language models (Knowledge-Based Systems, 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001650)]
@@ -261,7 +264,7 @@ Query Focused Summerization (QFS):
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
-#### 3.4 KG as Grounded Truths/Benchmarks in Inference
+#### 3.5 KG as Grounded Truths/Benchmarks in Inference
 ``` 
 Some of these works may be related to Retrieval-augmented language model (RALM), which relies on retrieved external knowledge to generate responses.
 ```
@@ -270,10 +273,10 @@ Some of these works may be related to Retrieval-augmented language model (RALM),
 3. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 4. Conceptual Diagnostics for Knowledge Graphs and Large Language Models (ACL 2025, emerging industry track submission) [[Paper](https://aclanthology.org/2025.acl-industry.37/)]
 
-#### 3.5 KG for Reasoning/CoT in Inference
+#### 3.6 KG for Reasoning/CoT in Inference
 1. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://openreview.net/forum?id=9buvSnaiMp)]
 
-#### 3.6 KG as other roles in Inference
+#### 3.7 KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 2. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
 > * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
