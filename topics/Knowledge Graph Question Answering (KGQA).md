@@ -161,6 +161,8 @@ guide the search process.
 55. FiDeLiS: Faithful Reasoning in Large Language Models for Knowledge Graph Question Answering (ACL 2025)
 56. KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3701716.3715240)]
 57. ReKG-MCTS: Reinforcing LLM Reasoning on Knowledge Graphs via Training-Free Monte Carlo Tree Search (ACL 2025) [[Paper](https://aclanthology.org/2025.findings-acl.484.pdf)]
+58. Flow-guided Direct Preference Optimization for Knowledge Graph Reasoning with Trees (SIGIR 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3729980)]
+59. Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33353)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
