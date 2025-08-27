@@ -1,5 +1,8 @@
 ## Knowledge Graph Question Answering (KGQA)
-Note: This task is highly related with [Entity Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md) as well as [Relation Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md).
+Note: This task is highly related with the following topics:
+* [Entity Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Linking%20and%20Entity%20Disambiguation.md), which recognizes the target entities in the question.
+* [Relation Linking and Disambiguation](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md), which recognizes the target predicates in the question.
+* [Knowledge Graph Embedding and Reasoning](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Embedding%2C%20Learning%2C%20Reasoning%2C%20Rule%20Mining%2C%20and%20Path%20Finding.md), which discovers hidden relations among entities in the KG and hence often relies on KGQA for evaluation.
 
 ### 📝 Survey and Summary
 1. Core techniques of question answering systems over knowledge bases: a survey (Knowledge and Information Systems 2017) [[Paper](https://link.springer.com/article/10.1007/s10115-017-1100-y)]
