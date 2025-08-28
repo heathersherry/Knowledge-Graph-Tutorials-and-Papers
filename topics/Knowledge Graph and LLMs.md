@@ -129,7 +129,7 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025, UCSC+UBC+NTU+Stanford+Cornell+NYU) [[Paper](https://arxiv.org/pdf/2504.00993)]
 2. Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs (ACL 2024-Findings, UIUC+Amazon+Upenn+UV, Han Jiawei) [[Paper](https://aclanthology.org/2024.findings-acl.11.pdf)]
 3. REASONING-ENHANCED HEALTHCARE PREDICTIONS WITH KNOWLEDGE GRAPH COMMUNITY RETRIEVAL (ICLR 2025, Han Jiawei) [[Paper](https://arxiv.org/pdf/2410.04585)]
-4. Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models (ICLR 2025, Jieping Ye) [[Paper](https://openreview.net/forum?id=oMFOKjwaRS)]
+4. Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models (ICLR 2025 Poster, Jieping Ye) [[Paper](https://openreview.net/forum?id=oMFOKjwaRS)]
 
 
 ### 3. KG for Inference
