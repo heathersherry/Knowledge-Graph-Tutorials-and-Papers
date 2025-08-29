@@ -190,7 +190,7 @@ But graphs can record the connection among document chunks, to facilitate the *r
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
 **KG-RAG works**
-0. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
+1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
 2. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
