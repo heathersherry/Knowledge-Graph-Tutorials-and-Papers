@@ -137,6 +137,14 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 The papers listed in this section may have overlaps with the KGQA papers.
 ```
 #### 3.1 KG for RAG (Retrieval Augmented Generation)
+```
+Note: The definition of knowledge graphs may be different in each RAG work.
+* In general, the nodes and links in a KG are entities and relations.
+* However, in KG-RAG works, it is common that the nodes are concepts instead of entities (e.g., "Pleasant weather in Bangalore" in stead of "Bangalore"), while
+a link represents the co-occurrence of two concepts in a document chunk.
+* This is aligned with the of LLM+KG inference: Compared with neural networks the captures complex distribution of knowledge, graphs of entities may not be scientifically optimal as a knowledge model.
+But graphs can record the connection among document chunks, to facilitate the *retrieval sequence* of llm inference. 
+```
 
 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
@@ -180,6 +188,7 @@ The papers listed in this section may have overlaps with the KGQA papers.
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
 **KG-RAG works**
+0. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
 2. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
@@ -191,7 +200,6 @@ The papers listed in this section may have overlaps with the KGQA papers.
 > * No reasoning or path finding, just community detection!
 > * Advanced: **LazyGraphRAG**, which defers LLM use (not in the extraction part, but only in the query part) and dramatically increase the efficiency of answer generation. [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
 > * GraphRAG-Local-UI/GraphRAG-Ollama-UI,  an adaptation of Microsoft's GraphRAG, tailored to support local models and featuring a comprehensive interactive user interface ecosystem. [[GitHub](https://github.com/severian42/GraphRAG-Local-UI)] 🔥
-
 6. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
 7. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
 8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)]
