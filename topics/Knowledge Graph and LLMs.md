@@ -140,9 +140,11 @@ The papers listed in this section may have overlaps with the KGQA papers.
 ```
 Note: The definition of knowledge graphs may be different in each RAG work.
 * In general, the nodes and links in a KG are entities and relations.
-* However, in KG-RAG works, it is common that the nodes are concepts instead of entities (e.g., "Pleasant weather in Bangalore" in stead of "Bangalore"), while
+* However, in KG-RAG works, it is common that the nodes are concepts instead of entities
+(e.g., "Pleasant weather in Bangalore" in stead of "Bangalore"), while
 a link represents the co-occurrence of two concepts in a document chunk.
-* This is aligned with the of LLM+KG inference: Compared with neural networks the captures complex distribution of knowledge, graphs of entities may not be scientifically optimal as a knowledge model.
+* This is aligned with the of LLM+KG inference: Compared with neural networks the captures complex distribution of knowledge,
+graphs of entities may not be scientifically optimal as a knowledge model.
 But graphs can record the connection among document chunks, to facilitate the *retrieval sequence* of llm inference. 
 ```
 
