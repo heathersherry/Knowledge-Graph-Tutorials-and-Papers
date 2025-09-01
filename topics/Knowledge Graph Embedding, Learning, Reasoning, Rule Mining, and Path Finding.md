@@ -189,7 +189,7 @@ __Rule Mining or Path Finding in KGs with LLM__ 🔥
 > * LLM-based Rule Generator in End2end rule mining.
 2. Paths-over-Graph: Knowledge Graph Empowered Large Language Model Reasoning (WWW 2025) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3696410.3714892)]
 
-### 📝 KG Ebedding-based Node Classification
+### 📝 KG Embedding-based Node Classification
 1. LLM-Guided Explanation Generation for Knowledge Graph Embedding-Based Node Classification (ACLARR 2025 - Openreview) [[Paper](https://openreview.net/forum?id=vSucHYb4oh)]
 
 
