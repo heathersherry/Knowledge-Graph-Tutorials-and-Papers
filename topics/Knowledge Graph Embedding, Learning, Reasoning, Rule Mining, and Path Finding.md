@@ -1,4 +1,8 @@
 ## Knowledge Graph Embedding, Learning, Reasoning, Rule Mining, and Path Finding
+```
+KG Embedding/Learning/Reasoning also contributes to a lot of downstream tasks such as KG completion and KGQA.
+Therefore, you may also find KG Embedding/Learning/Reasoning in the KG applications sections.
+```
 
 ### 📝 Surveys and Summary
 __Surveys, Tutorials and Experimental Studies__
