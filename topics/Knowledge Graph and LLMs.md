@@ -285,6 +285,7 @@ Some of these works may be related to Retrieval-augmented language model (RALM),
 
 #### 3.6 KG for Reasoning/CoT in Inference
 1. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://openreview.net/forum?id=9buvSnaiMp)]
+2. LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)]
 
 #### 3.7 KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
