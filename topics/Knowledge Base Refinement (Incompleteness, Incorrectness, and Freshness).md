@@ -71,6 +71,7 @@ __General Papers__
 47. Retrieval, Reasoning, Re-ranking: A Context-Enriched Framework for Knowledge Graph Completion (NAACL 2025)
 48. Let Modalities Teach Each Other: Modal-Collaborative Knowledge Extraction and Fusion for Multimodal Knowledge Graph Completion (NAACL 2025)
 49. Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10884893)] 🌟
+50. KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs (Apple, COLING 2025) [[Paper](https://arxiv.org/pdf/2501.03560)] 
 
 __Link Prediction__
 1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
@@ -93,6 +94,7 @@ __Datasets/Benchmarks__
 3. **CoDex-M**: CoDEx: A Comprehensive Knowledge Graph Completion Benchmark (EMNLP 2020)
 4. **YAGO3-10**: Yago3: A Knowledge Base from Multilingual Wikipedias (Conference on Innovative Data Systems Research, 2015)
 5. **WikiRAG**: Revisiting Wikidata KGC Datasets with Community Updates and Retrieval-Augmented Generation (KDD 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737444)] 🌟🔥
+6. **WikiKGE-10**: Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs (EMNLP 2023) [[Github](https://github.com/apple/ml-kge)]
 
 ### 📝 KB/KG Population
 __Survey, Summary and Notes__
