@@ -250,7 +250,7 @@ Fact Retrieval:
 Query Focused Summerization (QFS):
 1. Document Summarization with Latent Queries (TACL 2022) [[Paper](https://aclanthology.org/2022.tacl-1.36/)]
 
-#### 3.2 KG in Agent Memory
+#### 3.2 KG in Agent Memory (people may use "Memory Graph" instead of "Knowledge Graph")
 1. Memory [[Github](https://github.com/kingjulio8238/Memary/tree/main)]
 > * Memary uses a graph database to store knoweldge.
 > * Llama Index was used to add nodes into the graph store based on documents.
@@ -259,9 +259,12 @@ Query Focused Summerization (QFS):
 > * Zep implements three search functions: cosine semantic similarity search (ϕcos), Okapi BM25 full-text search (ϕbm25), and breadth-first search (ϕbfs). The first two functions utilize Neo4j’s implementation of Lucene.
 3. AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.04363)] [[Github](https://github.com/AIRI-Institute/AriGraph)] hot!
 > *  Retrieval from the AriGraph memory consists of two procedures: (1) a semantic search returns the most relevant triplets (semantic edges) and (2) an episodic search that, given extracted triplets, returns the most relevant episodic vertices
+4. **M3-Agent**: Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory (ByteDance, ACL 2025) [[Paper](https://arxiv.org/pdf/2508.09736)] 🔥 HOT!
 
 #### 3.3 KG for Agent
 1. SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature computational science 2025) [[Paper](https://www.nature.com/articles/s43588-025-00849-y)]
+2. **Zep**: A Temporal Knowledge Graph Architecture for Agent Memory (Arxiv 2025) [[Paper](https://arxiv.org/abs/2501.13956)] 🔥 HOT!
+3. **Graphiti**: Build Real-Time Knowledge Graphs for AI Agents [[Github](https://github.com/getzep/graphiti?tab=readme-ov-file)] 🔥 HOT!
 
 #### 3.4 KG and Prompting
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
