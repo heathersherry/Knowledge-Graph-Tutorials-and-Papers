@@ -3,9 +3,10 @@ Research Topics in Knowledge Graph
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![pr](https://img.shields.io/badge/PRs-welcome-brightgreen) 
 
 
+## Preliminaries: What is a Knowledge Graph?
+A knowledge graph, also known as a semantic network, represents a network of real-world entities—i.e. objects, events, situations, or concepts—and illustrates the relationship between them. This information is usually stored in a graph database and visualized as a graph structure, prompting the term knowledge “graph.” [[Source (IBM)](https://www.ibm.com/think/topics/knowledge-graph)]
 
 ## Papers and Materials from All Areas
-
 > * Note 1: The papers from the database/data science communities are marked with 🌟.
 > * Note 2: From Nov 2023, I started to add papers related to LLM in each session, marked with 🔥. 
 ### 0. Overview
