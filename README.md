@@ -6,6 +6,13 @@ Research Topics in Knowledge Graph
 ## Preliminaries: What is a Knowledge Graph?
 A knowledge graph, also known as a semantic network, represents a network of real-world entities—i.e. objects, events, situations, or concepts—and illustrates the relationship between them. This information is usually stored in a graph database and visualized as a graph structure, prompting the term knowledge “graph.” [[Source (IBM)](https://www.ibm.com/think/topics/knowledge-graph)]
 
+We classify the common knowledge graph concepts you may come across as follows.
+* Traditional knowledge graph curated or crowsourced by human.
+  * There are general KGs such as Wikidata, Wikipedia, Yago, Freebase.
+  * There are also domain-specific KGs such as PrimeKG (Medical KG), and FinKario (Financial KG).
+* Heterogenous information network (HIN) built on relational data, such as social network, financial network and product perchase network. It is also capable to store these data in relational table while relations are usually represented by the foreign keys between tables. 
+* Agent Memory Graph.
+
 ## Papers and Materials from All Areas
 > * Note 1: The papers from the database/data science communities are marked with 🌟.
 > * Note 2: From Nov 2023, I started to add papers related to LLM in each session, marked with 🔥. 
