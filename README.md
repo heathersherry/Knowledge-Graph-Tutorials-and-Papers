@@ -8,7 +8,7 @@ A knowledge graph, also known as a semantic network, represents a network of rea
 
 We classify the common knowledge graph concepts you may come across as follows.
 * Traditional knowledge graph curated or crowsourced by human.
-  * There are general KGs such as Wikidata, Wikipedia, Yago, Freebase. 
+  * There are general KGs such as [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), [DBPedia](https://www.dbpedia.org/), [Yago](https://yago-knowledge.org/), [Google Freebase](https://developers.google.com/freebase/guide/basic_concepts). 
   * There are also domain-specific KGs such as PrimeKG (Medical KG), and FinKario (Financial KG).
 * Heterogenous information network (HIN) built on relational data, such as social network, financial network and product perchase network. It is also capable to store these data in relational table while relations are usually represented by the foreign keys between tables. 
 * Other self-defined heterogenous graphs or knowledge graph for specific tasks. For example,
