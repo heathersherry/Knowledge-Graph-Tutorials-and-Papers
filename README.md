@@ -2,19 +2,6 @@ Research Topics in Knowledge Graph
 ====
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![pr](https://img.shields.io/badge/PRs-welcome-brightgreen) 
 
-
-## Preliminaries: What is a Knowledge Graph?
-A knowledge graph, also known as a semantic network, represents a network of real-world entities—i.e. objects, events, situations, or concepts—and illustrates the relationship between them. This information is usually stored in a graph database and visualized as a graph structure, prompting the term knowledge “graph.” [[Source (IBM)](https://www.ibm.com/think/topics/knowledge-graph)]
-
-We classify the common knowledge graph concepts you may come across as follows.
-* Traditional knowledge graph curated or crowsourced by human.
-  * There are general KGs such as [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), [DBPedia](https://www.dbpedia.org/), [Yago](https://yago-knowledge.org/), [Google Freebase](https://developers.google.com/freebase/guide/basic_concepts). 
-  * There are also domain-specific KGs such as PrimeKG (Medical KG), and FinKario (Financial KG).
-* Heterogenous information network (HIN) built on relational data, such as social network, financial network and product perchase network. It is also capable to store these data in relational table while relations are usually represented by the foreign keys between tables. 
-* Other self-defined heterogenous graphs or knowledge graph for specific tasks. For example,
-  * The graph in Microsoft GraphRAG, while the nodes are entities extracted from documents and edges represent the co-occurence of these entities in the document chunks.
-  * Agent Memory Graph in Graphiti or ByteDance M3-Agent.
-
 ## Papers and Materials from All Areas
 > * Note 1: The papers from the database/data science communities are marked with 🌟.
 > * Note 2: From Nov 2023, I started to add papers related to LLM in each session, marked with 🔥. 
@@ -102,10 +89,11 @@ We classify the common knowledge graph concepts you may come across as follows.
 
 ## Knowledge Graph Datasets
 > Note: We only list the general KGs here. For the datasets or benchmarks for specific topics such as KGQA or KG Completion, please refer to the above detailed sections.
-1. WikiData
-2. Yago
-3. Google Knowledge Graph
-4. Chinese OwnThink Knowledge Graph [[Link](https://github.com/ownthink/KnowledgeGraphData)]
+1. WikiData [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]
+2. DBPedia [[Link](https://www.dbpedia.org/)]
+3. Yago [[Link](https://yago-knowledge.org/)]
+4. Google Knowledge Graph (Freebase) [[Link](https://developers.google.com/freebase/guide/basic_concepts)]
+5. Chinese OwnThink Knowledge Graph [[Link](https://github.com/ownthink/KnowledgeGraphData)]
 
 ## Useful Tools or APIs
 1. From Freebase to Wikidata: The Great Migration [[Paper and useful links](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf)] 
