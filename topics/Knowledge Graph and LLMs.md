@@ -254,7 +254,8 @@ Query Focused Summerization (QFS):
 ```
 Personally, there are a few keypoints that memory graph should focus on:
 1. The freshness of the graph, since people's interest changes from time to time (this is also Graphiti's point),
-2. The correctness of the entity extraction for memory, especially in multi-modal scenarios when people may use less text as intructsions.
+2. The correctness of the entity extraction for memory, especially in multi-modal scenarios when users may use less words as instructions.
+We can only guess the preference of users based on the acceptance rates of the model output such as video/figure generation.
 3. The correctness of the entity matching, or the dicision of whether use the matched memory entities or not in a new scenario.
 ```
 1. **Memory** [[Github](https://github.com/kingjulio8238/Memary/tree/main)]
