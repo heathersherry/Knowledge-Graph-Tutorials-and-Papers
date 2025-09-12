@@ -78,6 +78,7 @@ __Multiple Hop QA__
 6. HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs (ACL 2024) [[Paper](https://arxiv.org/pdf/2406.06027)] 🔥
 7. Extending Complex Logical Queries on Uncertain Knowledge Graphs (ACL 2025)
 8. Search-in-Context: Efficient Multi-Hop QA over Long Contexts via Monte Carlo Tree Search with Dynamic KV Retrieval (ACL 2025)
+9. Progressive Prefix-Memory Tuning for Complex Logical Query Answering on Knowledge (IJCAI 2025) [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/1499.pdf)] 🔥
 
 __Multiple-Options QA__
 1. RiddleSense: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge (ACL 2021) [[Paper](https://aclanthology.org/2021.findings-acl.131.pdf)]
