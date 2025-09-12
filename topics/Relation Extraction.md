@@ -41,6 +41,8 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 22. Document Level Relationship Extraction based on context feature enhancement (Pattern Recognition Letters 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865525002582)]
 23. Document-Level Relation Extraction with Global Relations and Entity Pair Reasoning (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1002/)]
 24. An Adaptive Multi-Threshold Loss and a General Framework for Collaborating Losses in Document-Level Relation Extraction (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1081/)]
+25. ARPDL: Adaptive Relational Prior Distribution Loss as an Adapter for Document-Level Relation Extraction (IJCAI 2025) [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2116.pdf)]
+
 
 __LLM for RE__ 🔥🔥🔥
 1. Revisiting Relation Extraction in the era of Large Language Models (ACL 2023) [[Paper](https://aclanthology.org/2023.acl-long.868.pdf)]
