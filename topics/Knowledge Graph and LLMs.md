@@ -270,6 +270,7 @@ We can only guess the preference of users based on the acceptance rates of the m
 4. **M3-Agent**: Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory (ByteDance, ACL 2025) [[Paper](https://arxiv.org/pdf/2508.09736)] 🔥 HOT!
 5. **Mem0** and **Mem0-g**: Building Production-Ready AI Agents with Scalable Long-Term Memory (mem0AI, Arxiv 2025) [[Paper](https://arxiv.org/pdf/2504.19413)] [[Github](https://github.com/mem0ai/mem0)]🔥 HOT!
 > * Aliyun's architecture for Mem0 (discussion in Chinese) [[Link](https://help.aliyun.com/zh/polardb/polardb-for-postgresql/ai-agent-long-memory-solution#edba335440jp6)]
+5. **LightRAG**: Simple and Fast Retrieval-Augmented Generation [[Github](https://github.com/HKUDS/LightRAG)] 🔥 HOT!
 
 #### 3.3 KG for Other Tasks in Agent 
 1. SciToolAgent: a knowledge-graph-driven scientific agent for multitool integration (Nature computational science 2025) [[Paper](https://www.nature.com/articles/s43588-025-00849-y)]
