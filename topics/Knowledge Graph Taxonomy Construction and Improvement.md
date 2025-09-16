@@ -11,7 +11,7 @@
 #### The Palantir Ontology
 * It seems that the concept of "Ontology" in Palantir is quite popular nowadays.
 * However, there are **critical differences** between the Palantir Ontology and the ontology in general KGs. Please **do not refer them as the same concept**.
-> * The key point of Palantir Ontology is to link the dynamic data from external data sources (e.g., Spark or Flink tables), which facilitates the investigation in militaries and financial areas where information updates frequently.
+> * The key point of Palantir Ontology is to integrate the dynamic data from external data sources (e.g., Spark or Flink tables), and to support manual or passive operations to update the data schema. It facilitates the data investigation in militaries and financial areas where information or intelligence updates frequently.
 > * The key point of ontology in general KGs is to provide well-defined schema or classfication for the triples, entities and relations stored in KG. Compared with the "Ontology Graph" in Palantir, the general KG is more like a static "snapshot" of knowledge.
 1. Palantir’s AI Strategy: Path to AI Dominance From Defense to Enterprise [[Link](https://www.klover.ai/palantir-ai-strategy-path-to-ai-dominance-from-defense-to-enterprise/)]
 2. Palantir Ontology Architecture [[Link](https://www.palantir.com/docs/foundry/object-backend/overview/)]
