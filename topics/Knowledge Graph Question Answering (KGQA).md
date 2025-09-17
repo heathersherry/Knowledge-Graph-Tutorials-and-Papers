@@ -67,6 +67,7 @@ __General KGQA__
 45. Answering Conjunctive Queries with Safe Negation and Inequalities over RDFS Knowledge Bases (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33625)]
 46. TEQA: Temporal knowledge graph enhanced question answering (Knowledge Based System 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S095070512500961X)]
 47. Enhancing Complex Reasoning in Knowledge Graph Question Answering through Query Graph Approximation (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1387/)]
+48. SAQE: Complex Logical Query Answering via Semantic-Aware Representation Learning (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/11151822)]
 
 __Multiple Hop QA__
 1. Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering (EMNLP 2020) [[Video](https://virtual.2020.emnlp.org/paper_main.1648.html)]
