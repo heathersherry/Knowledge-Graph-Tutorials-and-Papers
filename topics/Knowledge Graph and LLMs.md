@@ -189,7 +189,14 @@ But graphs can record the connection among document chunks, to facilitate the *r
 > * Enhancing Large Language Models with Knowledge Graphs: The Role of Graph Algorithms
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
-**KG-RAG works**
+**KG-RAG, or GraphRAG**
+```
+There are mainly two types of GraphRAG works.
+1. Query Focused Summary (QFS), which requires KG construction.
+Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, or document chunk summary.
+2. Query/Reasoning on Graph, which does not need KG construction.
+Note: It requires a traditional KG as input.
+```
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
