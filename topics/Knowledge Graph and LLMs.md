@@ -198,6 +198,7 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 Note: It requires a traditional KG as input.
 ```
 **(1) Query Focused Summary (QFS) problems** `needs graph construction!`
+
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
 > * The main target is to solve a query focused summarization (QFS) task, rather than an explicit retrieval task. Therefore the goal of knowledge extraction and graph construction is to group the closely related entity entities, but not to build a perfect knowledge graph.
@@ -211,6 +212,7 @@ Note: It requires a traditional KG as input.
 7. **E^2GraphRAG**
 
 **(2) Query or Reasoning on Graph** `no need graph construction`
+
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
 2. **ToG 2.0**: Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2407.10805)]
@@ -223,6 +225,7 @@ Note: It requires a traditional KG as input.
 9. **G-Retriever**
 
 **(3) Unclassified (still working on these!)**
+
 7. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
 8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)]
 9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
