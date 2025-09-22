@@ -243,3 +243,6 @@ To address this problem, faceted search is proposed as a prominent approach, whi
 ### Queries and Search over Property Graph based KG
 1. Sqlgraph: An efficient relational-based property graph store (SIGMOD 2015) 🌟
 2. Cypher: An evolving query language for property graphs (SIGMOD 2018) 🌟
+3. CYPHERBENCH: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025) [[Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.438.pdf)] `rdf` `cypher`  🔥 
+
+
