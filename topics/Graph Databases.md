@@ -26,6 +26,8 @@
 > * `in-memory`, `mutable graph`
 8. GraphChi: Large-Scale Graph Computation on Just a PC (OSDI 2012) [[Paper](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-126.pdf)] hot!
 > * `on-disk`, `mutable graph`
+9. GraphCSR: A Degree-Equalized CSR Format for Large-scale Graph Processing (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/GraphCSR%3A%20A%20Degree-Equalized%20CSR%20Format%20for%20Large-scale%20Graph%20Processing)]
+> * `in-memory`, `immutable graph`, `CSR`
   
 ## Interface
 1. GRIN
