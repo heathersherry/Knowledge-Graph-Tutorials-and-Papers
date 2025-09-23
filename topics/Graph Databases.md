@@ -9,7 +9,7 @@
 1. GraphScope Flex: LEGO-like Graph Computing Stack (SIGMOD 2024)
 
 ## The Storage Layer
-1. An Efficient Storage Scheme for Graph Data in Data Lakes (VLDB 2024)
+1. GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes [[Paper](https://vldb.org/pvldb/volumes/18/paper/GraphAr%3A%20An%20Efficient%20Storage%20Scheme%20for%20Graph%20Data%20in%20Data%20Lakes)]
 > * `on-disk`, `immutable graph`
 > * LPG in datalake, based on Parquet/ORC. 
 2. LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans (VLDB 2020)
