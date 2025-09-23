@@ -1,5 +1,4 @@
-# Graph Databases: The Storage Layer, Execution Engine Layer, and Frontend Layer (all can be marked as 🌟)
-
+# Graph Databases: The Storage Layer, Execution Engine Layer, and Frontend Layer 
 ## Surveys, Summary and Tutorials
 1. Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries (ACM Computing Surveys 2019) [[Paper](https://arxiv.org/pdf/1910.09017)]
 > * A very good overview of graph databases with clear illustrations! Strongly recommended for beginners.
