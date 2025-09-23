@@ -195,9 +195,12 @@ There are mainly two types of GraphRAG works.
 1. Query Focused Summary (QFS), which requires KG construction.
 Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, or document chunk summary.
 2. Query or Reasoning on Graph, which does not need KG construction.
-Note: It requires a traditional KG as input.
+Note: However, it requires a traditional KG as input or reference.
 ```
-**(1) Query Focused Summary (QFS) problems** `needs graph construction!`
+**(1) Overview**
+1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
+
+**(2) Query Focused Summary (QFS) problems** `needs graph construction!`
 
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
@@ -211,7 +214,7 @@ Note: It requires a traditional KG as input.
 6. **EraGraph**
 7. **E^2GraphRAG**
 
-**(2) Query or Reasoning on Graph** `no need graph construction`
+**(3) Query or Reasoning on Graph** `no need graph construction`
 
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
