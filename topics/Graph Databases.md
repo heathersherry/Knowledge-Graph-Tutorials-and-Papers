@@ -1,4 +1,4 @@
-# Graph Databases: The Storage Layer, Execution Engine Layer, and Frontend Layer
+# Graph Databases: The Storage Layer, Execution Engine Layer, and Frontend Layer (all can be marked as 🌟)
 
 ## Surveys, Summary and Tutorials
 1. Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries (ACM Computing Surveys 2019) [[Paper](https://arxiv.org/pdf/1910.09017)]
@@ -6,13 +6,13 @@
 2. The journey of GraphScope [[Link](https://graphscope.io/journey/)]
 
 ## Overall System Archtecture
-1. GraphScope Flex: LEGO-like Graph Computing Stack (SIGMOD 2024)
+1. GraphScope Flex: LEGO-like Graph Computing Stack (SIGMOD 2024) 
 
 ## The Storage Layer
-1. GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/GraphAr%3A%20An%20Efficient%20Storage%20Scheme%20for%20Graph%20Data%20in%20Data%20Lakes)]
+1. GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/GraphAr%3A%20An%20Efficient%20Storage%20Scheme%20for%20Graph%20Data%20in%20Data%20Lakes)] 
 > * `on-disk`, `immutable graph`
 > * LPG in datalake, based on Parquet/ORC. 
-2. LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans (VLDB 2020)
+2. LiveGraph: A Transactional Graph Storage System with Purely Sequential Adjacency List Scans (VLDB 2020) 
 3. Groot: Persistent Graph Store [[Link](https://graphscope.io/docs/latest/storage_engine/groot)]
 > * `on-disk`, `mutable graph`
 > * A distributed graph store built on top of the popular RocksDB key-value store. It adopts a row-oriented design to support frequent small updates to the graph. Each row is tagged with a snapshot ID as its version.
