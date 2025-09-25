@@ -193,9 +193,9 @@ But graphs can record the connection among document chunks, to facilitate the *r
 ```
 There are mainly two types of GraphRAG works.
 1. Query Focused Summary (QFS), which requires KG construction.
-Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, or document chunk summary.
+Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, document metadata, or document chunk summary; while the edges may be the semantic relations bewteen the nodes, or self-defined relations such as "appeared in the same document".
 2. Query or Reasoning on Graph, which does not need KG construction.
-Note: However, it requires a traditional KG as input or reference.
+Note: However, it requires a traditional KG as input so that we can query/reason on the KG.
 ```
 **(1) Overview**
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
