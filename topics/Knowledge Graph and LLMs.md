@@ -192,16 +192,15 @@ But graphs can record the connection among document chunks, to facilitate the *r
 **KG-RAG, or GraphRAG**
 ```
 There are mainly two types of GraphRAG works.
-1. Query Focused Summary (QFS), which requires KG construction.
+1. First construct a KG based on input documents, then query or summerize on the KG. These works require KG construction.
 Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, document metadata, or document chunk summary; while the edges may be the semantic relations bewteen the nodes, or self-defined relations such as "appeared in the same document".
-2. Query or Reasoning on Graph, which does not need KG construction.
-Note: However, it requires a traditional KG as input so that we can query/reason on the KG.
+2. Query or Reasoning on predifinded graph (usually as input). These works do not require KG construction.
 ```
 **(1) Overview**
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
 2. Graph Retrieval-Augmented Generation: A Survey (Arxiv 2024 Aug) [[Paper](https://arxiv.org/pdf/2408.08921)]
 
-**(2) Query Focused Summary (QFS) problems** `needs graph construction!`
+**(2) The works that involve KG construction** 
 
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
@@ -210,12 +209,13 @@ Note: However, it requires a traditional KG as input so that we can query/reason
 > * Advanced: **LazyGraphRAG**, which defers LLM use (not in the extraction part, but only in the query part) and dramatically increase the efficiency of answer generation. [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
 > * GraphRAG-Local-UI/GraphRAG-Ollama-UI,  an adaptation of Microsoft's GraphRAG, tailored to support local models and featuring a comprehensive interactive user interface ecosystem. [[GitHub](https://github.com/severian42/GraphRAG-Local-UI)] 🔥
 3. **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)][[GitHub](https://github.com/HKUDS/LightRAG)] 🔥
+>   **RAGAnything**: a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Github](https://github.com/HKUDS/RAG-Anything)] 🔥
 4. **RAPTOR**: Recursive Abstractive Processing for Tree-Organized Retrieval (ICLR 2024) [[Paper](https://arxiv.org/pdf/2401.18059)] `hybrid search on graph`
 5. **KGP**: Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://arxiv.org/pdf/2308.11730)] `graph query based on KNN`
 6. **EraRAG**: Efficient and Incremental Retrieval-Augmented Generation for Growing Corpora (Arxiv 2025 June) [[Paper](https://arxiv.org/pdf/2506.20963)] `incremental update of the graph`
 7. **E^2GraphRAG**: Streamlining Graph-based RAG for High Efficiency and Effectiveness (Arxiv 2025 May) [[Paper](https://arxiv.org/pdf/2505.24226)] `efficient search on the graph`
 
-**(3) Query or Reasoning on Graph** `no need graph construction`
+**(3) The works that DO NOT involve KG construction** 
 
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
