@@ -138,14 +138,13 @@ The papers listed in this section may have overlaps with the KGQA papers.
 ```
 #### 3.1 KG for RAG (Retrieval Augmented Generation)
 ```
-Note: The definition of knowledge graphs may be different in each RAG work.
-* In general, the nodes and links in a KG are entities and relations.
-* However, in KG-RAG works, it is common that the nodes are concepts instead of entities
-(e.g., "Pleasant weather in Bangalore" in stead of "Bangalore"), while
-a link represents the co-occurrence of two concepts in a document chunk.
-* This is aligned with the of LLM+KG inference: Compared with neural networks the captures complex distribution of knowledge,
-graphs of entities may not be scientifically optimal as a knowledge model.
-But graphs can record the connection among document chunks, to facilitate the *retrieval sequence* of llm inference. 
+Note: The definition of KGs may be different in each RAG work. Usually there are 3 types of KGs.
+1. Eentity-level KG, while each node represents an entitiy or a concept, and each link represents the semantic relation or self-defined relation between a pair of nodes (e.g., whether they are extracted from the same document). `fine-grained`
+2. Metadata-level KG, while each node represents the metadata of a document chunk (e.g., the topic or description of the document chunk), and each link represents self-defined relation between a pair of nodes (e.g., the correlation bewteen the topics). `middle-grained`
+3. Document chunk-level KG, while each node represents a document chunk, and each link represents the context sequence of the nodes. `coarsed-grained` 
+* This is aligned with the of LLM+KG inference:
+> Compared with neural networks the captures complex distribution of knowledge, graphs of entities may not be scientifically optimal as a knowledge model.
+> But graphs can record the connection among document chunks, to facilitate the *retrieval sequence* of llm inference. 
 ```
 
 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
@@ -200,7 +199,7 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
 2. Graph Retrieval-Augmented Generation: A Survey (Arxiv 2024 Aug) [[Paper](https://arxiv.org/pdf/2408.08921)]
 
-**(2) The works that involve KG construction** 
+**(2) Coarsed-grained KG** 
 
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
@@ -214,8 +213,11 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 5. **KGP**: Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://arxiv.org/pdf/2308.11730)] `graph query based on KNN`
 6. **EraRAG**: Efficient and Incremental Retrieval-Augmented Generation for Growing Corpora (Arxiv 2025 June) [[Paper](https://arxiv.org/pdf/2506.20963)] `incremental update of the graph`
 7. **E^2GraphRAG**: Streamlining Graph-based RAG for High Efficiency and Effectiveness (Arxiv 2025 May) [[Paper](https://arxiv.org/pdf/2505.24226)] `efficient search on the graph`
+8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)] `text graph`
+9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
 
-**(3) The works that DO NOT involve KG construction** 
+
+**(3) Fine-grained KG** 
 
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
@@ -227,12 +229,11 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 7. **HippoRAG**: Neurobiologically Inspired Long-Term Memory for Large Language Models [[Paper](https://arxiv.org/pdf/2405.14831)]
 8. **HippoRAG 2**: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [[Paper](https://mp.weixin.qq.com/s/Gq6FTFMacjO3CpW3NtawSg)]
 9. **G-Retriever**: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeuRIPS 2024 poster) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)]
+10. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
+
 
 **(3) Unclassified (still working on these!)**
 
-7. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
-8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)]
-9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
 11. **OpenSPG**, a knowledge graph engine developed by Ant Group in collaboration with OpenKG [[Website](https://spg.openkg.cn/)] [[Github](https://github.com/OpenSPG/openspg/tree/master)] 🔥
 > * an open engine for knowledge graph designed and implemented on the basis of SPG framework, which provides explicit semantic representations, logical rule definitions, operator frameworks (construction, inference) and other capabilities for the domain knowledge graphs, and supports pluggable adaptation of basic engines and algorithmic services by various vendors to build customized solutions.
 12. **KAG**: Boosting LLMs in Professional Domains via Knowledge Augmented Generation [[Paper](https://arxiv.org/pdf/2409.13731)] 🔥
