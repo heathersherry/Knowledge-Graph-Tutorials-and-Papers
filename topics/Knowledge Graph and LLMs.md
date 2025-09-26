@@ -226,7 +226,7 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 6. **DALK**: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature  (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.04819)]
 7. **HippoRAG**: Neurobiologically Inspired Long-Term Memory for Large Language Models [[Paper](https://arxiv.org/pdf/2405.14831)]
 8. **HippoRAG 2**: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [[Paper](https://mp.weixin.qq.com/s/Gq6FTFMacjO3CpW3NtawSg)]
-9. **G-Retriever**
+9. **G-Retriever**: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeuRIPS 2024 poster) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)]
 
 **(3) Unclassified (still working on these!)**
 
