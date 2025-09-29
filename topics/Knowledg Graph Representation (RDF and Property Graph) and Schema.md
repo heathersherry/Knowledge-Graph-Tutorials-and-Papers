@@ -246,6 +246,6 @@ To address this problem, faceted search is proposed as a prominent approach, whi
 3. CYPHERBENCH: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025) [[Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.438.pdf)] `rdf` `cypher`  🔥
 
 ## 📝 Other Query Problems on Knowledge Graphs
-1. Ranking Indicator Discovery from Very Large Knowledge Graphs [[Paper](https://vldb.org/pvldb/volumes/18/paper/Ranking%20Indicator%20Discovery%20from%20Very%20Large%20Knowledge%20Graphs)]
+1. Ranking Indicator Discovery from Very Large Knowledge Graphs (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/Ranking%20Indicator%20Discovery%20from%20Very%20Large%20Knowledge%20Graphs)] �
 
 
