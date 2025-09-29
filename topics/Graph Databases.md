@@ -31,3 +31,6 @@
   
 ## Interface
 1. GRIN
+
+## The Computing Layer
+1. A1: A Distributed In-Memory Graph Database (Micorsoft, SIGMOD 2020) [[Paper](https://arxiv.org/pdf/2004.05712)]
