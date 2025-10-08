@@ -230,6 +230,7 @@ Note: The definitions of nodes and edges of "KG" vary in different works. The no
 8. **HippoRAG 2**: From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [[Paper](https://mp.weixin.qq.com/s/Gq6FTFMacjO3CpW3NtawSg)]
 9. **G-Retriever**: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeuRIPS 2024 poster) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)]
 10. **SUGRE**: Knowledge graph-augmented language models for knowledge-grounded dialogue generation (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2305.18846)]
+11. **GNN-RAG**: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs (ACL 2025) [[Paper](https://aclanthology.org/2025.findings-acl.856.pdf)]
 
 
 **(3) Unclassified (still working on these!)**
@@ -268,7 +269,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 
 **RAG benchmarks**
 
-Fact Retrieval:
+Fact Retrieval: `Note: Most of the works use multi-hop QA dataset for evaluation.`
 1. HotPotQA
 2. MultiHop-RAG
 3. MT-Bench
