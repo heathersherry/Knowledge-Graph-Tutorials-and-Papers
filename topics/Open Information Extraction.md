@@ -30,6 +30,7 @@
 > * Map the dependency relations of an input sentence to clause constituents.
 > * A set of coherent clauses presenting a simple linguistic structure is derived from the input
 6. CycleOIE: A Low-Resource Training Framework For Open Information Extraction (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.227/)]
+7. The Search for Conflicts of Interest: Open Information Extraction in Scientific Publications (EMNLP 2025) [[Paper](https://hal.science/hal-05269842/)] 🔥 (LLM-based)
 
 __Open Relation Extraction (ORE)__
 1. LOREM: Language-consistent Open Relation Extraction from Unstructured Text (WWW 2020)
