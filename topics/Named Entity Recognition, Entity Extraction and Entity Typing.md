@@ -75,3 +75,6 @@ __LLM for NER__ 🔥🔥🔥
 9. MonkeyLearn [[Link](https://monkeylearn.com/blog/named-entity-recognition-python/)]
 10. GERBIL - General Entity Annotator Benchmark [[Link](http://gerbil.aksw.org/gerbil/)]
 11. PIKES [[Link](http://pikes.fbk.eu)]
+
+### Benchmarks
+1. cnChemNER: A Dataset for Chinese Chemical Named Entity Recognition (ISWC 2025) [[Github](https://github.com/3020244292/cnChemNER)] 
