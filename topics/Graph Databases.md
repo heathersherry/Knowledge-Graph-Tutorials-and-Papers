@@ -34,3 +34,8 @@
 
 ## The Computing Layer
 1. A1: A Distributed In-Memory Graph Database (Micorsoft, SIGMOD 2020) [[Paper](https://arxiv.org/pdf/2004.05712)]
+
+### The Graph Data Science Engine/Library/Plugin of each GraphDB
+1. Neo4j Graph Data Science lib [[Link](https://neo4j.com/docs/graph-data-science/current/algorithms/)]
+2. GraphScope GAE （Graph Analytical Engine）[[Link](https://graphscope.io/docs/analytical_engine/builtin_algorithms)]
+3. TigerGraph Graph Data Science lib [[Link](https://docs.tigergraph.com/graph-ml/3.10/intro/)]
