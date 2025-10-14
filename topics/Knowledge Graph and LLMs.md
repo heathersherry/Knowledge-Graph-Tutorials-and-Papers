@@ -108,6 +108,7 @@ guide the search process.
 26. CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era (ACL 2025)
 27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 28. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics, KGE on BERT based LM) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
+29. Combining Self-Retrieval-Augmented Generation with Divide-and-Conquer for Language Model-based Knowledge Base Construction (KBC-LM and LM-KBC @ ISWC 2025) [[Paper](https://ceur-ws.org/Vol-4041/paper11.pdf)]
 
 ## 📝 Knowledge Graphs for LLMs
 ```
