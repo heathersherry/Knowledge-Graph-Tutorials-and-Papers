@@ -15,6 +15,7 @@ Note: This task is highly related with the following topics:
 8. Knowledge Graphs & LLMs: Multi-Hop Question Answering [[Neo4j Developer Blog](https://neo4j.com/developer-blog/knowledge-graphs-llms-multi-hop-question-answering/)] [[Another Similar Discussion](https://www.linkedin.com/pulse/multi-hop-question-answering-llms-knowledge-graphs-wisecube/)]
 9. Multilingual Question Answering Systems for Knowledge Graphs—A Survey (Semantic Web 2023) [[Paper](https://www.semantic-web-journal.net/system/files/swj3530.pdf)]
 10. Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities (EDBT 2025 tutorial) [[Paper](https://openproceedings.org/2025/conf/edbt/paper-T4.pdf)] 🔥
+11. Representation Learning in Complex Logical Query Answering on Knowledge Graphs: A Survey (ACM Computing Surveys) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3771692)]
 
 
 ### 📝 Papers
