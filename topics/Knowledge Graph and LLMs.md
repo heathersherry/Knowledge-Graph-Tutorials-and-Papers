@@ -145,7 +145,7 @@ Since there are too many SOTA works, so we organize the results in a new page. [
 
 Since there are too many SOTA works, so we organize the results in a new page. [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20Agent%20Memory.md)]
 
-#### 3.4 KG and Prompting
+#### 3.3 KG and Prompting
 1. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
 > * KG enhances knowledge retrieval, where at query time an LLM-based agent dynamically traverses a graph with nodes representing document elements (e.g., passages, tables) and edges encoding lexical and semantical similarity or structural relationships.
 3. KG-prompt: Interpretable knowledge graph prompt for pre-trained language models (Knowledge-Based Systems, 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001650)]
@@ -156,7 +156,7 @@ Since there are too many SOTA works, so we organize the results in a new page. [
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
 
-#### 3.5 KG as Grounded Truths/Benchmarks in Inference
+#### 3.4 KG as Grounded Truths/Benchmarks in Inference
 ``` 
 Some of these works may be related to Retrieval-augmented language model (RALM), which relies on retrieved external knowledge to generate responses.
 ```
@@ -165,11 +165,11 @@ Some of these works may be related to Retrieval-augmented language model (RALM),
 3. Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29770)]
 4. Conceptual Diagnostics for Knowledge Graphs and Large Language Models (ACL 2025, emerging industry track submission) [[Paper](https://aclanthology.org/2025.acl-industry.37/)]
 
-#### 3.6 KG for Reasoning/CoT in Inference
+#### 3.5 KG for Reasoning/CoT in Inference
 1. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://openreview.net/forum?id=9buvSnaiMp)]
 2. LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)]
 
-#### 3.7 KG as other roles in Inference
+#### 3.6 KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 2. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
 > * knowledge graph language model (KGLM): a neural language model with mechanisms for selecting and copying facts from a knowledge graph that are relevant to the context.
