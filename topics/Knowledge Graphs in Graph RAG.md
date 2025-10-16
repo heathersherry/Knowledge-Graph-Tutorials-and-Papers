@@ -4,10 +4,10 @@
 Note: The definition of KGs may be different in each RAG work. Usually there are 3 types of KGs.
 1. Eentity-level KG, while each node represents an entitiy or a concept, and each link represents the semantic relation or self-defined relation between a pair of nodes (e.g., whether they are extracted from the same document). `fine-grained`
 2. Metadata-level KG, while each node represents the metadata of a document chunk (e.g., the topic or description of the document chunk), and each link represents self-defined relation between a pair of nodes (e.g., the correlation bewteen the topics). `middle-grained`
-3. Document chunk-level KG, while each node represents a document chunk, and each link represents the context sequence of the nodes. `coarsed-grained` 
+3. Document chunk-level KG, while each node represents a document chunk, and each link represents the context sequence of the nodes. `coarse-grained` 
 * This is aligned with the of LLM+KG inference:
 > Compared with neural networks the captures complex distribution of knowledge, graphs of entities may not be scientifically optimal as a knowledge model.
-> But graphs can record the connection among document chunks, to facilitate the *retrieval sequence* of llm inference. 
+> But graphs can record the connection among document chunks or the tapologies of entity concepts, to facilitate the *retrieval sequence* of llm inference. 
 ```
 
 **Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
@@ -53,16 +53,18 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 
 **KG-RAG, or GraphRAG**
 ```
-There are mainly two types of GraphRAG works.
-1. First construct a KG based on input documents, then query or summerize on the KG. These works require KG construction.
-Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, document metadata, or document chunk summary; while the edges may be the semantic relations bewteen the nodes, or self-defined relations such as "appeared in the same document".
-2. Query or Reasoning on predifinded graph (usually as input). These works do not require KG construction.
+Based on the granularity of KGs, we classify the Graph RAG works into the following two types.
+1. Works that use Coarse-grained KG
+* These works first construct a KG based on input documents, then query or summerize on the KG. They usually require KG construction.
+* Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, document metadata, or document chunk summary; while the edges may be the semantic relations bewteen the nodes, or self-defined relations such as "co-occurrence in the same document chunk" or "appeared in the same document".
+2. Works that use Fine-grained KG
+* These works conduct query or reasoning on predifinded graph (usually as input). They do not require KG construction.
 ```
 **(1) Overview**
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
 2. Graph Retrieval-Augmented Generation: A Survey (Arxiv 2024 Aug) [[Paper](https://arxiv.org/pdf/2408.08921)]
 
-**(2) Coarsed-grained KG** 
+**(2) Coarse-grained KG** 
 
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
