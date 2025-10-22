@@ -14,6 +14,12 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 
 It is highly recommended that you understand the basic concepts of RAG, and get familiar with one or more of the following frameworks first.
 
+#### RAG surveys
+1. A Survey on Multimodal Retrieval-Augmented Generation (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2504.08748)] [[Discussion (Chinese)](https://cloud.tencent.com/developer/news/2441489)] `MRAG`
+> * It summerizes the development of MRAG1.0, MRAG2.0 and MRAG3.0, with discussion about the extraction, parsing, planning and retrival.
+2. Retrieving Multimodal Information for Augmented Generation: A Survey (Arxiv 2023) [[Paper](https://arxiv.org/pdf/2504.08748)] `MRAG`
+3. Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation (Arxiv 2025) [[Paper](https://arxiv.org/abs/2502.08826)] [[Github](https://github.com/llm-lab-org/Multimodal-RAG-Survey)] [[Discussion (Chinese)](https://zhuanlan.zhihu.com/p/29346473723)] `MRAG`
+
 #### The popular RAG works
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
 2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - Default VDB: PostgreSQL + pgvector
