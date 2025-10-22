@@ -1,4 +1,4 @@
-## Knowledge Graphs in Graph RAG (Retrieval Augmented Generation)
+## Knowledge Graphs in RAG (Retrieval Augmented Generation)
 
 ```
 Note: The definition of KGs may be different in each RAG work. Usually there are 3 types of KGs.
@@ -10,7 +10,11 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 > But graphs can record the connection among document chunks or the tapologies of entity concepts, to facilitate the *retrieval sequence* of llm inference. 
 ```
 
-**Traditional RAG Frameworks** - It is highly recommended that you get familiar with one or more of the following frameworks first：
+### Traditional RAG Frameworks 
+
+It is highly recommended that you understand the basic concepts of RAG, and get familiar with one or more of the following frameworks first.
+
+#### The popular RAG works
 1. AnythingLLM (RAG + AI Agent) [[Github](https://github.com/Mintplex-Labs/anything-llm/blob/master/README.md)] - Default VDB: LanceDB
 2. MaxKB [[Github](https://github.com/1Panel-dev/MaxKB)] - Default VDB: PostgreSQL + pgvector
 3. RagFlow (streamlined RAG workflow based on deep document understanding) [[Github](https://github.com/infiniflow/ragflow)] - Default VDB: Elasticsearch
@@ -29,7 +33,7 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 17. All RAG Techniques [[Github](https://github.com/liu673/rag-all-techniques)] - A series of simple and clear demos!! Strongly recommended.
 
-**Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG**:
+#### Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG
 1. Retrieval-Augmented Generation for Large Language Models: A Survey (Arxiv, Mar 2024) [[Paper](https://arxiv.org/pdf/2312.10997)] [[Notes for OpenRAG Base](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)]
 2. Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020) [[Paper](https://arxiv.org/pdf/2005.11401.pdf)]
 3. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://github.com/DEEP-PolyU/Awesome-GraphRAG)]
@@ -51,7 +55,7 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 > * Enhancing Large Language Models with Knowledge Graphs: The Role of Graph Algorithms
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
-**KG-RAG, or GraphRAG**
+### KG-RAG, or GraphRAG
 ```
 Based on the granularity of KGs, we classify the Graph RAG works into the following two types.
 1. Works that use Coarse-grained KG
@@ -60,11 +64,11 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 2. Works that use Fine-grained KG
 * These works conduct query or reasoning on predifinded graph (usually as input). They do not require KG construction.
 ```
-**(1) Overview**
+#### (1) Overview
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
 2. Graph Retrieval-Augmented Generation: A Survey (Arxiv 2024 Aug) [[Paper](https://arxiv.org/pdf/2408.08921)]
 
-**(2) Coarse-grained KG** 
+#### (2) Coarse-grained KG
 
 1. A good work for beginners: Convert any Corpus of Text into a Graph of Knowledge [[Github](https://github.com/rahulnyk/knowledge_graph)] 🔥🔥🔥
 2. **GraphRAG (Microsoft)**: From Local to Global: A Graph RAG Approach to Query-Focused Summarization (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2404.16130)] [[GitHub](https://github.com/microsoft/graphrag)]
@@ -72,8 +76,6 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 > * No reasoning or path finding, just community detection!
 > * Advanced: **LazyGraphRAG**, which defers LLM use (not in the extraction part, but only in the query part) and dramatically increase the efficiency of answer generation. [[Source](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s?__biz=MzI3ODE5Mzc1Ng==&mid=2247493514&idx=1&sn=588c7388d247fc34771c8ab76aa0f2ce&scene=21#wechat_redirect)]
 > * GraphRAG-Local-UI/GraphRAG-Ollama-UI,  an adaptation of Microsoft's GraphRAG, tailored to support local models and featuring a comprehensive interactive user interface ecosystem. [[GitHub](https://github.com/severian42/GraphRAG-Local-UI)] 🔥
-3. **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)][[GitHub](https://github.com/HKUDS/LightRAG)] 🔥
->   **RAGAnything**: a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Github](https://github.com/HKUDS/RAG-Anything)] 🔥
 4. **RAPTOR**: Recursive Abstractive Processing for Tree-Organized Retrieval (ICLR 2024) [[Paper](https://arxiv.org/pdf/2401.18059)] `hybrid search on graph`
 5. **KGP**: Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://arxiv.org/pdf/2308.11730)] `graph query based on KNN`
 6. **EraRAG**: Efficient and Incremental Retrieval-Augmented Generation for Growing Corpora (Arxiv 2025 June) [[Paper](https://arxiv.org/pdf/2506.20963)] `incremental update of the graph`
@@ -81,7 +83,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)] `text graph`
 9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
 
-**(3) Fine-grained KG** 
+#### (3) Fine-grained KG
 
 1. **ToG**: Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph (ICLR 2024) [[Paper](https://arxiv.org/pdf/2307.07697)] 🔥
 > * Very good motivation of why using KG reasoning instead of LLM inference + graph query.
@@ -104,13 +106,13 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 14. **KG2RAG**: Knowledge Graph-Guided Retrieval Augmented Generation (NAACL 2025, From Alibaba) [[Paper]([Knowledge Graph-Guided Retrieval Augmented Generation](https://arxiv.org/pdf/2502.06864))] [[Github](https://github.com/nju-websoft/KG2RAG)] `but document-chunk related and users need to extract the graph`
 
 
-**(3) Multi-level gained KG**
-1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
+#### (3) Multi-level gained KG
+1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
 * **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)][[GitHub](https://github.com/HKUDS/LightRAG)] 🔥
 2. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 
-**(4) Unclassified (still working on these!)**
+#### (4) Unclassified (still working on these!)
 
 1. Biomedical knowledge graph-enhanced prompt generation for large language models (Nov 2023) [[Paper](https://arxiv.org/pdf/2311.17330.pdf)]
 > * A task-agnostic Knowledge Graph-based Retrieval Augmented Generation (KG-RAG) framework by leveraging the massive biomedical KG SPOKE with LLMs such as Llama-2-13b, GPT-3.5-Turbo and GPT-4, to generate meaningful biomedical text rooted in established knowledge.
@@ -132,7 +134,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 35. GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.findings-acl.856/)]
 36. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.acl-long.830/)]
 
-**RAG benchmarks**
+### RAG benchmarks
 
 Fact Retrieval: `Note: Most of the works use multi-hop QA dataset for evaluation.`
 1. HotPotQA
