@@ -44,7 +44,7 @@ Research Topics in Knowledge Graph
 * __Knowledge Graph Enhanced Machine Learning [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20Enhanced%20Machine%20Learning.md)__
 
 * __Knowledge Graphs and Large Language Models (LLMs) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graph%20and%20LLMs.md)__ 🔥🔥🔥
-> * **Knowledge Graphs in Graph RAG [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20Graph%20RAG.md)]**
+> * **Knowledge Graphs in RAG [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20RAG.md)]**
 > * **Knowledge Graphs in Agent Memory [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Knowledge%20Graphs%20in%20Agent%20Memory.md)]**
 
 ### 4. Schema and Query of KGs
