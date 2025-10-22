@@ -10,7 +10,7 @@ Note: The definition of KGs may be different in each RAG work. Usually there are
 > But graphs can record the connection among document chunks or the tapologies of entity concepts, to facilitate the *retrieval sequence* of llm inference. 
 ```
 
-### Traditional RAG Frameworks 
+### 📝 Traditional RAG Frameworks 
 
 It is highly recommended that you understand the basic concepts of RAG, and get familiar with one or more of the following frameworks first.
 
@@ -61,7 +61,7 @@ It is highly recommended that you understand the basic concepts of RAG, and get 
 > * Enhancing Large Language Models with Knowledge Graphs: The Role of Graph Algorithms
 8. ActiveRAG (a new topic!) [[Notes in Chinese](https://mp.weixin.qq.com/s/K8V4z4e2ziJA1wfiCAxq_g)]
 
-### KG-RAG, or GraphRAG
+### 📝 KG-RAG, or GraphRAG
 ```
 Based on the granularity of KGs, we classify the Graph RAG works into the following two types.
 1. Works that use Coarse-grained KG
@@ -140,7 +140,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 35. GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.findings-acl.856/)]
 36. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.acl-long.830/)]
 
-### RAG benchmarks
+### 📊 RAG benchmarks
 
 Fact Retrieval: `Note: Most of the works use multi-hop QA dataset for evaluation.`
 1. HotPotQA
