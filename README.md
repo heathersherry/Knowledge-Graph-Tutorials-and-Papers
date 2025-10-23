@@ -89,6 +89,15 @@ Research Topics in Knowledge Graph
 12. KG-LLM-Papers [[Link](https://github.com/zjukg/KG-LLM-Papers)]
 13. Awesome LLM-KGs [[Link](https://github.com/RManLuo/Awesome-LLM-KG)]
 
+#### Research Groups
+
+1. Knowledge Engineering Group, Tsinghua University [[Paper link](https://keg.cs.tsinghua.edu.cn/research/papers)]
+2. HKUST-KnowComp, The Hong Kong University of Science and Technology [[Github](https://github.com/HKUST-KnowComp)]
+3. HKUST KNOWLEDGE BASE GROUP, The Hong Kong University of Science and Technology [[Website](https://cse.hkust.edu.hk/knowledgegraph/home.html)]
+4. ...
+
+You may refer to this collection for more details: [[Github](https://github.com/kgsandai/KGs-Research-Group)]
+
 ## Knowledge Graph Datasets
 > Note: We only list the general KGs here. For the datasets or benchmarks for specific topics such as KGQA or KG Completion, please refer to the above detailed sections.
 1. WikiData [[Link](https://www.wikidata.org/wiki/Wikidata:Main_Page)]
