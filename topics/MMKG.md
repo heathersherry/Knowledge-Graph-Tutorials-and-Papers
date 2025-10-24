@@ -16,6 +16,12 @@ __General Papers__
 4. Multimodal Reasoning with Multimodal Knowledge Graphs (ACL 2024) [[Paper](https://arxiv.org/abs/2406.02030)] [[Notes](https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247507392&idx=1&sn=7be74834021c7c1a391af3d344a5aafe&chksm=fcb07a25cbc7f33338df0312af915135d2f370250cd36bfd9e9a861c7ad6883dd4e06c9e539b&token=1338044507&lang=zh_CN#rd)]
 5. Let Modalities Teach Each Other: Modal-Collaborative Knowledge Extraction and Fusion for Multimodal Knowledge Graph Completion (NAACL 2025)
 6. Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph Completion (TKDD 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3760786)]
+7. **VaLik**: Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning (ICCV 2025) [[Paper](https://arxiv.org/abs/2503.12972)] 🔥
+>   * Apply cross-modal similarity recalibration to generate text descriptions and enrich the KG.
+>   * Training free, also reduces halluciations.
+8. **VAT-KG**: KNOWLEDGE-INTENSIVE MULTIMODAL KNOWLEDGE GRAPH DATASET FOR RETRIEVALAUGMENTED GENERATION (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2506.21556)] 🔥
+
+
 
 
 __Multimodal entity linking (MEL)__
