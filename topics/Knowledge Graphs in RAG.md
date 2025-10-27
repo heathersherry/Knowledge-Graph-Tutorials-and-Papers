@@ -108,8 +108,10 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 > * Compared with RAG, achieving a relative improvement of 19.6% on hotpotQA and 33.5% on 2wiki in terms of F1 score.
 > * Applied KAG to two professional knowledge Q&A tasks of Ant Group, including E-Government Q&A and E-Health Q&A, achieving significant improvement in professionalism compared to RAG methods.
 13. **Graph RAG-Tool Fusion**: [[Paper](https://arxiv.org/pdf/2502.07223)] [[Notes (Chinese)](https://mp.weixin.qq.com/s/0yLAr_xcLr_1-EI_Np3qig)]
->   * The construction of the "tool KG" seems to be very time-consuming.
+> * The construction of the "tool KG" seems to be very time-consuming.
 14. **KG2RAG**: Knowledge Graph-Guided Retrieval Augmented Generation (NAACL 2025, From Alibaba) [[Paper]([Knowledge Graph-Guided Retrieval Augmented Generation](https://arxiv.org/pdf/2502.06864))] [[Github](https://github.com/nju-websoft/KG2RAG)] `but document-chunk related and users need to extract the graph`
+15. **KG-INFUSED RAG**: AUGMENTING CORPUS-BASED RAG WITH EXTERNAL KNOWLEDGE GRAPHS (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2506.09542)]
+> * It incorporates pre-existing large-scale KGs into RAG and applies spreading activation to enhance both retrieval and generation.
 
 
 #### (3) Multi-level gained KG
