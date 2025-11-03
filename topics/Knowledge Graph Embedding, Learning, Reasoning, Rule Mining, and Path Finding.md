@@ -175,6 +175,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 10. Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning (Electronics 2025)
 11. Knowledge Crosswords: Geometric Knowledge Reasoning with Large Language Models (ACL 2024 - Findings) [[Paper](https://aclanthology.org/2024.findings-acl.154/)]
 12. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025) [[Paper](https://arxiv.org/pdf/2410.13080)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hKNZPyUBkmiOd0GtOL6epg)]
+13. LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hfok-6bgmLdRC04N9lCrgA)]
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
