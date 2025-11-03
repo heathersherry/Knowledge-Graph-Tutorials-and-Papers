@@ -174,6 +174,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 9. SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs (WWW 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714768)]
 10. Enhancing Domain-Specific Knowledge Graph Reasoning via Metapath-Based Large Model Prompt Learning (Electronics 2025)
 11. Knowledge Crosswords: Geometric Knowledge Reasoning with Large Language Models (ACL 2024 - Findings) [[Paper](https://aclanthology.org/2024.findings-acl.154/)]
+12. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025) [[Paper](https://arxiv.org/pdf/2410.13080)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hKNZPyUBkmiOd0GtOL6epg)]
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
