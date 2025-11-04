@@ -20,7 +20,7 @@ __General Papers__
 >   * Apply cross-modal similarity recalibration to generate text descriptions and enrich the KG.
 >   * Training free, also reduces halluciations.
 8. **VAT-KG**: KNOWLEDGE-INTENSIVE MULTIMODAL KNOWLEDGE GRAPH DATASET FOR RETRIEVALAUGMENTED GENERATION (Arxiv 2025) [[Paper](https://arxiv.org/pdf/2506.21556)] 🔥
-
+9. U-MERE: Unconstrained Multimodal Entity and Relation Extraction with Collaborative Modeling and Order-Sensitive Optimization (MM 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755397)]
 
 
 
