@@ -207,6 +207,7 @@ These papers discuss how to utilze LLM and KG for other tasks, such as Informati
 12. LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases (ICLR 2025, poster) [[Paper](https://openreview.net/forum?id=wNobG8bV5Q)]
 13. LLM is Knowledge Graph Reasoner: LLM’s Intuition-Aware Knowledge Graph Reasoning for Cold-Start Sequential Recommendation (ECIR 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-88711-6_17)]
 14. Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models (ACL 2025)
+15. Synergizing Large Language Models and Knowledge Graphs in Science: A Survey (NeurIPS 2025 workshop)
 
 ## 📝 VLMs and Knowledge Graphs
 ```
