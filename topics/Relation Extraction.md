@@ -42,6 +42,7 @@ https://blog.csdn.net/hqc888688/article/details/73559365)
 23. Document-Level Relation Extraction with Global Relations and Entity Pair Reasoning (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1002/)]
 24. An Adaptive Multi-Threshold Loss and a General Framework for Collaborating Losses in Document-Level Relation Extraction (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1081/)]
 25. ARPDL: Adaptive Relational Prior Distribution Loss as an Adapter for Document-Level Relation Extraction (IJCAI 2025) [[Paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2116.pdf)]
+26. U-MERE: Unconstrained Multimodal Entity and Relation Extraction with Collaborative Modeling and Order-Sensitive Optimization (MM 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755397)]
 
 
 __LLM for RE__ 🔥🔥🔥
