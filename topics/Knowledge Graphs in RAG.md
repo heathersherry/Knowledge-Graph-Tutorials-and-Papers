@@ -38,6 +38,7 @@ It is highly recommended that you understand the basic concepts of RAG, and get 
 15. Ten: a voice agent framework to create conversational AI. TEN also facilitates the integration of AI with audio-visual tools, databases, monitoring systems, RAG, and more. [[GitHub](https://github.com/TEN-framework/ten_framework)]
 16. AutoRAG: An Open-Source Framework for RAG Evaluation & Optimization with AutoML-Style Automation [[Github](https://github.com/Marker-Inc-Korea/AutoRAG)]
 17. All RAG Techniques [[Github](https://github.com/liu673/rag-all-techniques)] - A series of simple and clear demos!! Strongly recommended.
+18. Sycamore: AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on unstructured data. [[Github](https://github.com/aryn-ai/sycamore/tree/main)]
 
 #### Some good discussions/surveys/tutorials/blogs for beginners to know more about RAG and Graph RAG
 1. Retrieval-Augmented Generation for Large Language Models: A Survey (Arxiv, Mar 2024) [[Paper](https://arxiv.org/pdf/2312.10997)] [[Notes for OpenRAG Base](https://mp.weixin.qq.com/s/MZ4jSH1torrEpYGTLTkiEw)]
