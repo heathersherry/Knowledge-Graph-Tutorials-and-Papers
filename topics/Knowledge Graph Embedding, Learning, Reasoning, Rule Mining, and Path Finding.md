@@ -162,6 +162,7 @@ __General Papers__
 26. Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning (AAAI 2025, Technical Tracks) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33405)]
 27. Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains (ACL 2025)
 28. FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning (TKDE 2024) 🌟
+29. Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning (EMNLP 2025)
 
 __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING (ICLR 2024) [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
@@ -177,6 +178,7 @@ __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 11. Knowledge Crosswords: Geometric Knowledge Reasoning with Large Language Models (ACL 2024 - Findings) [[Paper](https://aclanthology.org/2024.findings-acl.154/)]
 12. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025) [[Paper](https://arxiv.org/pdf/2410.13080)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hKNZPyUBkmiOd0GtOL6epg)]
 13. LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hfok-6bgmLdRC04N9lCrgA)]
+14. Judge and Improve: Towards a Better Reasoning of Knowledge Graphs with Large Language Models (EMNLP 2025)
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
