@@ -125,8 +125,7 @@ __LLM for KGQA, or KG for QA based on LLM__ 🔥
 23. Check for updates LLM-Based SPARQL Generation with Selected Schema from Large Scale Knowledge Base (Springer Nature Singapore 2023)
 24. A Knowledge Graph Question Answering Approach to IoT Forensics (IoTDI 2023) [[Paper](https://dl.acm.org/doi/abs/10.1145/3576842.3589161?casa_token=_O6uKqKs570AAAAA:bVmxBOAUkArF_hFJzsozv7eLklDpIqEaPeiDJ9LhIBMoMVn2G0BqPf3JLjk69ZW0O9evR9pb_KFMMQ)]
 25. Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments (ACL 2023) [[Paper](https://arxiv.org/pdf/2212.09736.pdf)]
-> * Pangu consists of a symbolic agent and a neural LM working in a concerted fashion: The agent explores the environment to incrementally construct valid plans, and the LM evaluates the plausibility of the candidate plans to
-guide the search process.
+> * Pangu consists of a symbolic agent and a neural LM working in a concerted fashion: The agent explores the environment to incrementally construct valid plans, and the LM evaluates the plausibility of the candidate plans to guide the search process.
 > * The evaluation is conducted on KBQA.
 26. FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29823)]
 27. Knowledge Graph Prompting for Multi-Document Question Answering (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29889)]
@@ -170,6 +169,7 @@ guide the search process.
 58. Flow-guided Direct Preference Optimization for Knowledge Graph Reasoning with Trees (SIGIR 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3729980)]
 59. Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33353)]
 60. Reasoning with Trees: Faithful Question Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.211/)]
+61. CompKBQA: Component-wise Task Decomposition for Knowledge Base Question Answering (EMNLP 2025)
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
