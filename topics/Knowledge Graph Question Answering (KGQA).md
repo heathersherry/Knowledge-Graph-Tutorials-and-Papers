@@ -170,6 +170,7 @@ __LLM for KGQA, or KG for QA based on LLM__ 🔥
 59. Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33353)]
 60. Reasoning with Trees: Faithful Question Answering over Knowledge Graph (COLING 2025) [[Paper](https://aclanthology.org/2025.coling-main.211/)]
 61. CompKBQA: Component-wise Task Decomposition for Knowledge Base Question Answering (EMNLP 2025)
+62. RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models (EMNLP 2025)
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
