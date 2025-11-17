@@ -164,6 +164,7 @@ __General Papers__
 28. FedEAN: Entity-Aware Adversarial Negative Sampling for Federated Knowledge Graph Reasoning (TKDE 2024) 🌟
 29. Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning (EMNLP 2025)
 30. Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees (EMNLP 2025)
+31. Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning (ICDE 2025) [[Paper](https://arxiv.org/abs/2405.10621)] 🌟
 
 __KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING (ICLR 2024) [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
