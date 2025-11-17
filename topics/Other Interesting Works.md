@@ -120,6 +120,7 @@ Note: There are a few valuable survey collection regarding the data processing/m
 2. Data Management for LLM [[Github](https://github.com/ZigeW/data_management_LLM)]
 3. Data-Centric Multimodal LLM [[Github](https://github.com/beccabai/Data-centric_multimodal_LLM)]
 
-__Data Lakehouse__
+__Data Lakehouse/File Format__
 1. Lance: Efficient Random Access in Columnar Storage through Adaptive Structural Encodings [[Paper](https://arxiv.org/pdf/2504.15247)] - Very insightful!!!
 2. Magnus: A Holistic Approach to Data Management for Large-Scale Machine Learning Workloads (VLDB 2025) [[Paper](https://www.vldb.org/pvldb/vol18/p4964-song.pdf)]
+3. F3: The Open-Source Data File Format for the Future (SIGMOD 2025) [[Paper](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)]
