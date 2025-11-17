@@ -76,6 +76,7 @@ __Embedding/Knowledge Graph Representation Based Techniques__
 8. A Contextual Alignment Enhanced Cross Graph Attention Network for Cross-lingual Entity Alignment (COLING 2020) [[Paper](https://www.aclweb.org/anthology/2020.coling-main.520.pdf)] [[Notes](https://mp.weixin.qq.com/s/3OD6fQBX50JgMBWLeQA_VA)]
 9. Representation Learning for Entity Alignment in Knowledge Graph: A Design Space Exploration 🌟 (ICDE 2024)
 10. Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment (WWW 2023) [[Paper](https://arxiv.org/pdf/2304.01563)]
+11. A Translation-Based Heterogeneous Graph Neural Network for Multiple Knowledge Graphs Alignment (ICDE 2025) [[Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c215/26FZAJYnYli)] 🌟
 
 __LM/LLM Based Techniques__ 🔥
 1. Deep Entity Matching with Pre-Trained Language Models (Tool:Ditto) [[Blog](https://megagonlabs.medium.com/deep-entity-matching-with-pre-trained-language-models-f4b42f1d1759)]
