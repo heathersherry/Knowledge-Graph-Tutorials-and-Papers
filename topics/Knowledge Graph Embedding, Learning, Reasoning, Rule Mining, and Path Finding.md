@@ -94,6 +94,7 @@ __Dynamic/Adaptive Embedding__
 6. Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (TKDE 2020) [[https://ieeexplore.ieee.org/document/9091208]] [[Github](https://github.com/rootlu/DyHNE)]
 7. ChronoR: Rotation Based Temporal Knowledge Graph Embedding (arxiv 2021 or AAAI 2021?) [[Paper](https://arxiv.org/abs/2103.10379)]
 8. AdaE: Knowledge Graph Embedding with Adaptive Embedding Sizes (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10981648)] 🌟
+9. SIT: Selective Incremental Training for Dynamic Knowledge Graph Embedding (ICDE 2025) 🌟
 
 __CNN Based Embedding__
 1. A novel embedding model for knowledge base completion based on convolutional neural network (NAACL 2018)
