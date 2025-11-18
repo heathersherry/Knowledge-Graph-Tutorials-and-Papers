@@ -59,6 +59,7 @@ __Explainability__
 5. Learning Heterogeneous Knowledge Base Embeddings for Explainable Recommendation (Algorithms 2018)
 6. KGAT: Knowledge Graph Attention Network for Recommendation (KDD 2019)
 7. Reinforcement knowledge graph reasoning for explainable recommendation (SIGIR 2019)
+8. CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs (ICDE 2025) 🌟
 
 __Recommendation related to LLM__ 🔥🔥🔥
 1. Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph (Arxiv 2024, from Alibaba) [[Paper](https://arxiv.org/pdf/2402.13750.pdf)] [[Blog](https://mp.weixin.qq.com/s/WIFTUHAp4PXX_wx0QMOsHw)]
