@@ -77,6 +77,7 @@ __Link Prediction__
 1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
 2. Knowledge Graph Large Language Model (KG-LLM) for Link Prediction (ACML 2024) [[Paper](https://arxiv.org/pdf/2403.07311)] 🔥
 3. Leveraging Open Path from Pruned Graph for Link Prediction on Knowledge Graphs (ISWC 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-09527-5_30)]
+4. Are We Wasting Time? A Fast, Accurate Performance Evaluation Framework for Knowledge Graph Link Predictors (ICDE 2025) 🌟  
 
 __KGC/KGE based on Tensor Decomposition__
 1. TENSOR DECOMPOSITIONS FOR TEMPORAL KNOWLEDGE BASE COMPLETION (ICLR 2020) [[Paper](https://openreview.net/pdf?id=rke2P1BFwS)]
