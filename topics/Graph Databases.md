@@ -5,7 +5,8 @@
 2. The journey of GraphScope [[Link](https://graphscope.io/journey/)]
 
 ## Overall System Archtecture
-1. GraphScope Flex: LEGO-like Graph Computing Stack (SIGMOD 2024) 
+1. GraphScope Flex: LEGO-like Graph Computing Stack (SIGMOD 2024)
+2. ByteGraph: A High-Performance Distributed Graph Database in ByteDance (VLDB 2022) [[Paper](https://vldb.org/pvldb/vol15/p3306-li.pdf)]
 
 ## The Storage Layer
 1. GraphAr: An Efficient Storage Scheme for Graph Data in Data Lakes (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/GraphAr%3A%20An%20Efficient%20Storage%20Scheme%20for%20Graph%20Data%20in%20Data%20Lakes)] 
