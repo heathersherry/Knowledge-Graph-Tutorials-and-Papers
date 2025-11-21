@@ -63,10 +63,11 @@ __General Topics__
 51. FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data (VLDB 2024) [[Paper](https://dl.acm.org/doi/abs/10.14778/3648160.3648174)] 🌟
 >   * FusionQuery has a query stage and a fusion stage. In the query stage, this paper frames the heterogeneous data query problem as a knowledge graph matching problem and present a line graph-based method to accelerate it.
 52. KAE: A property-based method for knowledge graph alignment and extension (Journal of Web Semantics, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000180)]
+53. Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs [[Github](https://github.com/eduzrh/AdaCoAgentEA)] [[Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d792/26FZC4mSSgo)] 🌟
 
 __Embedding/Knowledge Graph Representation Based Techniques__
-1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) 🌟 [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
-2. Multi-view Knowledge Graph Embedding for Entity Alignment (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2019/0754.pdf)]
+1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
+2. Multi-view Knowledge Graph Embedding for Entity Alignment (IJCAI 2019) [[Paper](https://www.ijcai.org/Proceedings/2019/0754.pdf)] 🌟
 3. Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference (WWW 2019)
 4. Iterative Entity Alignment via Joint Knowledge Embeddings (IJCAI 2017) [[Paper](https://www.ijcai.org/Proceedings/2017/0595.pdf)] [[Slides](http://www.zhuhao.me/static/zhu17iterative/zhu17iterative_slides.pdf)]
 5. Jointly learning entity and relation representations for entity alignment (EMNLP 2019) [[Paper](https://www.aclweb.org/anthology/D19-1023.pdf)]
