@@ -142,6 +142,8 @@ __Papers__
 9. Efficient Knowledge Graph Accuracy Evaluation (VLDB 2019) 🌟 [[Paper](https://arxiv.org/abs/1907.09657)]
 10. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/HCOMP/article/view/31605)]
 11. Knowledge graph accuracy evaluation: an LLM-enhanced embedding approach (International Journal of Data Science and Analytics 2024) [[Paper](https://link.springer.com/article/10.1007/s41060-024-00661-3)]
+12. Credible Intervals for Knowledge Graph Accuracy Estimation (SIGMOD 2025) 🌟
+
 
 ### 📝 KB/KG Freshness (related to Temporal KG)
 1. How to Keep a Knowledge Base Synchronized with Its Encyclopedia Source (IJCAI 2017) [[Paper](https://www.ijcai.org/proceedings/2017/0524.pdf)] [[Notes](https://zhuanlan.zhihu.com/p/30803950)]
