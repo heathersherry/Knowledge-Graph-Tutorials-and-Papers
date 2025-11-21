@@ -63,7 +63,11 @@ __General Topics__
 51. FusionQuery: On-demand Fusion Queries over Multi-source Heterogeneous Data (VLDB 2024) [[Paper](https://dl.acm.org/doi/abs/10.14778/3648160.3648174)] 🌟
 >   * FusionQuery has a query stage and a fusion stage. In the query stage, this paper frames the heterogeneous data query problem as a knowledge graph matching problem and present a line graph-based method to accelerate it.
 52. KAE: A property-based method for knowledge graph alignment and extension (Journal of Web Semantics, 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S1570826824000180)]
-53. Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs [[Github](https://github.com/eduzrh/AdaCoAgentEA)] [[Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d792/26FZC4mSSgo)] 🌟
+53. Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs (ICDE 2025)
+ [[Github](https://github.com/eduzrh/AdaCoAgentEA)] [[Paper](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d792/26FZC4mSSgo)] 🌟
+54. Enhancing Large-scale Entity Alignment with Critical Structure and High-quality Context (ICDE 2025) 🌟
+55. CrossETR: A Semantic-driven Framework for Entity Matching across Images and Graph (ICDE 2025) 🌟
+56. Description-Similarity Rules: Flexible Feature Engineering for Entity Matching (ICDE 2025) 🌟
 
 __Embedding/Knowledge Graph Representation Based Techniques__
 1. A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs (VLDB 2020) [[Paper](http://www.vldb.org/pvldb/vol13/p2326-sun.pdf)] [[GitHub](https://github.com/nju-websoft/OpenEA)]
@@ -89,6 +93,7 @@ __LM/LLM Based Techniques__ 🔥
 6. HLMEA: Unsupervised Entity Alignment Based on Hybrid Language Models (AAAI 2025) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33294)]
 7. Unlocking the Power of Large Language Models for Entity Alignment (ACL 2024) [[Paper](https://arxiv.org/pdf/2402.15048)]
 8. EasyEA: Large Language Model is All You Need in Entity Alignment Between Knowledge Graphs (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.1081/)]
+9. CrossEM: A Prompt Tuning Framework for Cross-modal Entity Matching (ICDE 2025) 🌟
 
 __Blocking Techniques__
 1. Blocking and Filtering Techniques for Entity Resolution: A Survey (ACM Computing Surveys 2020) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3377455)] [[arxiv version](https://arxiv.org/pdf/1905.06167.pdf)]
