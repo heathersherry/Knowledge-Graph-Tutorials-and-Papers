@@ -144,6 +144,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 33. HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses (ACL 2025)
 35. GNN-RAG: Graph Neural Retrieval for Efficient Large Language Model Reasoning on Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.findings-acl.856/)]
 36. EventRAG: Enhancing LLM Generation with Event Knowledge Graphs (ACL 2025, Findings) [[Paper](https://aclanthology.org/2025.acl-long.830/)]
+37. OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models (Arxiv 2024) [[Paper](https://arxiv.org/html/2412.15235v1)] [[Github](https://github.com/microsoft/ograg2?tab=readme-ov-file)]
 
 ### 📊 RAG benchmarks
 
