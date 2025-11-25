@@ -136,6 +136,7 @@ Conventional methods that investigate SPARQL queries over RDF-based knowledge gr
 > * This work proposes a graph-based approach to store the RDF data. They convert a SPARQL query into a subgraph matching query. To accelerate the query processing, they design VS-tree and VS∗-tree as indexes, together with effective pruning rules and efficient search algorithms, which are embedded into the query algorithms that determine the answers for both exact SPARQL queries and queries with wildcards uniformly and seamlessly.
 2. Passage: Ensuring Completeness and Responsiveness of Public SPARQL Endpoints with SPARQL Continuation Queries (WWWW 2025)
 > * PASSAGE ensures the completeness and responsiveness of SPARQL while delivering high performance
+3.  Efficient Execution of SPARQL Queries with OPTIONAL and UNION Expressions (ICDE 2025) 🌟
 
 __2.2 Distributed SPARQL Query Processing__
 
