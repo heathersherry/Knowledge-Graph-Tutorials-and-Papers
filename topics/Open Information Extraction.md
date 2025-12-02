@@ -4,6 +4,7 @@
 1. Improving Information Extraction from Visually Rich Documents using Visual Span Representations [[Paper](https://vldb.org/pvldb/vol14/p822-sarkhel.pdf)] (VLDB 2021) 🌟
 2. Bootstrapping Information Extraction via Conceptualization (ICDE 2021) 🌟
 3. C-ICL: Contrastive In-context Learning for Information Extraction (EMNLP 2024) [[Paper](https://arxiv.org/abs/2402.11254)]
+4. Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents (VLDB 2025) 🌟 [[Paper](https://www.vldb.org/pvldb/vol18/p3695-chai.pdf)]
 
 ## Open Information Extraction
 
