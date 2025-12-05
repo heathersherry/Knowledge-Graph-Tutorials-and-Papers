@@ -166,8 +166,9 @@ __General Papers__
 29. Mixture of Length and Pruning Experts for Knowledge Graphs Reasoning (EMNLP 2025)
 30. Certainty in Uncertainty: Reasoning over Uncertain Knowledge Graphs with Statistical Guarantees (EMNLP 2025)
 31. Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning (ICDE 2025) [[Paper](https://arxiv.org/abs/2405.10621)] 🌟
+32. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [[Paper](https://arxiv.org/pdf/2506.04083)]
 
-__KG Reasoning for LLM/LLM for KG Reasoning__ 🔥
+__KG Reasoning for LLM, or LLM for KG Reasoning__ 🔥
 1. REASONING ON GRAPHS: FAITHFUL AND INTERPRETABLE LARGE LANGUAGE MODEL REASONING (ICLR 2024) [[Paper](https://arxiv.org/pdf/2310.01061.pdf)] [[Discussion](https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-trustworthyai-activity-7116434650113208320-1RJb/)]
 2. KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models (EMNLP 2023) [[Paper](https://aclanthology.org/2023.findings-emnlp.631/)]
 3. LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases (ICLR 2025, poster) [[Paper](https://openreview.net/forum?id=wNobG8bV5Q)]
