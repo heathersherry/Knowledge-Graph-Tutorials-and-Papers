@@ -8,6 +8,10 @@
 ### System works for Information Extraction
 1. Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents (VLDB 2025) 🌟 [[Paper](https://www.vldb.org/pvldb/vol18/p3695-chai.pdf)]
 > * A system designed for accurate attribute extraction from unstructured documents with a user-specified cost constraint.
+2. Sycamore
+3. DocETL
+4. Unstructured
+5. Unify
 
 ## Open Information Extraction
 
