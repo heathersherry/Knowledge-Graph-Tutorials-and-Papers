@@ -12,6 +12,11 @@
 3. DocETL
 4. Unstructured
 5. Unify
+6. Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents (VLDB 2025) 🌟
+7. AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework (VLDB 2025) 🌟
+8. Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization (SIGMOD 2026) 🌟
+9. Task Cascades for Efficient Unstructured Data Processing (SIGMOD 2026) 🌟
+10. Introducing Cortex AISQL: Reimagining SQL into AI Query Language for Multimodal Data (Snowflake, https://www.snowflake.com/en/blog/ai-sql-query-language/)
 
 ## Open Information Extraction
 
