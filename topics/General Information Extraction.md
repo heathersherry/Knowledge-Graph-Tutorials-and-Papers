@@ -8,10 +8,10 @@
 ### System works for Information Extraction
 1. Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents (VLDB 2025) 🌟 [[Paper](https://www.vldb.org/pvldb/vol18/p3695-chai.pdf)]
 > * A system designed for accurate attribute extraction from unstructured documents with a user-specified cost constraint.
-2. Sycamore
-3. DocETL
-4. Unstructured
-5. Unify
+2. Sycamore: AI-powered document processing engine for ETL, RAG, LLM-based applications, and analytics on unstructured data. [[Github](https://github.com/aryn-ai/sycamore/tree/main)] `ray as compute engine`
+3.DocETL: Powering Complex Document Processing Pipelines [[Demo](https://www.docetl.org/playground)] [[Paper](https://arxiv.org/pdf/2410.12189)] 🌟 `optimizer for logical plan --> physical plan`
+4. Unstructured: Open-Source Pre-Processing Tools for Unstructured Data [[Demo](https://github.com/Unstructured-IO/unstructured)]
+5. Unify: An unstructured data analytics system (ICDE 2025) [[Github](https://github.com/TsinghuaDatabaseGroup/Unify/tree/main)] 🌟 `NL interface`
 6. Doctopus: Budget-aware Structural Table Extraction from Unstructured Documents (VLDB 2025) 🌟
 7. AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework (VLDB 2025) 🌟
 8. Beyond Relational: Semantic-Aware Multi-Modal Analytics with LLM-Native Query Optimization (SIGMOD 2026) 🌟
