@@ -24,4 +24,5 @@
 
 #### The Microsoft Fabric Ontology (ontology = semantic + kinect)
 * There are also **critical differences** between the Microsoft Fabric Ontology and the ontology in general KGs.
-> * The Microsoft Fabric Ontology is more closed to 
+* The Microsoft Fabric Ontology is very close to the ontology in general KGs (a semantic layer!). BUT it also supports linking/binding to data (a kinect layer!).
+1. What is ontology (preview)? [[Link](https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-0-introduction?pivots=semantic-model)]
