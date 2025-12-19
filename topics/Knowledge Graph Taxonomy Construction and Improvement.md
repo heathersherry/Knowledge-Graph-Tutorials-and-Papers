@@ -11,6 +11,7 @@
 6. Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned LLMs Suggestions (ACL 2023) [[Paper](https://aclanthology.org/2023.law-1.9/)]
 7. Scientific Knowledge Graph and Ontology Generation using Open Large Language Models (NeurIPS 2024) [[Paper](https://openreview.net/pdf?id=kHsfqBhZjC)]
 8. OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models (EMNLP 2025) [[Paper](https://arxiv.org/html/2412.15235v1)] [[GitHub](https://github.com/microsoft/ograg2)]
+9. Effcient Axiomatization of OWL 2 EL Ontologies from Data by Means of Formal Concept Analysis (AAAI 2024) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28930/29769)] [[Slides](https://lat.inf.tu-dresden.de/~francesco/slides-DL2024.pdf)]
 
 #### The Palantir Ontology (ontology = semantic + kinect + dynamic)
 * It seems that the concept of "Ontology" in Palantir is quite popular nowadays.
@@ -26,3 +27,4 @@
 * There are also **critical differences** between the Microsoft Fabric Ontology and the ontology in general KGs.
 * The Microsoft Fabric Ontology is very close to the ontology in general KGs (a semantic layer!). BUT it also supports linking/binding to data (a kinect layer!).
 1. What is ontology (preview)? [[Link](https://learn.microsoft.com/en-us/fabric/iq/ontology/tutorial-0-introduction?pivots=semantic-model)]
+https://lat.inf.tu-dresden.de/~francesco/slides-DL2024.pdf
