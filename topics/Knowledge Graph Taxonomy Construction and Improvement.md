@@ -10,7 +10,7 @@
 5. Probase: a probabilistic taxonomy for text understanding
 6. Extending an Event-type Ontology: Adding Verbs and Classes Using Fine-tuned LLMs Suggestions (ACL 2023) [[Paper](https://aclanthology.org/2023.law-1.9/)]
 7. Scientific Knowledge Graph and Ontology Generation using Open Large Language Models (NeurIPS 2024) [[Paper](https://openreview.net/pdf?id=kHsfqBhZjC)]
-8. OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models (EMNLP 2025) [[Paper](https://github.com/microsoft/ograg2)] [[GitHub](https://github.com/microsoft/ograg2)]
+8. OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large Language Models (EMNLP 2025) [[Paper](https://arxiv.org/html/2412.15235v1)] [[GitHub](https://github.com/microsoft/ograg2)]
 
 #### The Palantir Ontology (ontology = semantic + kinect + dynamic)
 * It seems that the concept of "Ontology" in Palantir is quite popular nowadays.
