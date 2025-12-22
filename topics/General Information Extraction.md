@@ -18,6 +18,9 @@
 9. Task Cascades for Efficient Unstructured Data Processing (SIGMOD 2026) 🌟
 10. Introducing Cortex AISQL: Reimagining SQL into AI Query Language for Multimodal Data (Snowflake, https://www.snowflake.com/en/blog/ai-sql-query-language/)
 
+### LLM-assisted Information Extraction
+1. Google LangExtract: a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions [[Github](https://github.com/google/langextract)] 🔥
+
 ## Open Information Extraction
 
 ### Sides, Tutorials and Surveys
