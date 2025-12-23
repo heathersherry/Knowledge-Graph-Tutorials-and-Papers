@@ -41,6 +41,7 @@ __General Papers__
 17. Advanced Semantics for Commonsense Knowledge Extraction (WWW 2021) [[Paper](https://arxiv.org/pdf/2011.00905.pdf)]
 18. Defining a Knowledge Graph Development Process Through a Systematic Review (TOSEM 2023)  [[Paper](https://dl.acm.org/doi/full/10.1145/3522586)] 🌟 (although it comes from the SE area)
 19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
+20. Optimizing knowledge bias: An adaptive correction method for open knowledge graph construction (Neurocomputing 2026) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225029340)]
 
 __VKG__
 
