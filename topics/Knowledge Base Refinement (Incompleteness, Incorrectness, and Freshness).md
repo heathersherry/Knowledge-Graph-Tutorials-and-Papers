@@ -166,4 +166,5 @@ __Papers__
 16. TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion (ACL 2025)
 17. A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025)
 18. MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion (IEEE Transactions on Cybernetics 2024)
+19. G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models (ACL 2025) 🔥
 
