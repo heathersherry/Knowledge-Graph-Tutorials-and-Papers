@@ -154,5 +154,6 @@ Fact Retrieval: `Note: Most of the works use multi-hop QA dataset for evaluation
 2. MultiHop-RAG
 3. MT-Bench
 
+### Other related topics
 Query Focused Summerization (QFS):
 1. Document Summarization with Latent Queries (TACL 2022) [[Paper](https://aclanthology.org/2022.tacl-1.36/)]
