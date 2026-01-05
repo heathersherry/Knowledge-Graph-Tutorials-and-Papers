@@ -114,6 +114,7 @@ __Research Papers__
 20. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (NeurIPS 2024) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/0fd17409385ab9304e5019c6a6eb327a-Paper-Conference.pdf)] 🔥
 21. Knowledge graphs and their applications in drug discovery (Artificial Intelligence (AI) in Drug Discovery 2021) [[Paper](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1910673)]
 22. Learning from Negative Samples in Biomedical Generative Entity Linking (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.558/)]
+23. Empowering natural product science with AI: leveraging multimodal data and knowledge graphs (Natural product reports, 2025) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/np/d4np00008k)]
 
 
 __Datasets__
