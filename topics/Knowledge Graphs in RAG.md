@@ -69,7 +69,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 * These works first construct a KG based on input documents, then query or summerize on the KG. They usually require KG construction.
 * Note: The definitions of nodes and edges of "KG" vary in different works. The nodes may be entities, nouns, document metadata, or document chunk summary; while the edges may be the semantic relations bewteen the nodes, or self-defined relations such as "co-occurrence in the same document chunk" or "appeared in the same document".
 2. Works that use Fine-grained KG
-* These works conduct query or reasoning on predifinded graph (usually as input). They do not require KG construction.
+* These works conduct query or reasoning on predifinded external graph (usually as input). They do not require KG construction.
 ```
 #### (1) Overview
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
@@ -116,6 +116,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 16. **ReMindRAG**: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG (Arxiv 2025) [[Paper](https://arxiv.org/abs/2510.13193)]
 > * It employs an LLM-guided graph traversal featuring node exploration, node exploitation, and, most notably, memory replay, to improve both system effectiveness and cost efficiency. Specifically, REMINDRAG memorizes traversal experience within KG edge embeddings, mirroring the way LLMs "memorize" world knowledge within their parameters, but in a train-free manner.
 17. KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.274.pdf)]
+18. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://aclanthology.org/2025.acl-long.1317.pdf)]
 
 #### (3) Multi-level gained KG
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
