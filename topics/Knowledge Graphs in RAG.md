@@ -124,7 +124,10 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 2. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
 
-#### (4) Unclassified (still working on these!)
+#### (4) Fine-grained graph to represent procedure knowledge ("how-to" graph), not declarative knowledge ("what-is" graph)
+1. InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning (SIGIR 2025)
+
+#### (5) Unclassified (still working on these!)
 
 1. Biomedical knowledge graph-enhanced prompt generation for large language models (Nov 2023) [[Paper](https://arxiv.org/pdf/2311.17330.pdf)]
 > * A task-agnostic Knowledge Graph-based Retrieval Augmented Generation (KG-RAG) framework by leveraging the massive biomedical KG SPOKE with LLMs such as Llama-2-13b, GPT-3.5-Turbo and GPT-4, to generate meaningful biomedical text rooted in established knowledge.
