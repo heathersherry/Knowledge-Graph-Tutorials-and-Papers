@@ -42,6 +42,7 @@ __General Papers__
 18. Defining a Knowledge Graph Development Process Through a Systematic Review (TOSEM 2023)  [[Paper](https://dl.acm.org/doi/full/10.1145/3522586)] 🌟 (although it comes from the SE area)
 19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
 20. Optimizing knowledge bias: An adaptive correction method for open knowledge graph construction (Neurocomputing 2026) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225029340)]
+21. Text2AMR2FRED, converting text into RDF/OWL knowledge graphs via abstract meaning representation (Knowledge and Information Systems 2026) [[Paper](https://link.springer.com/article/10.1007/s10115-025-02631-y)]
 
 __VKG__
 
