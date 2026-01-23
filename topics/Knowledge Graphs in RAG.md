@@ -117,6 +117,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 > * It employs an LLM-guided graph traversal featuring node exploration, node exploitation, and, most notably, memory replay, to improve both system effectiveness and cost efficiency. Specifically, REMINDRAG memorizes traversal experience within KG edge embeddings, mirroring the way LLMs "memorize" world knowledge within their parameters, but in a train-free manner.
 17. KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.274.pdf)]
 18. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://aclanthology.org/2025.acl-long.1317.pdf)]
+19. Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/43660)]
 
 #### (3) Multi-level gained KG
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
