@@ -55,7 +55,7 @@ Research Topics in Knowledge Graph
 ### 5. Others
 * __Graph Databases [[Link](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Graph%20Databases.md)]__
 
-* __Other Interesting Research Works [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
+* __Other Interesting Research Topics Related to KGs (e.g., KG Security and Evaluation) [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Other%20Interesting%20Works.md)__
 
 * __Good DB Papers [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Good%20DB%20papers.md)__
 
