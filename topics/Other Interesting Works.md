@@ -7,6 +7,9 @@ __Data Integration and Knowledge Integration__
 29. Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks [[Paper](https://doi.org/10.1145/3318464.3389742)] (SIGMOD 2020) 🌟
 30. JenTab: Bridging Tabular Data and Knowledge Graphs – A Detailed System Overview (Semantic Web 2024) [[Paper](https://www.semantic-web-journal.net/system/files/swj3743.pdf)]
 
+__KG Security and Justification__
+1. KGMark: A Diffusion Watermark for Knowledge Graphs (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/45835)]
+
 __KG and Blockchains__
 1. BlockChain + KG [[Link](https://mp.weixin.qq.com/s/8arlkjwqUGNfxQKkwbf28g)] 
 
