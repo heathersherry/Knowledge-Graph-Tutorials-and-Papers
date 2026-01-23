@@ -73,6 +73,7 @@ __General Papers__
 49. Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion (TKDE 2025) [[Paper](https://ieeexplore.ieee.org/abstract/document/10884893)] 🌟
 50. KG-TRICK: Unifying Textual and Relational Information Completion of Knowledge for Multilingual Knowledge Graphs (Apple, COLING 2025) [[Paper](https://arxiv.org/pdf/2501.03560)]
 51. Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation (ICLR 2025, poster) [[Paper](https://iclr.cc/virtual/2025/poster/29360)]
+52. How Expressive are Knowledge Graph Foundation Models? (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/44147)]
 
 __Link Prediction__
 1. HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs (ACL 2025)
