@@ -83,6 +83,7 @@ __General Papers__
 44. Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings (ACL 2025)
 45. Time-enhanced compound geometric operations for temporal knowledge graph embedding (Neurocomputing 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225018545)]
 46. Less Is MuRE: Revisiting Shallow Knowledge Graph Embeddings (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.779/)]
+47. Improving Soft Unification with Knowledge Graph Embedding Methods (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/45835)]
 
  
 __Dynamic/Adaptive Embedding__
