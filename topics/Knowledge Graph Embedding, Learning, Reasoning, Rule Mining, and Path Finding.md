@@ -66,7 +66,8 @@ __General Papers__
 27. Exploiting Pre-trained Language Models for Black-box Attack against Knowledge Graph Embeddings (TKDD 2024)
 28. Document-Level Relation Extraction Based on Heterogeneous Graph Reasoning (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679899)]
 29. Embedding Knowledge Graphs in Function Spaces (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679819)]
-30. Noise-powered Multi-modal Knowledge Graph Representation Framework (COLING 2025)
+30. Clustering then Propagation: Select Better Anchors for Knowledge Graph Embedding (NeuRIPS 2024)
+31. Noise-powered Multi-modal Knowledge Graph Representation Framework (COLING 2025)
 31. Distance-Adaptive Quaternion Knowledge Graph Embedding with Bidirectional Rotation (COLING 2025)
 32. Including Co-Relation via Concatenate Operator for Static and Temporal Knowledge Graph Embedding (ACM Transactions on Information Systems, 2025) [[Paper](https://dl.acm.org/doi/abs/10.1145/3733231)]
 33. Structure Is All You Need: Structural Representation Learning on Hyper-Relational Knowledge Graphs (ICML 2025, poster)
