@@ -75,7 +75,8 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 1. LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration (VLDB 2025) [[Paper](https://vldb.org/pvldb/volumes/18/paper/LEGO-GraphRAG%3A%20Modularizing%20Graph-based%20Retrieval-Augmented%20Generation%20for%20Design%20Space%20Exploration)] 🌟
 2. Graph Retrieval-Augmented Generation: A Survey (Arxiv, Aug 2024; Accepted in ACM Transactions on Information Systems 2025) [[Paper](https://arxiv.org/pdf/2408.08921)]
 3. Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey (Arxiv, Jan 2026) [[Paper](https://arxiv.org/pdf/2504.10499)]
-4. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://arxiv.org/abs/2501.13958)]
+<img width="871" height="324" alt="Screenshot 2026-01-26 at 4 45 00 PM" src="https://github.com/user-attachments/assets/9664a92f-0574-47c7-a87d-400a42fc25ae" />
+5. A Survey of Graph Retrieval-Augmented Generation for Customized Large Language Models (Arxiv, Jan 2025) [[Paper](https://arxiv.org/abs/2501.13958)]
 
 #### (2) Coarse-grained KG
 
