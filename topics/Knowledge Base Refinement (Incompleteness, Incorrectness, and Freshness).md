@@ -171,4 +171,6 @@ __Papers__
 18. MADE: Multicurvature Adaptive Embedding for Temporal Knowledge Graph Completion (IEEE Transactions on Cybernetics 2024)
 19. G2S: A General-to-Specific Learning Framework for Temporal Knowledge Graph Forecasting with Large Language Models (ACL 2025) 🔥
 20. TeDS: Joint Learning of Diachronic and Synchronic Perspectives in Quaternion Space for Temporal Knowledge Graph Completion (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/43888)]
+21. Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (NeuRIPS 2024) [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)] 🔥
+
 
