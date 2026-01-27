@@ -17,6 +17,7 @@ __Surveys, Tutorials and Experimental Studies__
 9. Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces (ACM Computing Surveys 2024) [[Paper](https://dl.acm.org/doi/full/10.1145/3643806)]
 10. Overview of knowledge reasoning for knowledge graph (Neurocomputing 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224003424)]
 11. LLMs for knowledge graph construction and reasoning: recent capabilities and future opportunities (WWW jornal 2024) [[Paper](https://link.springer.com/article/10.1007/s11280-024-01297-w)] 🔥
+12. Graph machine learning in the era of large language models (llms) (TKDE 2024) [[Paper](https://arxiv.org/pdf/2404.14928)] 🌟
 
 __Summary__
 1. Papers, Surveys, and Datasets on Knowledge Graph Embedding (KGE) [[GitHub](https://github.com/xinguoxia/KGE)]
