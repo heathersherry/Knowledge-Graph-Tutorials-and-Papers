@@ -30,8 +30,14 @@ fine-tuning of LLMs (particularly domain-specific LLMs) by integrating structure
 8. Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, July 2024) [[Paper](https://ieeexplore.ieee.org/abstract/document/10387715)] 🌟
 9. Knowledge-Empowered, Collaborative, and Co-Evolving AI Models: The Post-LLM Roadmap (Engineering 2024) [[Paper](https://www.sciencedirect.com/science/article/pii/S2095809924007239)]
 10. Integrating Large Language Models and Knowledge Graphs for Next-level AGI (WWW 2025 tutorial) [[Paper](https://dl.acm.org/doi/pdf/10.1145/3701716.3715866)]
-11. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)] 🌟
+11. Towards Graph Foundation Models: A Survey and Beyond (WWW 2024 tutorial, PHILIP S. YU, CHUAN SHI) [[Paper](http://www.shichuan.org/doc/159.pdf)] [[Slides of WWW 2024 tutorial](https://www2024.thewebconf.org/docs/tutorial-slides/towards-graph-foundation-models.pdf)] [[Github](https://github.com/BUPT-GAMMA/GFMPapers)]
+> * Discusses (1). GNN-based Papers; (2). LLM-based Papers; (3). GNN+LLM-based Papers.
+12. Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2402.05952)]
+13. Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling (TKDE 2024) [[Paper](https://arxiv.org/pdf/2306.11489.pdf)] 🌟
 > * KG in Before-training/During-training/Post-training enhancement for pretrained LMs. (see Table 2)
+14. Large Language Models on Graphs: A Comprehensive Survey  (TKDE 2024, Jiawei Han) [[Paper](https://arxiv.org/pdf/2312.02783)] 🌟
+15. A Survey of Graph Meets Large Language Model: Progress and Future Directions (IJCAI 2024 Survey Track, Jeffery Xu Yu) [[Paper](https://arxiv.org/pdf/2311.12399)]
+16. Graph learning and its advancements on large language models: A holistic survey (Neurocomputing 2025) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231225030681)]
 
 ## 💬 Discussions about Knowledge Graphs and LLMs
 1. The Future of Knowledge Graphs in a World of Large Language Models, given by Denny Vrandečić, Post-conference recording of the keynote for May 11 at the Knowledge Graph Conference 2023 in New York, NY. [[Video](https://www.youtube.com/watch?v=WqYBx2gB6vA)]
