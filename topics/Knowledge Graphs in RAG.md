@@ -157,10 +157,17 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 
 ### 📊 RAG benchmarks
 
+1. Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey (Arxiv, Jan 2026) [[Paper](https://arxiv.org/pdf/2504.10499)]
+> * It group the open-source benchmark datasets for Graph RAG into three representative families (however, the third one is also very close to the fist one)
+> * <img width="721" height="251" alt="Screen Shot 2026-01-29 at 10 12 26 PM" src="https://github.com/user-attachments/assets/4130ecc2-9eda-4545-9526-767d6f12bb8d" />
+
+
 Fact Retrieval: `Note: Most of the works use multi-hop QA dataset for evaluation.`
 1. HotPotQA
 2. MultiHop-RAG
 3. MT-Bench
+
+
 
 ### Other related topics
 Query Focused Summerization (QFS):
