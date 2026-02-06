@@ -121,6 +121,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 17. KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.274.pdf)]
 18. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://aclanthology.org/2025.acl-long.1317.pdf)]
 19. Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/43660)]
+20. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
 
 #### (3) Multi-level gained KG
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
@@ -135,9 +136,7 @@ https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-R
 
 1. Biomedical knowledge graph-enhanced prompt generation for large language models (Nov 2023) [[Paper](https://arxiv.org/pdf/2311.17330.pdf)]
 > * A task-agnostic Knowledge Graph-based Retrieval Augmented Generation (KG-RAG) framework by leveraging the massive biomedical KG SPOKE with LLMs such as Llama-2-13b, GPT-3.5-Turbo and GPT-4, to generate meaningful biomedical text rooted in established knowledge.
-19. Retrieval-augmented Generation across Heterogeneous Knowledge (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-srw.7/)]
-20. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
-21. Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.17600)] [[Notes(Chinese)]()]
+21. Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.17600)] 
 22. LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering (Arxiv 2024-10) [[Paper](https://arxiv.org/abs/2410.18050)] [[Github](https://github.com/QingFei1/LongRAG)]
 23. KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving using large language models (Bioinformatics 2024) [[Paper](https://academic.oup.com/bioinformatics/article/40/6/btae353/7687047)]
 24. MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot (WWW 2025 poster) [[Paper](https://openreview.net/forum?id=7C6cd95qvH#discussion)]
