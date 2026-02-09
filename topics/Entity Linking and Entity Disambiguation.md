@@ -249,6 +249,7 @@ __Supervised__
 3. Generative Multimodal Entity Linking (Arxiv 2023) [[Paper](https://arxiv.org/abs/2306.12725)]
 4. Multimodal Entity Linking: A New Dataset and A Baseline (MM 2021) [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475400?casa_token=PbnNnd1-Hx8AAAAA:CeOMGFkcpxrRYSXGXlnBdiNLPlWWdB3HkmIfN5CjABR-TdpFQCOe84x8m0bJb-l2_KRQK69r-hJdlQ)]
 5. Self-Supervised Enhancement for Named Entity Disambiguation via Multimodal Graph Convolution (IEEE Transactions on Neural Networks and Learning Systems 2022) [[Paper](https://ieeexplore.ieee.org/abstract/document/9774860)]
+6. KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking (SIGIR 2025) [[Paper](https://dl.acm.org/doi/10.1145/3726302.3730217)]
 
 ### 📝 LLM and Entity Linking 🔥🔥🔥
 1. Large language models struggle to learn long-tail knowledge (PMLR 2023) [[Paper](https://proceedings.mlr.press/v202/kandpal23a.html)]
