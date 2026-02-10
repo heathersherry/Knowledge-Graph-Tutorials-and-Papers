@@ -31,7 +31,7 @@
 > * `in-memory`, `immutable graph`, `CSR`
   
 ## Interface
-1. GRIN
+1. GRIN [[Github](https://github.com/GraphScope/GRIN)]
 
 ## The Computing Layer
 1. A1: A Distributed In-Memory Graph Database (Micorsoft, SIGMOD 2020) [[Paper](https://arxiv.org/pdf/2004.05712)]
