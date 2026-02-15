@@ -189,6 +189,7 @@ __KG Reasoning for LLM, or LLM for KG Reasoning__ 🔥
 13. LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34510)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hfok-6bgmLdRC04N9lCrgA)]
 14. Judge and Improve: Towards a Better Reasoning of Knowledge Graphs with Large Language Models (EMNLP 2025)
 15. REASONING OF LARGE LANGUAGE MODELS OVER KNOWLEDGE GRAPHS WITH SUPER-RELATIONS (ICLR 2025) [[Paper](https://openreview.net/pdf?id=rTCJ29pkuA)]
+16. PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models (AAAI 2026) [[Paper](https://arxiv.org/pdf/2511.14256)]
 
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
