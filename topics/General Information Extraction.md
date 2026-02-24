@@ -102,6 +102,7 @@ __Entity Summerazation__
 __Other Canonicalization__
 1.  Constructing Explainable Opinion Graphs from Reviews (WWW 2021) [[Paper](https://arxiv.org/pdf/2006.00119.pdf)]
 > * Canicaliza opinion phrases
+2. Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.548.pdf)] 🔥
 
 __Related Works__
 1. Query-Efficient Correlation Clustering (WWW 2020)
