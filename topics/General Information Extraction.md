@@ -85,6 +85,7 @@ __General Papers__
 >   * A novel contrastive learning module refines the learned view-specific embeddings.
 19. Open Knowledge Base Canonicalization with Multi-task Learning (WWW 2024) [[Paper](https://arxiv.org/pdf/2403.14733)]
 20. A Novel Retrieve-Read-Group Paradigm for Open Knowledge Base Canonicalization (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38644)]
+21. Discovering Latent Facts from Context to Construct Richer Open Knowledge Graphs  (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38998)]
 
 __Relation Phrases Clustering (finding synonymous phrases and hypernyms)__
 1. HARPY: Hypernyms and Alignment of Relational Paraphrases (HAPPY, COLING 2014) [[Paper](http://www.dit.unitn.it/~p2p/RelatedWork/Matching/harpy_COLING14.pdf)}{[Data](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/)]
