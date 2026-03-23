@@ -1,4 +1,4 @@
-## General Information Extraction
+## General Information Extraction, Open KG Construction, and Open KG Canonicalization
 
 ### General Papers
 1. Improving Information Extraction from Visually Rich Documents using Visual Span Representations [[Paper](https://vldb.org/pvldb/vol14/p822-sarkhel.pdf)] (VLDB 2021) 🌟
