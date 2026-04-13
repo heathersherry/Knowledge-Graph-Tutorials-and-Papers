@@ -48,6 +48,7 @@ __Notes and Discussions__
 22. Unsupervised Named Entity Disambiguation for Low Resource Domains (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.830.pdf)]
 23. Integration of knowledge bases and external sources using user-defined predicates and adaptive entity linking (WWW Journal 2025) [[Paper](https://link.springer.com/article/10.1007/s11280-025-01355-x)]
 24. Learning from Negative Samples in Biomedical Generative Entity Linking (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.558/)]
+25. entity-linkings: A Unified Library for Entity Linking (2026.eacl-demo.42) [[Paper](https://aclanthology.org/2026.eacl-demo.42/)]
 
 ### 📝 Coherence among Entities
 __Global Coherence__
