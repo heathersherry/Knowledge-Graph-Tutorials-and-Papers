@@ -23,9 +23,9 @@ Research Topics in Knowledge Graph
 
 * __Entity Resolution, Entity Matching and Entity Alignment [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Entity%20Resolution%2C%20Entity%20Matching%20and%20Entity%20Alignment.md)__
 
-* __General Information Extraction, Open KG Construction, and Open KG Canonicalization [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Extraction.md)__
+* __Relation Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Extraction.md)__
 
-* __General Information Extraction and Open Information Extraction [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/General%20Information%20Extraction.md)__
+* __General Information Extraction, Open Information Extraction, Open KG Construction, and Open KG Canonicalization [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/General%20Information%20Extraction.md)__
 
 * __Relation Linking and Relation Disambiguation [[link]](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers/blob/master/topics/Relation%20Linking%20and%20Relation%20Disambiguation.md)__
 
