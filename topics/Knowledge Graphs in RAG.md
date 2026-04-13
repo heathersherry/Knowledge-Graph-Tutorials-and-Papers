@@ -124,6 +124,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 20. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
 21. **MedRAG**: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot (Web Conference 2025) [[Paper](https://arxiv.org/pdf/2502.04413)]
 22. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://arxiv.org/pdf/2501.02226)]
+23. ShieldRAG: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40725)]
 
 #### (3) Multi-level gained KG
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
