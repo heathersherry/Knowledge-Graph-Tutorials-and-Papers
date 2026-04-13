@@ -131,6 +131,7 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 #### 1.2 KG as/for Training Corpus
 1. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 2. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
+3. Knowledge-Enhanced Image Captioning with Adaptive Graph-based Multimodal Alignment and LLM (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38532)]
 
 ### 2. KG for SFT
 #### 2.1 KG for generation of CoT (Chain of Thoughts) data
