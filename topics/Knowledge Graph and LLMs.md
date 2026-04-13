@@ -132,7 +132,6 @@ Personally, KG for preparing training data (in pre-training, post-training, SFT)
 1. SKILL: Structured Knowledge Infusion for Large Language Models (NAACL 2022, by Google Research) [[Paper](https://aclanthology.org/2022.naacl-main.113.pdf)]
 2. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.278/)]
 
-
 ### 2. KG for SFT
 #### 2.1 KG for generation of CoT (Chain of Thoughts) data
 1. MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs (Arxiv 2025, UCSC+UBC+NTU+Stanford+Cornell+NYU) [[Paper](https://arxiv.org/pdf/2504.00993)]
@@ -215,6 +214,8 @@ These papers discuss how to utilze LLM and KG for other tasks, such as Informati
 13. LLM is Knowledge Graph Reasoner: LLM’s Intuition-Aware Knowledge Graph Reasoning for Cold-Start Sequential Recommendation (ECIR 2025) [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-88711-6_17)]
 14. Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models (ACL 2025)
 15. Synergizing Large Language Models and Knowledge Graphs in Science: A Survey (NeurIPS 2025 workshop)
+16. From Chaos to Clarity: A Knowledge Graph-Driven Audit Dataset Generation Framework for LLM Unlearning (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40397)]
+
 
 ## 📝 VLMs and Knowledge Graphs
 ```
