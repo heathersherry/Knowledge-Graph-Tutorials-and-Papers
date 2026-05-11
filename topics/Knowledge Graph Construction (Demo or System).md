@@ -57,6 +57,7 @@ __LLM for General KG Construction__ 🔥🔥🔥
 5. Towards self-configuring Knowledge Graph Construction Pipelines using LLMs - A Case Study with RML (ESWC 2024 Workshop KGCW) [[Paper](https://openreview.net/forum?id=ALgDqGCGdB)]
 6. Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.548.pdf)]
 7. Automated Knowledge Graph Construction using Large Language Models and Sentence Complexity Modelling (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.783/)]
+8. KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment (NeuRIPS 2025) [[Paper](https://arxiv.org/pdf/2502.06472)] `multi-agents`
 
 __Fact Finding__
 1. Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf), demo] 🌟
