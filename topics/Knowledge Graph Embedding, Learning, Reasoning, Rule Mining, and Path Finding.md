@@ -192,6 +192,9 @@ __KG Reasoning for LLM, or LLM for KG Reasoning__ 🔥
 15. REASONING OF LARGE LANGUAGE MODELS OVER KNOWLEDGE GRAPHS WITH SUPER-RELATIONS (ICLR 2025) [[Paper](https://openreview.net/pdf?id=rTCJ29pkuA)]
 16. PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models (AAAI 2026) [[Paper](https://arxiv.org/pdf/2511.14256)]
 
+__KGFM (Knowledge Graph Foundation Models)__
+1. SEMMA: A Semantic Aware Knowledge Graph Foundation Model (EMNLP 2025) [[Paper](https://arxiv.org/pdf/2505.20422)]
+
 ### 📝 Rule Mining and Path Finding in KGs
 __General Papers__
 1. RuDiK: Rule Discovery in Knowledge Bases (VLDB 2018) [[PDF](http://www.vldb.org/pvldb/vol11/p1946-ortona.pdf), demo] 🌟
