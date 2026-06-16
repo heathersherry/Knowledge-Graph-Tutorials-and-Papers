@@ -119,13 +119,14 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 > * It incorporates pre-existing large-scale KGs into RAG and applies spreading activation to enhance both retrieval and generation.
 16. **ReMindRAG**: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG (Arxiv 2025) [[Paper](https://arxiv.org/abs/2510.13193)]
 > * It employs an LLM-guided graph traversal featuring node exploration, node exploitation, and, most notably, memory replay, to improve both system effectiveness and cost efficiency. Specifically, REMINDRAG memorizes traversal experience within KG edge embeddings, mirroring the way LLMs "memorize" world knowledge within their parameters, but in a train-free manner.
-17. KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.274.pdf)]
+17. **KG-RAG**: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.274.pdf)]
 18. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://aclanthology.org/2025.acl-long.1317.pdf)]
 19. Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/43660)]
 20. Knowledge Graph Integration and Self-Verification for Comprehensive Retrieval-Augmented Generation (2024 KDD Cup CRAG Workshop) [[Paper](https://openreview.net/forum?id=457wTt0ngj)]
 21. **MedRAG**: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot (Web Conference 2025) [[Paper](https://arxiv.org/pdf/2502.04413)]
 22. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://arxiv.org/pdf/2501.02226)]
-23. ShieldRAG: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40725)]
+23. **ShieldRAG**: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40725)]
+24. **ATLASKV**: AUGMENTING LLMS WITH BILLION-SCALE KNOWLEDGE GRAPHS IN 20GB VRAM (ICLR 2026) [[Paper](https://arxiv.org/pdf/2510.17934)]
 
 #### (3) Multi-level grained KGs or Dynamic KGs
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
