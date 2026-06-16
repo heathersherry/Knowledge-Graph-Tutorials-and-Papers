@@ -92,6 +92,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 7. **E^2GraphRAG**: Streamlining Graph-based RAG for High Efficiency and Effectiveness (Arxiv 2025 May) [[Paper](https://arxiv.org/pdf/2505.24226)] `efficient search on the graph`
 8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)] `text graph`
 9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
+10. **LeanRAG**: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval (AAAI 2026) [[Paper](https://arxiv.org/pdf/2508.10391)]  
 
 #### (3) Fine-grained KG
 
@@ -126,14 +127,15 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 22. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://arxiv.org/pdf/2501.02226)]
 23. ShieldRAG: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40725)]
 
-#### (3) Multi-level gained KG
+#### (3) Multi-level grained KGs or Dynamic KGs
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
 * **LightRAG**: Simple and Fast Retrieval-Augmented Generation (submitted to ICLR 2025) [[Open Review](https://openreview.net/forum?id=bbVH40jy7f)][[GitHub](https://github.com/HKUDS/LightRAG)] 🔥
 2. **PIKE-RAG**: sPecIalized KnowledgE and Rationale Augmented Generation (Microsoft, Arxiv 2025) [[Paper](
 https://arxiv.org/abs/2501.11551)] [[Github](https://github.com/microsoft/PIKE-RAG)]
+3. **Relink**: Constructing Query-Driven Evidence Graph On-the-Fly for GraphRAG (AAAI 2026) [[Paper](https://arxiv.org/pdf/2601.07192)]
 
 #### (4) Fine-grained graph to represent procedure knowledge ("how-to" graph), not declarative knowledge ("what-is" graph)
-1. InstructRAG: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning (SIGIR 2025)
+1. **InstructRAG**: Leveraging Retrieval-Augmented Generation on Instruction Graphs for LLM-Based Task Planning (SIGIR 2025)
 
 #### (5) Unclassified (still working on these!)
 
