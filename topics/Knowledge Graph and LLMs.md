@@ -117,6 +117,8 @@ guide the search process.
 27. Generating Domain-Specific Knowledge Graphs from Large Language Models (ACL 2025)
 28. Enriching contextualized language model from knowledge graph for biomedical information extraction (Briefings in Bioinformatics, KGE on BERT based LM) [[Paper](https://academic.oup.com/bib/article/22/3/bbaa110/5854405)]
 29. Combining Self-Retrieval-Augmented Generation with Divide-and-Conquer for Language Model-based Knowledge Base Construction (KBC-LM and LM-KBC @ ISWC 2025) [[Paper](https://ceur-ws.org/Vol-4041/paper11.pdf)]
+30. KG4ESG: The ESG Knowledge Graph Atlas (Preprints 2026) [[Paper](https://www.preprints.org/manuscript/202602.1970)]
+> * An LLM-empowered knowledge graph atlas for the Environmental, Social, and Governance (ESG) domain, integrating ESG standards, frameworks, and entities.
 
 ## 📝 Knowledge Graphs for LLMs
 ```
