@@ -174,5 +174,6 @@ __Papers__
 21. Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (NeuRIPS 2024) [[Paper](https://papers.nips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)] 🔥
 23. TGCA-LLM: Time-Aware Graph-Text Contrastive Alignment for Enhancing LLMs in Temporal Knowledge Graph Completion (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38612)]
 22. ARLIE: Adaptive Reinforcement Learning with Inductive Embeddings for Fully-inductive Multi-hop Reasoning over Temporal Knowledge Graphs (TKDE 2026) 🌟
+23. From Implicit Graph Encoding to Explicit Evidence: A Training-Free LLM Framework for Temporal Knowledge Graph Reasoning (ACL 2026 Findings) [[Paper](https://aclanthology.org/2026.findings-acl.266/)]
 
 
