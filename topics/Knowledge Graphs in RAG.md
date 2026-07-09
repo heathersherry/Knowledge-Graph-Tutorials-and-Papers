@@ -92,7 +92,8 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 7. **E^2GraphRAG**: Streamlining Graph-based RAG for High Efficiency and Effectiveness (Arxiv 2025 May) [[Paper](https://arxiv.org/pdf/2505.24226)] `efficient search on the graph`
 8. **GRAG**: Graph Retrieval-Augmented Generation (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.16506)] `text graph`
 9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
-10. **LeanRAG**: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval (AAAI 2026) [[Paper](https://arxiv.org/pdf/2508.10391)]  
+10. **LeanRAG**: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval (AAAI 2026) [[Paper](https://arxiv.org/pdf/2508.10391)]
+11. **TH-RAG** : Topic-Based Hierarchical Knowledge Graphs for Robust Multi-hop Reasoning in Graph-based RAG Systems (ACL 2026) [[Paper](https://aclanthology.org/2026.acl-long.1740/)]
 
 #### (3) Fine-grained KG
 
