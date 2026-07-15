@@ -165,6 +165,8 @@ Since there are too many SOTA works, so we organize the results in a new page. [
 4. Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (ACL 2023 Workshop on Matching Entities) [[Paper](https://aclanthology.org/2023.nlrse-1.7.pdf)] - RAG and Prompting
 5. G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering (NeurIPS 2024) [[Paper](https://openreview.net/forum?id=MPJ3oXtTZl)] - RAG and Prompting
 6. Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT (Arxiv 2023, hot) [[Paper](https://arxiv.org/pdf/2304.11116)]
+7. An Expert-In-The-Loop Design Utilising Knowledge Graphs to Prompt LLMs in Professional Writing (HCII 2026) [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-30849-8_31)]
+> * Domain experts curate knowledge graphs that structure the prompts driving LLMs in professional writing workflows — KG-based prompting with an expert in the loop.
 
 #### 3.4 KG as Grounded Truths/Benchmarks in Inference
 ``` 
