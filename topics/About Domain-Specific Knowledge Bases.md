@@ -115,7 +115,7 @@ __Research Papers__
 21. Knowledge graphs and their applications in drug discovery (Artificial Intelligence (AI) in Drug Discovery 2021) [[Paper](https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1910673)]
 22. Learning from Negative Samples in Biomedical Generative Entity Linking (ACL 2025 Findings) [[Paper](https://aclanthology.org/2025.findings-acl.558/)]
 23. Empowering natural product science with AI: leveraging multimodal data and knowledge graphs (Natural product reports, 2025) [[Paper](https://pubs.rsc.org/en/content/articlehtml/2024/np/d4np00008k)]
-
+24. KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment (NeurIPS 2026) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/517f9b9c227b9dd51dba4560f37165ed-Paper-Conference.pdf)] 🔥
 
 __Datasets__
 1. PubMed
