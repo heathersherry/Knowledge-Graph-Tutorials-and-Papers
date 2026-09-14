@@ -58,7 +58,8 @@ __LLM for General KG Construction__ 🔥🔥🔥
 6. Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction (EMNLP 2024) [[Paper](https://aclanthology.org/2024.emnlp-main.548.pdf)]
 7. Automated Knowledge Graph Construction using Large Language Models and Sentence Complexity Modelling (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.783/)]
 8. KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment (NeuRIPS 2025) [[Paper](https://arxiv.org/pdf/2502.06472)] `multi-agents`
-
+9. KGGen: Extracting Knowledge Graphs from Plain Text with Language Models (NeuRIPS 2025) [[Paper]([https://arxiv.org/pdf/2502.06472](https://proceedings.neurips.cc/paper_files/paper/2025/hash/2b368455e832d2b1a60bcad8c4c6481f-Abstract-Conference.html))]
+    
 __Fact Finding__
 1. Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf), demo] 🌟
 2. Maverick: Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018) [[PDF](http://ranger.uta.edu/~cli/pubs/2018/maverick-sigmod18-zhang.pdf)]🌟
