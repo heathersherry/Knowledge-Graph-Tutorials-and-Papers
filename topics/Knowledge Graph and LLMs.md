@@ -186,7 +186,8 @@ Some of these works may be related to Retrieval-augmented language model (RALM),
 3. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025) [[Paper](https://arxiv.org/pdf/2410.13080)] [[Discussion (Chinese)](https://mp.weixin.qq.com/s/hKNZPyUBkmiOd0GtOL6epg)]
 4. GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/46217)]
 5. Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models (ICML 2025) [[Paper](https://icml.cc/virtual/2025/poster/45868)]
-
+6. MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced Large Language Model Reasoning (WWW 2026) [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792581)]
+   
 #### 3.6 KG as other roles in Inference
 1. KBLaM: Knowledge Base augmented Language Model (ICLR 2025, Poster) [[Paper](https://openreview.net/forum?id=aLsMzkTej9)]
 2. Barack's Wife Hillary: Using Knowledge-Graphs for Fact-Aware Language Modeling (ACL 2019) [[Paper](https://arxiv.org/pdf/1906.07241.pdf)]
