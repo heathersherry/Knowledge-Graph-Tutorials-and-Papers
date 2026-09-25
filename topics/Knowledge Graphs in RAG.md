@@ -128,6 +128,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 22. Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation (ACL 2025) [[Paper](https://arxiv.org/pdf/2501.02226)]
 23. **ShieldRAG**: Safeguarding Retrieval-Augmented Generation from Untrusted Knowledge Bases (AAAI 2026) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40725)]
 24. **ATLASKV**: AUGMENTING LLMS WITH BILLION-SCALE KNOWLEDGE GRAPHS IN 20GB VRAM (ICLR 2026) [[Paper](https://arxiv.org/pdf/2510.17934)]
+25. **AutoGraph-R1**: End-to-End Reinforcement Learning for Knowledge Graph Construction (ACL 2026) [[Paper](https://aclanthology.org/2026.acl-long.1070.pdf)]
 
 #### (3) Multi-level grained KGs or Dynamic KGs
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
