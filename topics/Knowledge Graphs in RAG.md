@@ -94,6 +94,8 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 9. **GNN-RAG**: Graph Neural Retrieval for Large Language Model Reasoning (Arxiv 2024) [[Paper](https://arxiv.org/pdf/2405.20139)]
 10. **LeanRAG**: Knowledge-Graph-Based Generation with Semantic Aggregation and Hierarchical Retrieval (AAAI 2026) [[Paper](https://arxiv.org/pdf/2508.10391)]
 11. **TH-RAG** : Topic-Based Hierarchical Knowledge Graphs for Robust Multi-hop Reasoning in Graph-based RAG Systems (ACL 2026) [[Paper](https://aclanthology.org/2026.acl-long.1740/)]
+12. KGGen: Extracting Knowledge Graphs from Plain Text with Language Models 
+>   We benchmark our new tool against leading existing generators such as Microsoft’s GraphRAG (NeuRIPS 2025) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/2b368455e832d2b1a60bcad8c4c6481f-Abstract-Conference.html)]
 
 #### (3) Fine-grained KG
 
