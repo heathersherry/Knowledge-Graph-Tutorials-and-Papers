@@ -203,3 +203,4 @@ __Research Papers__
 6. The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge (NAACL 2025) [[Paper](https://arxiv.org/pdf/2411.03568)]
 7. Construction of a knowledge graph for framework material enabled by large language models and its application (npj Computational Materials) [[Paper](https://www.nature.com/articles/s41524-025-01540-6)]
 8. Agent Semantics, Semantic Spacetime, and Graphical Reasoning (Arxiv 2025) [[Paper](https://arxiv.org/html/2506.07756)]
+9. OKG-LLM: Aligning Ocean Knowledge Graph With Observation Data via LLMs for Global Sea Surface Temperature Prediction (TKDE 2026) [[Paper](https://ieeexplore.ieee.org/abstract/document/11434915)] 🌟
