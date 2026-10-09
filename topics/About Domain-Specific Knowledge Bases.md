@@ -201,6 +201,7 @@ __Research Papers__
 4. UUKG: Unified Urban Knowledge Graph Dataset for Urban Spatiotemporal Prediction (NeurIPS 2023, Datasets and Benchmarks Track) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/c4a30a4dd840cfeff30ba4d2661ff097-Paper-Datasets_and_Benchmarks.pdf)]
 5. UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction (NeurIPS 2024) [[Paper](https://arxiv.org/pdf/2402.06861)]
 6. The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge (NAACL 2025) [[Paper](https://arxiv.org/pdf/2411.03568)]
-7. Construction of a knowledge graph for framework material enabled by large language models and its application (npj Computational Materials) [[Paper](https://www.nature.com/articles/s41524-025-01540-6)]
-8. Agent Semantics, Semantic Spacetime, and Graphical Reasoning (Arxiv 2025) [[Paper](https://arxiv.org/html/2506.07756)]
-9. OKG-LLM: Aligning Ocean Knowledge Graph With Observation Data via LLMs for Global Sea Surface Temperature Prediction (TKDE 2026) [[Paper](https://ieeexplore.ieee.org/abstract/document/11434915)] 🌟
+7. Intention Knowledge Graph Construction for User Intention Relation Modeling (ACL 2026) [[Paper](https://aclanthology.org/2026.eacl-long.21/)]
+8. Construction of a knowledge graph for framework material enabled by large language models and its application (npj Computational Materials) [[Paper](https://www.nature.com/articles/s41524-025-01540-6)]
+9. Agent Semantics, Semantic Spacetime, and Graphical Reasoning (Arxiv 2025) [[Paper](https://arxiv.org/html/2506.07756)]
+10. OKG-LLM: Aligning Ocean Knowledge Graph With Observation Data via LLMs for Global Sea Surface Temperature Prediction (TKDE 2026) [[Paper](https://ieeexplore.ieee.org/abstract/document/11434915)] 🌟
