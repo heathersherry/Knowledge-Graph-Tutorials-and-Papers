@@ -134,6 +134,7 @@ Based on the granularity of KGs, we classify the Graph RAG works into the follow
 26. **TruthfulRAG**: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs (AAAI 2026) [[Paper](https://arxiv.org/abs/2511.10375)]
 27. **ReMindRAG**: Low-Cost LLM-Guided Knowledge Graph Traversal for Efficient RAG (NeurIPS 2025) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4d880ba08f6b115bb8d685159bb167eb-Abstract-Conference.html)]
 28. **S-Path-RAG**: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering (WWW 2026) [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792459)]
+29. Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs (NeurIPS 2025) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/b33ad9d46ab2a23b6783d954121d26e3-Abstract-Conference.html)]
 
 #### (3) Multi-level grained KGs or Dynamic KGs
 1. **RAG-Anything**: ALL-IN-ONE RAG FRAMEWORK,  a comprehensive All-in-One Multimodal Document Processing RAG system built on LightRAG [[Paper](https://arxiv.org/pdf/2510.12323)] [[Github](https://github.com/HKUDS/RAG-Anything)] 
