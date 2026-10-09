@@ -179,6 +179,7 @@ __LLM for KGQA, or KG for QA based on LLM__ 🔥
 64. Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning (ACL 2025) [[Paper](https://arxiv.org/abs/2503.05193)]
 65. Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering (ACL 2025) [[Paper](https://arxiv.org/pdf/2502.11491)]
 66. Progressive Planning and Reinforced Reasoning: Large Language Model-Guided Multi-hop Question Answering over Knowledge Graph (ACL 2026 findings) [[Paper](https://aclanthology.org/2026.findings-acl.1147/)]
+67. S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering (WWW 2026) [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792459)]
 
 __SPARQL__
 1. Enhancing SPARQL Generation by Triplet-order-sensitive Pre-training (CIKM 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679916)]
