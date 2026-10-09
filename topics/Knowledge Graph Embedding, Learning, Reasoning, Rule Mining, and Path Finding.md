@@ -191,6 +191,7 @@ __KG Reasoning for LLM, or LLM for KG Reasoning__ 🔥
 14. Judge and Improve: Towards a Better Reasoning of Knowledge Graphs with Large Language Models (EMNLP 2025)
 15. REASONING OF LARGE LANGUAGE MODELS OVER KNOWLEDGE GRAPHS WITH SUPER-RELATIONS (ICLR 2025) [[Paper](https://openreview.net/pdf?id=rTCJ29pkuA)]
 16. PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models (AAAI 2026) [[Paper](https://arxiv.org/pdf/2511.14256)]
+17. Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model (WWW 2026) [[Paper](https://dl.acm.org/doi/abs/10.1145/3774904.3792133)]
 
 __KGFM (Knowledge Graph Foundation Models)__
 1. SEMMA: A Semantic Aware Knowledge Graph Foundation Model (EMNLP 2025) [[Paper](https://arxiv.org/pdf/2505.20422)]
