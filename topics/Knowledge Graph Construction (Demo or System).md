@@ -43,7 +43,6 @@ __General Papers__
 19. YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy (SIGIR 2024) [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657876)]
 20. Optimizing knowledge bias: An adaptive correction method for open knowledge graph construction (Neurocomputing 2026) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225029340)]
 21. Text2AMR2FRED, converting text into RDF/OWL knowledge graphs via abstract meaning representation (Knowledge and Information Systems 2026) [[Paper](https://link.springer.com/article/10.1007/s10115-025-02631-y)]
-
 __VKG__
 
 ```Note: VKG is not the same as normal KGs.```
@@ -59,6 +58,7 @@ __LLM for General KG Construction__ 🔥🔥🔥
 7. Automated Knowledge Graph Construction using Large Language Models and Sentence Complexity Modelling (EMNLP 2025) [[Paper](https://aclanthology.org/2025.emnlp-main.783/)]
 8. KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment (NeuRIPS 2025) [[Paper](https://arxiv.org/pdf/2502.06472)] `multi-agents`
 9. KGGen: Extracting Knowledge Graphs from Plain Text with Language Models (NeuRIPS 2025) [[Paper]([https://arxiv.org/pdf/2502.06472](https://proceedings.neurips.cc/paper_files/paper/2025/hash/2b368455e832d2b1a60bcad8c4c6481f-Abstract-Conference.html))]
+10. Ontology-Guided Knowledge Graph Construction from Structured Metadata and Climate Science Publications (AACL 2026)[[Paper](https://aclanthology.org/2026.aacl-long.252/)]
     
 __Fact Finding__
 1. Maverick: A System for Discovering Exceptional Facts from Knowledge Graphs (VLDB 2018)[[PDF](http://www.vldb.org/pvldb/vol11/p1934-zhang.pdf), demo] 🌟
